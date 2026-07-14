@@ -1,10 +1,18 @@
-import { StrictMode } from 'react'
-import { createRoot } from 'react-dom/client'
-import './index.css'
-import App from './App.tsx'
+import { StrictMode } from "react";
+import { createRoot } from "react-dom/client";
+import { HashRouter } from "react-router-dom";
+import { registerSW } from "virtual:pwa-register";
+import App from "./App";
+import "./styles/tokens.css";
 
-createRoot(document.getElementById('root')!).render(
+// HashRouter: works on any static host (GitHub Pages included) with no
+// rewrite rules, and inside sandboxed iframes.
+createRoot(document.getElementById("root")!).render(
   <StrictMode>
-    <App />
+    <HashRouter>
+      <App />
+    </HashRouter>
   </StrictMode>,
-)
+);
+
+registerSW({ immediate: true });
