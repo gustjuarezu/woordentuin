@@ -1,0 +1,951 @@
+[
+  {
+    "id": "h7-de-advocaat",
+    "chapter": 7,
+    "nl": "de advocaat",
+    "lemma": "advocaat",
+    "pos": "noun",
+    "en": [
+      "lawyer"
+    ],
+    "primaryEn": "lawyer",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h7-afronden",
+    "chapter": 7,
+    "nl": "afronden",
+    "lemma": "afronden",
+    "pos": "verb",
+    "en": [
+      "to finish",
+      "to round off"
+    ],
+    "primaryEn": "to finish",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h7-afsluiten",
+    "chapter": 7,
+    "nl": "afsluiten",
+    "lemma": "afsluiten",
+    "pos": "verb",
+    "en": [
+      "to close",
+      "to conclude"
+    ],
+    "primaryEn": "to close",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h7-de-ambitie",
+    "chapter": 7,
+    "nl": "de ambitie",
+    "lemma": "ambitie",
+    "pos": "noun",
+    "en": [
+      "ambition"
+    ],
+    "primaryEn": "ambition",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h7-het-artikel",
+    "chapter": 7,
+    "nl": "het artikel",
+    "lemma": "artikel",
+    "pos": "noun",
+    "en": [
+      "article"
+    ],
+    "primaryEn": "article",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h7-bijvoorbeeld",
+    "chapter": 7,
+    "nl": "bijvoorbeeld",
+    "lemma": "bijvoorbeeld",
+    "pos": "adverb",
+    "en": [
+      "for example"
+    ],
+    "primaryEn": "for example",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h7-bovendien",
+    "chapter": 7,
+    "nl": "bovendien",
+    "lemma": "bovendien",
+    "pos": "adverb",
+    "en": [
+      "moreover",
+      "on top of that"
+    ],
+    "primaryEn": "moreover",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h7-de-cadans",
+    "chapter": 7,
+    "nl": "de cadans",
+    "lemma": "cadans",
+    "pos": "noun",
+    "en": [
+      "cadence",
+      "rhythm"
+    ],
+    "primaryEn": "cadence",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h7-communiceren",
+    "chapter": 7,
+    "nl": "communiceren",
+    "lemma": "communiceren",
+    "pos": "verb",
+    "en": [
+      "to communicate"
+    ],
+    "primaryEn": "to communicate",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h7-contraproductief",
+    "chapter": 7,
+    "nl": "contraproductief",
+    "lemma": "contraproductief",
+    "pos": "adjective",
+    "en": [
+      "counterproductive"
+    ],
+    "primaryEn": "counterproductive",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h7-daadwerkelijk",
+    "chapter": 7,
+    "nl": "daadwerkelijk",
+    "lemma": "daadwerkelijk",
+    "pos": "adverb",
+    "en": [
+      "actually"
+    ],
+    "primaryEn": "actually",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h7-daarnaast",
+    "chapter": 7,
+    "nl": "daarnaast",
+    "lemma": "daarnaast",
+    "pos": "adverb",
+    "en": [
+      "besides",
+      "in addition"
+    ],
+    "primaryEn": "besides",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h7-doordat",
+    "chapter": 7,
+    "nl": "doordat",
+    "lemma": "doordat",
+    "pos": "other",
+    "en": [
+      "due to",
+      "because"
+    ],
+    "primaryEn": "due to",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h7-doorgaan",
+    "chapter": 7,
+    "nl": "doorgaan",
+    "lemma": "doorgaan",
+    "pos": "verb",
+    "en": [
+      "to continue"
+    ],
+    "primaryEn": "to continue",
+    "source": "vocabulaire-list",
+    "hint": "doorgaan (met)"
+  },
+  {
+    "id": "h7-de-doorzetter",
+    "chapter": 7,
+    "nl": "de doorzetter",
+    "lemma": "doorzetter",
+    "pos": "noun",
+    "en": [
+      "go-getter",
+      "perseverer"
+    ],
+    "primaryEn": "go-getter",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h7-de-flat",
+    "chapter": 7,
+    "nl": "de flat",
+    "lemma": "flat",
+    "pos": "noun",
+    "en": [
+      "apartment",
+      "flat"
+    ],
+    "primaryEn": "apartment",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h7-de-gast",
+    "chapter": 7,
+    "nl": "de gast",
+    "lemma": "gast",
+    "pos": "noun",
+    "en": [
+      "guest"
+    ],
+    "primaryEn": "guest",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h7-de-gedachte",
+    "chapter": 7,
+    "nl": "de gedachte",
+    "lemma": "gedachte",
+    "pos": "noun",
+    "en": [
+      "thought"
+    ],
+    "primaryEn": "thought",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "gedachten"
+  },
+  {
+    "id": "h7-gelijk",
+    "chapter": 7,
+    "nl": "gelijk",
+    "lemma": "gelijk",
+    "pos": "adjective",
+    "en": [
+      "equal",
+      "right",
+      "immediately"
+    ],
+    "primaryEn": "equal",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h7-het-geluid",
+    "chapter": 7,
+    "nl": "het geluid",
+    "lemma": "geluid",
+    "pos": "noun",
+    "en": [
+      "sound",
+      "noise"
+    ],
+    "primaryEn": "sound",
+    "source": "vocabulaire-list",
+    "article": "het",
+    "hint": "geluiden"
+  },
+  {
+    "id": "h7-gestaag",
+    "chapter": 7,
+    "nl": "gestaag",
+    "lemma": "gestaag",
+    "pos": "adjective",
+    "en": [
+      "steady"
+    ],
+    "primaryEn": "steady",
+    "source": "vocabulaire-list",
+    "hint": "gestage"
+  },
+  {
+    "id": "h7-een-heleboel",
+    "chapter": 7,
+    "nl": "een heleboel",
+    "lemma": "een heleboel",
+    "pos": "phrase",
+    "en": [
+      "a whole lot"
+    ],
+    "primaryEn": "a whole lot",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h7-hinderen",
+    "chapter": 7,
+    "nl": "hinderen",
+    "lemma": "hinderen",
+    "pos": "verb",
+    "en": [
+      "to hinder"
+    ],
+    "primaryEn": "to hinder",
+    "source": "vocabulaire-list",
+    "hint": "gehinderd"
+  },
+  {
+    "id": "h7-hoesten",
+    "chapter": 7,
+    "nl": "hoesten",
+    "lemma": "hoesten",
+    "pos": "verb",
+    "en": [
+      "to cough"
+    ],
+    "primaryEn": "to cough",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h7-inburgeren",
+    "chapter": 7,
+    "nl": "inburgeren",
+    "lemma": "inburgeren",
+    "pos": "verb",
+    "en": [
+      "to integrate (civically)"
+    ],
+    "primaryEn": "to integrate (civically)",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h7-invullen",
+    "chapter": 7,
+    "nl": "invullen",
+    "lemma": "invullen",
+    "pos": "verb",
+    "en": [
+      "to fill in"
+    ],
+    "primaryEn": "to fill in",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h7-de-klank",
+    "chapter": 7,
+    "nl": "de klank",
+    "lemma": "klank",
+    "pos": "noun",
+    "en": [
+      "sound"
+    ],
+    "primaryEn": "sound",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "klanken"
+  },
+  {
+    "id": "h7-langzamerhand",
+    "chapter": 7,
+    "nl": "langzamerhand",
+    "lemma": "langzamerhand",
+    "pos": "adverb",
+    "en": [
+      "gradually",
+      "slowly"
+    ],
+    "primaryEn": "gradually",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h7-de-melodie",
+    "chapter": 7,
+    "nl": "de melodie",
+    "lemma": "melodie",
+    "pos": "noun",
+    "en": [
+      "melody"
+    ],
+    "primaryEn": "melody",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h7-de-mijlpaal",
+    "chapter": 7,
+    "nl": "de mijlpaal",
+    "lemma": "mijlpaal",
+    "pos": "noun",
+    "en": [
+      "milestone"
+    ],
+    "primaryEn": "milestone",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h7-de-moedertaalspreker",
+    "chapter": 7,
+    "nl": "de moedertaalspreker",
+    "lemma": "moedertaalspreker",
+    "pos": "noun",
+    "en": [
+      "native speaker"
+    ],
+    "primaryEn": "native speaker",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "moedertaalsprekers"
+  },
+  {
+    "id": "h7-de-motivatie",
+    "chapter": 7,
+    "nl": "de motivatie",
+    "lemma": "motivatie",
+    "pos": "noun",
+    "en": [
+      "motivation"
+    ],
+    "primaryEn": "motivation",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h7-het-museum",
+    "chapter": 7,
+    "nl": "het museum",
+    "lemma": "museum",
+    "pos": "noun",
+    "en": [
+      "museum"
+    ],
+    "primaryEn": "museum",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h7-nadoen",
+    "chapter": 7,
+    "nl": "nadoen",
+    "lemma": "nadoen",
+    "pos": "verb",
+    "en": [
+      "to copy",
+      "to imitate"
+    ],
+    "primaryEn": "to copy",
+    "source": "vocabulaire-list",
+    "hint": "na … doen",
+    "separable": true
+  },
+  {
+    "id": "h7-de-neiging",
+    "chapter": 7,
+    "nl": "de neiging",
+    "lemma": "neiging",
+    "pos": "noun",
+    "en": [
+      "tendency"
+    ],
+    "primaryEn": "tendency",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "de neiging (tot)"
+  },
+  {
+    "id": "h7-het-obstakel",
+    "chapter": 7,
+    "nl": "het obstakel",
+    "lemma": "obstakel",
+    "pos": "noun",
+    "en": [
+      "obstacle"
+    ],
+    "primaryEn": "obstacle",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h7-ontevreden",
+    "chapter": 7,
+    "nl": "ontevreden",
+    "lemma": "ontevreden",
+    "pos": "adjective",
+    "en": [
+      "dissatisfied"
+    ],
+    "primaryEn": "dissatisfied",
+    "source": "vocabulaire-list",
+    "hint": "ontevreden (met / over)"
+  },
+  {
+    "id": "h7-opbouwen",
+    "chapter": 7,
+    "nl": "opbouwen",
+    "lemma": "opbouwen",
+    "pos": "verb",
+    "en": [
+      "to build up"
+    ],
+    "primaryEn": "to build up",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h7-openmaken",
+    "chapter": 7,
+    "nl": "openmaken",
+    "lemma": "openmaken",
+    "pos": "verb",
+    "en": [
+      "to open"
+    ],
+    "primaryEn": "to open",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h7-de-organisatie",
+    "chapter": 7,
+    "nl": "de organisatie",
+    "lemma": "organisatie",
+    "pos": "noun",
+    "en": [
+      "organisation"
+    ],
+    "primaryEn": "organisation",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h7-het-patroon",
+    "chapter": 7,
+    "nl": "het patroon",
+    "lemma": "patroon",
+    "pos": "noun",
+    "en": [
+      "pattern"
+    ],
+    "primaryEn": "pattern",
+    "source": "vocabulaire-list",
+    "article": "het",
+    "hint": "patronen"
+  },
+  {
+    "id": "h7-de-radio",
+    "chapter": 7,
+    "nl": "de radio",
+    "lemma": "radio",
+    "pos": "noun",
+    "en": [
+      "radio"
+    ],
+    "primaryEn": "radio",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h7-regelen",
+    "chapter": 7,
+    "nl": "regelen",
+    "lemma": "regelen",
+    "pos": "verb",
+    "en": [
+      "to arrange",
+      "to sort out"
+    ],
+    "primaryEn": "to arrange",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h7-het-relocatieprogramma",
+    "chapter": 7,
+    "nl": "het relocatieprogramma",
+    "lemma": "relocatieprogramma",
+    "pos": "noun",
+    "en": [
+      "relocation programme"
+    ],
+    "primaryEn": "relocation programme",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h7-het-ritme",
+    "chapter": 7,
+    "nl": "het ritme",
+    "lemma": "ritme",
+    "pos": "noun",
+    "en": [
+      "rhythm"
+    ],
+    "primaryEn": "rhythm",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h7-ronduit",
+    "chapter": 7,
+    "nl": "ronduit",
+    "lemma": "ronduit",
+    "pos": "adverb",
+    "en": [
+      "downright",
+      "frankly"
+    ],
+    "primaryEn": "downright",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h7-de-situatie",
+    "chapter": 7,
+    "nl": "de situatie",
+    "lemma": "situatie",
+    "pos": "noun",
+    "en": [
+      "situation"
+    ],
+    "primaryEn": "situation",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h7-de-stroom",
+    "chapter": 7,
+    "nl": "de stroom",
+    "lemma": "stroom",
+    "pos": "noun",
+    "en": [
+      "flow",
+      "stream",
+      "energy"
+    ],
+    "primaryEn": "flow",
+    "source": "struikelwoorden",
+    "article": "de",
+    "note": "hier: flow/stream, ook: energy",
+    "struikelwoord": true,
+    "examples": [
+      "Toen Martha eindelijk mocht praten, kwam er een stroom van woorden uit."
+    ]
+  },
+  {
+    "id": "h7-het-succes",
+    "chapter": 7,
+    "nl": "het succes",
+    "lemma": "succes",
+    "pos": "noun",
+    "en": [
+      "success"
+    ],
+    "primaryEn": "success",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h7-ten-slotte",
+    "chapter": 7,
+    "nl": "ten slotte",
+    "lemma": "ten slotte",
+    "pos": "phrase",
+    "en": [
+      "finally",
+      "in the end"
+    ],
+    "primaryEn": "finally",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h7-tevreden",
+    "chapter": 7,
+    "nl": "tevreden",
+    "lemma": "tevreden",
+    "pos": "adjective",
+    "en": [
+      "satisfied"
+    ],
+    "primaryEn": "satisfied",
+    "source": "vocabulaire-list",
+    "hint": "tevreden (met / over)"
+  },
+  {
+    "id": "h7-de-tip",
+    "chapter": 7,
+    "nl": "de tip",
+    "lemma": "tip",
+    "pos": "noun",
+    "en": [
+      "tip"
+    ],
+    "primaryEn": "tip",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h7-zich-uiten",
+    "chapter": 7,
+    "nl": "zich uiten",
+    "lemma": "uiten",
+    "pos": "verb",
+    "en": [
+      "to express oneself"
+    ],
+    "primaryEn": "to express oneself",
+    "source": "vocabulaire-list",
+    "reflexive": true
+  },
+  {
+    "id": "h7-verbinden",
+    "chapter": 7,
+    "nl": "verbinden",
+    "lemma": "verbinden",
+    "pos": "verb",
+    "en": [
+      "to connect"
+    ],
+    "primaryEn": "to connect",
+    "source": "vocabulaire-list",
+    "hint": "verbinden (met)"
+  },
+  {
+    "id": "h7-vergaan",
+    "chapter": 7,
+    "nl": "vergaan",
+    "lemma": "vergaan",
+    "pos": "verb",
+    "en": [
+      "to perish",
+      "to decay"
+    ],
+    "primaryEn": "to perish",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h7-vergelijken",
+    "chapter": 7,
+    "nl": "vergelijken",
+    "lemma": "vergelijken",
+    "pos": "verb",
+    "en": [
+      "to compare"
+    ],
+    "primaryEn": "to compare",
+    "source": "vocabulaire-list",
+    "hint": "vergelijken (met)"
+  },
+  {
+    "id": "h7-de-vergelijking",
+    "chapter": 7,
+    "nl": "de vergelijking",
+    "lemma": "vergelijking",
+    "pos": "noun",
+    "en": [
+      "comparison"
+    ],
+    "primaryEn": "comparison",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h7-verhuizen",
+    "chapter": 7,
+    "nl": "verhuizen",
+    "lemma": "verhuizen",
+    "pos": "verb",
+    "en": [
+      "to move house"
+    ],
+    "primaryEn": "to move house",
+    "source": "vocabulaire-list",
+    "hint": "verhuizen (naar)"
+  },
+  {
+    "id": "h7-verwoorden",
+    "chapter": 7,
+    "nl": "verwoorden",
+    "lemma": "verwoorden",
+    "pos": "verb",
+    "en": [
+      "to put into words"
+    ],
+    "primaryEn": "to put into words",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h7-de-verzekering",
+    "chapter": 7,
+    "nl": "de verzekering",
+    "lemma": "verzekering",
+    "pos": "noun",
+    "en": [
+      "insurance"
+    ],
+    "primaryEn": "insurance",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h7-vlak",
+    "chapter": 7,
+    "nl": "vlak",
+    "lemma": "vlak",
+    "pos": "adjective",
+    "en": [
+      "flat",
+      "even-toned"
+    ],
+    "primaryEn": "flat",
+    "source": "struikelwoorden",
+    "note": "hier: even-toned, ook: flat",
+    "struikelwoord": true,
+    "examples": [
+      "Nederland is een vlak land. Er zijn geen bergen."
+    ]
+  },
+  {
+    "id": "h7-voeren",
+    "chapter": 7,
+    "nl": "voeren",
+    "lemma": "voeren",
+    "pos": "verb",
+    "en": [
+      "to conduct",
+      "to use as a language"
+    ],
+    "primaryEn": "to conduct",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h7-de-voertaal",
+    "chapter": 7,
+    "nl": "de voertaal",
+    "lemma": "voertaal",
+    "pos": "noun",
+    "en": [
+      "language of communication"
+    ],
+    "primaryEn": "language of communication",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h7-de-vrijwilliger",
+    "chapter": 7,
+    "nl": "de vrijwilliger",
+    "lemma": "vrijwilliger",
+    "pos": "noun",
+    "en": [
+      "volunteer"
+    ],
+    "primaryEn": "volunteer",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h7-het-vrijwilligerswerk",
+    "chapter": 7,
+    "nl": "het vrijwilligerswerk",
+    "lemma": "vrijwilligerswerk",
+    "pos": "noun",
+    "en": [
+      "volunteer work"
+    ],
+    "primaryEn": "volunteer work",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h7-zoiets",
+    "chapter": 7,
+    "nl": "zoiets",
+    "lemma": "zoiets",
+    "pos": "other",
+    "en": [
+      "something like that"
+    ],
+    "primaryEn": "something like that",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h7-de-zorg",
+    "chapter": 7,
+    "nl": "de zorg",
+    "lemma": "zorg",
+    "pos": "noun",
+    "en": [
+      "care"
+    ],
+    "primaryEn": "care",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h7-de-zorgverzekering",
+    "chapter": 7,
+    "nl": "de zorgverzekering",
+    "lemma": "zorgverzekering",
+    "pos": "noun",
+    "en": [
+      "health insurance"
+    ],
+    "primaryEn": "health insurance",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h7-op-mijn-gemak",
+    "chapter": 7,
+    "nl": "op mijn gemak",
+    "lemma": "op mijn gemak",
+    "pos": "phrase",
+    "en": [
+      "at ease",
+      "comfortable"
+    ],
+    "primaryEn": "at ease",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h7-aan-de-slag-gaan",
+    "chapter": 7,
+    "nl": "aan de slag gaan",
+    "lemma": "aan de slag gaan",
+    "pos": "phrase",
+    "en": [
+      "to get started",
+      "to get to work"
+    ],
+    "primaryEn": "to get started",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h7-in-staat-zijn",
+    "chapter": 7,
+    "nl": "in staat zijn",
+    "lemma": "in staat zijn",
+    "pos": "phrase",
+    "en": [
+      "to be able",
+      "to be capable"
+    ],
+    "primaryEn": "to be able",
+    "source": "vocabulaire-list",
+    "hint": "in staat zijn (om / tot)"
+  },
+  {
+    "id": "h7-voor-het-eerst",
+    "chapter": 7,
+    "nl": "voor het eerst",
+    "lemma": "voor het eerst",
+    "pos": "phrase",
+    "en": [
+      "for the first time"
+    ],
+    "primaryEn": "for the first time",
+    "source": "vocabulaire-list"
+  }
+]

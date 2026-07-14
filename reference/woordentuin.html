@@ -1,0 +1,694 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="default" />
+<title>Woordentuin — Dutch vocab</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Hanken+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#F1F4EA; --ink:#20392E; --ink-soft:#52635A;
+    --leaf:#3E9D5B; --leaf-dark:#2E7C46; --leaf-wash:#E7F1E5;
+    --honey:#E2A13B; --honey-wash:#FBF0DB;
+    --clay:#C8603E; --clay-wash:#F8E7DF;
+    --card:#FFFFFF; --line:#DDE3D4; --soil:#7B5A40;
+    --shadow:0 1px 2px rgba(32,57,46,.06), 0 8px 24px rgba(32,57,46,.08);
+    --display:"Fraunces", Georgia, "Times New Roman", serif;
+    --ui:"Hanken Grotesk", system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent;}
+  html,body{margin:0;padding:0;}
+  body{background:var(--paper);color:var(--ink);font-family:var(--ui);line-height:1.45;min-height:100dvh;
+       padding:max(env(safe-area-inset-top),16px) 16px max(env(safe-area-inset-bottom),16px);-webkit-font-smoothing:antialiased;}
+  .wrap{max-width:560px;margin:0 auto;}
+  button{font-family:var(--ui);cursor:pointer;border:none;background:none;color:inherit;}
+  .hidden{display:none !important;}
+
+  .bar{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:18px;min-height:36px;}
+  .brand{display:flex;align-items:center;gap:9px;font-weight:600;letter-spacing:-.01em;}
+  .brand .mark{width:26px;height:26px;display:block;}
+  .brand small{font-family:var(--ui);font-weight:500;color:var(--ink-soft);font-size:.72rem;letter-spacing:.04em;text-transform:uppercase;}
+  .stats{display:flex;gap:8px;}
+  .chip{display:flex;align-items:center;gap:5px;font-weight:600;font-size:.85rem;background:var(--card);border:1px solid var(--line);padding:5px 10px;border-radius:999px;box-shadow:var(--shadow);}
+  .chip.streak{color:var(--honey);}
+  .chip svg{width:15px;height:15px;}
+
+  h1{font-family:var(--display);font-weight:600;font-size:2.2rem;line-height:1.04;letter-spacing:-.02em;margin:6px 0 4px;}
+  .sub{color:var(--ink-soft);font-size:.95rem;margin:0 0 22px;}
+  .eyebrow{font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;color:var(--leaf-dark);font-weight:700;margin:0 0 8px;}
+
+  .chapcard{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:18px;box-shadow:var(--shadow);margin-bottom:14px;}
+  .chapcard .ch-head{display:flex;align-items:baseline;justify-content:space-between;gap:10px;}
+  .chapcard h2{font-family:var(--display);font-weight:600;font-size:1.35rem;margin:0;letter-spacing:-.01em;}
+  .chapcard .ch-meta{color:var(--ink-soft);font-size:.85rem;margin:2px 0 0;}
+  .pct{font-family:var(--display);font-weight:600;font-size:1.5rem;color:var(--leaf-dark);}
+
+  .garden{display:grid;grid-template-columns:repeat(auto-fill,minmax(24px,1fr));gap:6px;
+          background:linear-gradient(180deg,#F6F8F1,#EEF2E6);border:1px solid var(--line);border-radius:14px;padding:12px 12px 10px;margin:14px 0;}
+  .sprout{aspect-ratio:1;display:flex;align-items:flex-end;justify-content:center;}
+  .sprout svg{width:100%;height:100%;overflow:visible;}
+
+  .row{display:flex;gap:10px;margin-top:6px;}
+  .btn{flex:1;border-radius:14px;padding:14px 16px;font-weight:700;font-size:1rem;text-align:center;transition:transform .08s ease, filter .15s ease;}
+  .btn:active{transform:translateY(1px) scale(.995);}
+  .btn-primary{background:var(--leaf);color:#fff;box-shadow:0 4px 0 var(--leaf-dark);}
+  .btn-primary:active{box-shadow:0 1px 0 var(--leaf-dark);transform:translateY(3px);}
+  .btn-ghost{background:var(--card);border:1px solid var(--line);color:var(--ink);box-shadow:var(--shadow);font-weight:600;}
+  .btn[disabled]{opacity:.45;pointer-events:none;}
+  .chapcard.locked{opacity:.7;}
+  .tag{display:inline-block;font-size:.7rem;font-weight:700;letter-spacing:.04em;text-transform:uppercase;background:var(--honey-wash);color:#9A6A18;padding:3px 8px;border-radius:999px;}
+  .footnote{color:var(--ink-soft);font-size:.8rem;text-align:center;margin:18px 0 4px;}
+  .reset{display:block;margin:10px auto 0;color:var(--ink-soft);font-size:.78rem;text-decoration:underline;background:none;border:none;}
+
+  .progressbar{height:12px;background:#E3E8DA;border-radius:999px;overflow:hidden;flex:1;}
+  .progressbar > span{display:block;height:100%;background:var(--leaf);border-radius:999px;width:0;transition:width .35s cubic-bezier(.3,1.2,.5,1);}
+  .closebtn{font-size:1.4rem;color:var(--ink-soft);line-height:1;padding:0 6px;font-weight:400;}
+  .lesson-top{display:flex;align-items:center;gap:14px;margin-bottom:22px;}
+
+  .prompt-kind{font-size:.74rem;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft);font-weight:700;margin-bottom:12px;}
+  .q-row{display:flex;align-items:center;gap:12px;margin:0 0 6px;}
+  .q-word{font-family:var(--display);font-weight:600;font-size:2.4rem;line-height:1.05;letter-spacing:-.02em;margin:0;}
+  .q-hint{color:var(--ink-soft);font-size:.92rem;margin:0 0 14px;font-style:italic;min-height:1.2em;}
+
+  .speaker{flex:0 0 auto;width:42px;height:42px;border-radius:50%;background:var(--leaf-wash);border:1.5px solid #BFE0C8;
+           display:flex;align-items:center;justify-content:center;color:var(--leaf-dark);box-shadow:var(--shadow);transition:transform .08s;}
+  .speaker:active{transform:scale(.9);}
+  .speaker svg{width:20px;height:20px;}
+  .speaker.sm{width:36px;height:36px;}
+  .speaker.sm svg{width:17px;height:17px;}
+  .speaker.playing{background:var(--leaf);color:#fff;border-color:var(--leaf-dark);}
+
+  .hint-area{display:flex;align-items:center;gap:12px;margin:0 0 18px;min-height:36px;flex-wrap:wrap;}
+  .hintbtn{display:inline-flex;align-items:center;gap:6px;font-weight:600;font-size:.85rem;color:#9A6A18;background:var(--honey-wash);
+           border:1px solid #EFD9A8;border-radius:999px;padding:7px 13px;transition:transform .08s;}
+  .hintbtn:active{transform:translateY(1px);}
+  .hintbtn[disabled]{opacity:.4;pointer-events:none;}
+  .hint-text{font-family:var(--display);font-size:1.05rem;color:var(--leaf-dark);letter-spacing:.08em;font-weight:500;}
+
+  .options{display:flex;flex-direction:column;gap:10px;}
+  .opt{background:var(--card);border:1.5px solid var(--line);border-radius:14px;padding:15px 16px;font-size:1.05rem;font-weight:600;text-align:left;box-shadow:var(--shadow);transition:border-color .12s,background .12s,transform .08s,opacity .2s;}
+  .opt:active{transform:translateY(1px);}
+  .opt.correct{border-color:var(--leaf);background:var(--leaf-wash);color:var(--leaf-dark);}
+  .opt.wrong{border-color:var(--clay);background:var(--clay-wash);color:var(--clay);}
+  .opt.dim{opacity:.4;}
+  .opt.eliminated{opacity:.28;text-decoration:line-through;pointer-events:none;}
+
+  .typebox{width:100%;background:var(--card);border:1.5px solid var(--line);border-radius:14px;padding:16px;font-family:var(--display);font-size:1.5rem;font-weight:500;color:var(--ink);box-shadow:var(--shadow);}
+  .typebox:focus{outline:none;border-color:var(--leaf);}
+  .typebox.correct{border-color:var(--leaf);background:var(--leaf-wash);}
+  .typebox.wrong{border-color:var(--clay);background:var(--clay-wash);}
+
+  .feedback{position:fixed;left:0;right:0;bottom:0;padding:18px 16px max(env(safe-area-inset-bottom),18px);transform:translateY(110%);transition:transform .28s cubic-bezier(.2,.9,.3,1);}
+  .feedback.show{transform:translateY(0);}
+  .feedback-inner{max-width:560px;margin:0 auto;}
+  .feedback.good{background:var(--leaf-wash);box-shadow:0 -8px 24px rgba(46,124,70,.12);}
+  .feedback.bad{background:var(--clay-wash);box-shadow:0 -8px 24px rgba(200,96,62,.12);}
+  .fb-head{display:flex;align-items:center;justify-content:space-between;gap:10px;}
+  .fb-title{font-family:var(--display);font-weight:600;font-size:1.2rem;display:flex;align-items:center;gap:8px;margin-bottom:2px;}
+  .feedback.good .fb-title{color:var(--leaf-dark);}
+  .feedback.bad .fb-title{color:var(--clay);}
+  .fb-answer{font-size:.95rem;color:var(--ink);}
+  .fb-answer b{font-weight:700;}
+  .fb-example{font-size:.86rem;color:var(--ink-soft);font-style:italic;margin-top:8px;border-top:1px dashed rgba(32,57,46,.18);padding-top:8px;}
+  .fb-cta{margin-top:14px;}
+  .fb-cta .btn-primary{box-shadow:0 4px 0 var(--leaf-dark);}
+  .feedback.bad .fb-cta .btn-primary{background:var(--clay);box-shadow:0 4px 0 #9c4226;}
+  .feedback.bad .fb-cta .btn-primary:active{box-shadow:0 1px 0 #9c4226;}
+
+  .summary{text-align:center;padding-top:18px;}
+  .summary .big{font-family:var(--display);font-size:3.2rem;font-weight:600;color:var(--leaf-dark);line-height:1;margin:8px 0 2px;}
+  .summary h2{font-family:var(--display);font-weight:600;font-size:1.6rem;margin:18px 0 4px;}
+  .summary p{color:var(--ink-soft);margin:0 0 22px;}
+  .scoregrid{display:flex;gap:10px;justify-content:center;margin:20px 0 8px;}
+  .scorebox{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:14px 18px;box-shadow:var(--shadow);min-width:92px;}
+  .scorebox .n{font-family:var(--display);font-size:1.7rem;font-weight:600;}
+  .scorebox .l{font-size:.74rem;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-soft);font-weight:600;}
+  .grew{color:var(--leaf-dark);}
+  .review{text-align:left;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:6px 4px;margin:18px 0;box-shadow:var(--shadow);}
+  .review li{list-style:none;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:9px 12px;border-bottom:1px solid var(--line);font-size:.92rem;}
+  .review li:last-child{border-bottom:none;}
+  .review .nl{font-weight:600;display:flex;align-items:center;gap:9px;}
+  .review .en{color:var(--ink-soft);text-align:right;}
+  .review .spk{width:30px;height:30px;border-radius:50%;background:var(--leaf-wash);border:1px solid #BFE0C8;color:var(--leaf-dark);display:flex;align-items:center;justify-content:center;flex:0 0 auto;}
+  .review .spk svg{width:15px;height:15px;}
+
+  @media (prefers-reduced-motion: reduce){ *{transition:none !important;animation:none !important;} }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="bar">
+    <div class="brand">
+      <svg class="mark" viewBox="0 0 32 32" fill="none" aria-hidden="true">
+        <path d="M16 28V14" stroke="#2E7C46" stroke-width="2.4" stroke-linecap="round"/>
+        <path d="M16 16C16 11 12 8 7 8c0 5 4 8 9 8Z" fill="#3E9D5B"/>
+        <path d="M16 13c0-4 3.5-7 8-7 0 4-3.5 7-8 7Z" fill="#6CC089"/>
+        <path d="M9 28h14" stroke="#7B5A40" stroke-width="2.4" stroke-linecap="round"/>
+      </svg>
+      <span>Woordentuin <small>Nederlands</small></span>
+    </div>
+    <div class="stats">
+      <div class="chip streak" title="Day streak">
+        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2c1 3-1 4-1 6 0 1 1 2 2 2 1-1 1-2 1-3 2 2 3 4 3 7a7 7 0 1 1-14 0c0-4 3-6 4-9 1 2 2 3 2 0Z"/></svg>
+        <span id="streakN">0</span>
+      </div>
+      <div class="chip" title="Words bloomed" style="color:var(--leaf-dark)">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22V11"/><path d="M12 13C12 8 8 5 3 5c0 5 4 8 9 8Z"/><path d="M12 10c0-4 4-7 9-7 0 4-4 7-9 7Z"/></svg>
+        <span id="grownN">0</span>
+      </div>
+    </div>
+  </div>
+
+  <section id="home">
+    <p class="eyebrow">Dutch vocabulary trainer</p>
+    <h1>Grow your Dutch,<br>one word at a time.</h1>
+    <p class="sub">Every round mixes it up: multiple choice, typing, a 💡 hint when you're stuck, and a 🔊 button to hear each word read aloud.</p>
+    <div id="chapterList"></div>
+    <p class="footnote">Add this page to your home screen to use it like an app.</p>
+    <button class="reset" id="resetBtn">Reset all progress</button>
+  </section>
+
+  <section id="lesson" class="hidden">
+    <div class="lesson-top">
+      <button class="closebtn" id="quitBtn" aria-label="Quit">✕</button>
+      <div class="progressbar"><span id="prog"></span></div>
+    </div>
+    <p class="prompt-kind" id="promptKind">Translate</p>
+    <div class="q-row">
+      <h2 class="q-word" id="qWord"></h2>
+      <button class="speaker hidden" id="qSpeaker" aria-label="Hear the word"></button>
+    </div>
+    <p class="q-hint" id="qHint"></p>
+    <div class="hint-area">
+      <button class="hintbtn" id="hintBtn">💡 Hint</button>
+      <span class="hint-text" id="hintText"></span>
+    </div>
+    <div class="options" id="options"></div>
+    <input class="typebox hidden" id="typebox" type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" placeholder="Type the Dutch word…" />
+    <div class="row" id="typeRow" style="margin-top:16px;display:none;">
+      <button class="btn btn-primary" id="checkBtn">Check</button>
+    </div>
+  </section>
+
+  <section id="summary" class="hidden">
+    <div class="summary">
+      <div class="big" id="sumEmoji">🌱</div>
+      <h2 id="sumTitle">Nice round!</h2>
+      <p id="sumLine"></p>
+      <div class="scoregrid">
+        <div class="scorebox"><div class="n" id="sumAcc">0%</div><div class="l">Correct</div></div>
+        <div class="scorebox"><div class="n grew" id="sumGrew">0</div><div class="l">Bloomed 🌸</div></div>
+        <div class="scorebox"><div class="n" id="sumStreak">0</div><div class="l">Streak</div></div>
+      </div>
+      <ul class="review" id="review"></ul>
+      <div class="row">
+        <button class="btn btn-ghost" id="homeBtn">Home</button>
+        <button class="btn btn-primary" id="againBtn">Another round</button>
+      </div>
+    </div>
+  </section>
+</div>
+
+<div class="feedback" id="feedback">
+  <div class="feedback-inner">
+    <div class="fb-head">
+      <div class="fb-title" id="fbTitle"></div>
+      <button class="speaker sm hidden" id="fbSpeaker" aria-label="Hear the word"></button>
+    </div>
+    <div class="fb-answer" id="fbAnswer"></div>
+    <div class="fb-example hidden" id="fbExample"></div>
+    <div class="fb-cta"><button class="btn btn-primary" id="contBtn">Continue</button></div>
+  </div>
+</div>
+
+<script>
+const CHAPTERS = {
+  "7": {
+    title:"Hoofdstuk 7", theme:"Nederlands leren",
+    words:[
+      {nl:"de advocaat", en:"lawyer"},
+      {nl:"afronden", en:"to finish; to round off"},
+      {nl:"afsluiten", en:"to close; to conclude"},
+      {nl:"de ambitie", en:"ambition"},
+      {nl:"het artikel", en:"article"},
+      {nl:"bijvoorbeeld", en:"for example"},
+      {nl:"bovendien", en:"moreover; on top of that"},
+      {nl:"de cadans", en:"cadence; rhythm"},
+      {nl:"communiceren", en:"to communicate"},
+      {nl:"contraproductief", en:"counterproductive"},
+      {nl:"daadwerkelijk", en:"actually"},
+      {nl:"daarnaast", en:"besides; in addition"},
+      {nl:"doordat", en:"due to; because"},
+      {nl:"doorgaan", en:"to continue", hint:"doorgaan (met)"},
+      {nl:"de doorzetter", en:"go-getter; perseverer"},
+      {nl:"de flat", en:"apartment; flat"},
+      {nl:"de gast", en:"guest"},
+      {nl:"de gedachte", en:"thought", hint:"gedachten"},
+      {nl:"gelijk", en:"equal; right; immediately"},
+      {nl:"het geluid", en:"sound; noise", hint:"geluiden"},
+      {nl:"gestaag", en:"steady", hint:"gestage"},
+      {nl:"een heleboel", en:"a whole lot"},
+      {nl:"hinderen", en:"to hinder", hint:"gehinderd"},
+      {nl:"hoesten", en:"to cough"},
+      {nl:"inburgeren", en:"to integrate (civically)"},
+      {nl:"invullen", en:"to fill in"},
+      {nl:"de klank", en:"sound", hint:"klanken"},
+      {nl:"langzamerhand", en:"gradually; slowly"},
+      {nl:"de melodie", en:"melody"},
+      {nl:"de mijlpaal", en:"milestone"},
+      {nl:"de moedertaalspreker", en:"native speaker", hint:"moedertaalsprekers"},
+      {nl:"de motivatie", en:"motivation"},
+      {nl:"het museum", en:"museum"},
+      {nl:"nadoen", en:"to copy; to imitate", hint:"na … doen"},
+      {nl:"de neiging", en:"tendency", hint:"de neiging (tot)"},
+      {nl:"het obstakel", en:"obstacle"},
+      {nl:"ontevreden", en:"dissatisfied", hint:"ontevreden (met / over)"},
+      {nl:"opbouwen", en:"to build up"},
+      {nl:"openmaken", en:"to open"},
+      {nl:"de organisatie", en:"organisation"},
+      {nl:"het patroon", en:"pattern", hint:"patronen"},
+      {nl:"de radio", en:"radio"},
+      {nl:"regelen", en:"to arrange; to sort out"},
+      {nl:"het relocatieprogramma", en:"relocation programme"},
+      {nl:"het ritme", en:"rhythm"},
+      {nl:"ronduit", en:"downright; frankly"},
+      {nl:"de situatie", en:"situation"},
+      {nl:"de stroom", en:"flow; stream; energy", star:true, note:"hier: flow/stream, ook: energy", example:"Toen Martha eindelijk mocht praten, kwam er een stroom van woorden uit."},
+      {nl:"het succes", en:"success"},
+      {nl:"ten slotte", en:"finally; in the end"},
+      {nl:"tevreden", en:"satisfied", hint:"tevreden (met / over)"},
+      {nl:"de tip", en:"tip"},
+      {nl:"zich uiten", en:"to express oneself"},
+      {nl:"verbinden", en:"to connect", hint:"verbinden (met)"},
+      {nl:"vergaan", en:"to perish; to decay"},
+      {nl:"vergelijken", en:"to compare", hint:"vergelijken (met)"},
+      {nl:"de vergelijking", en:"comparison"},
+      {nl:"verhuizen", en:"to move house", hint:"verhuizen (naar)"},
+      {nl:"verwoorden", en:"to put into words"},
+      {nl:"de verzekering", en:"insurance"},
+      {nl:"vlak", en:"flat; even-toned", star:true, note:"hier: even-toned, ook: flat", example:"Nederland is een vlak land. Er zijn geen bergen."},
+      {nl:"voeren", en:"to conduct; to use as a language"},
+      {nl:"de voertaal", en:"language of communication"},
+      {nl:"de vrijwilliger", en:"volunteer"},
+      {nl:"het vrijwilligerswerk", en:"volunteer work"},
+      {nl:"zoiets", en:"something like that"},
+      {nl:"de zorg", en:"care"},
+      {nl:"de zorgverzekering", en:"health insurance"},
+      {nl:"op mijn gemak", en:"at ease; comfortable"},
+      {nl:"aan de slag gaan", en:"to get started; to get to work"},
+      {nl:"in staat zijn", en:"to be able; to be capable", hint:"in staat zijn (om / tot)"},
+      {nl:"voor het eerst", en:"for the first time"}
+    ]
+  },
+  "8": {
+    title:"Hoofdstuk 8", theme:"Duurzaamheid",
+    words:[
+      {nl:"milieubewust", en:"environmentally conscious"},
+      {nl:"uitputten", en:"to exhaust", hint:"putten … uit"},
+      {nl:"de aarde", en:"Earth; soil", note:"hier: Earth, ook: soil"},
+      {nl:"herstellen", en:"to restore"},
+      {nl:"de omgeving", en:"environment; surroundings"},
+      {nl:"wildplukken", en:"to forage"},
+      {nl:"kweken", en:"to grow; to cultivate", hint:"kweek"},
+      {nl:"ondertussen", en:"meanwhile"},
+      {nl:"scheiden", en:"to separate", hint:"gescheiden"},
+      {nl:"de grens", en:"limit; border", hint:"grenzen", note:"hier: limit, ook: border"},
+      {nl:"de tiener", en:"teenager"},
+      {nl:"weigeren", en:"to refuse", hint:"weigerde"},
+      {nl:"apart", en:"separate; separately", star:true, example:"We hebben aparte bakken voor verschillende soorten afval."},
+      {nl:"de toekomst", en:"future"},
+      {nl:"de spijt", en:"regret", hint:"spijt hebben / krijgen van"},
+      {nl:"spijten", en:"to regret; to be sorry", hint:"Het spijt me"},
+      {nl:"aanmoedigen", en:"to encourage", hint:"aan … moedigen"},
+      {nl:"delen", en:"to share", star:true, hint:"delen op / met / van", example:"Wat een leuke video! Ik ga hem delen met mijn vrienden."},
+      {nl:"oplossen", en:"to solve"},
+      {nl:"echter", en:"however", star:true, example:"Veel mensen willen afval scheiden. Echter, in hun woonplaats zijn weinig bakken."},
+      {nl:"overtuigen", en:"to convince", hint:"overtuigd zijn van"},
+      {nl:"het voorbeeld", en:"example", hint:"voorbeelden"},
+      {nl:"de moeite", en:"effort", star:true, example:"Je kunt veel dingen voor het milieu doen die weinig moeite kosten."},
+      {nl:"melden", en:"to report"},
+      {nl:"de wijk", en:"neighbourhood"},
+      {nl:"de brandnetel", en:"nettle", hint:"brandnetels"},
+      {nl:"het onkruid", en:"weeds"},
+      {nl:"de spinazie", en:"spinach"},
+      {nl:"de zak", en:"bag"},
+      {nl:"het koelvak", en:"refrigerator compartment"},
+      {nl:"het vak", en:"compartment"},
+      {nl:"aanraden", en:"to recommend", hint:"raad … aan"},
+      {nl:"om me heen", en:"around me"},
+      {nl:"de groentebak", en:"vegetable tray"},
+      {nl:"de fruitstruik", en:"fruit bush", hint:"fruitstruiken"},
+      {nl:"de struik", en:"bush"},
+      {nl:"de aanleiding", en:"occasion; cause", hint:"tot / voor"},
+      {nl:"naar aanleiding van", en:"as a result of"},
+      {nl:"de buurtbewoner", en:"local resident", hint:"buurtbewoners"},
+      {nl:"de bewoner", en:"resident"},
+      {nl:"buitenlands", en:"foreign", hint:"buitenlandse"},
+      {nl:"bewonderen", en:"to admire"},
+      {nl:"trouwens", en:"anyhow; by the way", star:true, example:"Trouwens, heb je gezien dat Olga deze website heeft gemaakt?"},
+      {nl:"het voedsel", en:"food"},
+      {nl:"weggooien", en:"to throw away"},
+      {nl:"de munt", en:"mint; coin", note:"hier: mint, ook: coin"},
+      {nl:"de grond", en:"soil; ground", star:true, example:"Winnie zet de plantjes pas in mei buiten in de grond."},
+      {nl:"uiteindelijk", en:"ultimately"},
+      {nl:"inrichten", en:"to shape; to arrange"},
+      {nl:"de opgave", en:"task; assignment", star:true, example:"Veel mensen denken dat het een enorme opgave is om duurzaam te leven."},
+      {nl:"een kwestie van", en:"a matter of"},
+      {nl:"de kwestie", en:"matter; affair", star:true, example:"Ik vind dat een moeilijke kwestie, ik heb er geen oplossing voor."},
+      {nl:"inslijten", en:"to ingrain", hint:"ingesleten"},
+      {nl:"het gedrag", en:"behaviour"},
+      {nl:"zich gedragen", en:"to behave"},
+      {nl:"duurzaam", en:"sustainable"},
+      {nl:"ontwikkelen", en:"to develop"},
+      {nl:"de toestand", en:"state; state of affairs"},
+      {nl:"de educatie", en:"education"},
+      {nl:"het enthousiasme", en:"enthusiasm"},
+      {nl:"de limiet", en:"limit"},
+      {nl:"de plant", en:"plant"},
+      {nl:"het plastic", en:"plastic"},
+      {nl:"het theater", en:"theatre"},
+      {nl:"de vegetariër", en:"vegetarian"},
+      {nl:"er zitten grenzen aan", en:"there are limits to it"},
+      {nl:"op kamers gaan", en:"to move out (to live on your own)"},
+      {nl:"erachter komen", en:"to find out"},
+      {nl:"de ogen sluiten voor iets", en:"to turn a blind eye to something"},
+      {nl:"iets met de paplepel ingegoten krijgen", en:"to have something instilled from early childhood"},
+      {nl:"stap voor stap", en:"step by step"}
+    ]
+  }
+};
+
+const MASTERY_MAX=5, SESSION_LEN=10;
+
+const mem={};
+const store={
+  get(k){ try{return localStorage.getItem(k);}catch(e){return (k in mem)?mem[k]:null;} },
+  set(k,v){ try{localStorage.setItem(k,v);}catch(e){mem[k]=v;} }
+};
+function loadState(){ try{return JSON.parse(store.get("woordentuin")||"{}");}catch(e){return {};} }
+function saveState(s){ store.set("woordentuin", JSON.stringify(s)); }
+let state=loadState();
+state.mastery=state.mastery||{}; state.seen=state.seen||{};
+state.streak=state.streak||0; state.lastDay=state.lastDay||null;
+const key=(ch,nl)=>ch+":"+nl;
+
+function todayStr(){ return new Date().toISOString().slice(0,10); }
+function bumpStreak(){
+  const t=todayStr(); if(state.lastDay===t) return;
+  const y=new Date(Date.now()-864e5).toISOString().slice(0,10);
+  state.streak=(state.lastDay===y)?state.streak+1:1; state.lastDay=t; saveState(state);
+}
+
+const firstGloss=w=>w.en.split(/[;\/]/)[0].trim();
+const mainNL=nl=>nl.replace(/^(de|het|een|zich)\s+/,"");
+function norm(s){
+  return (s||"").toLowerCase().trim().normalize("NFD").replace(/[\u0300-\u036f]/g,"")
+    .replace(/[.!?,;]+$/,"").replace(/\s+/g," ").replace(/^(to|the|a|an|de|het|een|zich)\s+/,"");
+}
+function acceptedNL(w){ return [...new Set([norm(w.nl), norm(mainNL(w.nl))])]; }
+
+const speechOK=('speechSynthesis' in window);
+let noVoiceWarned=false;
+// Resolve a genuine Dutch voice at call time (voices load async on iOS/Safari).
+// Preference: Netherlands Dutch > Flemish, enhanced/premium > compact, female-sounding name.
+function pickDutchVoice(){
+  if(!speechOK) return null;
+  const vs=speechSynthesis.getVoices()||[];
+  const nl=vs.filter(v=>/^nl(\b|[-_])/i.test(v.lang));      // nl, nl-NL, nl_NL, nl-BE
+  if(!nl.length) return null;
+  const nlNL=nl.filter(v=>/nl[-_]?nl/i.test(v.lang));
+  const pool=nlNL.length?nlNL:nl;                            // prefer Netherlands over Flemish
+  const female=/(ellen|lotte|colette|femke|saskia|claire|fenna|lisa|google|female|vrouw)/i;
+  const enhanced=/(enhanced|premium|neural|natural|siri)/i;
+  return pool.find(v=>female.test(v.name)&&enhanced.test(v.name))
+      || pool.find(v=>female.test(v.name))
+      || pool.find(v=>enhanced.test(v.name))
+      || pool[0];
+}
+if(speechOK){ // warm up the voice list
+  speechSynthesis.getVoices();
+  speechSynthesis.onvoiceschanged=()=>speechSynthesis.getVoices();
+}
+function speak(text, btn){
+  if(!speechOK) return;
+  const voice=pickDutchVoice();
+  if(!voice){ warnNoDutchVoice(); return; }   // never read Dutch with an English voice
+  try{
+    speechSynthesis.cancel();
+    const u=new SpeechSynthesisUtterance(text);
+    u.voice=voice; u.lang=voice.lang||'nl-NL'; u.rate=.9; u.pitch=1.04;
+    if(btn){ btn.classList.add('playing'); u.onend=u.onerror=()=>btn.classList.remove('playing'); }
+    speechSynthesis.speak(u);
+  }catch(e){}
+}
+function warnNoDutchVoice(){
+  if(noVoiceWarned) return; noVoiceWarned=true;
+  alert(
+    "No Dutch voice is installed on this device, so I won't read the word with an English voice (that's what made it sound off).\n\n"+
+    "iPhone/iPad: Settings → Accessibility → Spoken Content → Voices → Add New Voice → Nederlands (Dutch). Pick an \"Enhanced\" one for the most natural sound, then reopen this page.\n\n"+
+    "Mac: System Settings → Accessibility → Spoken Content → System Voice → Manage Voices → Dutch.\n\n"+
+    "Android/Chrome: install Google Text-to-Speech and add the Dutch language pack."
+  );
+}
+const SPK_ICON='<svg viewBox="0 0 24 24" fill="currentColor"><path d="M4 9v6h4l5 5V4L8 9H4z"/><path d="M16 8a4 4 0 0 1 0 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>';
+
+function sproutSVG(l){
+  const soil='<rect x="2" y="20" width="20" height="4" rx="2" fill="#C9B79E"/>';
+  if(l<=0) return `<svg viewBox="0 0 24 24">${soil}<circle cx="12" cy="20" r="1.6" fill="#7B5A40"/></svg>`;
+  if(l===1) return `<svg viewBox="0 0 24 24">${soil}<path d="M12 21v-5" stroke="#3E9D5B" stroke-width="2" stroke-linecap="round"/></svg>`;
+  if(l===2) return `<svg viewBox="0 0 24 24">${soil}<path d="M12 21v-7" stroke="#2E7C46" stroke-width="2" stroke-linecap="round"/><path d="M12 16c0-2-2-3-4-3 0 2 2 3 4 3Z" fill="#6CC089"/></svg>`;
+  if(l===3) return `<svg viewBox="0 0 24 24">${soil}<path d="M12 21v-9" stroke="#2E7C46" stroke-width="2" stroke-linecap="round"/><path d="M12 15c0-2-2-3-4-3 0 2 2 3 4 3Z" fill="#6CC089"/><path d="M12 13c0-2 2-3 4-3 0 2-2 3-4 3Z" fill="#3E9D5B"/></svg>`;
+  if(l===4) return `<svg viewBox="0 0 24 24">${soil}<path d="M12 21v-10" stroke="#2E7C46" stroke-width="2" stroke-linecap="round"/><path d="M12 16c0-2-3-3-5-3 0 2 3 3 5 3Z" fill="#6CC089"/><path d="M12 13c0-2 3-3 5-3 0 2-3 3-5 3Z" fill="#3E9D5B"/><circle cx="12" cy="9" r="2" fill="#9FD9B3"/></svg>`;
+  return `<svg viewBox="0 0 24 24">${soil}<path d="M12 21v-9" stroke="#2E7C46" stroke-width="2" stroke-linecap="round"/><path d="M12 16c0-2-3-3-5-3 0 2 3 3 5 3Z" fill="#6CC089"/><path d="M12 14c0-2 3-3 5-3 0 2-3 3-5 3Z" fill="#3E9D5B"/><circle cx="12" cy="7" r="2.2" fill="#E2A13B"/><circle cx="9.5" cy="8.5" r="1.8" fill="#F2C46B"/><circle cx="14.5" cy="8.5" r="1.8" fill="#F2C46B"/><circle cx="12" cy="10" r="1.8" fill="#F2C46B"/><circle cx="12" cy="8.5" r="1.3" fill="#C8603E"/></svg>`;
+}
+
+function chapterStats(ch){
+  const ws=CHAPTERS[ch].words; let grown=0,sum=0;
+  ws.forEach(w=>{const m=state.mastery[key(ch,w.nl)]||0; sum+=m; if(m>=MASTERY_MAX)grown++;});
+  return {grown, pct: ws.length?Math.round(sum/(ws.length*MASTERY_MAX)*100):0, total:ws.length};
+}
+function totalGrown(){ let n=0; Object.values(state.mastery).forEach(m=>{if(m>=MASTERY_MAX)n++;}); return n; }
+
+const $=id=>document.getElementById(id);
+const screens={home:$("home"),lesson:$("lesson"),summary:$("summary")};
+function show(n){ Object.entries(screens).forEach(([k,el])=>el.classList.toggle("hidden",k!==n)); window.scrollTo(0,0); }
+function refreshTop(){ $("streakN").textContent=state.streak; $("grownN").textContent=totalGrown(); }
+
+function renderHome(){
+  refreshTop();
+  const list=$("chapterList"); list.innerHTML="";
+  Object.entries(CHAPTERS).forEach(([ch,data])=>{
+    const card=document.createElement("div");
+    card.className="chapcard"+(data.locked?" locked":"");
+    if(data.locked){
+      card.innerHTML=`<div class="ch-head"><div><h2>${data.title}</h2><p class="ch-meta">${data.theme}</p></div><span class="tag">Soon</span></div>
+        <div class="row"><button class="btn btn-ghost" disabled>Send me the word list</button></div>`;
+      list.appendChild(card); return;
+    }
+    const st=chapterStats(ch);
+    const garden=data.words.map(w=>`<div class="sprout" title="${w.nl}">${sproutSVG(state.mastery[key(ch,w.nl)]||0)}</div>`).join("");
+    card.innerHTML=`<div class="ch-head"><div><h2>${data.title}</h2>
+      <p class="ch-meta">${data.theme} · ${st.total} words · ${st.grown} bloomed</p></div><div class="pct">${st.pct}%</div></div>
+      <div class="garden">${garden}</div>
+      <div class="row"><button class="btn btn-primary" data-ch="${ch}">${st.pct>0?"Continue":"Start round"}</button></div>`;
+    list.appendChild(card);
+  });
+  list.querySelectorAll("button[data-ch]").forEach(b=>b.addEventListener("click",()=>startLesson(b.dataset.ch)));
+}
+
+let session=null;
+function shuffle(a){ for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; }
+
+function buildQueue(ch){
+  const now=Date.now();
+  const scored=CHAPTERS[ch].words.map(w=>{
+    const k=key(ch,w.nl), m=state.mastery[k]||0, last=state.seen[k]||0;
+    const age=Math.min((now-last)/36e5,72);
+    return {w, score:(MASTERY_MAX-m)*10 + age/6 + Math.random()*8};
+  });
+  scored.sort((a,b)=>b.score-a.score);
+  const poolSize=Math.min(scored.length, Math.max(SESSION_LEN, Math.round(SESSION_LEN*1.8)));
+  const pool=scored.slice(0,poolSize).map(o=>o.w);
+  return shuffle(pool).slice(0, Math.min(SESSION_LEN, pool.length));
+}
+function eligibleModes(w){
+  const m=["mc-nl-en","mc-en-nl"];
+  if(firstGloss(w).split(" ").length<=2 && mainNL(w.nl).split(" ").length<=2) m.push("type-en-nl");
+  return m;
+}
+function assignModes(queue){
+  const modes=queue.map(w=>{const el=eligibleModes(w);return el[Math.floor(Math.random()*el.length)];});
+  if(modes.length>2 && new Set(modes).size===1){ modes[0]="mc-nl-en"; modes[1]="mc-en-nl"; }
+  return modes;
+}
+
+function startLesson(ch){
+  const queue=buildQueue(ch);
+  session={ch, queue, modes:assignModes(queue), i:0, correct:0, total:queue.length, grew:[], answered:false, hintLevel:0, usedHint:false};
+  show("lesson"); nextQuestion();
+}
+
+function nextQuestion(){
+  if(session.i>=session.queue.length) return finishLesson();
+  session.answered=false; session.hintLevel=0; session.usedHint=false;
+  const word=session.word=session.queue[session.i];
+  const mode=session.mode=session.modes[session.i];
+  $("prog").style.width=(session.i/session.total*100)+"%";
+  $("feedback").className="feedback";
+  $("hintText").textContent=""; $("hintBtn").disabled=false;
+  const opts=$("options"), tbox=$("typebox"), trow=$("typeRow"), sp=$("qSpeaker");
+  opts.innerHTML=""; opts.classList.remove("hidden"); tbox.value=""; tbox.className="typebox hidden"; trow.style.display="none";
+  sp.classList.add("hidden");
+
+  if(mode==="mc-nl-en"){
+    $("promptKind").textContent="What does this mean?";
+    $("qWord").textContent=word.nl; setHint(word.hint||"");   // never show the note here — it gives the English away
+    showSpeaker(sp, word.nl);
+    const correct=firstGloss(word);
+    renderOptions([correct, ...distractors(session.ch,word,"en",3)], correct, word);
+  } else if(mode==="mc-en-nl"){
+    $("promptKind").textContent="Say it in Dutch";
+    $("qWord").textContent=firstGloss(word); setHint("");
+    renderOptions([word.nl, ...distractors(session.ch,word,"nl",3)], word.nl, word);
+  } else {
+    $("promptKind").textContent="Type it in Dutch";
+    $("qWord").textContent=firstGloss(word); setHint("");   // no auto form line — it was the answer; use 💡 Hint instead
+    opts.classList.add("hidden"); tbox.className="typebox"; trow.style.display="flex";
+    setTimeout(()=>tbox.focus(),120);
+  }
+}
+function setHint(t){ $("qHint").innerHTML=t?t:"&nbsp;"; }
+function showSpeaker(btn,text){
+  if(!speechOK){ btn.classList.add("hidden"); return; }
+  btn.classList.remove("hidden"); btn.innerHTML=SPK_ICON; btn.onclick=()=>speak(text,btn);
+}
+function distractors(ch,word,target,n){
+  const pool=shuffle(CHAPTERS[ch].words.filter(w=>w.nl!==word.nl));
+  return pool.slice(0,n).map(w=> target==="en"?firstGloss(w):w.nl);
+}
+function renderOptions(list,correct,word){
+  shuffle(list);
+  const box=$("options"); box.innerHTML="";
+  list.forEach(txt=>{
+    const b=document.createElement("button");
+    b.className="opt"; b.textContent=txt; b.dataset.correct=(txt===correct);
+    b.addEventListener("click",()=>handleAnswer(txt===correct,b,correct,word));
+    box.appendChild(b);
+  });
+}
+
+function maskAnswer(answer,reveal){
+  const m=answer.match(/^(de|het|een|zich)\s+/i);
+  const art=m?m[0]:""; const word=answer.slice(art.length);
+  let out="",shown=0;
+  for(const ch of word){
+    if(ch===" "){ out+="  "; continue; }
+    if(shown<reveal){ out+=ch; shown++; } else out+="_";
+    out+=" ";
+  }
+  return (art?art.trim()+" ":"")+out.trim();
+}
+$("hintBtn").addEventListener("click",()=>{
+  if(session.answered) return;
+  const w=session.word;
+  if(session.mode.startsWith("mc")){
+    const wrongs=shuffle([...document.querySelectorAll('.opt')].filter(o=>o.dataset.correct==="false" && !o.classList.contains("eliminated")));
+    wrongs.slice(0,2).forEach(o=>o.classList.add("eliminated"));
+    $("hintText").textContent="Two options removed";
+    $("hintBtn").disabled=true;
+  } else {
+    session.hintLevel++;
+    $("hintText").textContent=maskAnswer(w.nl, session.hintLevel);
+    if(session.hintLevel>=mainNL(w.nl).replace(/\s/g,"").length) $("hintBtn").disabled=true;
+  }
+  session.usedHint=true;
+});
+
+function applyResult(word,ok){
+  const k=key(session.ch,word.nl), prev=state.mastery[k]||0;
+  let nv = ok ? (session.usedHint?prev:Math.min(MASTERY_MAX,prev+1)) : Math.max(0,prev-1);
+  state.mastery[k]=nv; state.seen[k]=Date.now(); saveState(state);
+  if(ok){ session.correct++; if(prev<MASTERY_MAX && nv>=MASTERY_MAX) session.grew.push(word); }
+}
+function handleAnswer(ok,btn,correctText,word){
+  if(session.answered) return; session.answered=true; $("hintBtn").disabled=true;
+  applyResult(word,ok);
+  document.querySelectorAll(".opt").forEach(o=>{
+    if(o.textContent===correctText) o.classList.add("correct");
+    else if(o===btn) o.classList.add("wrong");
+    else o.classList.add("dim");
+  });
+  showFeedback(ok,word);
+}
+function checkTyped(){
+  if(session.answered) return;
+  const w=session.word, ans=norm($("typebox").value);
+  if(!ans){ $("typebox").focus(); return; }
+  const ok=acceptedNL(w).includes(ans);
+  session.answered=true; $("hintBtn").disabled=true;
+  applyResult(w,ok);
+  $("typebox").classList.add(ok?"correct":"wrong");
+  showFeedback(ok,w);
+}
+function showFeedback(ok,word){
+  const fb=$("feedback"); fb.className="feedback "+(ok?"good":"bad")+" show";
+  $("fbTitle").innerHTML=ok?"🌿 Goed!":"Bijna —";
+  $("fbAnswer").innerHTML=ok?`<b>${word.nl}</b> — ${word.en}`:`Answer: <b>${word.nl}</b> — ${word.en}`;
+  const ex=$("fbExample");
+  if(word.example){ ex.textContent="“"+word.example+"”"; ex.classList.remove("hidden"); } else ex.classList.add("hidden");
+  const sp=$("fbSpeaker");
+  if(speechOK){ sp.classList.remove("hidden"); sp.innerHTML=SPK_ICON; sp.onclick=()=>speak(word.nl,sp); }
+  else sp.classList.add("hidden");
+  $("contBtn").focus();
+}
+function advance(){
+  $("feedback").classList.remove("show");
+  $("typebox").classList.remove("hidden");
+  session.i++; $("prog").style.width=(session.i/session.total*100)+"%";
+  setTimeout(nextQuestion,180);
+}
+
+function finishLesson(){
+  bumpStreak(); refreshTop();
+  const acc=session.total?Math.round(session.correct/session.total*100):0;
+  $("sumAcc").textContent=acc+"%"; $("sumGrew").textContent=session.grew.length; $("sumStreak").textContent=state.streak;
+  if(session.grew.length){ $("sumEmoji").textContent="🌸"; $("sumTitle").textContent="Words bloomed!"; }
+  else if(acc>=80){ $("sumEmoji").textContent="🌿"; $("sumTitle").textContent="Strong round!"; }
+  else { $("sumEmoji").textContent="🌱"; $("sumTitle").textContent="Keep growing"; }
+  $("sumLine").textContent=session.grew.length
+    ? `${session.grew.length} word${session.grew.length>1?"s":""} fully mastered this round.`
+    : `${session.correct} of ${session.total} correct. Repetition is how it sticks.`;
+  const rev=$("review"); rev.innerHTML="";
+  session.queue.forEach(w=>{
+    const li=document.createElement("li");
+    const spk=document.createElement("button");
+    spk.className="spk"; spk.innerHTML=SPK_ICON; spk.setAttribute("aria-label","Hear "+w.nl);
+    spk.onclick=()=>speak(w.nl,null);
+    const nl=document.createElement("span"); nl.className="nl";
+    const t=document.createElement("span"); t.textContent=w.nl;
+    if(speechOK) nl.appendChild(spk);
+    nl.appendChild(t);
+    const en=document.createElement("span"); en.className="en"; en.textContent=w.en;
+    li.appendChild(nl); li.appendChild(en); rev.appendChild(li);
+  });
+  session._ch=session.ch; show("summary");
+}
+
+$("checkBtn").addEventListener("click",checkTyped);
+$("typebox").addEventListener("keydown",e=>{ if(e.key==="Enter") checkTyped(); });
+$("contBtn").addEventListener("click",advance);
+document.addEventListener("keydown",e=>{ if(e.key==="Enter" && $("feedback").classList.contains("show")) advance(); });
+$("quitBtn").addEventListener("click",()=>{ try{speechSynthesis.cancel();}catch(e){} renderHome(); show("home"); });
+$("homeBtn").addEventListener("click",()=>{ renderHome(); show("home"); });
+$("againBtn").addEventListener("click",()=>startLesson(session._ch));
+$("resetBtn").addEventListener("click",()=>{ if(confirm("Reset all progress? Your whole garden goes back to seeds.")){ state={mastery:{},seen:{},streak:0,lastDay:null}; saveState(state); renderHome(); } });
+
+renderHome(); show("home");
+</script>
+</body>
+</html>
