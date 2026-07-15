@@ -4,7 +4,7 @@
     "chapter": 8,
     "nl": "milieubewust",
     "lemma": "milieubewust",
-    "pos": "adjective",
+    "pos": "other",
     "en": [
       "environmentally conscious"
     ],
@@ -22,8 +22,7 @@
     ],
     "primaryEn": "to exhaust",
     "source": "vocabulaire-list",
-    "hint": "putten … uit",
-    "separable": true
+    "hint": "putten … uit"
   },
   {
     "id": "h8-de-aarde",
@@ -76,7 +75,8 @@
       "to forage"
     ],
     "primaryEn": "to forage",
-    "source": "vocabulaire-list"
+    "source": "vocabulaire-list",
+    "separable": true
   },
   {
     "id": "h8-kweken",
@@ -97,7 +97,7 @@
     "chapter": 8,
     "nl": "ondertussen",
     "lemma": "ondertussen",
-    "pos": "adverb",
+    "pos": "other",
     "en": [
       "meanwhile"
     ],
@@ -115,6 +115,10 @@
     ],
     "primaryEn": "to separate",
     "source": "vocabulaire-list",
+    "irregular": {
+      "past": "scheidde",
+      "perfect": "(is) gescheiden"
+    },
     "hint": "gescheiden"
   },
   {
@@ -130,8 +134,8 @@
     "primaryEn": "limit",
     "source": "vocabulaire-list",
     "article": "de",
-    "hint": "grenzen",
-    "note": "hier: limit, ook: border"
+    "note": "hier: limit, ook: border",
+    "hint": "grenzen"
   },
   {
     "id": "h8-de-tiener",
@@ -164,7 +168,7 @@
     "chapter": 8,
     "nl": "apart",
     "lemma": "apart",
-    "pos": "adjective",
+    "pos": "other",
     "en": [
       "separate",
       "separately"
@@ -173,7 +177,7 @@
     "source": "struikelwoorden",
     "struikelwoord": true,
     "examples": [
-      "We hebben aparte bakken voor verschillende soorten afval."
+      "We hebben aparte bakken voor verschillende soorten afval: voor groente en fruit, glas, papier en plastic."
     ]
   },
   {
@@ -211,10 +215,14 @@
     "pos": "verb",
     "en": [
       "to regret",
-      "to be sorry"
+      "to be sorry (I’m sorry)"
     ],
     "primaryEn": "to regret",
     "source": "vocabulaire-list",
+    "irregular": {
+      "past": "speet",
+      "perfect": "gespeten"
+    },
     "hint": "Het spijt me"
   },
   {
@@ -228,8 +236,8 @@
     ],
     "primaryEn": "to encourage",
     "source": "vocabulaire-list",
-    "hint": "aan … moedigen",
-    "separable": true
+    "separable": true,
+    "hint": "aan … moedigen"
   },
   {
     "id": "h8-delen",
@@ -238,14 +246,14 @@
     "lemma": "delen",
     "pos": "verb",
     "en": [
-      "to share"
+      "to share (on / with)"
     ],
-    "primaryEn": "to share",
+    "primaryEn": "to share (on / with)",
     "source": "struikelwoorden",
-    "hint": "delen op / met / van",
+    "hint": "deel",
     "struikelwoord": true,
     "examples": [
-      "Wat een leuke video! Ik ga hem delen met mijn vrienden."
+      "Wat een leuke video! Ik ga hem delen met mijn vrienden op Facebook en Instagram."
     ]
   },
   {
@@ -258,14 +266,15 @@
       "to solve"
     ],
     "primaryEn": "to solve",
-    "source": "vocabulaire-list"
+    "source": "vocabulaire-list",
+    "separable": true
   },
   {
     "id": "h8-echter",
     "chapter": 8,
     "nl": "echter",
     "lemma": "echter",
-    "pos": "adverb",
+    "pos": "other",
     "en": [
       "however"
     ],
@@ -273,7 +282,7 @@
     "source": "struikelwoorden",
     "struikelwoord": true,
     "examples": [
-      "Veel mensen willen afval scheiden. Echter, in hun woonplaats zijn weinig bakken."
+      "Veel mensen willen afval scheiden, in hun woonplaats zijn echter weinig bakken om glas en papier te scheiden."
     ]
   },
   {
@@ -283,11 +292,12 @@
     "lemma": "overtuigen",
     "pos": "verb",
     "en": [
+      "to be convinced of",
       "to convince"
     ],
-    "primaryEn": "to convince",
+    "primaryEn": "to be convinced of",
     "source": "vocabulaire-list",
-    "hint": "overtuigd zijn van"
+    "hint": "ben … van overtuigd; overtuigd zijn (van)"
   },
   {
     "id": "h8-het-voorbeeld",
@@ -296,9 +306,9 @@
     "lemma": "voorbeeld",
     "pos": "noun",
     "en": [
-      "example"
+      "examples"
     ],
-    "primaryEn": "example",
+    "primaryEn": "examples",
     "source": "vocabulaire-list",
     "article": "het",
     "hint": "voorbeelden"
@@ -317,7 +327,7 @@
     "article": "de",
     "struikelwoord": true,
     "examples": [
-      "Je kunt veel dingen voor het milieu doen die weinig moeite kosten."
+      "Je kunt veel dingen voor het milieu doen die weinig moeite kosten, bijvoorbeeld de helft minder shampoo gebruiken en afval scheiden. Die dingen kun je gemakkelijk doen."
     ]
   },
   {
@@ -352,9 +362,9 @@
     "lemma": "brandnetel",
     "pos": "noun",
     "en": [
-      "nettle"
+      "nettles"
     ],
-    "primaryEn": "nettle",
+    "primaryEn": "nettles",
     "source": "vocabulaire-list",
     "article": "de",
     "hint": "brandnetels"
@@ -435,8 +445,12 @@
     ],
     "primaryEn": "to recommend",
     "source": "vocabulaire-list",
-    "hint": "raad … aan",
-    "separable": true
+    "separable": true,
+    "irregular": {
+      "past": "raadde aan",
+      "perfect": "aangeraden"
+    },
+    "hint": "raad … aan"
   },
   {
     "id": "h8-om-me-heen",
@@ -470,9 +484,9 @@
     "lemma": "fruitstruik",
     "pos": "noun",
     "en": [
-      "fruit bush"
+      "fruit bushes"
     ],
-    "primaryEn": "fruit bush",
+    "primaryEn": "fruit bushes",
     "source": "vocabulaire-list",
     "article": "de",
     "hint": "fruitstruiken"
@@ -497,10 +511,9 @@
     "lemma": "aanleiding",
     "pos": "noun",
     "en": [
-      "occasion",
-      "cause"
+      "occasion (for)"
     ],
-    "primaryEn": "occasion",
+    "primaryEn": "occasion (for)",
     "source": "vocabulaire-list",
     "article": "de",
     "hint": "tot / voor"
@@ -524,9 +537,9 @@
     "lemma": "buurtbewoner",
     "pos": "noun",
     "en": [
-      "local resident"
+      "local residents"
     ],
-    "primaryEn": "local resident",
+    "primaryEn": "local residents",
     "source": "vocabulaire-list",
     "article": "de",
     "hint": "buurtbewoners"
@@ -549,7 +562,7 @@
     "chapter": 8,
     "nl": "buitenlands",
     "lemma": "buitenlands",
-    "pos": "adjective",
+    "pos": "other",
     "en": [
       "foreign"
     ],
@@ -574,16 +587,17 @@
     "chapter": 8,
     "nl": "trouwens",
     "lemma": "trouwens",
-    "pos": "adverb",
+    "pos": "other",
     "en": [
       "anyhow",
       "by the way"
     ],
     "primaryEn": "anyhow",
     "source": "struikelwoorden",
+    "note": "hier: anyhow, ook: by the way",
     "struikelwoord": true,
     "examples": [
-      "Trouwens, heb je gezien dat Olga deze website heeft gemaakt?"
+      "Dit is een interessante website. Heb je trouwens gezien dat Olga deze website heeft gemaakt?"
     ]
   },
   {
@@ -609,7 +623,8 @@
       "to throw away"
     ],
     "primaryEn": "to throw away",
-    "source": "vocabulaire-list"
+    "source": "vocabulaire-list",
+    "separable": true
   },
   {
     "id": "h8-de-munt",
@@ -633,15 +648,14 @@
     "lemma": "grond",
     "pos": "noun",
     "en": [
-      "soil",
-      "ground"
+      "soil"
     ],
     "primaryEn": "soil",
     "source": "struikelwoorden",
     "article": "de",
     "struikelwoord": true,
     "examples": [
-      "Winnie zet de plantjes pas in mei buiten in de grond."
+      "Winnie zet de plantjes pas in mei buiten in de grond, omdat het in april nog te koud kan zijn."
     ]
   },
   {
@@ -649,7 +663,7 @@
     "chapter": 8,
     "nl": "uiteindelijk",
     "lemma": "uiteindelijk",
-    "pos": "adverb",
+    "pos": "other",
     "en": [
       "ultimately"
     ],
@@ -667,7 +681,8 @@
       "to arrange"
     ],
     "primaryEn": "to shape",
-    "source": "vocabulaire-list"
+    "source": "vocabulaire-list",
+    "separable": true
   },
   {
     "id": "h8-de-opgave",
@@ -682,22 +697,26 @@
     "primaryEn": "task",
     "source": "struikelwoorden",
     "article": "de",
+    "note": "hier: task, ook: assignment",
     "struikelwoord": true,
     "examples": [
-      "Veel mensen denken dat het een enorme opgave is om duurzaam te leven."
+      "Veel mensen denken dat het een enorme opgave is om duurzaam te leven, maar het is simpeler dan mensen denken. Gewoon de helft van alles gebruiken, helpt al heel veel."
     ]
   },
   {
     "id": "h8-een-kwestie-van",
     "chapter": 8,
     "nl": "een kwestie van",
-    "lemma": "een kwestie van",
+    "lemma": "kwestie van",
     "pos": "phrase",
     "en": [
       "a matter of"
     ],
     "primaryEn": "a matter of",
-    "source": "vocabulaire-list"
+    "source": "vocabulaire-list",
+    "examples": [
+      "Ik vind dat een moeilijke kwestie, ik heb er eigenlijk geen oplossing voor."
+    ]
   },
   {
     "id": "h8-de-kwestie",
@@ -712,9 +731,10 @@
     "primaryEn": "matter",
     "source": "struikelwoorden",
     "article": "de",
+    "hint": "een kwestie van",
     "struikelwoord": true,
     "examples": [
-      "Ik vind dat een moeilijke kwestie, ik heb er geen oplossing voor."
+      "Ik vind dat een moeilijke kwestie, ik heb er eigenlijk geen oplossing voor."
     ]
   },
   {
@@ -728,6 +748,11 @@
     ],
     "primaryEn": "to ingrain",
     "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "sleet in",
+      "perfect": "is ingesleten"
+    },
     "hint": "ingesleten"
   },
   {
@@ -754,14 +779,18 @@
     ],
     "primaryEn": "to behave",
     "source": "vocabulaire-list",
-    "reflexive": true
+    "reflexive": true,
+    "irregular": {
+      "past": "gedroeg",
+      "perfect": "gedragen"
+    }
   },
   {
     "id": "h8-duurzaam",
     "chapter": 8,
     "nl": "duurzaam",
     "lemma": "duurzaam",
-    "pos": "adjective",
+    "pos": "other",
     "en": [
       "sustainable"
     ],
@@ -787,101 +816,9 @@
     "lemma": "toestand",
     "pos": "noun",
     "en": [
-      "state",
-      "state of affairs"
+      "state (of affairs)"
     ],
-    "primaryEn": "state",
-    "source": "vocabulaire-list",
-    "article": "de"
-  },
-  {
-    "id": "h8-de-educatie",
-    "chapter": 8,
-    "nl": "de educatie",
-    "lemma": "educatie",
-    "pos": "noun",
-    "en": [
-      "education"
-    ],
-    "primaryEn": "education",
-    "source": "vocabulaire-list",
-    "article": "de"
-  },
-  {
-    "id": "h8-het-enthousiasme",
-    "chapter": 8,
-    "nl": "het enthousiasme",
-    "lemma": "enthousiasme",
-    "pos": "noun",
-    "en": [
-      "enthusiasm"
-    ],
-    "primaryEn": "enthusiasm",
-    "source": "vocabulaire-list",
-    "article": "het"
-  },
-  {
-    "id": "h8-de-limiet",
-    "chapter": 8,
-    "nl": "de limiet",
-    "lemma": "limiet",
-    "pos": "noun",
-    "en": [
-      "limit"
-    ],
-    "primaryEn": "limit",
-    "source": "vocabulaire-list",
-    "article": "de"
-  },
-  {
-    "id": "h8-de-plant",
-    "chapter": 8,
-    "nl": "de plant",
-    "lemma": "plant",
-    "pos": "noun",
-    "en": [
-      "plant"
-    ],
-    "primaryEn": "plant",
-    "source": "vocabulaire-list",
-    "article": "de"
-  },
-  {
-    "id": "h8-het-plastic",
-    "chapter": 8,
-    "nl": "het plastic",
-    "lemma": "plastic",
-    "pos": "noun",
-    "en": [
-      "plastic"
-    ],
-    "primaryEn": "plastic",
-    "source": "vocabulaire-list",
-    "article": "het"
-  },
-  {
-    "id": "h8-het-theater",
-    "chapter": 8,
-    "nl": "het theater",
-    "lemma": "theater",
-    "pos": "noun",
-    "en": [
-      "theatre"
-    ],
-    "primaryEn": "theatre",
-    "source": "vocabulaire-list",
-    "article": "het"
-  },
-  {
-    "id": "h8-de-vegetarier",
-    "chapter": 8,
-    "nl": "de vegetariër",
-    "lemma": "vegetariër",
-    "pos": "noun",
-    "en": [
-      "vegetarian"
-    ],
-    "primaryEn": "vegetarian",
+    "primaryEn": "state (of affairs)",
     "source": "vocabulaire-list",
     "article": "de"
   },
@@ -895,7 +832,7 @@
       "there are limits to it"
     ],
     "primaryEn": "there are limits to it",
-    "source": "vocabulaire-list"
+    "source": "generated"
   },
   {
     "id": "h8-op-kamers-gaan",
@@ -907,7 +844,7 @@
       "to move out (to live on your own)"
     ],
     "primaryEn": "to move out (to live on your own)",
-    "source": "vocabulaire-list"
+    "source": "generated"
   },
   {
     "id": "h8-erachter-komen",
@@ -919,19 +856,7 @@
       "to find out"
     ],
     "primaryEn": "to find out",
-    "source": "vocabulaire-list"
-  },
-  {
-    "id": "h8-de-ogen-sluiten-voor-iets",
-    "chapter": 8,
-    "nl": "de ogen sluiten voor iets",
-    "lemma": "de ogen sluiten voor iets",
-    "pos": "phrase",
-    "en": [
-      "to turn a blind eye to something"
-    ],
-    "primaryEn": "to turn a blind eye to something",
-    "source": "vocabulaire-list"
+    "source": "generated"
   },
   {
     "id": "h8-iets-met-de-paplepel-ingegoten-krijgen",
@@ -943,7 +868,19 @@
       "to have something instilled from early childhood"
     ],
     "primaryEn": "to have something instilled from early childhood",
-    "source": "vocabulaire-list"
+    "source": "generated"
+  },
+  {
+    "id": "h8-de-ogen-sluiten-voor-iets",
+    "chapter": 8,
+    "nl": "de ogen sluiten voor iets",
+    "lemma": "ogen sluiten voor iets",
+    "pos": "phrase",
+    "en": [
+      "to turn a blind eye to something"
+    ],
+    "primaryEn": "to turn a blind eye to something",
+    "source": "generated"
   },
   {
     "id": "h8-stap-voor-stap",
@@ -955,6 +892,97 @@
       "step by step"
     ],
     "primaryEn": "step by step",
-    "source": "vocabulaire-list"
+    "source": "generated"
+  },
+  {
+    "id": "h8-de-educatie",
+    "chapter": 8,
+    "nl": "de educatie",
+    "lemma": "educatie",
+    "pos": "noun",
+    "en": [
+      "education"
+    ],
+    "primaryEn": "education",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h8-het-enthousiasme",
+    "chapter": 8,
+    "nl": "het enthousiasme",
+    "lemma": "enthousiasme",
+    "pos": "noun",
+    "en": [
+      "enthusiasm"
+    ],
+    "primaryEn": "enthusiasm",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "h8-de-limiet",
+    "chapter": 8,
+    "nl": "de limiet",
+    "lemma": "limiet",
+    "pos": "noun",
+    "en": [
+      "limit"
+    ],
+    "primaryEn": "limit",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h8-de-plant",
+    "chapter": 8,
+    "nl": "de plant",
+    "lemma": "plant",
+    "pos": "noun",
+    "en": [
+      "plant"
+    ],
+    "primaryEn": "plant",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h8-het-plastic",
+    "chapter": 8,
+    "nl": "het plastic",
+    "lemma": "plastic",
+    "pos": "noun",
+    "en": [
+      "plastic"
+    ],
+    "primaryEn": "plastic",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "h8-het-theater",
+    "chapter": 8,
+    "nl": "het theater",
+    "lemma": "theater",
+    "pos": "noun",
+    "en": [
+      "theatre"
+    ],
+    "primaryEn": "theatre",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "h8-de-vegetarier",
+    "chapter": 8,
+    "nl": "de vegetariër",
+    "lemma": "vegetariër",
+    "pos": "noun",
+    "en": [
+      "vegetarian"
+    ],
+    "primaryEn": "vegetarian",
+    "source": "generated",
+    "article": "de"
   }
 ]

@@ -1,0 +1,2023 @@
+[
+  {
+    "id": "h3-de-luchthaven",
+    "chapter": 3,
+    "nl": "de luchthaven",
+    "lemma": "luchthaven",
+    "pos": "noun",
+    "en": [
+      "airport"
+    ],
+    "primaryEn": "airport",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h3-de-rugzak",
+    "chapter": 3,
+    "nl": "de rugzak",
+    "lemma": "rugzak",
+    "pos": "noun",
+    "en": [
+      "backpack"
+    ],
+    "primaryEn": "backpack",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h3-het-uitwisselingsprogramma",
+    "chapter": 3,
+    "nl": "het uitwisselingsprogramma",
+    "lemma": "uitwisselingsprogramma",
+    "pos": "noun",
+    "en": [
+      "exchange programme"
+    ],
+    "primaryEn": "exchange programme",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h3-de-uitwisseling",
+    "chapter": 3,
+    "nl": "de uitwisseling",
+    "lemma": "uitwisseling",
+    "pos": "noun",
+    "en": [
+      "exchange"
+    ],
+    "primaryEn": "exchange",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h3-behoorlijk",
+    "chapter": 3,
+    "nl": "behoorlijk",
+    "lemma": "behoorlijk",
+    "pos": "other",
+    "en": [
+      "quite",
+      "fairly"
+    ],
+    "primaryEn": "quite",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h3-de-huisgenoot",
+    "chapter": 3,
+    "nl": "de huisgenoot",
+    "lemma": "huisgenoot",
+    "pos": "noun",
+    "en": [
+      "housemates",
+      "roommates"
+    ],
+    "primaryEn": "housemates",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "huisgenoten"
+  },
+  {
+    "id": "h3-omkeren",
+    "chapter": 3,
+    "nl": "omkeren",
+    "lemma": "omkeren",
+    "pos": "verb",
+    "en": [
+      "reverse (to reverse)"
+    ],
+    "primaryEn": "reverse (to reverse)",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "hint": "omgekeerde"
+  },
+  {
+    "id": "h3-de-heimwee",
+    "chapter": 3,
+    "nl": "de heimwee",
+    "lemma": "heimwee",
+    "pos": "noun",
+    "en": [
+      "homesickness"
+    ],
+    "primaryEn": "homesickness",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "naar",
+    "examples": [
+      "Ik kijk uit naar de zomervakantie. Ik heb er heel veel zin in."
+    ]
+  },
+  {
+    "id": "h3-tegelijkertijd",
+    "chapter": 3,
+    "nl": "tegelijkertijd",
+    "lemma": "tegelijkertijd",
+    "pos": "other",
+    "en": [
+      "at the same time"
+    ],
+    "primaryEn": "at the same time",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h3-thuiskomen",
+    "chapter": 3,
+    "nl": "thuiskomen",
+    "lemma": "thuiskomen",
+    "pos": "verb",
+    "en": [
+      "to come home"
+    ],
+    "primaryEn": "to come home",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "kwam thuis",
+      "perfect": "is thuisgekomen"
+    },
+    "hint": "komen … thuis"
+  },
+  {
+    "id": "h3-de-familieomstandigheden",
+    "chapter": 3,
+    "nl": "de familieomstandigheden",
+    "lemma": "familieomstandigheden",
+    "pos": "noun",
+    "en": [
+      "family circumstances"
+    ],
+    "primaryEn": "family circumstances",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h3-de-omstandigheid",
+    "chapter": 3,
+    "nl": "de omstandigheid",
+    "lemma": "omstandigheid",
+    "pos": "noun",
+    "en": [
+      "circumstance"
+    ],
+    "primaryEn": "circumstance",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h3-de-hoofdstad",
+    "chapter": 3,
+    "nl": "de hoofdstad",
+    "lemma": "hoofdstad",
+    "pos": "noun",
+    "en": [
+      "capital"
+    ],
+    "primaryEn": "capital",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h3-levendig",
+    "chapter": 3,
+    "nl": "levendig",
+    "lemma": "levendig",
+    "pos": "other",
+    "en": [
+      "lively"
+    ],
+    "primaryEn": "lively",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h3-saai",
+    "chapter": 3,
+    "nl": "saai",
+    "lemma": "saai",
+    "pos": "other",
+    "en": [
+      "boring"
+    ],
+    "primaryEn": "boring",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h3-verderop",
+    "chapter": 3,
+    "nl": "verderop",
+    "lemma": "verderop",
+    "pos": "other",
+    "en": [
+      "further down"
+    ],
+    "primaryEn": "further down",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h3-de-hondenuitlaatservice",
+    "chapter": 3,
+    "nl": "de hondenuitlaatservice",
+    "lemma": "hondenuitlaatservice",
+    "pos": "noun",
+    "en": [
+      "dog-walking service"
+    ],
+    "primaryEn": "dog-walking service",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h3-uitlaten",
+    "chapter": 3,
+    "nl": "uitlaten",
+    "lemma": "uitlaten",
+    "pos": "verb",
+    "en": [
+      "to walk the dogs",
+      "to show",
+      "to let out"
+    ],
+    "primaryEn": "to walk the dogs",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "liet uit",
+      "perfect": "uitgelaten"
+    },
+    "note": "hier: to walk the dogs, ook: to show, to let out"
+  },
+  {
+    "id": "h3-afstandelijk",
+    "chapter": 3,
+    "nl": "afstandelijk",
+    "lemma": "afstandelijk",
+    "pos": "other",
+    "en": [
+      "distant",
+      "aloof"
+    ],
+    "primaryEn": "distant",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h3-luid",
+    "chapter": 3,
+    "nl": "luid",
+    "lemma": "luid",
+    "pos": "other",
+    "en": [
+      "loud"
+    ],
+    "primaryEn": "loud",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h3-de-onbekende",
+    "chapter": 3,
+    "nl": "de onbekende",
+    "lemma": "onbekende",
+    "pos": "noun",
+    "en": [
+      "strangers"
+    ],
+    "primaryEn": "strangers",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "onbekenden"
+  },
+  {
+    "id": "h3-zomaar",
+    "chapter": 3,
+    "nl": "zomaar",
+    "lemma": "zomaar",
+    "pos": "other",
+    "en": [
+      "spontaneously",
+      "just like that"
+    ],
+    "primaryEn": "spontaneously",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h3-de-afstand",
+    "chapter": 3,
+    "nl": "de afstand",
+    "lemma": "afstand",
+    "pos": "noun",
+    "en": [
+      "distance"
+    ],
+    "primaryEn": "distance",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h3-knuffelen",
+    "chapter": 3,
+    "nl": "knuffelen",
+    "lemma": "knuffelen",
+    "pos": "verb",
+    "en": [
+      "to cuddle (with)"
+    ],
+    "primaryEn": "to cuddle (with)",
+    "source": "vocabulaire-list",
+    "hint": "met"
+  },
+  {
+    "id": "h3-het-kussen",
+    "chapter": 3,
+    "nl": "het kussen",
+    "lemma": "kussen",
+    "pos": "noun",
+    "en": [
+      "to kiss"
+    ],
+    "primaryEn": "to kiss",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h3-informeren",
+    "chapter": 3,
+    "nl": "informeren",
+    "lemma": "informeren",
+    "pos": "verb",
+    "en": [
+      "to enquire (about)"
+    ],
+    "primaryEn": "to enquire (about)",
+    "source": "vocabulaire-list",
+    "hint": "informeert naar"
+  },
+  {
+    "id": "h3-het-levensgeluk",
+    "chapter": 3,
+    "nl": "het levensgeluk",
+    "lemma": "levensgeluk",
+    "pos": "noun",
+    "en": [
+      "happiness in life"
+    ],
+    "primaryEn": "happiness in life",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h3-het-afval",
+    "chapter": 3,
+    "nl": "het afval",
+    "lemma": "afval",
+    "pos": "noun",
+    "en": [
+      "litter",
+      "rubbish",
+      "waste"
+    ],
+    "primaryEn": "litter",
+    "source": "vocabulaire-list",
+    "article": "het",
+    "note": "hier: litter, ook: rubbish, waste"
+  },
+  {
+    "id": "h3-schoon",
+    "chapter": 3,
+    "nl": "schoon",
+    "lemma": "schoon",
+    "pos": "other",
+    "en": [
+      "clean"
+    ],
+    "primaryEn": "clean",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h3-verzorgen",
+    "chapter": 3,
+    "nl": "verzorgen",
+    "lemma": "verzorgen",
+    "pos": "other",
+    "en": [
+      "well-cared for (to care for, to look after)"
+    ],
+    "primaryEn": "well-cared for (to care for, to look after)",
+    "source": "vocabulaire-list",
+    "hint": "verzorgd"
+  },
+  {
+    "id": "h3-zich-afvragen",
+    "chapter": 3,
+    "nl": "zich afvragen",
+    "lemma": "afvragen",
+    "pos": "verb",
+    "en": [
+      "to wonder"
+    ],
+    "primaryEn": "to wonder",
+    "source": "vocabulaire-list",
+    "reflexive": true,
+    "irregular": {
+      "past": "vroeg af",
+      "perfect": "afgevraagd"
+    },
+    "hint": "vraag me af"
+  },
+  {
+    "id": "h3-de-samenleving",
+    "chapter": 3,
+    "nl": "de samenleving",
+    "lemma": "samenleving",
+    "pos": "noun",
+    "en": [
+      "society"
+    ],
+    "primaryEn": "society",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h3-bedenken",
+    "chapter": 3,
+    "nl": "bedenken",
+    "lemma": "bedenken",
+    "pos": "verb",
+    "en": [
+      "come up with",
+      "to think of"
+    ],
+    "primaryEn": "come up with",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "bedacht",
+      "perfect": "bedacht"
+    },
+    "note": "hier: come up with, ook: to think of"
+  },
+  {
+    "id": "h3-gelijk-hebben",
+    "chapter": 3,
+    "nl": "gelijk hebben",
+    "lemma": "gelijk hebben",
+    "pos": "phrase",
+    "en": [
+      "to be right"
+    ],
+    "primaryEn": "to be right",
+    "source": "vocabulaire-list",
+    "hint": "hebt gelijk"
+  },
+  {
+    "id": "h3-snikheet",
+    "chapter": 3,
+    "nl": "snikheet",
+    "lemma": "snikheet",
+    "pos": "other",
+    "en": [
+      "boiling hot"
+    ],
+    "primaryEn": "boiling hot",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h3-de-kroeg",
+    "chapter": 3,
+    "nl": "de kroeg",
+    "lemma": "kroeg",
+    "pos": "noun",
+    "en": [
+      "pubs"
+    ],
+    "primaryEn": "pubs",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "kroegen"
+  },
+  {
+    "id": "h3-de-kerst",
+    "chapter": 3,
+    "nl": "de kerst",
+    "lemma": "kerst",
+    "pos": "noun",
+    "en": [
+      "Christmas"
+    ],
+    "primaryEn": "Christmas",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h3-de-gelegenheid",
+    "chapter": 3,
+    "nl": "de gelegenheid",
+    "lemma": "gelegenheid",
+    "pos": "noun",
+    "en": [
+      "opportunity"
+    ],
+    "primaryEn": "opportunity",
+    "source": "struikelwoorden",
+    "article": "de",
+    "struikelwoord": true,
+    "examples": [
+      "Na de pauze hebben jullie gelegenheid om vragen te stellen."
+    ]
+  },
+  {
+    "id": "h3-de-midzomerdag",
+    "chapter": 3,
+    "nl": "de midzomerdag",
+    "lemma": "midzomerdag",
+    "pos": "noun",
+    "en": [
+      "Midsummer’s Day"
+    ],
+    "primaryEn": "Midsummer’s Day",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h3-de-bloemenkrans",
+    "chapter": 3,
+    "nl": "de bloemenkrans",
+    "lemma": "bloemenkrans",
+    "pos": "noun",
+    "en": [
+      "flower garlands"
+    ],
+    "primaryEn": "flower garlands",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "bloemenkransen"
+  },
+  {
+    "id": "h3-de-meiboom",
+    "chapter": 3,
+    "nl": "de meiboom",
+    "lemma": "meiboom",
+    "pos": "noun",
+    "en": [
+      "maypole"
+    ],
+    "primaryEn": "maypole",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h3-het-kinderliedje",
+    "chapter": 3,
+    "nl": "het kinderliedje",
+    "lemma": "kinderliedje",
+    "pos": "noun",
+    "en": [
+      "nursery rhymes"
+    ],
+    "primaryEn": "nursery rhymes",
+    "source": "vocabulaire-list",
+    "article": "het",
+    "hint": "kinderliedjes"
+  },
+  {
+    "id": "h3-samenkomen",
+    "chapter": 3,
+    "nl": "samenkomen",
+    "lemma": "samenkomen",
+    "pos": "verb",
+    "en": [
+      "to get together"
+    ],
+    "primaryEn": "to get together",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "kwam samen",
+      "perfect": "is samengekomen"
+    },
+    "hint": "komen samen"
+  },
+  {
+    "id": "h3-knapperig",
+    "chapter": 3,
+    "nl": "knapperig",
+    "lemma": "knapperig",
+    "pos": "other",
+    "en": [
+      "crunchy"
+    ],
+    "primaryEn": "crunchy",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h3-het-brood",
+    "chapter": 3,
+    "nl": "het brood",
+    "lemma": "brood",
+    "pos": "noun",
+    "en": [
+      "bread"
+    ],
+    "primaryEn": "bread",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h3-plaatselijk",
+    "chapter": 3,
+    "nl": "plaatselijk",
+    "lemma": "plaatselijk",
+    "pos": "other",
+    "en": [
+      "local"
+    ],
+    "primaryEn": "local",
+    "source": "vocabulaire-list",
+    "hint": "plaatselijke"
+  },
+  {
+    "id": "h3-pekelen",
+    "chapter": 3,
+    "nl": "pekelen",
+    "lemma": "pekelen",
+    "pos": "other",
+    "en": [
+      "pickled (to pickle)"
+    ],
+    "primaryEn": "pickled (to pickle)",
+    "source": "vocabulaire-list",
+    "hint": "gepekelde"
+  },
+  {
+    "id": "h3-de-borrel",
+    "chapter": 3,
+    "nl": "de borrel",
+    "lemma": "borrel",
+    "pos": "noun",
+    "en": [
+      "drink (usually alcoholic)",
+      "drinks event"
+    ],
+    "primaryEn": "drink (usually alcoholic)",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "note": "hier: drink (usually alcoholic), ook: drinks event"
+  },
+  {
+    "id": "h3-terechtkunnen",
+    "chapter": 3,
+    "nl": "terechtkunnen",
+    "lemma": "terechtkunnen",
+    "pos": "verb",
+    "en": [
+      "to stay at"
+    ],
+    "primaryEn": "to stay at",
+    "source": "struikelwoorden",
+    "separable": true,
+    "irregular": {
+      "past": "kon terecht, konden terecht",
+      "perfect": "terechtgekund"
+    },
+    "note": "hier: to stay at",
+    "hint": "konden … terecht",
+    "struikelwoord": true,
+    "examples": [
+      "Bij de Tourist Information kun je terecht als je informatie wilt krijgen over de stad. Dat is daarvoor de goede plaats. Je kunt natuurlijk ook op allerlei websites terecht voor informatie."
+    ]
+  },
+  {
+    "id": "h3-met-z-n-twintigen",
+    "chapter": 3,
+    "nl": "met z’n twintigen",
+    "lemma": "met z’n twintigen",
+    "pos": "phrase",
+    "en": [
+      "with twenty of us"
+    ],
+    "primaryEn": "with twenty of us",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h3-de-haven",
+    "chapter": 3,
+    "nl": "de haven",
+    "lemma": "haven",
+    "pos": "noun",
+    "en": [
+      "harbour"
+    ],
+    "primaryEn": "harbour",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h3-allerleukste",
+    "chapter": 3,
+    "nl": "allerleukste",
+    "lemma": "allerleukste",
+    "pos": "other",
+    "en": [
+      "the best thing",
+      "the best",
+      "the nicest"
+    ],
+    "primaryEn": "the best thing",
+    "source": "vocabulaire-list",
+    "note": "hier: the best thing, ook: the best, the nicest"
+  },
+  {
+    "id": "h3-het-stadsstrand",
+    "chapter": 3,
+    "nl": "het stadsstrand",
+    "lemma": "stadsstrand",
+    "pos": "noun",
+    "en": [
+      "city beach"
+    ],
+    "primaryEn": "city beach",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h3-het-strand",
+    "chapter": 3,
+    "nl": "het strand",
+    "lemma": "strand",
+    "pos": "noun",
+    "en": [
+      "beach"
+    ],
+    "primaryEn": "beach",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h3-erg",
+    "chapter": 3,
+    "nl": "erg",
+    "lemma": "erg",
+    "pos": "other",
+    "en": [
+      "bad",
+      "awful"
+    ],
+    "primaryEn": "bad",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h3-het-lichtjesfeest",
+    "chapter": 3,
+    "nl": "het lichtjesfeest",
+    "lemma": "lichtjesfeest",
+    "pos": "noun",
+    "en": [
+      "festival of light"
+    ],
+    "primaryEn": "festival of light",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h3-draaien-om",
+    "chapter": 3,
+    "nl": "draaien om",
+    "lemma": "draaien om",
+    "pos": "phrase",
+    "en": [
+      "to revolve around"
+    ],
+    "primaryEn": "to revolve around",
+    "source": "vocabulaire-list",
+    "hint": "draaide … om"
+  },
+  {
+    "id": "h3-de-band",
+    "chapter": 3,
+    "nl": "de band",
+    "lemma": "band",
+    "pos": "noun",
+    "en": [
+      "connection",
+      "bond"
+    ],
+    "primaryEn": "connection",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h3-plaatsvinden",
+    "chapter": 3,
+    "nl": "plaatsvinden",
+    "lemma": "plaatsvinden",
+    "pos": "verb",
+    "en": [
+      "to take place"
+    ],
+    "primaryEn": "to take place",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "vond plaats",
+      "perfect": "plaatsgevonden"
+    },
+    "hint": "vindt … plaats"
+  },
+  {
+    "id": "h3-het-goede",
+    "chapter": 3,
+    "nl": "het goede",
+    "lemma": "goede",
+    "pos": "noun",
+    "en": [
+      "good"
+    ],
+    "primaryEn": "good",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h3-het-kwade",
+    "chapter": 3,
+    "nl": "het kwade",
+    "lemma": "kwade",
+    "pos": "noun",
+    "en": [
+      "evil",
+      "bad"
+    ],
+    "primaryEn": "evil",
+    "source": "vocabulaire-list",
+    "article": "het",
+    "note": "hier: evil, ook: bad"
+  },
+  {
+    "id": "h3-overwinnen",
+    "chapter": 3,
+    "nl": "overwinnen",
+    "lemma": "overwinnen",
+    "pos": "verb",
+    "en": [
+      "to triumph over",
+      "to overcome"
+    ],
+    "primaryEn": "to triumph over",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "overwon",
+      "perfect": "overwonnen"
+    },
+    "note": "hier: to triumph over, ook: to overcome",
+    "hint": "overwonnen"
+  },
+  {
+    "id": "h3-afsteken",
+    "chapter": 3,
+    "nl": "afsteken",
+    "lemma": "afsteken",
+    "pos": "verb",
+    "en": [
+      "to let off"
+    ],
+    "primaryEn": "to let off",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "stak af",
+      "perfect": "afgestoken"
+    },
+    "hint": "steken … af"
+  },
+  {
+    "id": "h3-het-vuurwerk",
+    "chapter": 3,
+    "nl": "het vuurwerk",
+    "lemma": "vuurwerk",
+    "pos": "noun",
+    "en": [
+      "fireworks"
+    ],
+    "primaryEn": "fireworks",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h3-versieren",
+    "chapter": 3,
+    "nl": "versieren",
+    "lemma": "versieren",
+    "pos": "verb",
+    "en": [
+      "to decorate"
+    ],
+    "primaryEn": "to decorate",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h3-de-kaars",
+    "chapter": 3,
+    "nl": "de kaars",
+    "lemma": "kaars",
+    "pos": "noun",
+    "en": [
+      "candles"
+    ],
+    "primaryEn": "candles",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "kaarsen"
+  },
+  {
+    "id": "h3-de-olielamp",
+    "chapter": 3,
+    "nl": "de olielamp",
+    "lemma": "olielamp",
+    "pos": "noun",
+    "en": [
+      "oil lamps"
+    ],
+    "primaryEn": "oil lamps",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "olielampen"
+  },
+  {
+    "id": "h3-de-stoep",
+    "chapter": 3,
+    "nl": "de stoep",
+    "lemma": "stoep",
+    "pos": "noun",
+    "en": [
+      "pavement"
+    ],
+    "primaryEn": "pavement",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h3-de-studentenvereniging",
+    "chapter": 3,
+    "nl": "de studentenvereniging",
+    "lemma": "studentenvereniging",
+    "pos": "noun",
+    "en": [
+      "student association"
+    ],
+    "primaryEn": "student association",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h3-het-optreden",
+    "chapter": 3,
+    "nl": "het optreden",
+    "lemma": "optreden",
+    "pos": "noun",
+    "en": [
+      "performances",
+      "shows"
+    ],
+    "primaryEn": "performances",
+    "source": "struikelwoorden",
+    "article": "het",
+    "separable": true,
+    "irregular": {
+      "past": "trad op",
+      "perfect": "(is) opgetreden"
+    },
+    "hint": "optredens",
+    "struikelwoord": true,
+    "examples": [
+      "Ik houd van muziek. Ik ga volgende week naar een optreden van die band. Ze treden met acht mensen op."
+    ]
+  },
+  {
+    "id": "h3-markeren",
+    "chapter": 3,
+    "nl": "markeren",
+    "lemma": "markeren",
+    "pos": "verb",
+    "en": [
+      "to mark"
+    ],
+    "primaryEn": "to mark",
+    "source": "vocabulaire-list",
+    "hint": "markeert"
+  },
+  {
+    "id": "h3-de-zonnekalender",
+    "chapter": 3,
+    "nl": "de zonnekalender",
+    "lemma": "zonnekalender",
+    "pos": "noun",
+    "en": [
+      "solar calendar"
+    ],
+    "primaryEn": "solar calendar",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h3-de-zon",
+    "chapter": 3,
+    "nl": "de zon",
+    "lemma": "zon",
+    "pos": "noun",
+    "en": [
+      "sun"
+    ],
+    "primaryEn": "sun",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h3-de-kalender",
+    "chapter": 3,
+    "nl": "de kalender",
+    "lemma": "kalender",
+    "pos": "noun",
+    "en": [
+      "calendar"
+    ],
+    "primaryEn": "calendar",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h3-de-overvloed",
+    "chapter": 3,
+    "nl": "de overvloed",
+    "lemma": "overvloed",
+    "pos": "noun",
+    "en": [
+      "abundance"
+    ],
+    "primaryEn": "abundance",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h3-uitleggen",
+    "chapter": 3,
+    "nl": "uitleggen",
+    "lemma": "uitleggen",
+    "pos": "verb",
+    "en": [
+      "to explain"
+    ],
+    "primaryEn": "to explain",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "hint": "legt … uit"
+  },
+  {
+    "id": "h3-het-beginsel",
+    "chapter": 3,
+    "nl": "het beginsel",
+    "lemma": "beginsel",
+    "pos": "noun",
+    "en": [
+      "principles"
+    ],
+    "primaryEn": "principles",
+    "source": "vocabulaire-list",
+    "article": "het",
+    "hint": "beginselen"
+  },
+  {
+    "id": "h3-de-kom",
+    "chapter": 3,
+    "nl": "de kom",
+    "lemma": "kom",
+    "pos": "noun",
+    "en": [
+      "bowl"
+    ],
+    "primaryEn": "bowl",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h3-de-goudvis",
+    "chapter": 3,
+    "nl": "de goudvis",
+    "lemma": "goudvis",
+    "pos": "noun",
+    "en": [
+      "goldfish"
+    ],
+    "primaryEn": "goldfish",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "goudvissen"
+  },
+  {
+    "id": "h3-verven",
+    "chapter": 3,
+    "nl": "verven",
+    "lemma": "verven",
+    "pos": "verb",
+    "en": [
+      "to paint"
+    ],
+    "primaryEn": "to paint",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h3-het-ei",
+    "chapter": 3,
+    "nl": "het ei",
+    "lemma": "ei",
+    "pos": "noun",
+    "en": [
+      "eggs"
+    ],
+    "primaryEn": "eggs",
+    "source": "vocabulaire-list",
+    "article": "het",
+    "hint": "eieren"
+  },
+  {
+    "id": "h3-het-lied",
+    "chapter": 3,
+    "nl": "het lied",
+    "lemma": "lied",
+    "pos": "noun",
+    "en": [
+      "songs"
+    ],
+    "primaryEn": "songs",
+    "source": "vocabulaire-list",
+    "article": "het",
+    "hint": "liederen"
+  },
+  {
+    "id": "h3-uitkijken",
+    "chapter": 3,
+    "nl": "uitkijken",
+    "lemma": "uitkijken",
+    "pos": "verb",
+    "en": [
+      "to look forward to"
+    ],
+    "primaryEn": "to look forward to",
+    "source": "struikelwoorden",
+    "separable": true,
+    "irregular": {
+      "past": "keek uit",
+      "perfect": "uitgekeken"
+    },
+    "hint": "keek … uit naar",
+    "struikelwoord": true,
+    "examples": [
+      "Ik kijk uit naar de zomervakantie. Ik heb er heel veel zin in."
+    ]
+  },
+  {
+    "id": "h3-de-ruimte",
+    "chapter": 3,
+    "nl": "de ruimte",
+    "lemma": "ruimte",
+    "pos": "noun",
+    "en": [
+      "space"
+    ],
+    "primaryEn": "space",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h3-opzeggen",
+    "chapter": 3,
+    "nl": "opzeggen",
+    "lemma": "opzeggen",
+    "pos": "verb",
+    "en": [
+      "to read out",
+      "to recite",
+      "to cancel",
+      "to terminate"
+    ],
+    "primaryEn": "to read out",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "zei op, zeiden op",
+      "perfect": "opgezegd"
+    },
+    "note": "hier: to read out, to recite, ook: to cancel, to terminate",
+    "hint": "opgezegd"
+  },
+  {
+    "id": "h3-het-videogesprek",
+    "chapter": 3,
+    "nl": "het videogesprek",
+    "lemma": "videogesprek",
+    "pos": "noun",
+    "en": [
+      "video call"
+    ],
+    "primaryEn": "video call",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h3-de-video",
+    "chapter": 3,
+    "nl": "de video",
+    "lemma": "video",
+    "pos": "noun",
+    "en": [
+      "video"
+    ],
+    "primaryEn": "video",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h3-het-gesprek",
+    "chapter": 3,
+    "nl": "het gesprek",
+    "lemma": "gesprek",
+    "pos": "noun",
+    "en": [
+      "conversation"
+    ],
+    "primaryEn": "conversation",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h3-het-nieuwjaar",
+    "chapter": 3,
+    "nl": "het Nieuwjaar",
+    "lemma": "Nieuwjaar",
+    "pos": "noun",
+    "en": [
+      "New Year"
+    ],
+    "primaryEn": "New Year",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h3-draait-om",
+    "chapter": 3,
+    "nl": "draait … om",
+    "lemma": "draait … om",
+    "pos": "phrase",
+    "en": [
+      "to revolve around"
+    ],
+    "primaryEn": "to revolve around",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h3-voornamelijk",
+    "chapter": 3,
+    "nl": "voornamelijk",
+    "lemma": "voornamelijk",
+    "pos": "other",
+    "en": [
+      "mainly"
+    ],
+    "primaryEn": "mainly",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h3-het-familielid",
+    "chapter": 3,
+    "nl": "het familielid",
+    "lemma": "familielid",
+    "pos": "noun",
+    "en": [
+      "relatives"
+    ],
+    "primaryEn": "relatives",
+    "source": "vocabulaire-list",
+    "article": "het",
+    "hint": "familieleden"
+  },
+  {
+    "id": "h3-de-bedrijfskunde",
+    "chapter": 3,
+    "nl": "de bedrijfskunde",
+    "lemma": "bedrijfskunde",
+    "pos": "noun",
+    "en": [
+      "business administration"
+    ],
+    "primaryEn": "business administration",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h3-uitschelden",
+    "chapter": 3,
+    "nl": "uitschelden",
+    "lemma": "uitschelden",
+    "pos": "verb",
+    "en": [
+      "to call names",
+      "to scold",
+      "to tell off"
+    ],
+    "primaryEn": "to call names",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "schold uit",
+      "perfect": "uitgescholden"
+    },
+    "note": "hier: to call names, ook: to scold, to tell off",
+    "hint": "scheldt … uit"
+  },
+  {
+    "id": "h3-verplichten",
+    "chapter": 3,
+    "nl": "verplichten",
+    "lemma": "verplichten",
+    "pos": "other",
+    "en": [
+      "obliged (to oblige)"
+    ],
+    "primaryEn": "obliged (to oblige)",
+    "source": "struikelwoorden",
+    "hint": "verplicht",
+    "struikelwoord": true,
+    "examples": [
+      "Als je naar het buitenland gaat, ben je verplicht een ID te hebben."
+    ]
+  },
+  {
+    "id": "h3-de-grootouder",
+    "chapter": 3,
+    "nl": "de grootouder",
+    "lemma": "grootouder",
+    "pos": "noun",
+    "en": [
+      "grandparents"
+    ],
+    "primaryEn": "grandparents",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "grootouders"
+  },
+  {
+    "id": "h3-de-verplichting",
+    "chapter": 3,
+    "nl": "de verplichting",
+    "lemma": "verplichting",
+    "pos": "noun",
+    "en": [
+      "obligations",
+      "commitments"
+    ],
+    "primaryEn": "obligations",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "verplichtingen",
+    "examples": [
+      "Als je naar het buitenland gaat, ben je verplicht een ID te hebben."
+    ]
+  },
+  {
+    "id": "h3-vrijmaken",
+    "chapter": 3,
+    "nl": "vrijmaken",
+    "lemma": "vrijmaken",
+    "pos": "verb",
+    "en": [
+      "to make time for",
+      "to free (up)"
+    ],
+    "primaryEn": "to make time for",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "note": "hier: to make time for, ook: to free (up)",
+    "hint": "maken … vrij"
+  },
+  {
+    "id": "h3-doorbrengen",
+    "chapter": 3,
+    "nl": "doorbrengen",
+    "lemma": "doorbrengen",
+    "pos": "verb",
+    "en": [
+      "to spend (time)"
+    ],
+    "primaryEn": "to spend (time)",
+    "source": "struikelwoorden",
+    "separable": true,
+    "irregular": {
+      "past": "bracht door",
+      "perfect": "doorgebracht"
+    },
+    "hint": "door … brengen",
+    "struikelwoord": true,
+    "examples": [
+      "Waar breng jij je vakantie het liefst door?"
+    ]
+  },
+  {
+    "id": "h3-uitgebreid",
+    "chapter": 3,
+    "nl": "uitgebreid",
+    "lemma": "uitgebreid",
+    "pos": "other",
+    "en": [
+      "elaborate",
+      "extensive"
+    ],
+    "primaryEn": "elaborate",
+    "source": "vocabulaire-list",
+    "note": "hier: elaborate, ook: extensive"
+  },
+  {
+    "id": "h3-opkrijgen",
+    "chapter": 3,
+    "nl": "opkrijgen",
+    "lemma": "opkrijgen",
+    "pos": "verb",
+    "en": [
+      "to finish food"
+    ],
+    "primaryEn": "to finish food",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "kreeg op",
+      "perfect": "opgekregen"
+    },
+    "note": "hier: to finish food",
+    "hint": "krijgt … op"
+  },
+  {
+    "id": "h3-ervan",
+    "chapter": 3,
+    "nl": "ervan",
+    "lemma": "ervan",
+    "pos": "other",
+    "en": [
+      "of it/them"
+    ],
+    "primaryEn": "of it/them",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h3-voortkomen-uit",
+    "chapter": 3,
+    "nl": "voortkomen uit",
+    "lemma": "voortkomen uit",
+    "pos": "phrase",
+    "en": [
+      "to originate from"
+    ],
+    "primaryEn": "to originate from",
+    "source": "vocabulaire-list",
+    "hint": "komt voort uit"
+  },
+  {
+    "id": "h3-waarin",
+    "chapter": 3,
+    "nl": "waarin",
+    "lemma": "waarin",
+    "pos": "other",
+    "en": [
+      "in which"
+    ],
+    "primaryEn": "in which",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h3-het-voorhoofd",
+    "chapter": 3,
+    "nl": "het voorhoofd",
+    "lemma": "voorhoofd",
+    "pos": "noun",
+    "en": [
+      "forehead"
+    ],
+    "primaryEn": "forehead",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h3-aanraken",
+    "chapter": 3,
+    "nl": "aanraken",
+    "lemma": "aanraken",
+    "pos": "verb",
+    "en": [
+      "to touch"
+    ],
+    "primaryEn": "to touch",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "hint": "aanraakte"
+  },
+  {
+    "id": "h3-rijgen",
+    "chapter": 3,
+    "nl": "rijgen",
+    "lemma": "rijgen",
+    "pos": "verb",
+    "en": [
+      "to thread"
+    ],
+    "primaryEn": "to thread",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "reeg",
+      "perfect": "geregen"
+    },
+    "hint": "regen"
+  },
+  {
+    "id": "h3-de-munt",
+    "chapter": 3,
+    "nl": "de munt",
+    "lemma": "munt",
+    "pos": "noun",
+    "en": [
+      "coins"
+    ],
+    "primaryEn": "coins",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "munten"
+  },
+  {
+    "id": "h3-de-draad",
+    "chapter": 3,
+    "nl": "de draad",
+    "lemma": "draad",
+    "pos": "noun",
+    "en": [
+      "thread",
+      "wire",
+      "string"
+    ],
+    "primaryEn": "thread",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "het draadje"
+  },
+  {
+    "id": "h3-het-hoofdkussen",
+    "chapter": 3,
+    "nl": "het hoofdkussen",
+    "lemma": "hoofdkussen",
+    "pos": "noun",
+    "en": [
+      "pillow (bed)"
+    ],
+    "primaryEn": "pillow (bed)",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h3-de-jongere",
+    "chapter": 3,
+    "nl": "de jongere",
+    "lemma": "jongere",
+    "pos": "noun",
+    "en": [
+      "young people"
+    ],
+    "primaryEn": "young people",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "jongeren"
+  },
+  {
+    "id": "h3-de-envelop",
+    "chapter": 3,
+    "nl": "de envelop",
+    "lemma": "envelop",
+    "pos": "noun",
+    "en": [
+      "envelope"
+    ],
+    "primaryEn": "envelope",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h3-langskomen",
+    "chapter": 3,
+    "nl": "langskomen",
+    "lemma": "langskomen",
+    "pos": "verb",
+    "en": [
+      "to come over",
+      "to pass by"
+    ],
+    "primaryEn": "to come over",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "kwam langs",
+      "perfect": "is langsgekomen"
+    },
+    "note": "hier: to come over, ook: to pass by",
+    "hint": "komt langs"
+  },
+  {
+    "id": "h3-besluiten",
+    "chapter": 3,
+    "nl": "besluiten",
+    "lemma": "besluiten",
+    "pos": "verb",
+    "en": [
+      "to decide"
+    ],
+    "primaryEn": "to decide",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "besloot",
+      "perfect": "besloten"
+    },
+    "hint": "besloten"
+  },
+  {
+    "id": "h3-het-alternatief",
+    "chapter": 3,
+    "nl": "het alternatief",
+    "lemma": "alternatief",
+    "pos": "noun",
+    "en": [
+      "alternative"
+    ],
+    "primaryEn": "alternative",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "h3-het-arrangement",
+    "chapter": 3,
+    "nl": "het arrangement",
+    "lemma": "arrangement",
+    "pos": "noun",
+    "en": [
+      "package",
+      "arrangement"
+    ],
+    "primaryEn": "package",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "h3-authentiek",
+    "chapter": 3,
+    "nl": "authentiek",
+    "lemma": "authentiek",
+    "pos": "adjective",
+    "en": [
+      "authentic"
+    ],
+    "primaryEn": "authentic",
+    "source": "generated"
+  },
+  {
+    "id": "h3-de-bachelorstudent",
+    "chapter": 3,
+    "nl": "de bachelorstudent",
+    "lemma": "bachelorstudent",
+    "pos": "noun",
+    "en": [
+      "bachelor's student"
+    ],
+    "primaryEn": "bachelor's student",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h3-de-corruptie",
+    "chapter": 3,
+    "nl": "de corruptie",
+    "lemma": "corruptie",
+    "pos": "noun",
+    "en": [
+      "corruption"
+    ],
+    "primaryEn": "corruption",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h3-cultureel",
+    "chapter": 3,
+    "nl": "cultureel",
+    "lemma": "cultureel",
+    "pos": "adjective",
+    "en": [
+      "cultural"
+    ],
+    "primaryEn": "cultural",
+    "source": "generated"
+  },
+  {
+    "id": "h3-de-demon",
+    "chapter": 3,
+    "nl": "de demon",
+    "lemma": "demon",
+    "pos": "noun",
+    "en": [
+      "demon"
+    ],
+    "primaryEn": "demon",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h3-het-diner",
+    "chapter": 3,
+    "nl": "het diner",
+    "lemma": "diner",
+    "pos": "noun",
+    "en": [
+      "dinner"
+    ],
+    "primaryEn": "dinner",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "h3-de-dj",
+    "chapter": 3,
+    "nl": "de dj",
+    "lemma": "dj",
+    "pos": "noun",
+    "en": [
+      "DJ"
+    ],
+    "primaryEn": "DJ",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h3-de-economie",
+    "chapter": 3,
+    "nl": "de economie",
+    "lemma": "economie",
+    "pos": "noun",
+    "en": [
+      "economy",
+      "economics"
+    ],
+    "primaryEn": "economy",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h3-extravagant",
+    "chapter": 3,
+    "nl": "extravagant",
+    "lemma": "extravagant",
+    "pos": "adjective",
+    "en": [
+      "extravagant"
+    ],
+    "primaryEn": "extravagant",
+    "source": "generated"
+  },
+  {
+    "id": "h3-de-faculteit",
+    "chapter": 3,
+    "nl": "de faculteit",
+    "lemma": "faculteit",
+    "pos": "noun",
+    "en": [
+      "faculty"
+    ],
+    "primaryEn": "faculty",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h3-de-financien",
+    "chapter": 3,
+    "nl": "de financiën",
+    "lemma": "financiën",
+    "pos": "noun",
+    "en": [
+      "finances"
+    ],
+    "primaryEn": "finances",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h3-het-klimaat",
+    "chapter": 3,
+    "nl": "het klimaat",
+    "lemma": "klimaat",
+    "pos": "noun",
+    "en": [
+      "climate"
+    ],
+    "primaryEn": "climate",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "h3-de-koran",
+    "chapter": 3,
+    "nl": "de Koran",
+    "lemma": "Koran",
+    "pos": "noun",
+    "en": [
+      "the Quran"
+    ],
+    "primaryEn": "the Quran",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h3-kussen",
+    "chapter": 3,
+    "nl": "kussen",
+    "lemma": "kussen",
+    "pos": "verb",
+    "en": [
+      "to kiss"
+    ],
+    "primaryEn": "to kiss",
+    "source": "generated",
+    "note": "hier: to kiss, ook: het kussen = pillow"
+  },
+  {
+    "id": "h3-de-labrador",
+    "chapter": 3,
+    "nl": "de labrador",
+    "lemma": "labrador",
+    "pos": "noun",
+    "en": [
+      "labrador"
+    ],
+    "primaryEn": "labrador",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h3-de-legende",
+    "chapter": 3,
+    "nl": "de legende",
+    "lemma": "legende",
+    "pos": "noun",
+    "en": [
+      "legend"
+    ],
+    "primaryEn": "legend",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h3-het-monster",
+    "chapter": 3,
+    "nl": "het monster",
+    "lemma": "monster",
+    "pos": "noun",
+    "en": [
+      "monster"
+    ],
+    "primaryEn": "monster",
+    "source": "generated",
+    "article": "het",
+    "note": "ook: sample"
+  },
+  {
+    "id": "h3-nationaal",
+    "chapter": 3,
+    "nl": "nationaal",
+    "lemma": "nationaal",
+    "pos": "adjective",
+    "en": [
+      "national"
+    ],
+    "primaryEn": "national",
+    "source": "generated"
+  },
+  {
+    "id": "h3-optreden",
+    "chapter": 3,
+    "nl": "optreden",
+    "lemma": "optreden",
+    "pos": "verb",
+    "en": [
+      "to perform",
+      "performance"
+    ],
+    "primaryEn": "to perform",
+    "source": "generated",
+    "irregular": {
+      "past": "trad op",
+      "perfect": "(is) opgetreden"
+    },
+    "separable": true,
+    "examples": [
+      "Ik houd van muziek. Ik ga volgende week naar een optreden van die band. Ze treden met acht mensen op."
+    ]
+  },
+  {
+    "id": "h3-ritueel",
+    "chapter": 3,
+    "nl": "ritueel",
+    "lemma": "ritueel",
+    "pos": "other",
+    "en": [
+      "ritual"
+    ],
+    "primaryEn": "ritual",
+    "source": "generated"
+  },
+  {
+    "id": "h3-de-service",
+    "chapter": 3,
+    "nl": "de service",
+    "lemma": "service",
+    "pos": "noun",
+    "en": [
+      "service"
+    ],
+    "primaryEn": "service",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h3-sociaal",
+    "chapter": 3,
+    "nl": "sociaal",
+    "lemma": "sociaal",
+    "pos": "adjective",
+    "en": [
+      "social"
+    ],
+    "primaryEn": "social",
+    "source": "generated"
+  },
+  {
+    "id": "h3-de-specialiteit",
+    "chapter": 3,
+    "nl": "de specialiteit",
+    "lemma": "specialiteit",
+    "pos": "noun",
+    "en": [
+      "speciality"
+    ],
+    "primaryEn": "speciality",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h3-de-toerist",
+    "chapter": 3,
+    "nl": "de toerist",
+    "lemma": "toerist",
+    "pos": "noun",
+    "en": [
+      "tourist"
+    ],
+    "primaryEn": "tourist",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h3-de-traditie",
+    "chapter": 3,
+    "nl": "de traditie",
+    "lemma": "traditie",
+    "pos": "noun",
+    "en": [
+      "tradition"
+    ],
+    "primaryEn": "tradition",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h3-traditioneel",
+    "chapter": 3,
+    "nl": "traditioneel",
+    "lemma": "traditioneel",
+    "pos": "adjective",
+    "en": [
+      "traditional"
+    ],
+    "primaryEn": "traditional",
+    "source": "generated"
+  },
+  {
+    "id": "h3-twintigen",
+    "chapter": 3,
+    "nl": "twintigen",
+    "lemma": "twintigen",
+    "pos": "verb",
+    "en": [
+      "twenties (bank notes)"
+    ],
+    "primaryEn": "twenties (bank notes)",
+    "source": "generated",
+    "needsReview": true
+  }
+]

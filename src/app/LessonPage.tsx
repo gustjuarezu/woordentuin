@@ -73,9 +73,11 @@ export function LessonPage({ practice = false }: { practice?: boolean }) {
       setSession(build(words));
       setSummary(null);
     }
-    // Rebuild only when the data or the round changes — not on every grade.
+    // Rebuild when the data, the round, or the route target changes (React
+    // reuses this component instance across lesson/practice routes) — but not
+    // on every grade.
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [words, round]);
+  }, [words, round, practice, lessonIndex, num]);
 
   const meta = chapterMeta(num);
   if (!meta) return <p>Unknown chapter.</p>;

@@ -1,0 +1,1133 @@
+[
+  {
+    "id": "h9-opvallen",
+    "chapter": 9,
+    "nl": "opvallen",
+    "lemma": "opvallen",
+    "pos": "verb",
+    "en": [
+      "to notice"
+    ],
+    "primaryEn": "to notice",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "viel op",
+      "perfect": "is opgevallen"
+    },
+    "hint": "viel … op"
+  },
+  {
+    "id": "h9-terugkeren",
+    "chapter": 9,
+    "nl": "terugkeren",
+    "lemma": "terugkeren",
+    "pos": "verb",
+    "en": [
+      "to return"
+    ],
+    "primaryEn": "to return",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "hint": "terugkeerde naar"
+  },
+  {
+    "id": "h9-bieden",
+    "chapter": 9,
+    "nl": "bieden",
+    "lemma": "bieden",
+    "pos": "verb",
+    "en": [
+      "to provide",
+      "to offer"
+    ],
+    "primaryEn": "to provide",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "bood",
+      "perfect": "geboden"
+    },
+    "hint": "biedt"
+  },
+  {
+    "id": "h9-ongeschreven",
+    "chapter": 9,
+    "nl": "ongeschreven",
+    "lemma": "ongeschreven",
+    "pos": "other",
+    "en": [
+      "unwritten"
+    ],
+    "primaryEn": "unwritten",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h9-de-ruzie",
+    "chapter": 9,
+    "nl": "de ruzie",
+    "lemma": "ruzie",
+    "pos": "noun",
+    "en": [
+      "argument"
+    ],
+    "primaryEn": "argument",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "met / over"
+  },
+  {
+    "id": "h9-aanschuiven",
+    "chapter": 9,
+    "nl": "aanschuiven",
+    "lemma": "aanschuiven",
+    "pos": "verb",
+    "en": [
+      "to join"
+    ],
+    "primaryEn": "to join",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "schoof aan",
+      "perfect": "aangeschoven"
+    },
+    "hint": "schuif aan"
+  },
+  {
+    "id": "h9-de-zaak",
+    "chapter": 9,
+    "nl": "de zaak",
+    "lemma": "zaak",
+    "pos": "noun",
+    "en": [
+      "thing",
+      "matter",
+      "case"
+    ],
+    "primaryEn": "thing",
+    "source": "struikelwoorden",
+    "article": "de",
+    "note": "hier: thing, ook: matter, case",
+    "struikelwoord": true,
+    "examples": [
+      "Dat zijn jouw zaken niet. Daar moet je je niet mee bemoeien."
+    ]
+  },
+  {
+    "id": "h9-het-etentje",
+    "chapter": 9,
+    "nl": "het etentje",
+    "lemma": "etentje",
+    "pos": "noun",
+    "en": [
+      "dinners",
+      "meals"
+    ],
+    "primaryEn": "dinners",
+    "source": "vocabulaire-list",
+    "article": "het",
+    "hint": "etentjes"
+  },
+  {
+    "id": "h9-van-tevoren",
+    "chapter": 9,
+    "nl": "van tevoren",
+    "lemma": "van tevoren",
+    "pos": "phrase",
+    "en": [
+      "in advance"
+    ],
+    "primaryEn": "in advance",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h9-aanhaken",
+    "chapter": 9,
+    "nl": "aanhaken",
+    "lemma": "aanhaken",
+    "pos": "verb",
+    "en": [
+      "to join",
+      "to link up with (come and join)"
+    ],
+    "primaryEn": "to join",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "note": "hier: to join, ook: to link up with (come and join)"
+  },
+  {
+    "id": "h9-ontmoeten",
+    "chapter": 9,
+    "nl": "ontmoeten",
+    "lemma": "ontmoeten",
+    "pos": "verb",
+    "en": [
+      "to meet"
+    ],
+    "primaryEn": "to meet",
+    "source": "vocabulaire-list",
+    "hint": "ontmoet"
+  },
+  {
+    "id": "h9-voortdurend",
+    "chapter": 9,
+    "nl": "voortdurend",
+    "lemma": "voortdurend",
+    "pos": "other",
+    "en": [
+      "constantly"
+    ],
+    "primaryEn": "constantly",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h9-terugvallen-op",
+    "chapter": 9,
+    "nl": "terugvallen op",
+    "lemma": "terugvallen op",
+    "pos": "phrase",
+    "en": [
+      "to fall back on"
+    ],
+    "primaryEn": "to fall back on",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h9-best",
+    "chapter": 9,
+    "nl": "best",
+    "lemma": "best",
+    "pos": "other",
+    "en": [
+      "quite"
+    ],
+    "primaryEn": "quite",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h9-lastig",
+    "chapter": 9,
+    "nl": "lastig",
+    "lemma": "lastig",
+    "pos": "other",
+    "en": [
+      "difficult"
+    ],
+    "primaryEn": "difficult",
+    "source": "struikelwoorden",
+    "struikelwoord": true,
+    "examples": [
+      "Ik heb een lastige buurman. Hij doet overal moeilijk over: parkeren van de auto voor zijn huis, geluiden in de tuin, de barbecue, et cetera."
+    ]
+  },
+  {
+    "id": "h9-voorzien",
+    "chapter": 9,
+    "nl": "voorzien",
+    "lemma": "voorzien",
+    "pos": "verb",
+    "en": [
+      "to provide (with)"
+    ],
+    "primaryEn": "to provide (with)",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "voorzag",
+      "perfect": "voorzien"
+    },
+    "hint": "van … voorziet"
+  },
+  {
+    "id": "h9-wereldwijd",
+    "chapter": 9,
+    "nl": "wereldwijd",
+    "lemma": "wereldwijd",
+    "pos": "other",
+    "en": [
+      "worldwide"
+    ],
+    "primaryEn": "worldwide",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h9-ordenen",
+    "chapter": 9,
+    "nl": "ordenen",
+    "lemma": "ordenen",
+    "pos": "verb",
+    "en": [
+      "to rank",
+      "to sort"
+    ],
+    "primaryEn": "to rank",
+    "source": "vocabulaire-list",
+    "note": "hier: to rank, ook: to sort",
+    "hint": "geordend"
+  },
+  {
+    "id": "h9-onderaan",
+    "chapter": 9,
+    "nl": "onderaan",
+    "lemma": "onderaan",
+    "pos": "other",
+    "en": [
+      "at the bottom"
+    ],
+    "primaryEn": "at the bottom",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h9-de-ranglijst",
+    "chapter": 9,
+    "nl": "de ranglijst",
+    "lemma": "ranglijst",
+    "pos": "noun",
+    "en": [
+      "ranking"
+    ],
+    "primaryEn": "ranking",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h9-baseren-op",
+    "chapter": 9,
+    "nl": "baseren op",
+    "lemma": "baseren op",
+    "pos": "phrase",
+    "en": [
+      "to base on"
+    ],
+    "primaryEn": "to base on",
+    "source": "vocabulaire-list",
+    "hint": "gebaseerd op"
+  },
+  {
+    "id": "h9-meespelen",
+    "chapter": 9,
+    "nl": "meespelen",
+    "lemma": "meespelen",
+    "pos": "verb",
+    "en": [
+      "to factor into"
+    ],
+    "primaryEn": "to factor into",
+    "source": "struikelwoorden",
+    "separable": true,
+    "hint": "speelt … mee",
+    "struikelwoord": true,
+    "examples": [
+      "Ze twijfelt over haar relatie. Hij is twaalf jaar ouder en dat is wel een factor die meespeelt. Maar het is niet het enige."
+    ]
+  },
+  {
+    "id": "h9-het-feit",
+    "chapter": 9,
+    "nl": "het feit",
+    "lemma": "feit",
+    "pos": "noun",
+    "en": [
+      "fact"
+    ],
+    "primaryEn": "fact",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h9-uiteraard",
+    "chapter": 9,
+    "nl": "uiteraard",
+    "lemma": "uiteraard",
+    "pos": "other",
+    "en": [
+      "of course"
+    ],
+    "primaryEn": "of course",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h9-omgaan-met",
+    "chapter": 9,
+    "nl": "omgaan met",
+    "lemma": "omgaan met",
+    "pos": "phrase",
+    "en": [
+      "to interact with",
+      "to deal with"
+    ],
+    "primaryEn": "to interact with",
+    "source": "struikelwoorden",
+    "note": "hier: to interact with, ook: to deal with",
+    "hint": "gaan … om met",
+    "struikelwoord": true,
+    "examples": [
+      "Ik ga nog met een paar mensen van mijn middelbare school om. Ik heb nog regelmatig contact met hen."
+    ]
+  },
+  {
+    "id": "h9-de-kring",
+    "chapter": 9,
+    "nl": "de kring",
+    "lemma": "kring",
+    "pos": "noun",
+    "en": [
+      "circle"
+    ],
+    "primaryEn": "circle",
+    "source": "struikelwoorden",
+    "article": "de",
+    "struikelwoord": true,
+    "examples": [
+      "Er heeft een nat glas op de houten tafel gestaan. Er zit nu een kring in de tafel."
+    ]
+  },
+  {
+    "id": "h9-schaars",
+    "chapter": 9,
+    "nl": "schaars",
+    "lemma": "schaars",
+    "pos": "other",
+    "en": [
+      "scarce",
+      "few and far between"
+    ],
+    "primaryEn": "scarce",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h9-de-antropologe",
+    "chapter": 9,
+    "nl": "de antropologe",
+    "lemma": "antropologe",
+    "pos": "noun",
+    "en": [
+      "anthropologist"
+    ],
+    "primaryEn": "anthropologist",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h9-mengen",
+    "chapter": 9,
+    "nl": "mengen",
+    "lemma": "mengen",
+    "pos": "verb",
+    "en": [
+      "to mix (with)"
+    ],
+    "primaryEn": "to mix (with)",
+    "source": "vocabulaire-list",
+    "hint": "van / met"
+  },
+  {
+    "id": "h9-vandaar",
+    "chapter": 9,
+    "nl": "vandaar",
+    "lemma": "vandaar",
+    "pos": "other",
+    "en": [
+      "which is why"
+    ],
+    "primaryEn": "which is why",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h9-inkopen",
+    "chapter": 9,
+    "nl": "inkopen",
+    "lemma": "inkopen",
+    "pos": "verb",
+    "en": [
+      "to buy"
+    ],
+    "primaryEn": "to buy",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "kocht in",
+      "perfect": "ingekocht"
+    },
+    "hint": "ingekocht"
+  },
+  {
+    "id": "h9-onbeleefd",
+    "chapter": 9,
+    "nl": "onbeleefd",
+    "lemma": "onbeleefd",
+    "pos": "other",
+    "en": [
+      "rude"
+    ],
+    "primaryEn": "rude",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h9-onaangekondigd",
+    "chapter": 9,
+    "nl": "onaangekondigd",
+    "lemma": "onaangekondigd",
+    "pos": "other",
+    "en": [
+      "unannounced"
+    ],
+    "primaryEn": "unannounced",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h9-aankondigen",
+    "chapter": 9,
+    "nl": "aankondigen",
+    "lemma": "aankondigen",
+    "pos": "verb",
+    "en": [
+      "to announce"
+    ],
+    "primaryEn": "to announce",
+    "source": "vocabulaire-list",
+    "separable": true
+  },
+  {
+    "id": "h9-wijzen",
+    "chapter": 9,
+    "nl": "wijzen",
+    "lemma": "wijzen",
+    "pos": "verb",
+    "en": [
+      "to point (out / to)"
+    ],
+    "primaryEn": "to point (out / to)",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "wees",
+      "perfect": "gewezen"
+    },
+    "hint": "wijst … op"
+  },
+  {
+    "id": "h9-samenhangen-met",
+    "chapter": 9,
+    "nl": "samenhangen met",
+    "lemma": "samenhangen met",
+    "pos": "phrase",
+    "en": [
+      "to have something to do with"
+    ],
+    "primaryEn": "to have something to do with",
+    "source": "vocabulaire-list",
+    "hint": "samenhangt met"
+  },
+  {
+    "id": "h9-langsgaan",
+    "chapter": 9,
+    "nl": "langsgaan",
+    "lemma": "langsgaan",
+    "pos": "verb",
+    "en": [
+      "to drop by"
+    ],
+    "primaryEn": "to drop by",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "ging langs",
+      "perfect": "is langsgegaan"
+    },
+    "hint": "gaan … bij … langs"
+  },
+  {
+    "id": "h9-aldus",
+    "chapter": 9,
+    "nl": "aldus",
+    "lemma": "aldus",
+    "pos": "other",
+    "en": [
+      "according to"
+    ],
+    "primaryEn": "according to",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h9-streng",
+    "chapter": 9,
+    "nl": "streng",
+    "lemma": "streng",
+    "pos": "other",
+    "en": [
+      "strict"
+    ],
+    "primaryEn": "strict",
+    "source": "vocabulaire-list",
+    "hint": "strenge"
+  },
+  {
+    "id": "h9-het-privedomein",
+    "chapter": 9,
+    "nl": "het privédomein",
+    "lemma": "privédomein",
+    "pos": "noun",
+    "en": [
+      "personal domain"
+    ],
+    "primaryEn": "personal domain",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h9-binnenshuis",
+    "chapter": 9,
+    "nl": "binnenshuis",
+    "lemma": "binnenshuis",
+    "pos": "other",
+    "en": [
+      "indoors"
+    ],
+    "primaryEn": "indoors",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h9-ondenkbaar",
+    "chapter": 9,
+    "nl": "ondenkbaar",
+    "lemma": "ondenkbaar",
+    "pos": "other",
+    "en": [
+      "inconceivable"
+    ],
+    "primaryEn": "inconceivable",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h9-bestaan",
+    "chapter": 9,
+    "nl": "bestaan",
+    "lemma": "bestaan",
+    "pos": "verb",
+    "en": [
+      "to exist"
+    ],
+    "primaryEn": "to exist",
+    "source": "vocabulaire-list",
+    "hint": "bestond"
+  },
+  {
+    "id": "h9-toekomen-aan",
+    "chapter": 9,
+    "nl": "toekomen aan",
+    "lemma": "toekomen aan",
+    "pos": "phrase",
+    "en": [
+      "to get around to"
+    ],
+    "primaryEn": "to get around to",
+    "source": "vocabulaire-list",
+    "hint": "aan … toegekomen"
+  },
+  {
+    "id": "h9-weleens",
+    "chapter": 9,
+    "nl": "weleens",
+    "lemma": "weleens",
+    "pos": "other",
+    "en": [
+      "sometimes",
+      "occasionally"
+    ],
+    "primaryEn": "sometimes",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h9-gek",
+    "chapter": 9,
+    "nl": "gek",
+    "lemma": "gek",
+    "pos": "other",
+    "en": [
+      "strange",
+      "crazy"
+    ],
+    "primaryEn": "strange",
+    "source": "struikelwoorden",
+    "note": "hier: strange, ook: crazy",
+    "struikelwoord": true,
+    "examples": [
+      "Elk land heeft z’n eigen gewoontes. Wat in het ene land gek is, is in het andere land juist normaal."
+    ]
+  },
+  {
+    "id": "h9-handvol",
+    "chapter": 9,
+    "nl": "handvol",
+    "lemma": "handvol",
+    "pos": "other",
+    "en": [
+      "handful"
+    ],
+    "primaryEn": "handful",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h9-hecht",
+    "chapter": 9,
+    "nl": "hecht",
+    "lemma": "hecht",
+    "pos": "other",
+    "en": [
+      "close"
+    ],
+    "primaryEn": "close",
+    "source": "vocabulaire-list",
+    "hint": "hechte"
+  },
+  {
+    "id": "h9-oppervlakkig",
+    "chapter": 9,
+    "nl": "oppervlakkig",
+    "lemma": "oppervlakkig",
+    "pos": "other",
+    "en": [
+      "superficial"
+    ],
+    "primaryEn": "superficial",
+    "source": "vocabulaire-list",
+    "hint": "oppervlakkige"
+  },
+  {
+    "id": "h9-de-medestander",
+    "chapter": 9,
+    "nl": "de medestander",
+    "lemma": "medestander",
+    "pos": "noun",
+    "en": [
+      "supporters"
+    ],
+    "primaryEn": "supporters",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "medestanders"
+  },
+  {
+    "id": "h9-de-aanhaakgroep",
+    "chapter": 9,
+    "nl": "de aanhaakgroep",
+    "lemma": "aanhaakgroep",
+    "pos": "noun",
+    "en": [
+      "link-up group"
+    ],
+    "primaryEn": "link-up group",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h9-toevoegen",
+    "chapter": 9,
+    "nl": "toevoegen",
+    "lemma": "toevoegen",
+    "pos": "verb",
+    "en": [
+      "to add (to)"
+    ],
+    "primaryEn": "to add (to)",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "hint": "voegen … toe"
+  },
+  {
+    "id": "h9-het-misverstand",
+    "chapter": 9,
+    "nl": "het misverstand",
+    "lemma": "misverstand",
+    "pos": "noun",
+    "en": [
+      "misunderstandings"
+    ],
+    "primaryEn": "misunderstandings",
+    "source": "vocabulaire-list",
+    "article": "het",
+    "hint": "misverstanden"
+  },
+  {
+    "id": "h9-voorkomen",
+    "chapter": 9,
+    "nl": "voorkomen",
+    "lemma": "voorkomen",
+    "pos": "verb",
+    "en": [
+      "to prevent"
+    ],
+    "primaryEn": "to prevent",
+    "source": "struikelwoorden",
+    "separable": true,
+    "irregular": {
+      "past": "kwam voor",
+      "perfect": "is voorgekomen"
+    },
+    "struikelwoord": true,
+    "examples": [
+      "We moeten voorkomen dat we dit probleem nog een keer krijgen. Ik wil niet dat het nog een keer gebeurt."
+    ]
+  },
+  {
+    "id": "h9-aangeven",
+    "chapter": 9,
+    "nl": "aangeven",
+    "lemma": "aangeven",
+    "pos": "verb",
+    "en": [
+      "to indicate"
+    ],
+    "primaryEn": "to indicate",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "gaf aan",
+      "perfect": "aangegeven"
+    }
+  },
+  {
+    "id": "h9-doodstil",
+    "chapter": 9,
+    "nl": "doodstil",
+    "lemma": "doodstil",
+    "pos": "other",
+    "en": [
+      "completely silent"
+    ],
+    "primaryEn": "completely silent",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h9-degene-diegene",
+    "chapter": 9,
+    "nl": "degene / diegene",
+    "lemma": "degene / diegene",
+    "pos": "phrase",
+    "en": [
+      "the person"
+    ],
+    "primaryEn": "the person",
+    "source": "struikelwoorden",
+    "struikelwoord": true,
+    "examples": [
+      "Degene die nog vragen heeft, kan die straks aan mij stellen."
+    ]
+  },
+  {
+    "id": "h9-midden-in",
+    "chapter": 9,
+    "nl": "midden in",
+    "lemma": "midden in",
+    "pos": "phrase",
+    "en": [
+      "in the middle"
+    ],
+    "primaryEn": "in the middle",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h9-midden",
+    "chapter": 9,
+    "nl": "midden",
+    "lemma": "midden",
+    "pos": "other",
+    "en": [
+      "middle"
+    ],
+    "primaryEn": "middle",
+    "source": "vocabulaire-list",
+    "hint": "het midden"
+  },
+  {
+    "id": "h9-de-sfeer",
+    "chapter": 9,
+    "nl": "de sfeer",
+    "lemma": "sfeer",
+    "pos": "noun",
+    "en": [
+      "atmosphere"
+    ],
+    "primaryEn": "atmosphere",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h9-in-de-jaren-vijftig",
+    "chapter": 9,
+    "nl": "in de jaren vijftig",
+    "lemma": "in de jaren vijftig",
+    "pos": "phrase",
+    "en": [
+      "in the fifties"
+    ],
+    "primaryEn": "in the fifties",
+    "source": "generated"
+  },
+  {
+    "id": "h9-daar-komt-bij",
+    "chapter": 9,
+    "nl": "daar komt bij",
+    "lemma": "daar komt bij",
+    "pos": "phrase",
+    "en": [
+      "on top of that",
+      "moreover"
+    ],
+    "primaryEn": "on top of that",
+    "source": "generated"
+  },
+  {
+    "id": "h9-maar-liefst",
+    "chapter": 9,
+    "nl": "maar liefst",
+    "lemma": "maar liefst",
+    "pos": "phrase",
+    "en": [
+      "no fewer than",
+      "as many as"
+    ],
+    "primaryEn": "no fewer than",
+    "source": "generated"
+  },
+  {
+    "id": "h9-een-stuk-losser",
+    "chapter": 9,
+    "nl": "een stuk losser",
+    "lemma": "stuk losser",
+    "pos": "phrase",
+    "en": [
+      "a lot more relaxed"
+    ],
+    "primaryEn": "a lot more relaxed",
+    "source": "generated"
+  },
+  {
+    "id": "h9-op-prijs-stellen",
+    "chapter": 9,
+    "nl": "op prijs stellen",
+    "lemma": "op prijs stellen",
+    "pos": "phrase",
+    "en": [
+      "to appreciate"
+    ],
+    "primaryEn": "to appreciate",
+    "source": "generated"
+  },
+  {
+    "id": "h9-de-normaalste-zaak-van-de-wereld",
+    "chapter": 9,
+    "nl": "de normaalste zaak van de wereld",
+    "lemma": "normaalste zaak van de wereld",
+    "pos": "phrase",
+    "en": [
+      "the most normal thing in the world"
+    ],
+    "primaryEn": "the most normal thing in the world",
+    "source": "generated"
+  },
+  {
+    "id": "h9-absoluut",
+    "chapter": 9,
+    "nl": "absoluut",
+    "lemma": "absoluut",
+    "pos": "adjective",
+    "en": [
+      "absolute",
+      "absolutely"
+    ],
+    "primaryEn": "absolute",
+    "source": "generated"
+  },
+  {
+    "id": "h9-de-activiteit",
+    "chapter": 9,
+    "nl": "de activiteit",
+    "lemma": "activiteit",
+    "pos": "noun",
+    "en": [
+      "activity"
+    ],
+    "primaryEn": "activity",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h9-het-appje",
+    "chapter": 9,
+    "nl": "het appje",
+    "lemma": "appje",
+    "pos": "noun",
+    "en": [
+      "text message (WhatsApp)"
+    ],
+    "primaryEn": "text message (WhatsApp)",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "h9-de-camping",
+    "chapter": 9,
+    "nl": "de camping",
+    "lemma": "camping",
+    "pos": "noun",
+    "en": [
+      "campsite"
+    ],
+    "primaryEn": "campsite",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h9-de-expat",
+    "chapter": 9,
+    "nl": "de expat",
+    "lemma": "expat",
+    "pos": "noun",
+    "en": [
+      "expat"
+    ],
+    "primaryEn": "expat",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h9-isoleren",
+    "chapter": 9,
+    "nl": "isoleren",
+    "lemma": "isoleren",
+    "pos": "verb",
+    "en": [
+      "to isolate",
+      "to insulate"
+    ],
+    "primaryEn": "to isolate",
+    "source": "generated"
+  },
+  {
+    "id": "h9-mixen",
+    "chapter": 9,
+    "nl": "mixen",
+    "lemma": "mixen",
+    "pos": "verb",
+    "en": [
+      "to mix"
+    ],
+    "primaryEn": "to mix",
+    "source": "generated"
+  },
+  {
+    "id": "h9-het-motto",
+    "chapter": 9,
+    "nl": "het motto",
+    "lemma": "motto",
+    "pos": "noun",
+    "en": [
+      "motto"
+    ],
+    "primaryEn": "motto",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "h9-picknicken",
+    "chapter": 9,
+    "nl": "picknicken",
+    "lemma": "picknicken",
+    "pos": "verb",
+    "en": [
+      "to picnic"
+    ],
+    "primaryEn": "to picnic",
+    "source": "generated"
+  },
+  {
+    "id": "h9-plannen",
+    "chapter": 9,
+    "nl": "plannen",
+    "lemma": "plannen",
+    "pos": "verb",
+    "en": [
+      "to plan"
+    ],
+    "primaryEn": "to plan",
+    "source": "generated"
+  },
+  {
+    "id": "h9-de-portie",
+    "chapter": 9,
+    "nl": "de portie",
+    "lemma": "portie",
+    "pos": "noun",
+    "en": [
+      "portion",
+      "serving"
+    ],
+    "primaryEn": "portion",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h9-publiek",
+    "chapter": 9,
+    "nl": "publiek",
+    "lemma": "publiek",
+    "pos": "adjective",
+    "en": [
+      "public"
+    ],
+    "primaryEn": "public",
+    "source": "generated",
+    "note": "ook: het publiek = audience"
+  },
+  {
+    "id": "h9-spontaan",
+    "chapter": 9,
+    "nl": "spontaan",
+    "lemma": "spontaan",
+    "pos": "adjective",
+    "en": [
+      "spontaneous"
+    ],
+    "primaryEn": "spontaneous",
+    "source": "generated"
+  },
+  {
+    "id": "h9-strikt",
+    "chapter": 9,
+    "nl": "strikt",
+    "lemma": "strikt",
+    "pos": "adjective",
+    "en": [
+      "strict",
+      "strictly"
+    ],
+    "primaryEn": "strict",
+    "source": "generated"
+  },
+  {
+    "id": "h9-de-vriendschap",
+    "chapter": 9,
+    "nl": "de vriendschap",
+    "lemma": "vriendschap",
+    "pos": "noun",
+    "en": [
+      "friendship"
+    ],
+    "primaryEn": "friendship",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h9-de-whatsappgroep",
+    "chapter": 9,
+    "nl": "de whatsappgroep",
+    "lemma": "whatsappgroep",
+    "pos": "noun",
+    "en": [
+      "WhatsApp group"
+    ],
+    "primaryEn": "WhatsApp group",
+    "source": "generated",
+    "article": "de"
+  }
+]

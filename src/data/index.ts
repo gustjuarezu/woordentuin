@@ -1,23 +1,18 @@
 import type { ChapterMeta, Word } from "./types";
+import manifest from "./chapters/manifest.json";
 
-// One JSON file per chapter, loaded on demand. Add new chapters here after
-// running the ingestion tool (tools/ingest).
-export const chapters: ChapterMeta[] = [
-  {
-    number: 7,
-    title: "Hoofdstuk 7",
-    theme: "Nederlands leren",
-    wordCount: 72,
-    load: () => import("./chapters/hoofdstuk-07.json").then((m) => m.default as Word[]),
-  },
-  {
-    number: 8,
-    title: "Hoofdstuk 8",
-    theme: "Duurzaamheid",
-    wordCount: 71,
-    load: () => import("./chapters/hoofdstuk-08.json").then((m) => m.default as Word[]),
-  },
-];
+// manifest.json + one JSON file per chapter are emitted by the ingestion tool
+// (tools/ingest/ingest-book.mjs). Chapters load on demand.
+const files = import.meta.glob<{ default: Word[] }>("./chapters/hoofdstuk-*.json");
+
+const fileFor = (n: number) => `./chapters/hoofdstuk-${String(n).padStart(2, "0")}.json`;
+
+export const chapters: ChapterMeta[] = (
+  manifest as { number: number; title: string; theme: string; wordCount: number }[]
+).map((m) => ({
+  ...m,
+  load: () => files[fileFor(m.number)]().then((mod) => mod.default),
+}));
 
 export function chapterMeta(n: number): ChapterMeta | undefined {
   return chapters.find((c) => c.number === n);

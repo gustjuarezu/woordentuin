@@ -1,0 +1,68 @@
+[
+  {
+    "number": 1,
+    "title": "Hoofdstuk 1",
+    "theme": "Identiteit",
+    "wordCount": 108
+  },
+  {
+    "number": 2,
+    "title": "Hoofdstuk 2",
+    "theme": "Voeding en gezondheid",
+    "wordCount": 84
+  },
+  {
+    "number": 3,
+    "title": "Hoofdstuk 3",
+    "theme": "In Nederland",
+    "wordCount": 143
+  },
+  {
+    "number": 4,
+    "title": "Hoofdstuk 4",
+    "theme": "Reizen",
+    "wordCount": 125
+  },
+  {
+    "number": 5,
+    "title": "Hoofdstuk 5",
+    "theme": "Werk en beroepen",
+    "wordCount": 148
+  },
+  {
+    "number": 6,
+    "title": "Hoofdstuk 6",
+    "theme": "Onderwijs en wetenschap",
+    "wordCount": 106
+  },
+  {
+    "number": 7,
+    "title": "Hoofdstuk 7",
+    "theme": "Nederlands leren",
+    "wordCount": 74
+  },
+  {
+    "number": 8,
+    "title": "Hoofdstuk 8",
+    "theme": "Duurzaamheid",
+    "wordCount": 71
+  },
+  {
+    "number": 9,
+    "title": "Hoofdstuk 9",
+    "theme": "Relaties",
+    "wordCount": 82
+  },
+  {
+    "number": 10,
+    "title": "Hoofdstuk 10",
+    "theme": "Geld",
+    "wordCount": 78
+  },
+  {
+    "number": 11,
+    "title": "Hoofdstuk 11",
+    "theme": "Kunst",
+    "wordCount": 92
+  }
+]

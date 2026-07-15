@@ -1,0 +1,1243 @@
+[
+  {
+    "id": "h11-tikken",
+    "chapter": 11,
+    "nl": "tikken",
+    "lemma": "tikken",
+    "pos": "verb",
+    "en": [
+      "to tick"
+    ],
+    "primaryEn": "to tick",
+    "source": "vocabulaire-list",
+    "hint": "tikkende"
+  },
+  {
+    "id": "h11-snurken",
+    "chapter": 11,
+    "nl": "snurken",
+    "lemma": "snurken",
+    "pos": "verb",
+    "en": [
+      "to snore"
+    ],
+    "primaryEn": "to snore",
+    "source": "vocabulaire-list",
+    "hint": "snurkend"
+  },
+  {
+    "id": "h11-het-konijn",
+    "chapter": 11,
+    "nl": "het konijn",
+    "lemma": "konijn",
+    "pos": "noun",
+    "en": [
+      "rabbit"
+    ],
+    "primaryEn": "rabbit",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h11-de-geluidskunstenaar",
+    "chapter": 11,
+    "nl": "de geluidskunstenaar",
+    "lemma": "geluidskunstenaar",
+    "pos": "noun",
+    "en": [
+      "sound artist"
+    ],
+    "primaryEn": "sound artist",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h11-de-kunstenaar",
+    "chapter": 11,
+    "nl": "de kunstenaar",
+    "lemma": "kunstenaar",
+    "pos": "noun",
+    "en": [
+      "artist"
+    ],
+    "primaryEn": "artist",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h11-verzamelen",
+    "chapter": 11,
+    "nl": "verzamelen",
+    "lemma": "verzamelen",
+    "pos": "verb",
+    "en": [
+      "to collect"
+    ],
+    "primaryEn": "to collect",
+    "source": "vocabulaire-list",
+    "hint": "verzamelt"
+  },
+  {
+    "id": "h11-jarenlang",
+    "chapter": 11,
+    "nl": "jarenlang",
+    "lemma": "jarenlang",
+    "pos": "other",
+    "en": [
+      "for years"
+    ],
+    "primaryEn": "for years",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h11-huiselijk",
+    "chapter": 11,
+    "nl": "huiselijk",
+    "lemma": "huiselijk",
+    "pos": "other",
+    "en": [
+      "household",
+      "domestic"
+    ],
+    "primaryEn": "household",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h11-zoemen",
+    "chapter": 11,
+    "nl": "zoemen",
+    "lemma": "zoemen",
+    "pos": "verb",
+    "en": [
+      "to buzz",
+      "to hum"
+    ],
+    "primaryEn": "to buzz",
+    "source": "vocabulaire-list",
+    "hint": "zoemende"
+  },
+  {
+    "id": "h11-de-regenbui",
+    "chapter": 11,
+    "nl": "de regenbui",
+    "lemma": "regenbui",
+    "pos": "noun",
+    "en": [
+      "rain shower"
+    ],
+    "primaryEn": "rain shower",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h11-de-bui",
+    "chapter": 11,
+    "nl": "de bui",
+    "lemma": "bui",
+    "pos": "noun",
+    "en": [
+      "shower (rain, snow, hail)"
+    ],
+    "primaryEn": "shower (rain, snow, hail)",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h11-het-dak",
+    "chapter": 11,
+    "nl": "het dak",
+    "lemma": "dak",
+    "pos": "noun",
+    "en": [
+      "roof"
+    ],
+    "primaryEn": "roof",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h11-de-oproep",
+    "chapter": 11,
+    "nl": "de oproep",
+    "lemma": "oproep",
+    "pos": "noun",
+    "en": [
+      "call",
+      "appeal"
+    ],
+    "primaryEn": "call",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h11-kraken",
+    "chapter": 11,
+    "nl": "kraken",
+    "lemma": "kraken",
+    "pos": "verb",
+    "en": [
+      "to creak"
+    ],
+    "primaryEn": "to creak",
+    "source": "vocabulaire-list",
+    "hint": "krakende"
+  },
+  {
+    "id": "h11-de-traptrede",
+    "chapter": 11,
+    "nl": "de traptrede",
+    "lemma": "traptrede",
+    "pos": "noun",
+    "en": [
+      "step (of the stairs)"
+    ],
+    "primaryEn": "step (of the stairs)",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h11-opmerken",
+    "chapter": 11,
+    "nl": "opmerken",
+    "lemma": "opmerken",
+    "pos": "verb",
+    "en": [
+      "to notice"
+    ],
+    "primaryEn": "to notice",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "hint": "merken … op"
+  },
+  {
+    "id": "h11-amper",
+    "chapter": 11,
+    "nl": "amper",
+    "lemma": "amper",
+    "pos": "other",
+    "en": [
+      "hardly"
+    ],
+    "primaryEn": "hardly",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h11-de-kraak",
+    "chapter": 11,
+    "nl": "de kraak",
+    "lemma": "kraak",
+    "pos": "noun",
+    "en": [
+      "creak"
+    ],
+    "primaryEn": "creak",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h11-beluisteren",
+    "chapter": 11,
+    "nl": "beluisteren",
+    "lemma": "beluisteren",
+    "pos": "verb",
+    "en": [
+      "to listen to"
+    ],
+    "primaryEn": "to listen to",
+    "source": "vocabulaire-list",
+    "hint": "beluisterd"
+  },
+  {
+    "id": "h11-overslaan",
+    "chapter": 11,
+    "nl": "overslaan",
+    "lemma": "overslaan",
+    "pos": "verb",
+    "en": [
+      "to skip"
+    ],
+    "primaryEn": "to skip",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "sloeg over",
+      "perfect": "overgeslagen"
+    }
+  },
+  {
+    "id": "h11-stiekem",
+    "chapter": 11,
+    "nl": "stiekem",
+    "lemma": "stiekem",
+    "pos": "other",
+    "en": [
+      "secretly",
+      "sneaky"
+    ],
+    "primaryEn": "secretly",
+    "source": "vocabulaire-list",
+    "note": "hier: secretly, ook: sneaky"
+  },
+  {
+    "id": "h11-misstappen",
+    "chapter": 11,
+    "nl": "misstappen",
+    "lemma": "misstappen",
+    "pos": "verb",
+    "en": [
+      "to slip",
+      "to stumble"
+    ],
+    "primaryEn": "to slip",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "hint": "misstapt"
+  },
+  {
+    "id": "h11-mis",
+    "chapter": 11,
+    "nl": "mis",
+    "lemma": "mis",
+    "pos": "other",
+    "en": [
+      "wrong",
+      "wrongly"
+    ],
+    "primaryEn": "wrong",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h11-schrikken",
+    "chapter": 11,
+    "nl": "schrikken",
+    "lemma": "schrikken",
+    "pos": "verb",
+    "en": [
+      "to be shocked",
+      "to be scared"
+    ],
+    "primaryEn": "to be shocked",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "schrok",
+      "perfect": "is geschrokken"
+    },
+    "hint": "schrik"
+  },
+  {
+    "id": "h11-rot",
+    "chapter": 11,
+    "nl": "rot",
+    "lemma": "rot",
+    "pos": "other",
+    "en": [
+      "bad",
+      "nasty",
+      "rotten"
+    ],
+    "primaryEn": "bad",
+    "source": "struikelwoorden",
+    "struikelwoord": true,
+    "examples": [
+      "Wat een rotweer! Het waait hard en het regent al de hele dag."
+    ]
+  },
+  {
+    "id": "h11-richten-op",
+    "chapter": 11,
+    "nl": "richten op",
+    "lemma": "richten op",
+    "pos": "phrase",
+    "en": [
+      "to aim at",
+      "to focus on"
+    ],
+    "primaryEn": "to aim at",
+    "source": "vocabulaire-list",
+    "note": "hier: to aim at, ook: to focus on",
+    "hint": "richt … op"
+  },
+  {
+    "id": "h11-pruttelen",
+    "chapter": 11,
+    "nl": "pruttelen",
+    "lemma": "pruttelen",
+    "pos": "verb",
+    "en": [
+      "to bubble",
+      "to simmer"
+    ],
+    "primaryEn": "to bubble",
+    "source": "vocabulaire-list",
+    "hint": "pruttelende"
+  },
+  {
+    "id": "h11-het-koffiezetapparaat",
+    "chapter": 11,
+    "nl": "het koffiezetapparaat",
+    "lemma": "koffiezetapparaat",
+    "pos": "noun",
+    "en": [
+      "coffee machine"
+    ],
+    "primaryEn": "coffee machine",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h11-de-zoem",
+    "chapter": 11,
+    "nl": "de zoem",
+    "lemma": "zoem",
+    "pos": "noun",
+    "en": [
+      "hum"
+    ],
+    "primaryEn": "hum",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h11-raken",
+    "chapter": 11,
+    "nl": "raken",
+    "lemma": "raken",
+    "pos": "verb",
+    "en": [
+      "to hit",
+      "to touch",
+      "to concern"
+    ],
+    "primaryEn": "to hit",
+    "source": "struikelwoorden",
+    "struikelwoord": true,
+    "examples": [
+      "In een museum mag je de schilderijen niet aanraken. Je mag er alleen naar kijken."
+    ]
+  },
+  {
+    "id": "h11-de-kunstacademie",
+    "chapter": 11,
+    "nl": "de kunstacademie",
+    "lemma": "kunstacademie",
+    "pos": "noun",
+    "en": [
+      "art academy"
+    ],
+    "primaryEn": "art academy",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h11-onverwacht",
+    "chapter": 11,
+    "nl": "onverwacht",
+    "lemma": "onverwacht",
+    "pos": "other",
+    "en": [
+      "unexpected",
+      "unexpectedly"
+    ],
+    "primaryEn": "unexpected",
+    "source": "vocabulaire-list",
+    "hint": "s"
+  },
+  {
+    "id": "h11-afstuderen",
+    "chapter": 11,
+    "nl": "afstuderen",
+    "lemma": "afstuderen",
+    "pos": "verb",
+    "en": [
+      "to graduate"
+    ],
+    "primaryEn": "to graduate",
+    "source": "vocabulaire-list",
+    "separable": true
+  },
+  {
+    "id": "h11-de-schilder",
+    "chapter": 11,
+    "nl": "de schilder",
+    "lemma": "schilder",
+    "pos": "noun",
+    "en": [
+      "painter"
+    ],
+    "primaryEn": "painter",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h11-het-conservatorium",
+    "chapter": 11,
+    "nl": "het conservatorium",
+    "lemma": "conservatorium",
+    "pos": "noun",
+    "en": [
+      "conservatoire",
+      "academy of music"
+    ],
+    "primaryEn": "conservatoire",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h11-zat",
+    "chapter": 11,
+    "nl": "zat",
+    "lemma": "zat",
+    "pos": "other",
+    "en": [
+      "drunk",
+      "plenty"
+    ],
+    "primaryEn": "drunk",
+    "source": "struikelwoorden",
+    "struikelwoord": true,
+    "examples": [
+      "Loredana is het lied helemaal zat. Ze vindt het nummer helemaal niet leuk meer."
+    ]
+  },
+  {
+    "id": "h11-al",
+    "chapter": 11,
+    "nl": "al",
+    "lemma": "al",
+    "pos": "other",
+    "en": [
+      "although",
+      "all",
+      "already"
+    ],
+    "primaryEn": "although",
+    "source": "vocabulaire-list",
+    "note": "hier: although, ook: all, already"
+  },
+  {
+    "id": "h11-insluipen",
+    "chapter": 11,
+    "nl": "insluipen",
+    "lemma": "insluipen",
+    "pos": "verb",
+    "en": [
+      "to creep in"
+    ],
+    "primaryEn": "to creep in",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "sloop in",
+      "perfect": "is ingeslopen"
+    },
+    "hint": "sloop … in"
+  },
+  {
+    "id": "h11-vertrouwd",
+    "chapter": 11,
+    "nl": "vertrouwd",
+    "lemma": "vertrouwd",
+    "pos": "other",
+    "en": [
+      "familiar"
+    ],
+    "primaryEn": "familiar",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h11-beeldend",
+    "chapter": 11,
+    "nl": "beeldend",
+    "lemma": "beeldend",
+    "pos": "other",
+    "en": [
+      "visual"
+    ],
+    "primaryEn": "visual",
+    "source": "vocabulaire-list",
+    "hint": "beeldende"
+  },
+  {
+    "id": "h11-de-hoofdrol",
+    "chapter": 11,
+    "nl": "de hoofdrol",
+    "lemma": "hoofdrol",
+    "pos": "noun",
+    "en": [
+      "lead role"
+    ],
+    "primaryEn": "lead role",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h11-de-geluidswandeling",
+    "chapter": 11,
+    "nl": "de geluidswandeling",
+    "lemma": "geluidswandeling",
+    "pos": "noun",
+    "en": [
+      "sound walk"
+    ],
+    "primaryEn": "sound walk",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h11-de-wandeling",
+    "chapter": 11,
+    "nl": "de wandeling",
+    "lemma": "wandeling",
+    "pos": "noun",
+    "en": [
+      "walk"
+    ],
+    "primaryEn": "walk",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h11-het-kunstwerk",
+    "chapter": 11,
+    "nl": "het kunstwerk",
+    "lemma": "kunstwerk",
+    "pos": "noun",
+    "en": [
+      "work of art"
+    ],
+    "primaryEn": "work of art",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h11-aanwezig",
+    "chapter": 11,
+    "nl": "aanwezig",
+    "lemma": "aanwezig",
+    "pos": "other",
+    "en": [
+      "present"
+    ],
+    "primaryEn": "present",
+    "source": "vocabulaire-list",
+    "hint": "aanweziger"
+  },
+  {
+    "id": "h11-de-ontdekking",
+    "chapter": 11,
+    "nl": "de ontdekking",
+    "lemma": "ontdekking",
+    "pos": "noun",
+    "en": [
+      "discovery"
+    ],
+    "primaryEn": "discovery",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h11-oprichten",
+    "chapter": 11,
+    "nl": "oprichten",
+    "lemma": "oprichten",
+    "pos": "verb",
+    "en": [
+      "to found"
+    ],
+    "primaryEn": "to found",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "hint": "richtte … op"
+  },
+  {
+    "id": "h11-overkoepelend",
+    "chapter": 11,
+    "nl": "overkoepelend",
+    "lemma": "overkoepelend",
+    "pos": "other",
+    "en": [
+      "overarching"
+    ],
+    "primaryEn": "overarching",
+    "source": "vocabulaire-list",
+    "hint": "overkoepelende"
+  },
+  {
+    "id": "h11-deelnemen",
+    "chapter": 11,
+    "nl": "deelnemen",
+    "lemma": "deelnemen",
+    "pos": "verb",
+    "en": [
+      "to participate (in)"
+    ],
+    "primaryEn": "to participate (in)",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "nam deel",
+      "perfect": "deelgenomen"
+    },
+    "hint": "neemt deel aan"
+  },
+  {
+    "id": "h11-de-tentoonstelling",
+    "chapter": 11,
+    "nl": "de tentoonstelling",
+    "lemma": "tentoonstelling",
+    "pos": "noun",
+    "en": [
+      "exhibitions"
+    ],
+    "primaryEn": "exhibitions",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "tentoonstellingen"
+  },
+  {
+    "id": "h11-de-verzameling",
+    "chapter": 11,
+    "nl": "de verzameling",
+    "lemma": "verzameling",
+    "pos": "noun",
+    "en": [
+      "collection"
+    ],
+    "primaryEn": "collection",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h11-uitbreiden",
+    "chapter": 11,
+    "nl": "uitbreiden",
+    "lemma": "uitbreiden",
+    "pos": "verb",
+    "en": [
+      "to expand",
+      "to add to"
+    ],
+    "primaryEn": "to expand",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "hint": "uitgebreid"
+  },
+  {
+    "id": "h11-opsturen",
+    "chapter": 11,
+    "nl": "opsturen",
+    "lemma": "opsturen",
+    "pos": "verb",
+    "en": [
+      "to send"
+    ],
+    "primaryEn": "to send",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "hint": "op … sturen"
+  },
+  {
+    "id": "h11-meerdere",
+    "chapter": 11,
+    "nl": "meerdere",
+    "lemma": "meerdere",
+    "pos": "other",
+    "en": [
+      "multiple"
+    ],
+    "primaryEn": "multiple",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h11-het-audiobestand",
+    "chapter": 11,
+    "nl": "het audiobestand",
+    "lemma": "audiobestand",
+    "pos": "noun",
+    "en": [
+      "audio files"
+    ],
+    "primaryEn": "audio files",
+    "source": "vocabulaire-list",
+    "article": "het",
+    "hint": "audiobestanden"
+  },
+  {
+    "id": "h11-het-bestand",
+    "chapter": 11,
+    "nl": "het bestand",
+    "lemma": "bestand",
+    "pos": "noun",
+    "en": [
+      "file"
+    ],
+    "primaryEn": "file",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h11-spinnen",
+    "chapter": 11,
+    "nl": "spinnen",
+    "lemma": "spinnen",
+    "pos": "other",
+    "en": [
+      "purring (to purr)"
+    ],
+    "primaryEn": "purring (to purr)",
+    "source": "vocabulaire-list",
+    "hint": "spinnende"
+  },
+  {
+    "id": "h11-de-opname",
+    "chapter": 11,
+    "nl": "de opname",
+    "lemma": "opname",
+    "pos": "noun",
+    "en": [
+      "recordings"
+    ],
+    "primaryEn": "recordings",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "opnames"
+  },
+  {
+    "id": "h11-fluiten",
+    "chapter": 11,
+    "nl": "fluiten",
+    "lemma": "fluiten",
+    "pos": "other",
+    "en": [
+      "whistling (to whistle)"
+    ],
+    "primaryEn": "whistling (to whistle)",
+    "source": "vocabulaire-list",
+    "hint": "fluitende"
+  },
+  {
+    "id": "h11-gevoelig",
+    "chapter": 11,
+    "nl": "gevoelig",
+    "lemma": "gevoelig",
+    "pos": "other",
+    "en": [
+      "sensitive"
+    ],
+    "primaryEn": "sensitive",
+    "source": "vocabulaire-list",
+    "hint": "gevoeliger"
+  },
+  {
+    "id": "h11-stil",
+    "chapter": 11,
+    "nl": "stil",
+    "lemma": "stil",
+    "pos": "other",
+    "en": [
+      "quiet"
+    ],
+    "primaryEn": "quiet",
+    "source": "vocabulaire-list",
+    "hint": "stiller"
+  },
+  {
+    "id": "h11-het-geluidsportret",
+    "chapter": 11,
+    "nl": "het geluidsportret",
+    "lemma": "geluidsportret",
+    "pos": "noun",
+    "en": [
+      "sound portraits"
+    ],
+    "primaryEn": "sound portraits",
+    "source": "vocabulaire-list",
+    "article": "het",
+    "hint": "geluidsportretten"
+  },
+  {
+    "id": "h11-gloednieuw",
+    "chapter": 11,
+    "nl": "gloednieuw",
+    "lemma": "gloednieuw",
+    "pos": "other",
+    "en": [
+      "brand new"
+    ],
+    "primaryEn": "brand new",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h11-de-dame",
+    "chapter": 11,
+    "nl": "de dame",
+    "lemma": "dame",
+    "pos": "noun",
+    "en": [
+      "ladies"
+    ],
+    "primaryEn": "ladies",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "dames"
+  },
+  {
+    "id": "h11-de-buitenwereld",
+    "chapter": 11,
+    "nl": "de buitenwereld",
+    "lemma": "buitenwereld",
+    "pos": "noun",
+    "en": [
+      "outside world"
+    ],
+    "primaryEn": "outside world",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h11-evenmin",
+    "chapter": 11,
+    "nl": "evenmin",
+    "lemma": "evenmin",
+    "pos": "other",
+    "en": [
+      "neither"
+    ],
+    "primaryEn": "neither",
+    "source": "struikelwoorden",
+    "struikelwoord": true,
+    "examples": [
+      "Mijn beste vriendin komt niet naar mijn concert en haar man evenmin. Ze hebben allebei een andere afspraak."
+    ]
+  },
+  {
+    "id": "h11-wellicht",
+    "chapter": 11,
+    "nl": "wellicht",
+    "lemma": "wellicht",
+    "pos": "other",
+    "en": [
+      "perhaps"
+    ],
+    "primaryEn": "perhaps",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h11-de-relativering",
+    "chapter": 11,
+    "nl": "de relativering",
+    "lemma": "relativering",
+    "pos": "noun",
+    "en": [
+      "perspective"
+    ],
+    "primaryEn": "perspective",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h11-relativeren",
+    "chapter": 11,
+    "nl": "relativeren",
+    "lemma": "relativeren",
+    "pos": "verb",
+    "en": [
+      "to put into perspective"
+    ],
+    "primaryEn": "to put into perspective",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h11-in-de-ban-raken-van-iets",
+    "chapter": 11,
+    "nl": "in de ban raken van iets",
+    "lemma": "in de ban raken van iets",
+    "pos": "phrase",
+    "en": [
+      "to fall under the spell of something"
+    ],
+    "primaryEn": "to fall under the spell of something",
+    "source": "generated"
+  },
+  {
+    "id": "h11-aan-bod-komen",
+    "chapter": 11,
+    "nl": "aan bod komen",
+    "lemma": "aan bod komen",
+    "pos": "phrase",
+    "en": [
+      "to be covered",
+      "to get a turn"
+    ],
+    "primaryEn": "to be covered",
+    "source": "generated"
+  },
+  {
+    "id": "h11-de-dienst-uitmaken",
+    "chapter": 11,
+    "nl": "de dienst uitmaken",
+    "lemma": "dienst uitmaken",
+    "pos": "phrase",
+    "en": [
+      "to call the shots"
+    ],
+    "primaryEn": "to call the shots",
+    "source": "generated"
+  },
+  {
+    "id": "h11-tegen-de-duizend",
+    "chapter": 11,
+    "nl": "tegen de duizend",
+    "lemma": "tegen de duizend",
+    "pos": "phrase",
+    "en": [
+      "close to a thousand"
+    ],
+    "primaryEn": "close to a thousand",
+    "source": "generated"
+  },
+  {
+    "id": "h11-iets-voor-lief-nemen",
+    "chapter": 11,
+    "nl": "iets voor lief nemen",
+    "lemma": "iets voor lief nemen",
+    "pos": "phrase",
+    "en": [
+      "to put up with something",
+      "to accept something as a given"
+    ],
+    "primaryEn": "to put up with something",
+    "source": "generated"
+  },
+  {
+    "id": "h11-op-zijn-plek-vallen",
+    "chapter": 11,
+    "nl": "op zijn plek vallen",
+    "lemma": "op zijn plek vallen",
+    "pos": "phrase",
+    "en": [
+      "to fall into place"
+    ],
+    "primaryEn": "to fall into place",
+    "source": "generated"
+  },
+  {
+    "id": "h11-zich-rot-schrikken",
+    "chapter": 11,
+    "nl": "zich rot schrikken",
+    "lemma": "rot schrikken",
+    "pos": "phrase",
+    "en": [
+      "to get the fright of your life"
+    ],
+    "primaryEn": "to get the fright of your life",
+    "source": "generated",
+    "reflexive": true
+  },
+  {
+    "id": "h11-vast-niet",
+    "chapter": 11,
+    "nl": "vast niet",
+    "lemma": "vast niet",
+    "pos": "phrase",
+    "en": [
+      "surely not",
+      "probably not"
+    ],
+    "primaryEn": "surely not",
+    "source": "generated"
+  },
+  {
+    "id": "h11-vlak-na",
+    "chapter": 11,
+    "nl": "vlak na",
+    "lemma": "vlak na",
+    "pos": "phrase",
+    "en": [
+      "right after"
+    ],
+    "primaryEn": "right after",
+    "source": "generated"
+  },
+  {
+    "id": "h11-door-de-week",
+    "chapter": 11,
+    "nl": "door de week",
+    "lemma": "door de week",
+    "pos": "phrase",
+    "en": [
+      "during the week",
+      "on weekdays"
+    ],
+    "primaryEn": "during the week",
+    "source": "generated"
+  },
+  {
+    "id": "h11-iets-zat-zijn",
+    "chapter": 11,
+    "nl": "iets zat zijn",
+    "lemma": "iets zat zijn",
+    "pos": "phrase",
+    "en": [
+      "to be fed up with something"
+    ],
+    "primaryEn": "to be fed up with something",
+    "source": "generated"
+  },
+  {
+    "id": "h11-de-collectie",
+    "chapter": 11,
+    "nl": "de collectie",
+    "lemma": "collectie",
+    "pos": "noun",
+    "en": [
+      "collection"
+    ],
+    "primaryEn": "collection",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h11-de-fan",
+    "chapter": 11,
+    "nl": "de fan",
+    "lemma": "fan",
+    "pos": "noun",
+    "en": [
+      "fan"
+    ],
+    "primaryEn": "fan",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h11-de-locatie",
+    "chapter": 11,
+    "nl": "de locatie",
+    "lemma": "locatie",
+    "pos": "noun",
+    "en": [
+      "location",
+      "venue"
+    ],
+    "primaryEn": "location",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h11-het-materiaal",
+    "chapter": 11,
+    "nl": "het materiaal",
+    "lemma": "materiaal",
+    "pos": "noun",
+    "en": [
+      "material"
+    ],
+    "primaryEn": "material",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "h11-de-musicus",
+    "chapter": 11,
+    "nl": "de musicus",
+    "lemma": "musicus",
+    "pos": "noun",
+    "en": [
+      "musician"
+    ],
+    "primaryEn": "musician",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h11-de-performance",
+    "chapter": 11,
+    "nl": "de performance",
+    "lemma": "performance",
+    "pos": "noun",
+    "en": [
+      "performance"
+    ],
+    "primaryEn": "performance",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h11-de-podcast",
+    "chapter": 11,
+    "nl": "de podcast",
+    "lemma": "podcast",
+    "pos": "noun",
+    "en": [
+      "podcast"
+    ],
+    "primaryEn": "podcast",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h11-de-presentatie",
+    "chapter": 11,
+    "nl": "de presentatie",
+    "lemma": "presentatie",
+    "pos": "noun",
+    "en": [
+      "presentation"
+    ],
+    "primaryEn": "presentation",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h11-simpel",
+    "chapter": 11,
+    "nl": "simpel",
+    "lemma": "simpel",
+    "pos": "adjective",
+    "en": [
+      "simple"
+    ],
+    "primaryEn": "simple",
+    "source": "generated"
+  },
+  {
+    "id": "h11-specifiek",
+    "chapter": 11,
+    "nl": "specifiek",
+    "lemma": "specifiek",
+    "pos": "adjective",
+    "en": [
+      "specific",
+      "specifically"
+    ],
+    "primaryEn": "specific",
+    "source": "generated"
+  },
+  {
+    "id": "h11-totaal",
+    "chapter": 11,
+    "nl": "totaal",
+    "lemma": "totaal",
+    "pos": "adjective",
+    "en": [
+      "total",
+      "totally"
+    ],
+    "primaryEn": "total",
+    "source": "generated"
+  },
+  {
+    "id": "h11-de-workshop",
+    "chapter": 11,
+    "nl": "de workshop",
+    "lemma": "workshop",
+    "pos": "noun",
+    "en": [
+      "workshop"
+    ],
+    "primaryEn": "workshop",
+    "source": "generated",
+    "article": "de"
+  }
+]

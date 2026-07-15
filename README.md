@@ -1,32 +1,61 @@
-# React + TypeScript + Vite
+# 🌱 Woordentuin
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A Duolingo-style Dutch vocabulary trainer for the textbook **Nederlands in actie**
+(4th edition), chapter by hoofdstuk. Mobile-first installable PWA: spaced repetition
+(SM-2-lite), five exercise types, Dutch-only text-to-speech, and a garden that blooms
+as words stick. Local-first — each learner's progress lives in their own browser
+(IndexedDB); the URL is shareable with classmates.
 
-Currently, two official plugins are available:
+## Develop
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
-
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
+```bash
+npm install
+npm run dev        # dev server
+npm test           # Vitest: engine + data validation + golden fixtures
+npm run build      # static bundle in dist/ (PWA: service worker + manifest)
+npm run preview    # serve the built bundle
 ```
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+## Deploy (static hosting)
+
+`npm run build`, then drop `dist/` on Netlify, Vercel, or GitHub Pages — no backend,
+no rewrite rules needed (hash routing, relative base). Open the URL on an iPhone in
+Safari → Share → **Add to Home Screen** for the full-screen app. This replaces the old
+Google Apps Script hosting hack (the prototype's Code.gs).
+
+Dutch audio requires a Dutch system voice; the app never falls back to an English
+voice and explains how to install one (iPhone: Settings → Accessibility → Spoken
+Content → Voices → Nederlands, pick "Enhanced").
+
+## Structure
+
+```
+src/engine/    srs.ts (SM-2-lite) · checkAnswer.ts · session.ts · mask.ts  — pure, tested
+src/data/      types.ts · chapters/hoofdstuk-NN.json + manifest.json (generated)
+src/store/     Dexie (IndexedDB) behind storage.ts · zustand app store
+src/app/       routes: Home / Chapter / Lesson / Review / Stats / Settings
+src/components exercises, garden, feedback sheet, summary
+src/audio/     tts.ts — strict Dutch voice selection
+tools/ingest/  book PDF → chapter JSON pipeline (see below)
+reference/     woordentuin.html — the original prototype (design + seed data)
+```
+
+## Ingestion: book → chapter JSON
+
+```bash
+node tools/ingest/ingest-book.mjs   # reads reference/Nederlands_in_actie.pdf (not in git)
+```
+
+Parses each chapter's two-column Vocabulaire list (authoritative English),
+Struikelwoorden example sentences, and the end-of-chapter index (canonical lemmas,
+Idioom, Preposities, irregular + separable verbs), reconciles them, and emits
+`src/data/chapters/hoofdstuk-NN.json` + `manifest.json` + a per-chapter
+`tools/ingest/review/hoofdstuk-NN_review.md` listing anything that needs a human
+glance. Dutch-only entries get glosses from `tools/ingest/generated-glosses.json`;
+entries without a reviewed gloss are flagged `needsReview` in the data.
+
+The extraction is cached in `tools/ingest/.cache/`; delete it to re-extract.
+Golden tests assert H7/H8 reproduce the hand-digitized prototype data.
+
+**Copyright**: the app stores vocabulary lists and short example sentences only, for
+personal study. The book PDF itself is gitignored — keep it out of the repo.

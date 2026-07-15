@@ -1,0 +1,1488 @@
+[
+  {
+    "id": "h1-de-leeftijd",
+    "chapter": 1,
+    "nl": "de leeftijd",
+    "lemma": "leeftijd",
+    "pos": "noun",
+    "en": [
+      "age"
+    ],
+    "primaryEn": "age",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h1-vierdejaarsstudent-rechten",
+    "chapter": 1,
+    "nl": "vierdejaarsstudent rechten",
+    "lemma": "vierdejaarsstudent rechten",
+    "pos": "phrase",
+    "en": [
+      "fourth-year law student"
+    ],
+    "primaryEn": "fourth-year law student",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h1-grappig",
+    "chapter": 1,
+    "nl": "grappig",
+    "lemma": "grappig",
+    "pos": "other",
+    "en": [
+      "funny"
+    ],
+    "primaryEn": "funny",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h1-vernoemen",
+    "chapter": 1,
+    "nl": "vernoemen",
+    "lemma": "vernoemen",
+    "pos": "verb",
+    "en": [
+      "to name (after)"
+    ],
+    "primaryEn": "to name (after)",
+    "source": "vocabulaire-list",
+    "hint": "vernoemd naar"
+  },
+  {
+    "id": "h1-verwarren",
+    "chapter": 1,
+    "nl": "verwarren",
+    "lemma": "verwarren",
+    "pos": "other",
+    "en": [
+      "confusing (to confuse)"
+    ],
+    "primaryEn": "confusing (to confuse)",
+    "source": "vocabulaire-list",
+    "hint": "verwarrend"
+  },
+  {
+    "id": "h1-tekenen",
+    "chapter": 1,
+    "nl": "tekenen",
+    "lemma": "tekenen",
+    "pos": "verb",
+    "en": [
+      "to draw"
+    ],
+    "primaryEn": "to draw",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h1-schilderen",
+    "chapter": 1,
+    "nl": "schilderen",
+    "lemma": "schilderen",
+    "pos": "verb",
+    "en": [
+      "to paint"
+    ],
+    "primaryEn": "to paint",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h1-muzikaal",
+    "chapter": 1,
+    "nl": "muzikaal",
+    "lemma": "muzikaal",
+    "pos": "other",
+    "en": [
+      "musically inclined"
+    ],
+    "primaryEn": "musically inclined",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h1-zingen",
+    "chapter": 1,
+    "nl": "zingen",
+    "lemma": "zingen",
+    "pos": "verb",
+    "en": [
+      "to sing"
+    ],
+    "primaryEn": "to sing",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "zong",
+      "perfect": "gezongen"
+    },
+    "hint": "zing"
+  },
+  {
+    "id": "h1-benieuwd",
+    "chapter": 1,
+    "nl": "benieuwd",
+    "lemma": "benieuwd",
+    "pos": "other",
+    "en": [
+      "curious (about)"
+    ],
+    "primaryEn": "curious (about)",
+    "source": "vocabulaire-list",
+    "hint": "naar"
+  },
+  {
+    "id": "h1-precies",
+    "chapter": 1,
+    "nl": "precies",
+    "lemma": "precies",
+    "pos": "other",
+    "en": [
+      "exact",
+      "exactly"
+    ],
+    "primaryEn": "exact",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h1-de-beer",
+    "chapter": 1,
+    "nl": "de beer",
+    "lemma": "beer",
+    "pos": "noun",
+    "en": [
+      "bears"
+    ],
+    "primaryEn": "bears",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "beren"
+  },
+  {
+    "id": "h1-het-beest",
+    "chapter": 1,
+    "nl": "het beest",
+    "lemma": "beest",
+    "pos": "noun",
+    "en": [
+      "animals",
+      "beasts"
+    ],
+    "primaryEn": "animals",
+    "source": "vocabulaire-list",
+    "article": "het",
+    "note": "hier: animals, ook: beasts",
+    "hint": "beesten"
+  },
+  {
+    "id": "h1-sterk",
+    "chapter": 1,
+    "nl": "sterk",
+    "lemma": "sterk",
+    "pos": "other",
+    "en": [
+      "strong"
+    ],
+    "primaryEn": "strong",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h1-gevaarlijk",
+    "chapter": 1,
+    "nl": "gevaarlijk",
+    "lemma": "gevaarlijk",
+    "pos": "other",
+    "en": [
+      "dangerous"
+    ],
+    "primaryEn": "dangerous",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h1-de-vlinder",
+    "chapter": 1,
+    "nl": "de vlinder",
+    "lemma": "vlinder",
+    "pos": "noun",
+    "en": [
+      "butterfly"
+    ],
+    "primaryEn": "butterfly",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h1-het-paard",
+    "chapter": 1,
+    "nl": "het paard",
+    "lemma": "paard",
+    "pos": "noun",
+    "en": [
+      "horse"
+    ],
+    "primaryEn": "horse",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h1-vliegen",
+    "chapter": 1,
+    "nl": "vliegen",
+    "lemma": "vliegen",
+    "pos": "verb",
+    "en": [
+      "to fly"
+    ],
+    "primaryEn": "to fly",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "vloog",
+      "perfect": "(is) gevlogen"
+    }
+  },
+  {
+    "id": "h1-indrukwekkend",
+    "chapter": 1,
+    "nl": "indrukwekkend",
+    "lemma": "indrukwekkend",
+    "pos": "other",
+    "en": [
+      "impressive"
+    ],
+    "primaryEn": "impressive",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h1-merken",
+    "chapter": 1,
+    "nl": "merken",
+    "lemma": "merken",
+    "pos": "other",
+    "en": [
+      "you see",
+      "as you can see",
+      "to see"
+    ],
+    "primaryEn": "you see",
+    "source": "vocabulaire-list",
+    "note": "hier: you see, as you can see, ook: to see",
+    "hint": "merkt"
+  },
+  {
+    "id": "h1-that",
+    "chapter": 1,
+    "nl": "(that)",
+    "lemma": "(that)",
+    "pos": "verb",
+    "en": [
+      "to notice (that)"
+    ],
+    "primaryEn": "to notice (that)",
+    "source": "vocabulaire-list",
+    "hint": "that"
+  },
+  {
+    "id": "h1-trots",
+    "chapter": 1,
+    "nl": "trots",
+    "lemma": "trots",
+    "pos": "other",
+    "en": [
+      "proud of"
+    ],
+    "primaryEn": "proud of",
+    "source": "vocabulaire-list",
+    "hint": "trots op"
+  },
+  {
+    "id": "h1-de-held",
+    "chapter": 1,
+    "nl": "de held",
+    "lemma": "held",
+    "pos": "noun",
+    "en": [
+      "hero"
+    ],
+    "primaryEn": "hero",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h1-zorgen-voor",
+    "chapter": 1,
+    "nl": "zorgen voor",
+    "lemma": "zorgen voor",
+    "pos": "phrase",
+    "en": [
+      "to take care of",
+      "to care for"
+    ],
+    "primaryEn": "to take care of",
+    "source": "struikelwoorden",
+    "note": "hier: to take care of, ook: to care for",
+    "hint": "voor … gezorgd",
+    "struikelwoord": true,
+    "examples": [
+      "Nabil heeft voor zijn moeder gezorgd toen ze ziek was."
+    ]
+  },
+  {
+    "id": "h1-ernstig",
+    "chapter": 1,
+    "nl": "ernstig",
+    "lemma": "ernstig",
+    "pos": "other",
+    "en": [
+      "serious",
+      "seriously"
+    ],
+    "primaryEn": "serious",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h1-vrolijk",
+    "chapter": 1,
+    "nl": "vrolijk",
+    "lemma": "vrolijk",
+    "pos": "other",
+    "en": [
+      "cheerful",
+      "happy"
+    ],
+    "primaryEn": "cheerful",
+    "source": "vocabulaire-list",
+    "hint": "vrolijke"
+  },
+  {
+    "id": "h1-vooral",
+    "chapter": 1,
+    "nl": "vooral",
+    "lemma": "vooral",
+    "pos": "other",
+    "en": [
+      "especially"
+    ],
+    "primaryEn": "especially",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h1-de-oplossing",
+    "chapter": 1,
+    "nl": "de oplossing",
+    "lemma": "oplossing",
+    "pos": "noun",
+    "en": [
+      "solution"
+    ],
+    "primaryEn": "solution",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h1-heb-een-hekel-aan",
+    "chapter": 1,
+    "nl": "heb een hekel aan",
+    "lemma": "heb een hekel aan",
+    "pos": "phrase",
+    "en": [
+      "cannot stand",
+      "to dislike",
+      "to hate"
+    ],
+    "primaryEn": "cannot stand",
+    "source": "vocabulaire-list",
+    "note": "hier: cannot stand, ook: to dislike, to hate",
+    "hint": "een hekel hebben aan"
+  },
+  {
+    "id": "h1-het-lawaai",
+    "chapter": 1,
+    "nl": "het lawaai",
+    "lemma": "lawaai",
+    "pos": "noun",
+    "en": [
+      "noise"
+    ],
+    "primaryEn": "noise",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h1-schreeuwen",
+    "chapter": 1,
+    "nl": "schreeuwen",
+    "lemma": "schreeuwen",
+    "pos": "verb",
+    "en": [
+      "to shout"
+    ],
+    "primaryEn": "to shout",
+    "source": "vocabulaire-list",
+    "hint": "schreeuwt"
+  },
+  {
+    "id": "h1-de-tekening",
+    "chapter": 1,
+    "nl": "de tekening",
+    "lemma": "tekening",
+    "pos": "noun",
+    "en": [
+      "drawings"
+    ],
+    "primaryEn": "drawings",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "tekeningen"
+  },
+  {
+    "id": "h1-het-tijdschrift",
+    "chapter": 1,
+    "nl": "het tijdschrift",
+    "lemma": "tijdschrift",
+    "pos": "noun",
+    "en": [
+      "magazines"
+    ],
+    "primaryEn": "magazines",
+    "source": "vocabulaire-list",
+    "article": "het",
+    "hint": "tijdschriften"
+  },
+  {
+    "id": "h1-sturen",
+    "chapter": 1,
+    "nl": "sturen",
+    "lemma": "sturen",
+    "pos": "verb",
+    "en": [
+      "to send (to)"
+    ],
+    "primaryEn": "to send (to)",
+    "source": "vocabulaire-list",
+    "hint": "naar … stuur"
+  },
+  {
+    "id": "h1-sommige",
+    "chapter": 1,
+    "nl": "sommige",
+    "lemma": "sommige",
+    "pos": "other",
+    "en": [
+      "some"
+    ],
+    "primaryEn": "some",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h1-zelfs",
+    "chapter": 1,
+    "nl": "zelfs",
+    "lemma": "zelfs",
+    "pos": "other",
+    "en": [
+      "even"
+    ],
+    "primaryEn": "even",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h1-publiceren",
+    "chapter": 1,
+    "nl": "publiceren",
+    "lemma": "publiceren",
+    "pos": "verb",
+    "en": [
+      "to publish"
+    ],
+    "primaryEn": "to publish",
+    "source": "vocabulaire-list",
+    "hint": "gepubliceerd"
+  },
+  {
+    "id": "h1-bescheiden",
+    "chapter": 1,
+    "nl": "bescheiden",
+    "lemma": "bescheiden",
+    "pos": "other",
+    "en": [
+      "modest"
+    ],
+    "primaryEn": "modest",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h1-universitair",
+    "chapter": 1,
+    "nl": "universitair",
+    "lemma": "universitair",
+    "pos": "other",
+    "en": [
+      "university"
+    ],
+    "primaryEn": "university",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h1-medisch",
+    "chapter": 1,
+    "nl": "medisch",
+    "lemma": "medisch",
+    "pos": "other",
+    "en": [
+      "medical"
+    ],
+    "primaryEn": "medical",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h1-het-bezit",
+    "chapter": 1,
+    "nl": "het bezit",
+    "lemma": "bezit",
+    "pos": "noun",
+    "en": [
+      "possession"
+    ],
+    "primaryEn": "possession",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h1-de-spullen",
+    "chapter": 1,
+    "nl": "de spullen",
+    "lemma": "spullen",
+    "pos": "noun",
+    "en": [
+      "things"
+    ],
+    "primaryEn": "things",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h1-fluisteren",
+    "chapter": 1,
+    "nl": "fluisteren",
+    "lemma": "fluisteren",
+    "pos": "verb",
+    "en": [
+      "to whisper"
+    ],
+    "primaryEn": "to whisper",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h1-het-gevoel",
+    "chapter": 1,
+    "nl": "het gevoel",
+    "lemma": "gevoel",
+    "pos": "noun",
+    "en": [
+      "feeling"
+    ],
+    "primaryEn": "feeling",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h1-de-droom",
+    "chapter": 1,
+    "nl": "de droom",
+    "lemma": "droom",
+    "pos": "noun",
+    "en": [
+      "dream"
+    ],
+    "primaryEn": "dream",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h1-de-wereld",
+    "chapter": 1,
+    "nl": "de wereld",
+    "lemma": "wereld",
+    "pos": "noun",
+    "en": [
+      "world"
+    ],
+    "primaryEn": "world",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h1-persoonlijk",
+    "chapter": 1,
+    "nl": "persoonlijk",
+    "lemma": "persoonlijk",
+    "pos": "other",
+    "en": [
+      "personal"
+    ],
+    "primaryEn": "personal",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h1-bereiken",
+    "chapter": 1,
+    "nl": "bereiken",
+    "lemma": "bereiken",
+    "pos": "verb",
+    "en": [
+      "to achieve"
+    ],
+    "primaryEn": "to achieve",
+    "source": "struikelwoorden",
+    "hint": "bereikt",
+    "struikelwoord": true,
+    "examples": [
+      "Wat wil je bereiken in je leven? Vind je succes en geld belangrijk of heb je andere ideeën?"
+    ]
+  },
+  {
+    "id": "h1-het-ziekenhuis",
+    "chapter": 1,
+    "nl": "het ziekenhuis",
+    "lemma": "ziekenhuis",
+    "pos": "noun",
+    "en": [
+      "hospital"
+    ],
+    "primaryEn": "hospital",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h1-uitkomen",
+    "chapter": 1,
+    "nl": "uitkomen",
+    "lemma": "uitkomen",
+    "pos": "verb",
+    "en": [
+      "to come true",
+      "to reveal",
+      "to end up at"
+    ],
+    "primaryEn": "to come true",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "kwam uit",
+      "perfect": "uitgekomen"
+    },
+    "note": "hier: to come true, ook: to reveal, to end up at",
+    "hint": "uitgekomen"
+  },
+  {
+    "id": "h1-de-eigenschap",
+    "chapter": 1,
+    "nl": "de eigenschap",
+    "lemma": "eigenschap",
+    "pos": "noun",
+    "en": [
+      "characteristic"
+    ],
+    "primaryEn": "characteristic",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h1-geduldig",
+    "chapter": 1,
+    "nl": "geduldig",
+    "lemma": "geduldig",
+    "pos": "other",
+    "en": [
+      "patient"
+    ],
+    "primaryEn": "patient",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h1-mezelf",
+    "chapter": 1,
+    "nl": "mezelf",
+    "lemma": "mezelf",
+    "pos": "other",
+    "en": [
+      "myself"
+    ],
+    "primaryEn": "myself",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h1-wetenschappelijk",
+    "chapter": 1,
+    "nl": "wetenschappelijk",
+    "lemma": "wetenschappelijk",
+    "pos": "other",
+    "en": [
+      "scientific"
+    ],
+    "primaryEn": "scientific",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h1-onderzoek-doe",
+    "chapter": 1,
+    "nl": "onderzoek doe",
+    "lemma": "onderzoek doe",
+    "pos": "phrase",
+    "en": [
+      "to do research (on)"
+    ],
+    "primaryEn": "to do research (on)",
+    "source": "vocabulaire-list",
+    "hint": "onderzoek doen (naar)"
+  },
+  {
+    "id": "h1-het-onderzoek",
+    "chapter": 1,
+    "nl": "het onderzoek",
+    "lemma": "onderzoek",
+    "pos": "noun",
+    "en": [
+      "research"
+    ],
+    "primaryEn": "research",
+    "source": "vocabulaire-list",
+    "article": "het",
+    "hint": "onderzoek doen (naar)"
+  },
+  {
+    "id": "h1-het-platteland",
+    "chapter": 1,
+    "nl": "het platteland",
+    "lemma": "platteland",
+    "pos": "noun",
+    "en": [
+      "countryside"
+    ],
+    "primaryEn": "countryside",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h1-voorlopig",
+    "chapter": 1,
+    "nl": "voorlopig",
+    "lemma": "voorlopig",
+    "pos": "other",
+    "en": [
+      "for now",
+      "for the time being goede voornemens het voornemen New Year’s resolutions intention"
+    ],
+    "primaryEn": "for now",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h1-zich-ergeren",
+    "chapter": 1,
+    "nl": "zich ergeren",
+    "lemma": "ergeren",
+    "pos": "verb",
+    "en": [
+      "to get annoyed (by)"
+    ],
+    "primaryEn": "to get annoyed (by)",
+    "source": "vocabulaire-list",
+    "reflexive": true,
+    "hint": "me … ergeren"
+  },
+  {
+    "id": "h1-het-doelpunt",
+    "chapter": 1,
+    "nl": "het doelpunt",
+    "lemma": "doelpunt",
+    "pos": "noun",
+    "en": [
+      "goals"
+    ],
+    "primaryEn": "goals",
+    "source": "vocabulaire-list",
+    "article": "het",
+    "hint": "doelpunten"
+  },
+  {
+    "id": "h1-de-krant",
+    "chapter": 1,
+    "nl": "de krant",
+    "lemma": "krant",
+    "pos": "noun",
+    "en": [
+      "newspaper"
+    ],
+    "primaryEn": "newspaper",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h1-dierbaar",
+    "chapter": 1,
+    "nl": "dierbaar",
+    "lemma": "dierbaar",
+    "pos": "other",
+    "en": [
+      "precious",
+      "beloved (items)",
+      "(items you hold) dear"
+    ],
+    "primaryEn": "precious",
+    "source": "vocabulaire-list",
+    "hint": "dierbaarste"
+  },
+  {
+    "id": "h1-stilstaan",
+    "chapter": 1,
+    "nl": "stilstaan",
+    "lemma": "stilstaan",
+    "pos": "verb",
+    "en": [
+      "to stop to think about",
+      "to stand still"
+    ],
+    "primaryEn": "to stop to think about",
+    "source": "struikelwoorden",
+    "separable": true,
+    "irregular": {
+      "past": "stond stil",
+      "perfect": "stilgestaan"
+    },
+    "hint": "sta … stil bij",
+    "struikelwoord": true,
+    "examples": [
+      "Je moet eerst even stilstaan voordat je de straat oversteekt."
+    ]
+  },
+  {
+    "id": "h1-meemaken",
+    "chapter": 1,
+    "nl": "meemaken",
+    "lemma": "meemaken",
+    "pos": "verb",
+    "en": [
+      "to experience"
+    ],
+    "primaryEn": "to experience",
+    "source": "struikelwoorden",
+    "separable": true,
+    "hint": "meegemaakt",
+    "struikelwoord": true,
+    "examples": [
+      "Ik heb in het weekend niet zoveel meegemaakt. Ik moest studeren."
+    ]
+  },
+  {
+    "id": "h1-kiezen",
+    "chapter": 1,
+    "nl": "kiezen",
+    "lemma": "kiezen",
+    "pos": "verb",
+    "en": [
+      "to choose"
+    ],
+    "primaryEn": "to choose",
+    "source": "struikelwoorden",
+    "irregular": {
+      "past": "koos",
+      "perfect": "gekozen"
+    },
+    "hint": "uitkoos; (uit)kiezen",
+    "struikelwoord": true,
+    "examples": [
+      "Je mag een instrument uitkiezen. Wat zou je dan kiezen: een gitaar, piano of trompet?"
+    ]
+  },
+  {
+    "id": "h1-daarvan",
+    "chapter": 1,
+    "nl": "daarvan",
+    "lemma": "daarvan",
+    "pos": "other",
+    "en": [
+      "of this"
+    ],
+    "primaryEn": "of this",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h1-het-geboorteland",
+    "chapter": 1,
+    "nl": "het geboorteland",
+    "lemma": "geboorteland",
+    "pos": "noun",
+    "en": [
+      "country of birth"
+    ],
+    "primaryEn": "country of birth",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h1-de-geboorte",
+    "chapter": 1,
+    "nl": "de geboorte",
+    "lemma": "geboorte",
+    "pos": "noun",
+    "en": [
+      "birth"
+    ],
+    "primaryEn": "birth",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h1-de-herinnering",
+    "chapter": 1,
+    "nl": "de herinnering",
+    "lemma": "herinnering",
+    "pos": "noun",
+    "en": [
+      "memories (of)"
+    ],
+    "primaryEn": "memories (of)",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "herinneringen aan"
+  },
+  {
+    "id": "h1-verwerken",
+    "chapter": 1,
+    "nl": "verwerken",
+    "lemma": "verwerken",
+    "pos": "verb",
+    "en": [
+      "to showcase in",
+      "to use in",
+      "to process in"
+    ],
+    "primaryEn": "to showcase in",
+    "source": "struikelwoorden",
+    "note": "hier: to showcase in, ook: to use in, to process in",
+    "hint": "in … verwerken",
+    "struikelwoord": true,
+    "examples": [
+      "Dit is heel veel nieuwe informatie. Ik kan het niet in één keer verwerken."
+    ]
+  },
+  {
+    "id": "h1-de-taptap",
+    "chapter": 1,
+    "nl": "de taptap",
+    "lemma": "taptap",
+    "pos": "noun",
+    "en": [
+      "tap"
+    ],
+    "primaryEn": "tap",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h1-beschilderen",
+    "chapter": 1,
+    "nl": "beschilderen",
+    "lemma": "beschilderen",
+    "pos": "verb",
+    "en": [
+      "to paint"
+    ],
+    "primaryEn": "to paint",
+    "source": "vocabulaire-list",
+    "hint": "beschilderd"
+  },
+  {
+    "id": "h1-meekrijgen",
+    "chapter": 1,
+    "nl": "meekrijgen",
+    "lemma": "meekrijgen",
+    "pos": "verb",
+    "en": [
+      "to be given (as a gift)"
+    ],
+    "primaryEn": "to be given (as a gift)",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "kreeg mee",
+      "perfect": "meegekregen"
+    },
+    "hint": "kreeg … mee"
+  },
+  {
+    "id": "h1-gouden",
+    "chapter": 1,
+    "nl": "gouden",
+    "lemma": "gouden",
+    "pos": "other",
+    "en": [
+      "gold",
+      "golden"
+    ],
+    "primaryEn": "gold",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h1-de-rammelaar",
+    "chapter": 1,
+    "nl": "de rammelaar",
+    "lemma": "rammelaar",
+    "pos": "noun",
+    "en": [
+      "rattle"
+    ],
+    "primaryEn": "rattle",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "het rammelaartje"
+  },
+  {
+    "id": "h1-het-horloge",
+    "chapter": 1,
+    "nl": "het horloge",
+    "lemma": "horloge",
+    "pos": "noun",
+    "en": [
+      "watch"
+    ],
+    "primaryEn": "watch",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h1-dankbaar",
+    "chapter": 1,
+    "nl": "dankbaar",
+    "lemma": "dankbaar",
+    "pos": "other",
+    "en": [
+      "grateful (for)"
+    ],
+    "primaryEn": "grateful (for)",
+    "source": "vocabulaire-list",
+    "hint": "voor"
+  },
+  {
+    "id": "h1-amersfoorter",
+    "chapter": 1,
+    "nl": "Amersfoorter",
+    "lemma": "Amersfoorter",
+    "pos": "other",
+    "en": [
+      "person from Amersfoort"
+    ],
+    "primaryEn": "person from Amersfoort",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h1-hangen",
+    "chapter": 1,
+    "nl": "hangen",
+    "lemma": "hangen",
+    "pos": "verb",
+    "en": [
+      "to hang (on)",
+      "to hang (onto (something))"
+    ],
+    "primaryEn": "to hang (on)",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "hing",
+      "perfect": "gehangen"
+    },
+    "note": "hier: to hang (on), ook: to hang (onto (something))",
+    "hint": "aan"
+  },
+  {
+    "id": "h1-schijf-de",
+    "chapter": 1,
+    "nl": "schijf, de",
+    "lemma": "schijf, de",
+    "pos": "phrase",
+    "en": [
+      "disk"
+    ],
+    "primaryEn": "disk",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h1-bewaren",
+    "chapter": 1,
+    "nl": "bewaren",
+    "lemma": "bewaren",
+    "pos": "verb",
+    "en": [
+      "to keep"
+    ],
+    "primaryEn": "to keep",
+    "source": "vocabulaire-list",
+    "hint": "bewaar"
+  },
+  {
+    "id": "h1-carre-theater-in-amsterdam",
+    "chapter": 1,
+    "nl": "Carré ‒ theater in Amsterdam",
+    "lemma": "Carré ‒ theater in Amsterdam",
+    "pos": "phrase",
+    "en": [
+      "Carré ‒ theatre in Amsterdam"
+    ],
+    "primaryEn": "Carré ‒ theatre in Amsterdam",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h1-uitverkopen",
+    "chapter": 1,
+    "nl": "uitverkopen",
+    "lemma": "uitverkopen",
+    "pos": "verb",
+    "en": [
+      "sold out (to sell out)"
+    ],
+    "primaryEn": "sold out (to sell out)",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "verkocht uit",
+      "perfect": "uitverkocht"
+    },
+    "hint": "uitverkochte"
+  },
+  {
+    "id": "h1-de-oogziekte",
+    "chapter": 1,
+    "nl": "de oogziekte",
+    "lemma": "oogziekte",
+    "pos": "noun",
+    "en": [
+      "eye disease"
+    ],
+    "primaryEn": "eye disease",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h1-de-ziekte",
+    "chapter": 1,
+    "nl": "de ziekte",
+    "lemma": "ziekte",
+    "pos": "noun",
+    "en": [
+      "disease",
+      "illness"
+    ],
+    "primaryEn": "disease",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h1-het-zicht",
+    "chapter": 1,
+    "nl": "het zicht",
+    "lemma": "zicht",
+    "pos": "noun",
+    "en": [
+      "vision Diggy Dex"
+    ],
+    "primaryEn": "vision Diggy Dex",
+    "source": "struikelwoorden",
+    "article": "het",
+    "hint": "op zicht hebben",
+    "struikelwoord": true,
+    "examples": [
+      "Bij heel slecht weer heb je geen goed zicht. Je kunt dan misschien maar vijfhonderd meter zien."
+    ]
+  },
+  {
+    "id": "h1-een-hekel-hebben-aan-iets",
+    "chapter": 1,
+    "nl": "een hekel hebben aan iets",
+    "lemma": "hekel hebben aan iets",
+    "pos": "phrase",
+    "en": [
+      "to dislike something",
+      "to hate something"
+    ],
+    "primaryEn": "to dislike something",
+    "source": "generated"
+  },
+  {
+    "id": "h1-adopteren",
+    "chapter": 1,
+    "nl": "adopteren",
+    "lemma": "adopteren",
+    "pos": "verb",
+    "en": [
+      "to adopt"
+    ],
+    "primaryEn": "to adopt",
+    "source": "generated"
+  },
+  {
+    "id": "h1-creatief",
+    "chapter": 1,
+    "nl": "creatief",
+    "lemma": "creatief",
+    "pos": "adjective",
+    "en": [
+      "creative"
+    ],
+    "primaryEn": "creative",
+    "source": "generated"
+  },
+  {
+    "id": "h1-enthousiast",
+    "chapter": 1,
+    "nl": "enthousiast",
+    "lemma": "enthousiast",
+    "pos": "adjective",
+    "en": [
+      "enthusiastic"
+    ],
+    "primaryEn": "enthusiastic",
+    "source": "generated"
+  },
+  {
+    "id": "h1-de-fotograaf",
+    "chapter": 1,
+    "nl": "de fotograaf",
+    "lemma": "fotograaf",
+    "pos": "noun",
+    "en": [
+      "photographer"
+    ],
+    "primaryEn": "photographer",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h1-de-gitaar",
+    "chapter": 1,
+    "nl": "de gitaar",
+    "lemma": "gitaar",
+    "pos": "noun",
+    "en": [
+      "guitar"
+    ],
+    "primaryEn": "guitar",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h1-het-orkest",
+    "chapter": 1,
+    "nl": "het orkest",
+    "lemma": "orkest",
+    "pos": "noun",
+    "en": [
+      "orchestra"
+    ],
+    "primaryEn": "orchestra",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "h1-de-piano",
+    "chapter": 1,
+    "nl": "de piano",
+    "lemma": "piano",
+    "pos": "noun",
+    "en": [
+      "piano"
+    ],
+    "primaryEn": "piano",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h1-de-presentator",
+    "chapter": 1,
+    "nl": "de presentator",
+    "lemma": "presentator",
+    "pos": "noun",
+    "en": [
+      "presenter",
+      "host"
+    ],
+    "primaryEn": "presenter",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h1-het-project",
+    "chapter": 1,
+    "nl": "het project",
+    "lemma": "project",
+    "pos": "noun",
+    "en": [
+      "project"
+    ],
+    "primaryEn": "project",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "h1-de-rapper",
+    "chapter": 1,
+    "nl": "de rapper",
+    "lemma": "rapper",
+    "pos": "noun",
+    "en": [
+      "rapper"
+    ],
+    "primaryEn": "rapper",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h1-zich-realiseren",
+    "chapter": 1,
+    "nl": "zich realiseren",
+    "lemma": "realiseren",
+    "pos": "verb",
+    "en": [
+      "to realise"
+    ],
+    "primaryEn": "to realise",
+    "source": "generated",
+    "reflexive": true
+  },
+  {
+    "id": "h1-rechten",
+    "chapter": 1,
+    "nl": "rechten",
+    "lemma": "rechten",
+    "pos": "noun",
+    "en": [
+      "law (as a study)"
+    ],
+    "primaryEn": "law (as a study)",
+    "source": "generated"
+  },
+  {
+    "id": "h1-de-roots",
+    "chapter": 1,
+    "nl": "de roots",
+    "lemma": "roots",
+    "pos": "noun",
+    "en": [
+      "roots"
+    ],
+    "primaryEn": "roots",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h1-de-schijf",
+    "chapter": 1,
+    "nl": "de schijf",
+    "lemma": "schijf",
+    "pos": "noun",
+    "en": [
+      "disc",
+      "slice"
+    ],
+    "primaryEn": "disc",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h1-de-show",
+    "chapter": 1,
+    "nl": "de show",
+    "lemma": "show",
+    "pos": "noun",
+    "en": [
+      "show"
+    ],
+    "primaryEn": "show",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h1-stimuleren",
+    "chapter": 1,
+    "nl": "stimuleren",
+    "lemma": "stimuleren",
+    "pos": "verb",
+    "en": [
+      "to stimulate",
+      "to encourage"
+    ],
+    "primaryEn": "to stimulate",
+    "source": "generated"
+  },
+  {
+    "id": "h1-de-telefoon",
+    "chapter": 1,
+    "nl": "de telefoon",
+    "lemma": "telefoon",
+    "pos": "noun",
+    "en": [
+      "telephone",
+      "phone"
+    ],
+    "primaryEn": "telephone",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h1-uitkiezen",
+    "chapter": 1,
+    "nl": "uitkiezen",
+    "lemma": "uitkiezen",
+    "pos": "verb",
+    "en": [
+      "to pick out",
+      "to choose"
+    ],
+    "primaryEn": "to pick out",
+    "source": "generated",
+    "irregular": {
+      "past": "koos uit",
+      "perfect": "uitgekozen"
+    },
+    "separable": true,
+    "examples": [
+      "Je mag een instrument uitkiezen. Wat zou je dan kiezen: een gitaar, piano of trompet?"
+    ]
+  },
+  {
+    "id": "h1-de-vierdejaarsstudent",
+    "chapter": 1,
+    "nl": "de vierdejaarsstudent",
+    "lemma": "vierdejaarsstudent",
+    "pos": "noun",
+    "en": [
+      "fourth-year student"
+    ],
+    "primaryEn": "fourth-year student",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h1-het-voornemen",
+    "chapter": 1,
+    "nl": "het voornemen",
+    "lemma": "voornemen",
+    "pos": "noun",
+    "en": [
+      "intention",
+      "resolution"
+    ],
+    "primaryEn": "intention",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "h1-de-zelfreflectie",
+    "chapter": 1,
+    "nl": "de zelfreflectie",
+    "lemma": "zelfreflectie",
+    "pos": "noun",
+    "en": [
+      "self-reflection"
+    ],
+    "primaryEn": "self-reflection",
+    "source": "generated",
+    "article": "de"
+  }
+]

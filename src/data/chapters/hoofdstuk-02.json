@@ -1,0 +1,1142 @@
+[
+  {
+    "id": "h2-maandelijks",
+    "chapter": 2,
+    "nl": "maandelijks",
+    "lemma": "maandelijks",
+    "pos": "other",
+    "en": [
+      "monthly"
+    ],
+    "primaryEn": "monthly",
+    "source": "vocabulaire-list",
+    "hint": "maandelijkse"
+  },
+  {
+    "id": "h2-zich-aanmelden",
+    "chapter": 2,
+    "nl": "zich aanmelden",
+    "lemma": "aanmelden",
+    "pos": "verb",
+    "en": [
+      "to sign up (for)"
+    ],
+    "primaryEn": "to sign up (for)",
+    "source": "vocabulaire-list",
+    "reflexive": true,
+    "hint": "zich aangemeld voor"
+  },
+  {
+    "id": "h2-de-regel",
+    "chapter": 2,
+    "nl": "de regel",
+    "lemma": "regel",
+    "pos": "noun",
+    "en": [
+      "rules"
+    ],
+    "primaryEn": "rules",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "regels"
+  },
+  {
+    "id": "h2-het-niveau",
+    "chapter": 2,
+    "nl": "het niveau",
+    "lemma": "niveau",
+    "pos": "noun",
+    "en": [
+      "levels"
+    ],
+    "primaryEn": "levels",
+    "source": "vocabulaire-list",
+    "article": "het",
+    "hint": "niveaus"
+  },
+  {
+    "id": "h2-opleveren",
+    "chapter": 2,
+    "nl": "opleveren",
+    "lemma": "opleveren",
+    "pos": "verb",
+    "en": [
+      "to count for",
+      "to produce",
+      "to yield"
+    ],
+    "primaryEn": "to count for",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "note": "hier: to count for, ook: to produce, to yield",
+    "hint": "levert … op"
+  },
+  {
+    "id": "h2-verbieden",
+    "chapter": 2,
+    "nl": "verbieden",
+    "lemma": "verbieden",
+    "pos": "verb",
+    "en": [
+      "not allowed",
+      "forbidden (to forbid)"
+    ],
+    "primaryEn": "not allowed",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "verbood",
+      "perfect": "verboden"
+    },
+    "hint": "verboden"
+  },
+  {
+    "id": "h2-opzoeken",
+    "chapter": 2,
+    "nl": "opzoeken",
+    "lemma": "opzoeken",
+    "pos": "verb",
+    "en": [
+      "to look up"
+    ],
+    "primaryEn": "to look up",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "zocht op",
+      "perfect": "opgezocht"
+    },
+    "hint": "op … zoeken"
+  },
+  {
+    "id": "h2-het-verzoek",
+    "chapter": 2,
+    "nl": "het verzoek",
+    "lemma": "verzoek",
+    "pos": "noun",
+    "en": [
+      "request"
+    ],
+    "primaryEn": "request",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h2-gillen",
+    "chapter": 2,
+    "nl": "gillen",
+    "lemma": "gillen",
+    "pos": "verb",
+    "en": [
+      "to scream",
+      "to yell"
+    ],
+    "primaryEn": "to scream",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h2-de-ronde",
+    "chapter": 2,
+    "nl": "de ronde",
+    "lemma": "ronde",
+    "pos": "noun",
+    "en": [
+      "round"
+    ],
+    "primaryEn": "round",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h2-het-onderwerp",
+    "chapter": 2,
+    "nl": "het onderwerp",
+    "lemma": "onderwerp",
+    "pos": "noun",
+    "en": [
+      "topic"
+    ],
+    "primaryEn": "topic",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h2-de-voeding",
+    "chapter": 2,
+    "nl": "de voeding",
+    "lemma": "voeding",
+    "pos": "noun",
+    "en": [
+      "food",
+      "nutrition"
+    ],
+    "primaryEn": "food",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h2-de-geneeskundestudent",
+    "chapter": 2,
+    "nl": "de geneeskundestudent",
+    "lemma": "geneeskundestudent",
+    "pos": "noun",
+    "en": [
+      "medical student"
+    ],
+    "primaryEn": "medical student",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h2-de-voedingsdeskundige",
+    "chapter": 2,
+    "nl": "de voedingsdeskundige",
+    "lemma": "voedingsdeskundige",
+    "pos": "noun",
+    "en": [
+      "nutritionist"
+    ],
+    "primaryEn": "nutritionist",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h2-de-sportliefhebber",
+    "chapter": 2,
+    "nl": "de sportliefhebber",
+    "lemma": "sportliefhebber",
+    "pos": "noun",
+    "en": [
+      "sports enthusiast"
+    ],
+    "primaryEn": "sports enthusiast",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h2-de-liefhebber",
+    "chapter": 2,
+    "nl": "de liefhebber",
+    "lemma": "liefhebber",
+    "pos": "noun",
+    "en": [
+      "lover (of)"
+    ],
+    "primaryEn": "lover (of)",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h2-de-kennis",
+    "chapter": 2,
+    "nl": "de kennis",
+    "lemma": "kennis",
+    "pos": "noun",
+    "en": [
+      "knowledge",
+      "expertise"
+    ],
+    "primaryEn": "knowledge",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h2-de-volwassene",
+    "chapter": 2,
+    "nl": "de volwassene",
+    "lemma": "volwassene",
+    "pos": "noun",
+    "en": [
+      "adult"
+    ],
+    "primaryEn": "adult",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h2-gemiddeld",
+    "chapter": 2,
+    "nl": "gemiddeld",
+    "lemma": "gemiddeld",
+    "pos": "other",
+    "en": [
+      "(on) average"
+    ],
+    "primaryEn": "(on) average",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h2-zacht",
+    "chapter": 2,
+    "nl": "zacht",
+    "lemma": "zacht",
+    "pos": "other",
+    "en": [
+      "quiet",
+      "quietly",
+      "soft",
+      "softly"
+    ],
+    "primaryEn": "quiet",
+    "source": "vocabulaire-list",
+    "note": "hier: quiet(ly), ook: soft(ly)"
+  },
+  {
+    "id": "h2-about",
+    "chapter": 2,
+    "nl": "about",
+    "lemma": "about",
+    "pos": "verb",
+    "en": [
+      "to have doubts (about)"
+    ],
+    "primaryEn": "to have doubts (about)",
+    "source": "vocabulaire-list",
+    "hint": "to be unsure"
+  },
+  {
+    "id": "h2-anderhalf",
+    "chapter": 2,
+    "nl": "anderhalf",
+    "lemma": "anderhalf",
+    "pos": "other",
+    "en": [
+      "one and a half"
+    ],
+    "primaryEn": "one and a half",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h2-het-geheugen",
+    "chapter": 2,
+    "nl": "het geheugen",
+    "lemma": "geheugen",
+    "pos": "noun",
+    "en": [
+      "memory"
+    ],
+    "primaryEn": "memory",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h2-afhangen-van",
+    "chapter": 2,
+    "nl": "afhangen van",
+    "lemma": "afhangen van",
+    "pos": "phrase",
+    "en": [
+      "to depend on"
+    ],
+    "primaryEn": "to depend on",
+    "source": "vocabulaire-list",
+    "hint": "hangt … af van"
+  },
+  {
+    "id": "h2-de-lengte",
+    "chapter": 2,
+    "nl": "de lengte",
+    "lemma": "lengte",
+    "pos": "noun",
+    "en": [
+      "height",
+      "length"
+    ],
+    "primaryEn": "height",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "note": "hier: height, ook: length"
+  },
+  {
+    "id": "h2-het-geslacht",
+    "chapter": 2,
+    "nl": "het geslacht",
+    "lemma": "geslacht",
+    "pos": "noun",
+    "en": [
+      "sex"
+    ],
+    "primaryEn": "sex",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h2-en-zo",
+    "chapter": 2,
+    "nl": "en zo",
+    "lemma": "en zo",
+    "pos": "phrase",
+    "en": [
+      "and other things"
+    ],
+    "primaryEn": "and other things",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h2-de-richtlijn",
+    "chapter": 2,
+    "nl": "de richtlijn",
+    "lemma": "richtlijn",
+    "pos": "noun",
+    "en": [
+      "guideline"
+    ],
+    "primaryEn": "guideline",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h2-dom",
+    "chapter": 2,
+    "nl": "dom",
+    "lemma": "dom",
+    "pos": "other",
+    "en": [
+      "stupid"
+    ],
+    "primaryEn": "stupid",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h2-jezelf",
+    "chapter": 2,
+    "nl": "jezelf",
+    "lemma": "jezelf",
+    "pos": "other",
+    "en": [
+      "yourself"
+    ],
+    "primaryEn": "yourself",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h2-verwennen",
+    "chapter": 2,
+    "nl": "verwennen",
+    "lemma": "verwennen",
+    "pos": "verb",
+    "en": [
+      "to spoil (someone)"
+    ],
+    "primaryEn": "to spoil (someone)",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h2-de-frisdrank",
+    "chapter": 2,
+    "nl": "de frisdrank",
+    "lemma": "frisdrank",
+    "pos": "noun",
+    "en": [
+      "soft drink",
+      "fizzy drink"
+    ],
+    "primaryEn": "soft drink",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h2-af-en-toe",
+    "chapter": 2,
+    "nl": "af en toe",
+    "lemma": "af en toe",
+    "pos": "phrase",
+    "en": [
+      "every now and then"
+    ],
+    "primaryEn": "every now and then",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h2-bewegen",
+    "chapter": 2,
+    "nl": "bewegen",
+    "lemma": "bewegen",
+    "pos": "verb",
+    "en": [
+      "to move",
+      "to exercise"
+    ],
+    "primaryEn": "to move",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "bewoog",
+      "perfect": "bewogen"
+    }
+  },
+  {
+    "id": "h2-verbranden",
+    "chapter": 2,
+    "nl": "verbranden",
+    "lemma": "verbranden",
+    "pos": "verb",
+    "en": [
+      "to burn"
+    ],
+    "primaryEn": "to burn",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h2-stevig",
+    "chapter": 2,
+    "nl": "stevig",
+    "lemma": "stevig",
+    "pos": "other",
+    "en": [
+      "at a fast pace"
+    ],
+    "primaryEn": "at a fast pace",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h2-de-bewegingsapp",
+    "chapter": 2,
+    "nl": "de bewegingsapp",
+    "lemma": "bewegingsapp",
+    "pos": "noun",
+    "en": [
+      "exercise app"
+    ],
+    "primaryEn": "exercise app",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h2-de-beweging",
+    "chapter": 2,
+    "nl": "de beweging",
+    "lemma": "beweging",
+    "pos": "noun",
+    "en": [
+      "movement",
+      "exercise"
+    ],
+    "primaryEn": "movement",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h2-ten-minste",
+    "chapter": 2,
+    "nl": "ten minste",
+    "lemma": "ten minste",
+    "pos": "phrase",
+    "en": [
+      "at least"
+    ],
+    "primaryEn": "at least",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h2-matig",
+    "chapter": 2,
+    "nl": "matig",
+    "lemma": "matig",
+    "pos": "other",
+    "en": [
+      "moderate",
+      "medium"
+    ],
+    "primaryEn": "moderate",
+    "source": "vocabulaire-list",
+    "note": "hier: moderate, ook: medium"
+  },
+  {
+    "id": "h2-de-lichaamsbeweging",
+    "chapter": 2,
+    "nl": "de lichaamsbeweging",
+    "lemma": "lichaamsbeweging",
+    "pos": "noun",
+    "en": [
+      "physical exercise"
+    ],
+    "primaryEn": "physical exercise",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h2-het-lichaam",
+    "chapter": 2,
+    "nl": "het lichaam",
+    "lemma": "lichaam",
+    "pos": "noun",
+    "en": [
+      "body"
+    ],
+    "primaryEn": "body",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h2-kauwen",
+    "chapter": 2,
+    "nl": "kauwen",
+    "lemma": "kauwen",
+    "pos": "verb",
+    "en": [
+      "to chew (on)"
+    ],
+    "primaryEn": "to chew (on)",
+    "source": "vocabulaire-list",
+    "hint": "op"
+  },
+  {
+    "id": "h2-de-chips",
+    "chapter": 2,
+    "nl": "de chips",
+    "lemma": "chips",
+    "pos": "noun",
+    "en": [
+      "crisps"
+    ],
+    "primaryEn": "crisps",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h2-de-plek",
+    "chapter": 2,
+    "nl": "de plek",
+    "lemma": "plek",
+    "pos": "noun",
+    "en": [
+      "places",
+      "spots"
+    ],
+    "primaryEn": "places",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "plekken"
+  },
+  {
+    "id": "h2-elders",
+    "chapter": 2,
+    "nl": "elders",
+    "lemma": "elders",
+    "pos": "other",
+    "en": [
+      "elsewhere"
+    ],
+    "primaryEn": "elsewhere",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h2-blijken-uit",
+    "chapter": 2,
+    "nl": "blijken uit",
+    "lemma": "blijken uit",
+    "pos": "phrase",
+    "en": [
+      "(something) shows (that) (to show)"
+    ],
+    "primaryEn": "(something) shows (that) (to show)",
+    "source": "vocabulaire-list",
+    "hint": "uit … blijkt"
+  },
+  {
+    "id": "h2-gemeenschappelijk",
+    "chapter": 2,
+    "nl": "gemeenschappelijk",
+    "lemma": "gemeenschappelijk",
+    "pos": "other",
+    "en": [
+      "common"
+    ],
+    "primaryEn": "common",
+    "source": "vocabulaire-list",
+    "hint": "gemeenschappelijke"
+  },
+  {
+    "id": "h2-het-kenmerk",
+    "chapter": 2,
+    "nl": "het kenmerk",
+    "lemma": "kenmerk",
+    "pos": "noun",
+    "en": [
+      "characteristics"
+    ],
+    "primaryEn": "characteristics",
+    "source": "vocabulaire-list",
+    "article": "het",
+    "hint": "kenmerken"
+  },
+  {
+    "id": "h2-de-levensstijl",
+    "chapter": 2,
+    "nl": "de levensstijl",
+    "lemma": "levensstijl",
+    "pos": "noun",
+    "en": [
+      "lifestyle"
+    ],
+    "primaryEn": "lifestyle",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h2-de-stijl",
+    "chapter": 2,
+    "nl": "de stijl",
+    "lemma": "stijl",
+    "pos": "noun",
+    "en": [
+      "style"
+    ],
+    "primaryEn": "style",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h2-noemen",
+    "chapter": 2,
+    "nl": "noemen",
+    "lemma": "noemen",
+    "pos": "verb",
+    "en": [
+      "to name"
+    ],
+    "primaryEn": "to name",
+    "source": "vocabulaire-list",
+    "hint": "noem"
+  },
+  {
+    "id": "h2-natuurlijk",
+    "chapter": 2,
+    "nl": "natuurlijk",
+    "lemma": "natuurlijk",
+    "pos": "other",
+    "en": [
+      "naturally",
+      "of course"
+    ],
+    "primaryEn": "naturally",
+    "source": "vocabulaire-list",
+    "note": "hier: naturally, ook: of course"
+  },
+  {
+    "id": "h2-luidruchtig",
+    "chapter": 2,
+    "nl": "luidruchtig",
+    "lemma": "luidruchtig",
+    "pos": "other",
+    "en": [
+      "noisy"
+    ],
+    "primaryEn": "noisy",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h2-de-aandacht",
+    "chapter": 2,
+    "nl": "de aandacht",
+    "lemma": "aandacht",
+    "pos": "noun",
+    "en": [
+      "attention"
+    ],
+    "primaryEn": "attention",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h2-de-tentamenweek",
+    "chapter": 2,
+    "nl": "de tentamenweek",
+    "lemma": "tentamenweek",
+    "pos": "noun",
+    "en": [
+      "exam week"
+    ],
+    "primaryEn": "exam week",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h2-de-rosbief",
+    "chapter": 2,
+    "nl": "de rosbief",
+    "lemma": "rosbief",
+    "pos": "noun",
+    "en": [
+      "roast beef"
+    ],
+    "primaryEn": "roast beef",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h2-de-rucola",
+    "chapter": 2,
+    "nl": "de rucola",
+    "lemma": "rucola",
+    "pos": "noun",
+    "en": [
+      "rocket",
+      "rucola"
+    ],
+    "primaryEn": "rocket",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h2-pakken",
+    "chapter": 2,
+    "nl": "pakken",
+    "lemma": "pakken",
+    "pos": "verb",
+    "en": [
+      "to grab"
+    ],
+    "primaryEn": "to grab",
+    "source": "vocabulaire-list",
+    "hint": "pak"
+  },
+  {
+    "id": "h2-het-schap",
+    "chapter": 2,
+    "nl": "het schap",
+    "lemma": "schap",
+    "pos": "noun",
+    "en": [
+      "shelf"
+    ],
+    "primaryEn": "shelf",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h2-steeds",
+    "chapter": 2,
+    "nl": "steeds",
+    "lemma": "steeds",
+    "pos": "other",
+    "en": [
+      "less and less"
+    ],
+    "primaryEn": "less and less",
+    "source": "struikelwoorden",
+    "note": "hier: less and less",
+    "struikelwoord": true,
+    "examples": [
+      "Ik heb steeds dezelfde droom. Elke nacht opnieuw."
+    ]
+  },
+  {
+    "id": "h2-voorverpakt",
+    "chapter": 2,
+    "nl": "voorverpakt",
+    "lemma": "voorverpakt",
+    "pos": "other",
+    "en": [
+      "pre-packaged"
+    ],
+    "primaryEn": "pre-packaged",
+    "source": "vocabulaire-list",
+    "hint": "voorverpakte"
+  },
+  {
+    "id": "h2-het-lijstje",
+    "chapter": 2,
+    "nl": "het lijstje",
+    "lemma": "lijstje",
+    "pos": "noun",
+    "en": [
+      "list"
+    ],
+    "primaryEn": "list",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h2-zich-houden-aan",
+    "chapter": 2,
+    "nl": "zich houden aan",
+    "lemma": "houden aan",
+    "pos": "verb",
+    "en": [
+      "to stick to"
+    ],
+    "primaryEn": "to stick to",
+    "source": "struikelwoorden",
+    "reflexive": true,
+    "hint": "houd … me … aan",
+    "struikelwoord": true,
+    "examples": [
+      "Ik houd me aan de richtlijnen voor gezond eten. Dus ik volg die richtlijnen."
+    ]
+  },
+  {
+    "id": "h2-tegenwoordig",
+    "chapter": 2,
+    "nl": "tegenwoordig",
+    "lemma": "tegenwoordig",
+    "pos": "other",
+    "en": [
+      "nowadays"
+    ],
+    "primaryEn": "nowadays",
+    "source": "struikelwoorden",
+    "struikelwoord": true,
+    "examples": [
+      "Tegenwoordig doen veel mensen mee aan een pubquiz. Vroeger was er geen pubquiz."
+    ]
+  },
+  {
+    "id": "h2-schelen",
+    "chapter": 2,
+    "nl": "schelen",
+    "lemma": "schelen",
+    "pos": "verb",
+    "en": [
+      "to save",
+      "to differ"
+    ],
+    "primaryEn": "to save",
+    "source": "struikelwoorden",
+    "note": "hier: to save, ook: to differ",
+    "hint": "scheelt",
+    "struikelwoord": true,
+    "examples": [
+      "De drinkyoghurt is in de aanbieding. Dat scheelt € 0,50. Dat is € 0,50 goedkoper."
+    ]
+  },
+  {
+    "id": "h2-smaken",
+    "chapter": 2,
+    "nl": "smaken",
+    "lemma": "smaken",
+    "pos": "verb",
+    "en": [
+      "to taste (of)"
+    ],
+    "primaryEn": "to taste (of)",
+    "source": "struikelwoorden",
+    "hint": "smaakt",
+    "struikelwoord": true,
+    "examples": [
+      "Hoe smaakt die wijn? Is hij soepel of een beetje zwaar?"
+    ]
+  },
+  {
+    "id": "h2-binnenlopen",
+    "chapter": 2,
+    "nl": "binnenlopen",
+    "lemma": "binnenlopen",
+    "pos": "verb",
+    "en": [
+      "to walk into"
+    ],
+    "primaryEn": "to walk into",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "liep binnen",
+      "perfect": "is binnengelopen"
+    },
+    "hint": "binnenloopt"
+  },
+  {
+    "id": "h2-dat-is-mooi-meegenomen",
+    "chapter": 2,
+    "nl": "Dat is mooi meegenomen.",
+    "lemma": "Dat is mooi meegenomen.",
+    "pos": "phrase",
+    "en": [
+      "That's a nice bonus."
+    ],
+    "primaryEn": "That's a nice bonus.",
+    "source": "generated"
+  },
+  {
+    "id": "h2-biologisch",
+    "chapter": 2,
+    "nl": "biologisch",
+    "lemma": "biologisch",
+    "pos": "adjective",
+    "en": [
+      "organic",
+      "biological"
+    ],
+    "primaryEn": "organic",
+    "source": "generated"
+  },
+  {
+    "id": "h2-de-brie",
+    "chapter": 2,
+    "nl": "de brie",
+    "lemma": "brie",
+    "pos": "noun",
+    "en": [
+      "brie"
+    ],
+    "primaryEn": "brie",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h2-de-calorie",
+    "chapter": 2,
+    "nl": "de calorie",
+    "lemma": "calorie",
+    "pos": "noun",
+    "en": [
+      "calorie"
+    ],
+    "primaryEn": "calorie",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h2-de-drinkyoghurt",
+    "chapter": 2,
+    "nl": "de drinkyoghurt",
+    "lemma": "drinkyoghurt",
+    "pos": "noun",
+    "en": [
+      "drinking yoghurt"
+    ],
+    "primaryEn": "drinking yoghurt",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h2-googelen",
+    "chapter": 2,
+    "nl": "googelen",
+    "lemma": "googelen",
+    "pos": "verb",
+    "en": [
+      "to google"
+    ],
+    "primaryEn": "to google",
+    "source": "generated"
+  },
+  {
+    "id": "h2-inclusief",
+    "chapter": 2,
+    "nl": "inclusief",
+    "lemma": "inclusief",
+    "pos": "adjective",
+    "en": [
+      "including",
+      "inclusive"
+    ],
+    "primaryEn": "including",
+    "source": "generated"
+  },
+  {
+    "id": "h2-intensief",
+    "chapter": 2,
+    "nl": "intensief",
+    "lemma": "intensief",
+    "pos": "adjective",
+    "en": [
+      "intensive"
+    ],
+    "primaryEn": "intensive",
+    "source": "generated"
+  },
+  {
+    "id": "h2-de-pizza",
+    "chapter": 2,
+    "nl": "de pizza",
+    "lemma": "pizza",
+    "pos": "noun",
+    "en": [
+      "pizza"
+    ],
+    "primaryEn": "pizza",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h2-het-product",
+    "chapter": 2,
+    "nl": "het product",
+    "lemma": "product",
+    "pos": "noun",
+    "en": [
+      "product"
+    ],
+    "primaryEn": "product",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "h2-de-pubquiz",
+    "chapter": 2,
+    "nl": "de pubquiz",
+    "lemma": "pubquiz",
+    "pos": "noun",
+    "en": [
+      "pub quiz"
+    ],
+    "primaryEn": "pub quiz",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h2-de-strategie",
+    "chapter": 2,
+    "nl": "de strategie",
+    "lemma": "strategie",
+    "pos": "noun",
+    "en": [
+      "strategy"
+    ],
+    "primaryEn": "strategy",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h2-het-team",
+    "chapter": 2,
+    "nl": "het team",
+    "lemma": "team",
+    "pos": "noun",
+    "en": [
+      "team"
+    ],
+    "primaryEn": "team",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "h2-top",
+    "chapter": 2,
+    "nl": "top",
+    "lemma": "top",
+    "pos": "adjective",
+    "en": [
+      "great",
+      "top"
+    ],
+    "primaryEn": "great",
+    "source": "generated"
+  },
+  {
+    "id": "h2-de-truffelmayonaise",
+    "chapter": 2,
+    "nl": "de truffelmayonaise",
+    "lemma": "truffelmayonaise",
+    "pos": "noun",
+    "en": [
+      "truffle mayonnaise"
+    ],
+    "primaryEn": "truffle mayonnaise",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h2-twijfelen",
+    "chapter": 2,
+    "nl": "twijfelen",
+    "lemma": "twijfelen",
+    "pos": "verb",
+    "en": [
+      "to doubt",
+      "to hesitate"
+    ],
+    "primaryEn": "to doubt",
+    "source": "generated"
+  }
+]

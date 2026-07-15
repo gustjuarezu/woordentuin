@@ -1,0 +1,2041 @@
+[
+  {
+    "id": "h5-de-mannenbaan",
+    "chapter": 5,
+    "nl": "de mannenbaan",
+    "lemma": "mannenbaan",
+    "pos": "noun",
+    "en": [
+      "man’s job"
+    ],
+    "primaryEn": "man’s job",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h5-vrouwelijk",
+    "chapter": 5,
+    "nl": "vrouwelijk",
+    "lemma": "vrouwelijk",
+    "pos": "other",
+    "en": [
+      "female",
+      "feminine"
+    ],
+    "primaryEn": "female",
+    "source": "vocabulaire-list",
+    "note": "hier: female, ook: feminine",
+    "hint": "vrouwelijke"
+  },
+  {
+    "id": "h5-de-werknemer",
+    "chapter": 5,
+    "nl": "de werknemer",
+    "lemma": "werknemer",
+    "pos": "noun",
+    "en": [
+      "employees"
+    ],
+    "primaryEn": "employees",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "werknemers"
+  },
+  {
+    "id": "h5-de-bouw",
+    "chapter": 5,
+    "nl": "de bouw",
+    "lemma": "bouw",
+    "pos": "noun",
+    "en": [
+      "construction"
+    ],
+    "primaryEn": "construction",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h5-de-minderheid",
+    "chapter": 5,
+    "nl": "de minderheid",
+    "lemma": "minderheid",
+    "pos": "noun",
+    "en": [
+      "minority"
+    ],
+    "primaryEn": "minority",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h5-mannelijk",
+    "chapter": 5,
+    "nl": "mannelijk",
+    "lemma": "mannelijk",
+    "pos": "other",
+    "en": [
+      "male",
+      "masculine"
+    ],
+    "primaryEn": "male",
+    "source": "vocabulaire-list",
+    "note": "hier: male, ook: masculine",
+    "hint": "mannelijke"
+  },
+  {
+    "id": "h5-behandelen",
+    "chapter": 5,
+    "nl": "behandelen",
+    "lemma": "behandelen",
+    "pos": "verb",
+    "en": [
+      "to treat"
+    ],
+    "primaryEn": "to treat",
+    "source": "struikelwoorden",
+    "hint": "behandeld",
+    "struikelwoord": true,
+    "examples": [
+      "We behandelen nu eerst de tekst. Hebben jullie vragen over de tekst?"
+    ]
+  },
+  {
+    "id": "h5-het-afdelingshoofd",
+    "chapter": 5,
+    "nl": "het afdelingshoofd",
+    "lemma": "afdelingshoofd",
+    "pos": "noun",
+    "en": [
+      "department head"
+    ],
+    "primaryEn": "department head",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h5-de-afdeling",
+    "chapter": 5,
+    "nl": "de afdeling",
+    "lemma": "afdeling",
+    "pos": "noun",
+    "en": [
+      "department"
+    ],
+    "primaryEn": "department",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h5-het-gedoe",
+    "chapter": 5,
+    "nl": "het gedoe",
+    "lemma": "gedoe",
+    "pos": "noun",
+    "en": [
+      "hassle"
+    ],
+    "primaryEn": "hassle",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h5-verdienen",
+    "chapter": 5,
+    "nl": "verdienen",
+    "lemma": "verdienen",
+    "pos": "verb",
+    "en": [
+      "to earn",
+      "to deserve"
+    ],
+    "primaryEn": "to earn",
+    "source": "struikelwoorden",
+    "hint": "verdiende",
+    "struikelwoord": true,
+    "examples": [
+      "Nicola werkt heel hard, maar ze verdient heel weinig. Haar salaris is heel laag."
+    ]
+  },
+  {
+    "id": "h5-de-werkervaring",
+    "chapter": 5,
+    "nl": "de werkervaring",
+    "lemma": "werkervaring",
+    "pos": "noun",
+    "en": [
+      "work experience"
+    ],
+    "primaryEn": "work experience",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h5-de-ervaring",
+    "chapter": 5,
+    "nl": "de ervaring",
+    "lemma": "ervaring",
+    "pos": "noun",
+    "en": [
+      "experience"
+    ],
+    "primaryEn": "experience",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h5-afzien",
+    "chapter": 5,
+    "nl": "afzien",
+    "lemma": "afzien",
+    "pos": "verb",
+    "en": [
+      "to decide against it"
+    ],
+    "primaryEn": "to decide against it",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "zag af",
+      "perfect": "afgezien"
+    },
+    "note": "hier: to decide against it",
+    "hint": "ervan afgezien"
+  },
+  {
+    "id": "h5-achteraf",
+    "chapter": 5,
+    "nl": "achteraf",
+    "lemma": "achteraf",
+    "pos": "other",
+    "en": [
+      "afterwards"
+    ],
+    "primaryEn": "afterwards",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h5-het-zelfvertrouwen",
+    "chapter": 5,
+    "nl": "het zelfvertrouwen",
+    "lemma": "zelfvertrouwen",
+    "pos": "noun",
+    "en": [
+      "self-confidence"
+    ],
+    "primaryEn": "self-confidence",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h5-inmiddels",
+    "chapter": 5,
+    "nl": "inmiddels",
+    "lemma": "inmiddels",
+    "pos": "other",
+    "en": [
+      "by now",
+      "meanwhile"
+    ],
+    "primaryEn": "by now",
+    "source": "vocabulaire-list",
+    "note": "hier: by now, ook: meanwhile"
+  },
+  {
+    "id": "h5-afschrikken",
+    "chapter": 5,
+    "nl": "afschrikken",
+    "lemma": "afschrikken",
+    "pos": "verb",
+    "en": [
+      "to be deterred",
+      "to be put off by"
+    ],
+    "primaryEn": "to be deterred",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "schrok af",
+      "perfect": "is afgeschrokken"
+    }
+  },
+  {
+    "id": "h5-aantrekken",
+    "chapter": 5,
+    "nl": "aantrekken",
+    "lemma": "aantrekken",
+    "pos": "verb",
+    "en": [
+      "to put on",
+      "to wear"
+    ],
+    "primaryEn": "to put on",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "trok aan",
+      "perfect": "aangetrokken"
+    },
+    "hint": "trek … aan"
+  },
+  {
+    "id": "h5-de-schoen",
+    "chapter": 5,
+    "nl": "de schoen",
+    "lemma": "schoen",
+    "pos": "noun",
+    "en": [
+      "shoes"
+    ],
+    "primaryEn": "shoes",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "schoenen"
+  },
+  {
+    "id": "h5-de-hak",
+    "chapter": 5,
+    "nl": "de hak",
+    "lemma": "hak",
+    "pos": "noun",
+    "en": [
+      "high heels",
+      "heels"
+    ],
+    "primaryEn": "high heels",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "note": "hier: high heels, ook: heels",
+    "hint": "hakken"
+  },
+  {
+    "id": "h5-de-functie",
+    "chapter": 5,
+    "nl": "de functie",
+    "lemma": "functie",
+    "pos": "noun",
+    "en": [
+      "position",
+      "function"
+    ],
+    "primaryEn": "position",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "note": "hier: position, ook: function"
+  },
+  {
+    "id": "h5-het-aantal",
+    "chapter": 5,
+    "nl": "het aantal",
+    "lemma": "aantal",
+    "pos": "noun",
+    "en": [
+      "number"
+    ],
+    "primaryEn": "number",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h5-de-it-er",
+    "chapter": 5,
+    "nl": "de IT’er",
+    "lemma": "IT’er",
+    "pos": "noun",
+    "en": [
+      "IT technicians"
+    ],
+    "primaryEn": "IT technicians",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "IT’ers"
+  },
+  {
+    "id": "h5-begeleiden",
+    "chapter": 5,
+    "nl": "begeleiden",
+    "lemma": "begeleiden",
+    "pos": "verb",
+    "en": [
+      "to supervise",
+      "to coach"
+    ],
+    "primaryEn": "to supervise",
+    "source": "struikelwoorden",
+    "hint": "begeleidt",
+    "struikelwoord": true,
+    "examples": [
+      "Hij begeleidt zijn oma als ze naar de supermarkt gaat."
+    ]
+  },
+  {
+    "id": "h5-zichzelf",
+    "chapter": 5,
+    "nl": "zichzelf",
+    "lemma": "zichzelf",
+    "pos": "other",
+    "en": [
+      "themselves",
+      "oneself"
+    ],
+    "primaryEn": "themselves",
+    "source": "vocabulaire-list",
+    "note": "hier: themselves, ook: oneself"
+  },
+  {
+    "id": "h5-aansluiten-bij-op",
+    "chapter": 5,
+    "nl": "aansluiten bij / op",
+    "lemma": "aansluiten bij / op",
+    "pos": "phrase",
+    "en": [
+      "to join",
+      "to align with"
+    ],
+    "primaryEn": "to join",
+    "source": "vocabulaire-list",
+    "note": "hier: to join, ook: to align with",
+    "hint": "aangesloten bij"
+  },
+  {
+    "id": "h5-de-ondersteuning",
+    "chapter": 5,
+    "nl": "de ondersteuning",
+    "lemma": "ondersteuning",
+    "pos": "noun",
+    "en": [
+      "support"
+    ],
+    "primaryEn": "support",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h5-worstelen-met",
+    "chapter": 5,
+    "nl": "worstelen met",
+    "lemma": "worstelen met",
+    "pos": "phrase",
+    "en": [
+      "to struggle with"
+    ],
+    "primaryEn": "to struggle with",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h5-het-inzicht",
+    "chapter": 5,
+    "nl": "het inzicht",
+    "lemma": "inzicht",
+    "pos": "noun",
+    "en": [
+      "insight"
+    ],
+    "primaryEn": "insight",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h5-hierdoor",
+    "chapter": 5,
+    "nl": "hierdoor",
+    "lemma": "hierdoor",
+    "pos": "other",
+    "en": [
+      "because of this"
+    ],
+    "primaryEn": "because of this",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h5-passen",
+    "chapter": 5,
+    "nl": "passen",
+    "lemma": "passen",
+    "pos": "verb",
+    "en": [
+      "to fit (in with)"
+    ],
+    "primaryEn": "to fit (in with)",
+    "source": "vocabulaire-list",
+    "hint": "tussen passen"
+  },
+  {
+    "id": "h5-dezelfde",
+    "chapter": 5,
+    "nl": "dezelfde",
+    "lemma": "dezelfde",
+    "pos": "other",
+    "en": [
+      "the same"
+    ],
+    "primaryEn": "the same",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h5-aanpassen",
+    "chapter": 5,
+    "nl": "aanpassen",
+    "lemma": "aanpassen",
+    "pos": "verb",
+    "en": [
+      "to adapt (to)"
+    ],
+    "primaryEn": "to adapt (to)",
+    "source": "vocabulaire-list",
+    "hint": "pas je … aan"
+  },
+  {
+    "id": "h5-wegjagen",
+    "chapter": 5,
+    "nl": "wegjagen",
+    "lemma": "wegjagen",
+    "pos": "verb",
+    "en": [
+      "to chase away"
+    ],
+    "primaryEn": "to chase away",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "joeg weg",
+      "perfect": "weggejaagd"
+    }
+  },
+  {
+    "id": "h5-eisen",
+    "chapter": 5,
+    "nl": "eisen",
+    "lemma": "eisen",
+    "pos": "other",
+    "en": [
+      "requirements",
+      "demands"
+    ],
+    "primaryEn": "requirements",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h5-de-maatschappij",
+    "chapter": 5,
+    "nl": "de maatschappij",
+    "lemma": "maatschappij",
+    "pos": "noun",
+    "en": [
+      "society",
+      "company"
+    ],
+    "primaryEn": "society",
+    "source": "struikelwoorden",
+    "article": "de",
+    "struikelwoord": true,
+    "examples": [
+      "Alle mensen samen noemen we de maatschappij. Je kunt bijvoorbeeld zeggen: In deze maatschappij is materialisme iets negatiefs."
+    ]
+  },
+  {
+    "id": "h5-de-onzin",
+    "chapter": 5,
+    "nl": "de onzin",
+    "lemma": "onzin",
+    "pos": "noun",
+    "en": [
+      "nonsense"
+    ],
+    "primaryEn": "nonsense",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h5-het-onderwijs",
+    "chapter": 5,
+    "nl": "het onderwijs",
+    "lemma": "onderwijs",
+    "pos": "noun",
+    "en": [
+      "education"
+    ],
+    "primaryEn": "education",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h5-de-verzorging",
+    "chapter": 5,
+    "nl": "de verzorging",
+    "lemma": "verzorging",
+    "pos": "noun",
+    "en": [
+      "care"
+    ],
+    "primaryEn": "care",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h5-de-hoogleraar",
+    "chapter": 5,
+    "nl": "de hoogleraar",
+    "lemma": "hoogleraar",
+    "pos": "noun",
+    "en": [
+      "professor"
+    ],
+    "primaryEn": "professor",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h5-het-personeelsmanagement",
+    "chapter": 5,
+    "nl": "het personeelsmanagement",
+    "lemma": "personeelsmanagement",
+    "pos": "noun",
+    "en": [
+      "personnel management"
+    ],
+    "primaryEn": "personnel management",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h5-het-personeel",
+    "chapter": 5,
+    "nl": "het personeel",
+    "lemma": "personeel",
+    "pos": "noun",
+    "en": [
+      "staff",
+      "personnel"
+    ],
+    "primaryEn": "staff",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h5-onterecht",
+    "chapter": 5,
+    "nl": "onterecht",
+    "lemma": "onterecht",
+    "pos": "other",
+    "en": [
+      "wrongly",
+      "unfair",
+      "undeserved"
+    ],
+    "primaryEn": "wrongly",
+    "source": "vocabulaire-list",
+    "note": "hier: wrongly, ook: unfair, undeserved"
+  },
+  {
+    "id": "h5-stellen",
+    "chapter": 5,
+    "nl": "stellen",
+    "lemma": "stellen",
+    "pos": "verb",
+    "en": [
+      "to claim"
+    ],
+    "primaryEn": "to claim",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h5-aankijken",
+    "chapter": 5,
+    "nl": "aankijken",
+    "lemma": "aankijken",
+    "pos": "verb",
+    "en": [
+      "to look at"
+    ],
+    "primaryEn": "to look at",
+    "source": "struikelwoorden",
+    "separable": true,
+    "hint": "kijken … tegen … aan",
+    "struikelwoord": true,
+    "examples": [
+      "Ik kijk mensen graag in de ogen als ik met ze praat. Ik vind het vervelend als iemand mij in een gesprek niet aankijkt."
+    ]
+  },
+  {
+    "id": "h5-de-verbazing",
+    "chapter": 5,
+    "nl": "de verbazing",
+    "lemma": "verbazing",
+    "pos": "noun",
+    "en": [
+      "amazement"
+    ],
+    "primaryEn": "amazement",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h5-de-schoonheidsspecialist",
+    "chapter": 5,
+    "nl": "de schoonheidsspecialist",
+    "lemma": "schoonheidsspecialist",
+    "pos": "noun",
+    "en": [
+      "beautician"
+    ],
+    "primaryEn": "beautician",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h5-de-schoonheid",
+    "chapter": 5,
+    "nl": "de schoonheid",
+    "lemma": "schoonheid",
+    "pos": "noun",
+    "en": [
+      "beauty"
+    ],
+    "primaryEn": "beauty",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h5-de-mede-eigenaar",
+    "chapter": 5,
+    "nl": "de mede-eigenaar",
+    "lemma": "mede-eigenaar",
+    "pos": "noun",
+    "en": [
+      "co-owner"
+    ],
+    "primaryEn": "co-owner",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h5-mede",
+    "chapter": 5,
+    "nl": "mede",
+    "lemma": "mede",
+    "pos": "other",
+    "en": [
+      "co-",
+      "also",
+      "partly"
+    ],
+    "primaryEn": "co-",
+    "source": "vocabulaire-list",
+    "note": "hier: co-, ook: also, partly"
+  },
+  {
+    "id": "h5-de-eigenaar",
+    "chapter": 5,
+    "nl": "de eigenaar",
+    "lemma": "eigenaar",
+    "pos": "noun",
+    "en": [
+      "owner"
+    ],
+    "primaryEn": "owner",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h5-het-huidinstituut",
+    "chapter": 5,
+    "nl": "het huidinstituut",
+    "lemma": "huidinstituut",
+    "pos": "noun",
+    "en": [
+      "skin institute"
+    ],
+    "primaryEn": "skin institute",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h5-het-vakgebied",
+    "chapter": 5,
+    "nl": "het vakgebied",
+    "lemma": "vakgebied",
+    "pos": "noun",
+    "en": [
+      "field",
+      "profession"
+    ],
+    "primaryEn": "field",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h5-het-vak",
+    "chapter": 5,
+    "nl": "het vak",
+    "lemma": "vak",
+    "pos": "noun",
+    "en": [
+      "field",
+      "profession"
+    ],
+    "primaryEn": "field",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h5-rondlopen",
+    "chapter": 5,
+    "nl": "rondlopen",
+    "lemma": "rondlopen",
+    "pos": "verb",
+    "en": [
+      "to be there",
+      "to be around",
+      "to walk around"
+    ],
+    "primaryEn": "to be there",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "liep rond",
+      "perfect": "(is) rondgelopen"
+    },
+    "note": "hier: to be there, to be around, ook: to walk around"
+  },
+  {
+    "id": "h5-tutten",
+    "chapter": 5,
+    "nl": "tutten",
+    "lemma": "tutten",
+    "pos": "verb",
+    "en": [
+      "to primp",
+      "to fuss"
+    ],
+    "primaryEn": "to primp",
+    "source": "vocabulaire-list",
+    "note": "hier: to primp, ook: to fuss",
+    "hint": "getut"
+  },
+  {
+    "id": "h5-aanleren",
+    "chapter": 5,
+    "nl": "aanleren",
+    "lemma": "aanleren",
+    "pos": "verb",
+    "en": [
+      "to teach"
+    ],
+    "primaryEn": "to teach",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "hint": "aangeleerd"
+  },
+  {
+    "id": "h5-de-vakbeurs",
+    "chapter": 5,
+    "nl": "de vakbeurs",
+    "lemma": "vakbeurs",
+    "pos": "noun",
+    "en": [
+      "trade fair"
+    ],
+    "primaryEn": "trade fair",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h5-de-beurs",
+    "chapter": 5,
+    "nl": "de beurs",
+    "lemma": "beurs",
+    "pos": "noun",
+    "en": [
+      "fair"
+    ],
+    "primaryEn": "fair",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h5-de-folder",
+    "chapter": 5,
+    "nl": "de folder",
+    "lemma": "folder",
+    "pos": "noun",
+    "en": [
+      "leaflet"
+    ],
+    "primaryEn": "leaflet",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h5-de-vertegenwoordiger",
+    "chapter": 5,
+    "nl": "de vertegenwoordiger",
+    "lemma": "vertegenwoordiger",
+    "pos": "noun",
+    "en": [
+      "representatives schoonheidsproducten (het schoonheidsproduct) beauty products"
+    ],
+    "primaryEn": "representatives schoonheidsproducten (het schoonheidsproduct) beauty products",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "vertegenwoordigers"
+  },
+  {
+    "id": "h5-in-plaats-van",
+    "chapter": 5,
+    "nl": "in plaats van",
+    "lemma": "in plaats van",
+    "pos": "phrase",
+    "en": [
+      "instead of"
+    ],
+    "primaryEn": "instead of",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h5-het-beeld",
+    "chapter": 5,
+    "nl": "het beeld",
+    "lemma": "beeld",
+    "pos": "noun",
+    "en": [
+      "impressions",
+      "ideas",
+      "images"
+    ],
+    "primaryEn": "impressions",
+    "source": "struikelwoorden",
+    "article": "het",
+    "note": "hier: impressions, ideas, ook: images",
+    "hint": "beelden",
+    "struikelwoord": true,
+    "examples": [
+      "We hebben een mooi beeld gekocht: het is van steen en het zijn twee mannen."
+    ]
+  },
+  {
+    "id": "h5-ontstaan",
+    "chapter": 5,
+    "nl": "ontstaan",
+    "lemma": "ontstaan",
+    "pos": "verb",
+    "en": [
+      "to arise (from)"
+    ],
+    "primaryEn": "to arise (from)",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "ontstond",
+      "perfect": "is ontstaan"
+    },
+    "hint": "ontstaat"
+  },
+  {
+    "id": "h5-plakken",
+    "chapter": 5,
+    "nl": "plakken",
+    "lemma": "plakken",
+    "pos": "verb",
+    "en": [
+      "to attach (to)",
+      "to stick (on)"
+    ],
+    "primaryEn": "to attach (to)",
+    "source": "vocabulaire-list",
+    "note": "hier: to attach (to), ook: to stick (on)",
+    "hint": "op … plakken"
+  },
+  {
+    "id": "h5-van-nature",
+    "chapter": 5,
+    "nl": "van nature",
+    "lemma": "van nature",
+    "pos": "phrase",
+    "en": [
+      "by nature"
+    ],
+    "primaryEn": "by nature",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h5-zorgzaam",
+    "chapter": 5,
+    "nl": "zorgzaam",
+    "lemma": "zorgzaam",
+    "pos": "other",
+    "en": [
+      "caring"
+    ],
+    "primaryEn": "caring",
+    "source": "vocabulaire-list",
+    "hint": "zorgzamer"
+  },
+  {
+    "id": "h5-geven-om",
+    "chapter": 5,
+    "nl": "geven om",
+    "lemma": "geven om",
+    "pos": "phrase",
+    "en": [
+      "to care about"
+    ],
+    "primaryEn": "to care about",
+    "source": "vocabulaire-list",
+    "hint": "om … geven"
+  },
+  {
+    "id": "h5-de-andere",
+    "chapter": 5,
+    "nl": "de andere",
+    "lemma": "andere",
+    "pos": "noun",
+    "en": [
+      "others"
+    ],
+    "primaryEn": "others",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "anderen"
+  },
+  {
+    "id": "h5-de-sekse",
+    "chapter": 5,
+    "nl": "de sekse",
+    "lemma": "sekse",
+    "pos": "noun",
+    "en": [
+      "sex"
+    ],
+    "primaryEn": "sex",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h5-afwijken",
+    "chapter": 5,
+    "nl": "afwijken",
+    "lemma": "afwijken",
+    "pos": "verb",
+    "en": [
+      "deviant (to deviate (from))"
+    ],
+    "primaryEn": "deviant (to deviate (from))",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "week af",
+      "perfect": "is afgeweken"
+    },
+    "hint": "afwijkende"
+  },
+  {
+    "id": "h5-de-keuze-keus",
+    "chapter": 5,
+    "nl": "de keuze / keus",
+    "lemma": "keuze / keus",
+    "pos": "phrase",
+    "en": [
+      "choice"
+    ],
+    "primaryEn": "choice",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h5-ingaan-tegen",
+    "chapter": 5,
+    "nl": "ingaan tegen",
+    "lemma": "ingaan tegen",
+    "pos": "phrase",
+    "en": [
+      "to go against"
+    ],
+    "primaryEn": "to go against",
+    "source": "vocabulaire-list",
+    "hint": "gaat … in tegen"
+  },
+  {
+    "id": "h5-gelden",
+    "chapter": 5,
+    "nl": "gelden",
+    "lemma": "gelden",
+    "pos": "verb",
+    "en": [
+      "to hold (for)",
+      "to apply (to)"
+    ],
+    "primaryEn": "to hold (for)",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "gold",
+      "perfect": "gegolden"
+    },
+    "hint": "voor … geldt"
+  },
+  {
+    "id": "h5-opnieuw",
+    "chapter": 5,
+    "nl": "opnieuw",
+    "lemma": "opnieuw",
+    "pos": "other",
+    "en": [
+      "again"
+    ],
+    "primaryEn": "again",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h5-bevestigen",
+    "chapter": 5,
+    "nl": "bevestigen",
+    "lemma": "bevestigen",
+    "pos": "verb",
+    "en": [
+      "to confirm"
+    ],
+    "primaryEn": "to confirm",
+    "source": "vocabulaire-list",
+    "hint": "bevestigd"
+  },
+  {
+    "id": "h5-het-hokje",
+    "chapter": 5,
+    "nl": "het hokje",
+    "lemma": "hokje",
+    "pos": "noun",
+    "en": [
+      "boxes"
+    ],
+    "primaryEn": "boxes",
+    "source": "vocabulaire-list",
+    "article": "het",
+    "hint": "hokjes"
+  },
+  {
+    "id": "h5-uitoefenen",
+    "chapter": 5,
+    "nl": "uitoefenen",
+    "lemma": "uitoefenen",
+    "pos": "verb",
+    "en": [
+      "to exercise",
+      "to practise"
+    ],
+    "primaryEn": "to exercise",
+    "source": "struikelwoorden",
+    "separable": true,
+    "struikelwoord": true,
+    "examples": [
+      "Ik vind dat mannen en vrouwen alle beroepen kunnen uitoefenen."
+    ]
+  },
+  {
+    "id": "h5-uitmaken",
+    "chapter": 5,
+    "nl": "uitmaken",
+    "lemma": "uitmaken",
+    "pos": "verb",
+    "en": [
+      "to matter"
+    ],
+    "primaryEn": "to matter",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "hint": "maakt … uit"
+  },
+  {
+    "id": "h5-duwen",
+    "chapter": 5,
+    "nl": "duwen",
+    "lemma": "duwen",
+    "pos": "verb",
+    "en": [
+      "to put",
+      "to push",
+      "to shove"
+    ],
+    "primaryEn": "to put",
+    "source": "vocabulaire-list",
+    "note": "hier: to put, ook: to push, to shove"
+  },
+  {
+    "id": "h5-bij-passen",
+    "chapter": 5,
+    "nl": "bij … passen",
+    "lemma": "bij … passen",
+    "pos": "phrase",
+    "en": [
+      "to fit",
+      "to suit"
+    ],
+    "primaryEn": "to fit",
+    "source": "vocabulaire-list",
+    "hint": "tussen"
+  },
+  {
+    "id": "h5-weg",
+    "chapter": 5,
+    "nl": "weg",
+    "lemma": "weg",
+    "pos": "other",
+    "en": [
+      "away (from)"
+    ],
+    "primaryEn": "away (from)",
+    "source": "vocabulaire-list",
+    "hint": "van"
+  },
+  {
+    "id": "h5-terug",
+    "chapter": 5,
+    "nl": "terug",
+    "lemma": "terug",
+    "pos": "other",
+    "en": [
+      "back"
+    ],
+    "primaryEn": "back",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h5-de-bedrijfsjurist",
+    "chapter": 5,
+    "nl": "de bedrijfsjurist",
+    "lemma": "bedrijfsjurist",
+    "pos": "noun",
+    "en": [
+      "corporate lawyer"
+    ],
+    "primaryEn": "corporate lawyer",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h5-de-jurist",
+    "chapter": 5,
+    "nl": "de jurist",
+    "lemma": "jurist",
+    "pos": "noun",
+    "en": [
+      "lawyer"
+    ],
+    "primaryEn": "lawyer",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h5-de-yogadocent",
+    "chapter": 5,
+    "nl": "de yogadocent",
+    "lemma": "yogadocent",
+    "pos": "noun",
+    "en": [
+      "yoga teacher"
+    ],
+    "primaryEn": "yoga teacher",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h5-de-ondernemer",
+    "chapter": 5,
+    "nl": "de ondernemer",
+    "lemma": "ondernemer",
+    "pos": "noun",
+    "en": [
+      "entrepreneur"
+    ],
+    "primaryEn": "entrepreneur",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h5-huilen",
+    "chapter": 5,
+    "nl": "huilen",
+    "lemma": "huilen",
+    "pos": "verb",
+    "en": [
+      "to cry"
+    ],
+    "primaryEn": "to cry",
+    "source": "vocabulaire-list",
+    "hint": "om"
+  },
+  {
+    "id": "h5-het-huurappartement",
+    "chapter": 5,
+    "nl": "het huurappartement",
+    "lemma": "huurappartement",
+    "pos": "noun",
+    "en": [
+      "rental apartment"
+    ],
+    "primaryEn": "rental apartment",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h5-vastzitten",
+    "chapter": 5,
+    "nl": "vastzitten",
+    "lemma": "vastzitten",
+    "pos": "verb",
+    "en": [
+      "to be stuck"
+    ],
+    "primaryEn": "to be stuck",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "zat vast",
+      "perfect": "vastgezeten"
+    },
+    "hint": "vastzat"
+  },
+  {
+    "id": "h5-in-overleg-met",
+    "chapter": 5,
+    "nl": "in overleg met",
+    "lemma": "in overleg met",
+    "pos": "phrase",
+    "en": [
+      "in consultation with"
+    ],
+    "primaryEn": "in consultation with",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h5-het-overleg",
+    "chapter": 5,
+    "nl": "het overleg",
+    "lemma": "overleg",
+    "pos": "noun",
+    "en": [
+      "consultation"
+    ],
+    "primaryEn": "consultation",
+    "source": "vocabulaire-list",
+    "article": "het",
+    "hint": "in overleg met"
+  },
+  {
+    "id": "h5-opzeggen",
+    "chapter": 5,
+    "nl": "opzeggen",
+    "lemma": "opzeggen",
+    "pos": "verb",
+    "en": [
+      "to quit"
+    ],
+    "primaryEn": "to quit",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "zei op, zeiden op",
+      "perfect": "opgezegd"
+    },
+    "hint": "op … zeggen"
+  },
+  {
+    "id": "h5-de-opleiding",
+    "chapter": 5,
+    "nl": "de opleiding",
+    "lemma": "opleiding",
+    "pos": "noun",
+    "en": [
+      "training",
+      "degree programme"
+    ],
+    "primaryEn": "training",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "note": "hier: training, ook: degree programme"
+  },
+  {
+    "id": "h5-groeien",
+    "chapter": 5,
+    "nl": "groeien",
+    "lemma": "groeien",
+    "pos": "verb",
+    "en": [
+      "to grow"
+    ],
+    "primaryEn": "to grow",
+    "source": "vocabulaire-list",
+    "hint": "groeide"
+  },
+  {
+    "id": "h5-ondernemend",
+    "chapter": 5,
+    "nl": "ondernemend",
+    "lemma": "ondernemend",
+    "pos": "other",
+    "en": [
+      "entrepreneurial"
+    ],
+    "primaryEn": "entrepreneurial",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h5-ondernemen",
+    "chapter": 5,
+    "nl": "ondernemen",
+    "lemma": "ondernemen",
+    "pos": "verb",
+    "en": [
+      "to undertake",
+      "to run a business"
+    ],
+    "primaryEn": "to undertake",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "ondernam",
+      "perfect": "ondernomen"
+    }
+  },
+  {
+    "id": "h5-het-vakantiegeld",
+    "chapter": 5,
+    "nl": "het vakantiegeld",
+    "lemma": "vakantiegeld",
+    "pos": "noun",
+    "en": [
+      "holiday bonus",
+      "holiday pay"
+    ],
+    "primaryEn": "holiday bonus",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h5-de-zonnebril",
+    "chapter": 5,
+    "nl": "de zonnebril",
+    "lemma": "zonnebril",
+    "pos": "noun",
+    "en": [
+      "sunglasses"
+    ],
+    "primaryEn": "sunglasses",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h5-niks",
+    "chapter": 5,
+    "nl": "niks",
+    "lemma": "niks",
+    "pos": "other",
+    "en": [
+      "nothing"
+    ],
+    "primaryEn": "nothing",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h5-lenen",
+    "chapter": 5,
+    "nl": "lenen",
+    "lemma": "lenen",
+    "pos": "verb",
+    "en": [
+      "to lend",
+      "to borrow"
+    ],
+    "primaryEn": "to lend",
+    "source": "vocabulaire-list",
+    "note": "hier: to lend, ook: to borrow",
+    "hint": "leenden"
+  },
+  {
+    "id": "h5-dagelijks",
+    "chapter": 5,
+    "nl": "dagelijks",
+    "lemma": "dagelijks",
+    "pos": "other",
+    "en": [
+      "daily"
+    ],
+    "primaryEn": "daily",
+    "source": "vocabulaire-list",
+    "hint": "dagelijkse"
+  },
+  {
+    "id": "h5-de-kosten",
+    "chapter": 5,
+    "nl": "de kosten",
+    "lemma": "kosten",
+    "pos": "noun",
+    "en": [
+      "costs"
+    ],
+    "primaryEn": "costs",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h5-knap",
+    "chapter": 5,
+    "nl": "knap",
+    "lemma": "knap",
+    "pos": "other",
+    "en": [
+      "impressive",
+      "good-looking",
+      "clever"
+    ],
+    "primaryEn": "impressive",
+    "source": "vocabulaire-list",
+    "note": "hier: impressive, ook: good-looking, clever"
+  },
+  {
+    "id": "h5-durven",
+    "chapter": 5,
+    "nl": "durven",
+    "lemma": "durven",
+    "pos": "verb",
+    "en": [
+      "to dare"
+    ],
+    "primaryEn": "to dare",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h5-opzien-tegen",
+    "chapter": 5,
+    "nl": "opzien tegen",
+    "lemma": "opzien tegen",
+    "pos": "phrase",
+    "en": [
+      "to dread"
+    ],
+    "primaryEn": "to dread",
+    "source": "vocabulaire-list",
+    "hint": "zie … tegen … op"
+  },
+  {
+    "id": "h5-de-bieryoga",
+    "chapter": 5,
+    "nl": "de bieryoga",
+    "lemma": "bieryoga",
+    "pos": "noun",
+    "en": [
+      "beer yoga"
+    ],
+    "primaryEn": "beer yoga",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h5-boos",
+    "chapter": 5,
+    "nl": "boos",
+    "lemma": "boos",
+    "pos": "other",
+    "en": [
+      "angry"
+    ],
+    "primaryEn": "angry",
+    "source": "vocabulaire-list",
+    "hint": "op / over"
+  },
+  {
+    "id": "h5-storen",
+    "chapter": 5,
+    "nl": "storen",
+    "lemma": "storen",
+    "pos": "verb",
+    "en": [
+      "to interrupt",
+      "to disturb C Kwamen je verwachtingen van opdracht A uit? Welke beroepen staan in de tek-"
+    ],
+    "primaryEn": "to interrupt",
+    "source": "vocabulaire-list",
+    "hint": "gestoord"
+  },
+  {
+    "id": "h5-in-zijn-handen-drukken",
+    "chapter": 5,
+    "nl": "in zijn handen drukken",
+    "lemma": "in zijn handen drukken",
+    "pos": "phrase",
+    "en": [
+      "to press into someone's hands"
+    ],
+    "primaryEn": "to press into someone's hands",
+    "source": "generated"
+  },
+  {
+    "id": "h5-de-knoop-doorhakken",
+    "chapter": 5,
+    "nl": "de knoop doorhakken",
+    "lemma": "knoop doorhakken",
+    "pos": "phrase",
+    "en": [
+      "to make the final decision",
+      "to bite the bullet"
+    ],
+    "primaryEn": "to make the final decision",
+    "source": "generated"
+  },
+  {
+    "id": "h5-iets-in-stand-houden",
+    "chapter": 5,
+    "nl": "iets in stand houden",
+    "lemma": "iets in stand houden",
+    "pos": "phrase",
+    "en": [
+      "to keep something going",
+      "to maintain something"
+    ],
+    "primaryEn": "to keep something going",
+    "source": "generated"
+  },
+  {
+    "id": "h5-het-maakt-niet-uit-of",
+    "chapter": 5,
+    "nl": "Het maakt niet uit of …",
+    "lemma": "Het maakt niet uit of …",
+    "pos": "phrase",
+    "en": [
+      "It doesn't matter whether …"
+    ],
+    "primaryEn": "It doesn't matter whether …",
+    "source": "generated",
+    "hint": "echt"
+  },
+  {
+    "id": "h5-in-elkaar-zitten",
+    "chapter": 5,
+    "nl": "in elkaar zitten",
+    "lemma": "in elkaar zitten",
+    "pos": "phrase",
+    "en": [
+      "to be put together",
+      "how something works"
+    ],
+    "primaryEn": "to be put together",
+    "source": "generated"
+  },
+  {
+    "id": "h5-ergens-tegenaan-zitten",
+    "chapter": 5,
+    "nl": "ergens tegenaan zitten",
+    "lemma": "ergens tegenaan zitten",
+    "pos": "phrase",
+    "en": [
+      "to be bothered by something",
+      "to struggle with something"
+    ],
+    "primaryEn": "to be bothered by something",
+    "source": "generated",
+    "needsReview": true
+  },
+  {
+    "id": "h5-goed-slecht-in-je-vel-zitten",
+    "chapter": 5,
+    "nl": "goed / slecht in je vel zitten",
+    "lemma": "goed / slecht in je vel zitten",
+    "pos": "phrase",
+    "en": [
+      "to feel good / bad about yourself"
+    ],
+    "primaryEn": "to feel good / bad about yourself",
+    "source": "generated"
+  },
+  {
+    "id": "h5-iets-zien-zitten",
+    "chapter": 5,
+    "nl": "iets zien zitten",
+    "lemma": "iets zien zitten",
+    "pos": "phrase",
+    "en": [
+      "to be keen on something",
+      "to feel positive about something"
+    ],
+    "primaryEn": "to be keen on something",
+    "source": "generated",
+    "hint": "helemaal"
+  },
+  {
+    "id": "h5-accepteren",
+    "chapter": 5,
+    "nl": "accepteren",
+    "lemma": "accepteren",
+    "pos": "verb",
+    "en": [
+      "to accept"
+    ],
+    "primaryEn": "to accept",
+    "source": "generated"
+  },
+  {
+    "id": "h5-de-community",
+    "chapter": 5,
+    "nl": "de community",
+    "lemma": "community",
+    "pos": "noun",
+    "en": [
+      "community"
+    ],
+    "primaryEn": "community",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h5-het-compliment",
+    "chapter": 5,
+    "nl": "het compliment",
+    "lemma": "compliment",
+    "pos": "noun",
+    "en": [
+      "compliment"
+    ],
+    "primaryEn": "compliment",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "h5-de-coordinator",
+    "chapter": 5,
+    "nl": "de coördinator",
+    "lemma": "coördinator",
+    "pos": "noun",
+    "en": [
+      "coordinator"
+    ],
+    "primaryEn": "coordinator",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h5-domineren",
+    "chapter": 5,
+    "nl": "domineren",
+    "lemma": "domineren",
+    "pos": "verb",
+    "en": [
+      "to dominate"
+    ],
+    "primaryEn": "to dominate",
+    "source": "generated"
+  },
+  {
+    "id": "h5-de-eis",
+    "chapter": 5,
+    "nl": "de eis",
+    "lemma": "eis",
+    "pos": "noun",
+    "en": [
+      "requirement",
+      "demand"
+    ],
+    "primaryEn": "requirement",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h5-extra",
+    "chapter": 5,
+    "nl": "extra",
+    "lemma": "extra",
+    "pos": "adjective",
+    "en": [
+      "extra"
+    ],
+    "primaryEn": "extra",
+    "source": "generated"
+  },
+  {
+    "id": "h5-het-fenomeen",
+    "chapter": 5,
+    "nl": "het fenomeen",
+    "lemma": "fenomeen",
+    "pos": "noun",
+    "en": [
+      "phenomenon"
+    ],
+    "primaryEn": "phenomenon",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "h5-frustreren",
+    "chapter": 5,
+    "nl": "frustreren",
+    "lemma": "frustreren",
+    "pos": "verb",
+    "en": [
+      "to frustrate"
+    ],
+    "primaryEn": "to frustrate",
+    "source": "generated"
+  },
+  {
+    "id": "h5-de-hr-manager",
+    "chapter": 5,
+    "nl": "de hr-manager",
+    "lemma": "hr-manager",
+    "pos": "noun",
+    "en": [
+      "HR manager"
+    ],
+    "primaryEn": "HR manager",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h5-het-instituut",
+    "chapter": 5,
+    "nl": "het instituut",
+    "lemma": "instituut",
+    "pos": "noun",
+    "en": [
+      "institute"
+    ],
+    "primaryEn": "institute",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "h5-de-it",
+    "chapter": 5,
+    "nl": "de IT",
+    "lemma": "IT",
+    "pos": "noun",
+    "en": [
+      "IT"
+    ],
+    "primaryEn": "IT",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h5-het-label",
+    "chapter": 5,
+    "nl": "het label",
+    "lemma": "label",
+    "pos": "noun",
+    "en": [
+      "label"
+    ],
+    "primaryEn": "label",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "h5-het-management",
+    "chapter": 5,
+    "nl": "het management",
+    "lemma": "management",
+    "pos": "noun",
+    "en": [
+      "management"
+    ],
+    "primaryEn": "management",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "h5-materialistisch",
+    "chapter": 5,
+    "nl": "materialistisch",
+    "lemma": "materialistisch",
+    "pos": "adjective",
+    "en": [
+      "materialistic"
+    ],
+    "primaryEn": "materialistic",
+    "source": "generated"
+  },
+  {
+    "id": "h5-het-perspectief",
+    "chapter": 5,
+    "nl": "het perspectief",
+    "lemma": "perspectief",
+    "pos": "noun",
+    "en": [
+      "perspective"
+    ],
+    "primaryEn": "perspective",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "h5-de-plaats",
+    "chapter": 5,
+    "nl": "de plaats",
+    "lemma": "plaats",
+    "pos": "noun",
+    "en": [
+      "place",
+      "town"
+    ],
+    "primaryEn": "place",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h5-het-salaris",
+    "chapter": 5,
+    "nl": "het salaris",
+    "lemma": "salaris",
+    "pos": "noun",
+    "en": [
+      "salary"
+    ],
+    "primaryEn": "salary",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "h5-het-schoonheidsproduct",
+    "chapter": 5,
+    "nl": "het schoonheidsproduct",
+    "lemma": "schoonheidsproduct",
+    "pos": "noun",
+    "en": [
+      "beauty product"
+    ],
+    "primaryEn": "beauty product",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "h5-de-sector",
+    "chapter": 5,
+    "nl": "de sector",
+    "lemma": "sector",
+    "pos": "noun",
+    "en": [
+      "sector"
+    ],
+    "primaryEn": "sector",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h5-serieus",
+    "chapter": 5,
+    "nl": "serieus",
+    "lemma": "serieus",
+    "pos": "adjective",
+    "en": [
+      "serious"
+    ],
+    "primaryEn": "serious",
+    "source": "generated"
+  },
+  {
+    "id": "h5-de-specialist",
+    "chapter": 5,
+    "nl": "de specialist",
+    "lemma": "specialist",
+    "pos": "noun",
+    "en": [
+      "specialist"
+    ],
+    "primaryEn": "specialist",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h5-stereotiep",
+    "chapter": 5,
+    "nl": "stereotiep",
+    "lemma": "stereotiep",
+    "pos": "adjective",
+    "en": [
+      "stereotypical"
+    ],
+    "primaryEn": "stereotypical",
+    "source": "generated"
+  },
+  {
+    "id": "h5-de-stereotypering",
+    "chapter": 5,
+    "nl": "de stereotypering",
+    "lemma": "stereotypering",
+    "pos": "noun",
+    "en": [
+      "stereotyping"
+    ],
+    "primaryEn": "stereotyping",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h5-strategisch",
+    "chapter": 5,
+    "nl": "strategisch",
+    "lemma": "strategisch",
+    "pos": "adjective",
+    "en": [
+      "strategic"
+    ],
+    "primaryEn": "strategic",
+    "source": "generated"
+  },
+  {
+    "id": "h5-het-talent",
+    "chapter": 5,
+    "nl": "het talent",
+    "lemma": "talent",
+    "pos": "noun",
+    "en": [
+      "talent"
+    ],
+    "primaryEn": "talent",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "h5-de-techniek",
+    "chapter": 5,
+    "nl": "de techniek",
+    "lemma": "techniek",
+    "pos": "noun",
+    "en": [
+      "technology",
+      "technique"
+    ],
+    "primaryEn": "technology",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h5-technisch",
+    "chapter": 5,
+    "nl": "technisch",
+    "lemma": "technisch",
+    "pos": "adjective",
+    "en": [
+      "technical"
+    ],
+    "primaryEn": "technical",
+    "source": "generated"
+  },
+  {
+    "id": "h5-uniek",
+    "chapter": 5,
+    "nl": "uniek",
+    "lemma": "uniek",
+    "pos": "adjective",
+    "en": [
+      "unique"
+    ],
+    "primaryEn": "unique",
+    "source": "generated"
+  },
+  {
+    "id": "h5-de-yoga",
+    "chapter": 5,
+    "nl": "de yoga",
+    "lemma": "yoga",
+    "pos": "noun",
+    "en": [
+      "yoga"
+    ],
+    "primaryEn": "yoga",
+    "source": "generated",
+    "article": "de"
+  }
+]

@@ -1,0 +1,1427 @@
+[
+  {
+    "id": "h6-onszelf",
+    "chapter": 6,
+    "nl": "onszelf",
+    "lemma": "onszelf",
+    "pos": "other",
+    "en": [
+      "ourselves"
+    ],
+    "primaryEn": "ourselves",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h6-klagen",
+    "chapter": 6,
+    "nl": "klagen",
+    "lemma": "klagen",
+    "pos": "verb",
+    "en": [
+      "to complain (about)"
+    ],
+    "primaryEn": "to complain (about)",
+    "source": "vocabulaire-list",
+    "hint": "over"
+  },
+  {
+    "id": "h6-de-werkdruk",
+    "chapter": 6,
+    "nl": "de werkdruk",
+    "lemma": "werkdruk",
+    "pos": "noun",
+    "en": [
+      "workload"
+    ],
+    "primaryEn": "workload",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h6-de-druk",
+    "chapter": 6,
+    "nl": "de druk",
+    "lemma": "druk",
+    "pos": "noun",
+    "en": [
+      "load",
+      "pressure"
+    ],
+    "primaryEn": "load",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h6-betogen",
+    "chapter": 6,
+    "nl": "betogen",
+    "lemma": "betogen",
+    "pos": "verb",
+    "en": [
+      "to argue",
+      "to contend"
+    ],
+    "primaryEn": "to argue",
+    "source": "struikelwoorden",
+    "hint": "betoogt",
+    "struikelwoord": true,
+    "examples": [
+      "De architect betoogt dat de eerste markthal van Nederland wel iets speciaals moet zijn. In zijn betoog geeft hij daarvoor een aantal redenen."
+    ]
+  },
+  {
+    "id": "h6-gedreven",
+    "chapter": 6,
+    "nl": "gedreven",
+    "lemma": "gedreven",
+    "pos": "other",
+    "en": [
+      "driven (to drive)"
+    ],
+    "primaryEn": "driven (to drive)",
+    "source": "struikelwoorden",
+    "struikelwoord": true,
+    "examples": [
+      "Kaspar speelt elke dag vijf uur saxofoon. Hij zegt dat zijn motivatie heel groot is. Ik ben niet zo gedreven als Kaspar, ik speel ongeveer een halfuur per dag."
+    ]
+  },
+  {
+    "id": "h6-levensreddend",
+    "chapter": 6,
+    "nl": "levensreddend",
+    "lemma": "levensreddend",
+    "pos": "other",
+    "en": [
+      "life-saving"
+    ],
+    "primaryEn": "life-saving",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h6-redden",
+    "chapter": 6,
+    "nl": "redden",
+    "lemma": "redden",
+    "pos": "verb",
+    "en": [
+      "to save"
+    ],
+    "primaryEn": "to save",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h6-het-brein",
+    "chapter": 6,
+    "nl": "het brein",
+    "lemma": "brein",
+    "pos": "noun",
+    "en": [
+      "brain"
+    ],
+    "primaryEn": "brain",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h6-voldoende",
+    "chapter": 6,
+    "nl": "voldoende",
+    "lemma": "voldoende",
+    "pos": "other",
+    "en": [
+      "(in)sufficient(ly)"
+    ],
+    "primaryEn": "(in)sufficient(ly)",
+    "source": "struikelwoorden",
+    "struikelwoord": true,
+    "examples": [
+      "In wetenschappelijk onderzoek moet je voldoende bewijs voor iets vinden. Men accepteert onvoldoende bewijs niet."
+    ]
+  },
+  {
+    "id": "h6-uitdagen",
+    "chapter": 6,
+    "nl": "uitdagen",
+    "lemma": "uitdagen",
+    "pos": "verb",
+    "en": [
+      "to challenge"
+    ],
+    "primaryEn": "to challenge",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "hint": "uitgedaagd"
+  },
+  {
+    "id": "h6-bereikbaar",
+    "chapter": 6,
+    "nl": "bereikbaar",
+    "lemma": "bereikbaar",
+    "pos": "other",
+    "en": [
+      "(un)contactable"
+    ],
+    "primaryEn": "(un)contactable",
+    "source": "vocabulaire-list",
+    "examples": [
+      "In wetenschappelijk onderzoek moet je voldoende bewijs voor iets vinden. Men accepteert onvoldoende bewijs niet."
+    ]
+  },
+  {
+    "id": "h6-waken-voor",
+    "chapter": 6,
+    "nl": "waken voor",
+    "lemma": "waken voor",
+    "pos": "phrase",
+    "en": [
+      "keep an eye on",
+      "to safeguard"
+    ],
+    "primaryEn": "keep an eye on",
+    "source": "vocabulaire-list",
+    "note": "hier: keep an eye on, ook: to safeguard",
+    "hint": "waak voor"
+  },
+  {
+    "id": "h6-het-bewijs",
+    "chapter": 6,
+    "nl": "het bewijs",
+    "lemma": "bewijs",
+    "pos": "noun",
+    "en": [
+      "proof"
+    ],
+    "primaryEn": "proof",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h6-stressloos",
+    "chapter": 6,
+    "nl": "stressloos",
+    "lemma": "stressloos",
+    "pos": "other",
+    "en": [
+      "stress-free"
+    ],
+    "primaryEn": "stress-free",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h6-samengaan",
+    "chapter": 6,
+    "nl": "samengaan",
+    "lemma": "samengaan",
+    "pos": "verb",
+    "en": [
+      "to go together"
+    ],
+    "primaryEn": "to go together",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "ging samen",
+      "perfect": "is samengegaan"
+    },
+    "hint": "samen … gaan"
+  },
+  {
+    "id": "h6-tussendoor",
+    "chapter": 6,
+    "nl": "tussendoor",
+    "lemma": "tussendoor",
+    "pos": "other",
+    "en": [
+      "in between"
+    ],
+    "primaryEn": "in between",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h6-doceren",
+    "chapter": 6,
+    "nl": "doceren",
+    "lemma": "doceren",
+    "pos": "verb",
+    "en": [
+      "to teach"
+    ],
+    "primaryEn": "to teach",
+    "source": "vocabulaire-list",
+    "hint": "doceert"
+  },
+  {
+    "id": "h6-de-lezing",
+    "chapter": 6,
+    "nl": "de lezing",
+    "lemma": "lezing",
+    "pos": "noun",
+    "en": [
+      "readings",
+      "lectures"
+    ],
+    "primaryEn": "readings",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "lezingen"
+  },
+  {
+    "id": "h6-de-uitdaging",
+    "chapter": 6,
+    "nl": "de uitdaging",
+    "lemma": "uitdaging",
+    "pos": "noun",
+    "en": [
+      "challenges"
+    ],
+    "primaryEn": "challenges",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "uitdagingen"
+  },
+  {
+    "id": "h6-hopeloos",
+    "chapter": 6,
+    "nl": "hopeloos",
+    "lemma": "hopeloos",
+    "pos": "other",
+    "en": [
+      "hopeless"
+    ],
+    "primaryEn": "hopeless",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h6-prikkelen",
+    "chapter": 6,
+    "nl": "prikkelen",
+    "lemma": "prikkelen",
+    "pos": "verb",
+    "en": [
+      "to stimulate"
+    ],
+    "primaryEn": "to stimulate",
+    "source": "vocabulaire-list",
+    "hint": "prikkel"
+  },
+  {
+    "id": "h6-hersenen-de-hersens",
+    "chapter": 6,
+    "nl": "hersenen / de hersens",
+    "lemma": "hersenen / de hersens",
+    "pos": "phrase",
+    "en": [
+      "brain"
+    ],
+    "primaryEn": "brain",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h6-de-beslissing",
+    "chapter": 6,
+    "nl": "de beslissing",
+    "lemma": "beslissing",
+    "pos": "noun",
+    "en": [
+      "decisions"
+    ],
+    "primaryEn": "decisions",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "beslissingen"
+  },
+  {
+    "id": "h6-het-geklaag",
+    "chapter": 6,
+    "nl": "het geklaag",
+    "lemma": "geklaag",
+    "pos": "noun",
+    "en": [
+      "complaining"
+    ],
+    "primaryEn": "complaining",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h6-de-spoed",
+    "chapter": 6,
+    "nl": "de spoed",
+    "lemma": "spoed",
+    "pos": "noun",
+    "en": [
+      "haste",
+      "urgency"
+    ],
+    "primaryEn": "haste",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h6-de-spoedeisende-hulp",
+    "chapter": 6,
+    "nl": "de spoedeisende hulp",
+    "lemma": "spoedeisende hulp",
+    "pos": "phrase",
+    "en": [
+      "Accident and Emergency Depart- ment",
+      "emergency services"
+    ],
+    "primaryEn": "Accident and Emergency Depart- ment",
+    "source": "vocabulaire-list",
+    "note": "hier: Accident and Emergency Depart- ment, ook: emergency services"
+  },
+  {
+    "id": "h6-de-hulp",
+    "chapter": 6,
+    "nl": "de hulp",
+    "lemma": "hulp",
+    "pos": "noun",
+    "en": [
+      "help",
+      "services"
+    ],
+    "primaryEn": "help",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h6-de-veiligheid",
+    "chapter": 6,
+    "nl": "de veiligheid",
+    "lemma": "veiligheid",
+    "pos": "noun",
+    "en": [
+      "safety"
+    ],
+    "primaryEn": "safety",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h6-handelen",
+    "chapter": 6,
+    "nl": "handelen",
+    "lemma": "handelen",
+    "pos": "verb",
+    "en": [
+      "to act"
+    ],
+    "primaryEn": "to act",
+    "source": "vocabulaire-list",
+    "hint": "handelt"
+  },
+  {
+    "id": "h6-de-hartfrequentie",
+    "chapter": 6,
+    "nl": "de hartfrequentie",
+    "lemma": "hartfrequentie",
+    "pos": "noun",
+    "en": [
+      "heart rate"
+    ],
+    "primaryEn": "heart rate",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h6-het-hart",
+    "chapter": 6,
+    "nl": "het hart",
+    "lemma": "hart",
+    "pos": "noun",
+    "en": [
+      "heart"
+    ],
+    "primaryEn": "heart",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h6-de-frequentie",
+    "chapter": 6,
+    "nl": "de frequentie",
+    "lemma": "frequentie",
+    "pos": "noun",
+    "en": [
+      "frequency"
+    ],
+    "primaryEn": "frequency",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h6-de-spierspanning",
+    "chapter": 6,
+    "nl": "de spierspanning",
+    "lemma": "spierspanning",
+    "pos": "noun",
+    "en": [
+      "muscle tensions"
+    ],
+    "primaryEn": "muscle tensions",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "spierspanningen"
+  },
+  {
+    "id": "h6-de-spanning",
+    "chapter": 6,
+    "nl": "de spanning",
+    "lemma": "spanning",
+    "pos": "noun",
+    "en": [
+      "tension"
+    ],
+    "primaryEn": "tension",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h6-het-recht",
+    "chapter": 6,
+    "nl": "het recht",
+    "lemma": "recht",
+    "pos": "noun",
+    "en": [
+      "right (to)"
+    ],
+    "primaryEn": "right (to)",
+    "source": "vocabulaire-list",
+    "article": "het",
+    "hint": "op"
+  },
+  {
+    "id": "h6-de-privetijd",
+    "chapter": 6,
+    "nl": "de privétijd",
+    "lemma": "privétijd",
+    "pos": "noun",
+    "en": [
+      "personal time"
+    ],
+    "primaryEn": "personal time",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h6-pieken",
+    "chapter": 6,
+    "nl": "pieken",
+    "lemma": "pieken",
+    "pos": "verb",
+    "en": [
+      "to peak"
+    ],
+    "primaryEn": "to peak",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h6-dienstverlenend",
+    "chapter": 6,
+    "nl": "dienstverlenend",
+    "lemma": "dienstverlenend",
+    "pos": "other",
+    "en": [
+      "service-providing"
+    ],
+    "primaryEn": "service-providing",
+    "source": "vocabulaire-list",
+    "hint": "dienstverlenende"
+  },
+  {
+    "id": "h6-de-dienst",
+    "chapter": 6,
+    "nl": "de dienst",
+    "lemma": "dienst",
+    "pos": "noun",
+    "en": [
+      "service"
+    ],
+    "primaryEn": "service",
+    "source": "struikelwoorden",
+    "article": "de",
+    "struikelwoord": true,
+    "examples": [
+      "Als je in een ziekenhuis werkt, heb je vaak onregelmatige diensten. Soms moet je tot 15.00 uur werken en soms tot 23.00 uur."
+    ]
+  },
+  {
+    "id": "h6-verlenen",
+    "chapter": 6,
+    "nl": "verlenen",
+    "lemma": "verlenen",
+    "pos": "verb",
+    "en": [
+      "to grant",
+      "to provide"
+    ],
+    "primaryEn": "to grant",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h6-het-computerscherm",
+    "chapter": 6,
+    "nl": "het computerscherm",
+    "lemma": "computerscherm",
+    "pos": "noun",
+    "en": [
+      "computer screen"
+    ],
+    "primaryEn": "computer screen",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h6-het-scherm",
+    "chapter": 6,
+    "nl": "het scherm",
+    "lemma": "scherm",
+    "pos": "noun",
+    "en": [
+      "screen"
+    ],
+    "primaryEn": "screen",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h6-verlaten",
+    "chapter": 6,
+    "nl": "verlaten",
+    "lemma": "verlaten",
+    "pos": "verb",
+    "en": [
+      "to leave"
+    ],
+    "primaryEn": "to leave",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "verliet",
+      "perfect": "verlaten"
+    }
+  },
+  {
+    "id": "h6-de-medewerker",
+    "chapter": 6,
+    "nl": "de medewerker",
+    "lemma": "medewerker",
+    "pos": "noun",
+    "en": [
+      "employees"
+    ],
+    "primaryEn": "employees",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "medewerkers"
+  },
+  {
+    "id": "h6-de-doorbloeding",
+    "chapter": 6,
+    "nl": "de doorbloeding",
+    "lemma": "doorbloeding",
+    "pos": "noun",
+    "en": [
+      "blood flow",
+      "circulation"
+    ],
+    "primaryEn": "blood flow",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h6-daardoor",
+    "chapter": 6,
+    "nl": "daardoor",
+    "lemma": "daardoor",
+    "pos": "other",
+    "en": [
+      "as a result"
+    ],
+    "primaryEn": "as a result",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h6-tonen",
+    "chapter": 6,
+    "nl": "tonen",
+    "lemma": "tonen",
+    "pos": "verb",
+    "en": [
+      "to show"
+    ],
+    "primaryEn": "to show",
+    "source": "vocabulaire-list",
+    "hint": "toon"
+  },
+  {
+    "id": "h6-zolang",
+    "chapter": 6,
+    "nl": "zolang",
+    "lemma": "zolang",
+    "pos": "other",
+    "en": [
+      "as long as"
+    ],
+    "primaryEn": "as long as",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h6-ingewikkeld",
+    "chapter": 6,
+    "nl": "ingewikkeld",
+    "lemma": "ingewikkeld",
+    "pos": "other",
+    "en": [
+      "complicated"
+    ],
+    "primaryEn": "complicated",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h6-in-tegenstelling-tot",
+    "chapter": 6,
+    "nl": "in tegenstelling tot",
+    "lemma": "in tegenstelling tot",
+    "pos": "phrase",
+    "en": [
+      "contrary to",
+      "in contrast to"
+    ],
+    "primaryEn": "contrary to",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h6-de-tegenstelling",
+    "chapter": 6,
+    "nl": "de tegenstelling",
+    "lemma": "tegenstelling",
+    "pos": "noun",
+    "en": [
+      "contrast"
+    ],
+    "primaryEn": "contrast",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "in tegenstelling tot"
+  },
+  {
+    "id": "h6-het-proefschrift",
+    "chapter": 6,
+    "nl": "het proefschrift",
+    "lemma": "proefschrift",
+    "pos": "noun",
+    "en": [
+      "dissertation",
+      "thesis"
+    ],
+    "primaryEn": "dissertation",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h6-het-beoordelingsgesprek",
+    "chapter": 6,
+    "nl": "het beoordelingsgesprek",
+    "lemma": "beoordelingsgesprek",
+    "pos": "noun",
+    "en": [
+      "assessment interviews"
+    ],
+    "primaryEn": "assessment interviews",
+    "source": "vocabulaire-list",
+    "article": "het",
+    "hint": "beoordelingsgesprekken"
+  },
+  {
+    "id": "h6-de-beoordeling",
+    "chapter": 6,
+    "nl": "de beoordeling",
+    "lemma": "beoordeling",
+    "pos": "noun",
+    "en": [
+      "assessment"
+    ],
+    "primaryEn": "assessment",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h6-adviseren",
+    "chapter": 6,
+    "nl": "adviseren",
+    "lemma": "adviseren",
+    "pos": "verb",
+    "en": [
+      "to advise"
+    ],
+    "primaryEn": "to advise",
+    "source": "vocabulaire-list",
+    "hint": "adviseert"
+  },
+  {
+    "id": "h6-opkomen-in",
+    "chapter": 6,
+    "nl": "opkomen in",
+    "lemma": "opkomen in",
+    "pos": "phrase",
+    "en": [
+      "to come up in"
+    ],
+    "primaryEn": "to come up in",
+    "source": "vocabulaire-list",
+    "hint": "komen … in … op"
+  },
+  {
+    "id": "h6-misgaan",
+    "chapter": 6,
+    "nl": "misgaan",
+    "lemma": "misgaan",
+    "pos": "verb",
+    "en": [
+      "to go wrong"
+    ],
+    "primaryEn": "to go wrong",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "ging mis",
+      "perfect": "is misgegaan"
+    },
+    "hint": "gaat mis"
+  },
+  {
+    "id": "h6-inzetten",
+    "chapter": 6,
+    "nl": "inzetten",
+    "lemma": "inzetten",
+    "pos": "verb",
+    "en": [
+      "to use (for)",
+      "to devote (to)"
+    ],
+    "primaryEn": "to use (for)",
+    "source": "vocabulaire-list",
+    "note": "hier: to use (for), ook: to devote (to)",
+    "hint": "inzet"
+  },
+  {
+    "id": "h6-gerust",
+    "chapter": 6,
+    "nl": "gerust",
+    "lemma": "gerust",
+    "pos": "other",
+    "en": [
+      "safely",
+      "at rest",
+      "at ease"
+    ],
+    "primaryEn": "safely",
+    "source": "vocabulaire-list",
+    "note": "hier: safely, ook: at rest, at ease"
+  },
+  {
+    "id": "h6-onderuitgaan",
+    "chapter": 6,
+    "nl": "onderuitgaan",
+    "lemma": "onderuitgaan",
+    "pos": "verb",
+    "en": [
+      "to fail",
+      "to fall"
+    ],
+    "primaryEn": "to fail",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "ging onderuit",
+      "perfect": "is onderuitgegaan"
+    },
+    "note": "hier: to fail, ook: to fall",
+    "hint": "onderuitgaat"
+  },
+  {
+    "id": "h6-onderuit",
+    "chapter": 6,
+    "nl": "onderuit",
+    "lemma": "onderuit",
+    "pos": "other",
+    "en": [
+      "down"
+    ],
+    "primaryEn": "down",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h6-tegengaan",
+    "chapter": 6,
+    "nl": "tegengaan",
+    "lemma": "tegengaan",
+    "pos": "verb",
+    "en": [
+      "to combat",
+      "to go against",
+      "to prevent"
+    ],
+    "primaryEn": "to combat",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "ging tegen",
+      "perfect": "is tegengegaan"
+    },
+    "note": "hier: to combat, ook: to go against, to prevent"
+  },
+  {
+    "id": "h6-reguleren",
+    "chapter": 6,
+    "nl": "reguleren",
+    "lemma": "reguleren",
+    "pos": "verb",
+    "en": [
+      "to regulate"
+    ],
+    "primaryEn": "to regulate",
+    "source": "vocabulaire-list",
+    "hint": "gereguleerd"
+  },
+  {
+    "id": "h6-hanteren",
+    "chapter": 6,
+    "nl": "hanteren",
+    "lemma": "hanteren",
+    "pos": "verb",
+    "en": [
+      "to use"
+    ],
+    "primaryEn": "to use",
+    "source": "vocabulaire-list",
+    "hint": "hanteert"
+  },
+  {
+    "id": "h6-presteren",
+    "chapter": 6,
+    "nl": "presteren",
+    "lemma": "presteren",
+    "pos": "verb",
+    "en": [
+      "to perform"
+    ],
+    "primaryEn": "to perform",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h6-kortom",
+    "chapter": 6,
+    "nl": "kortom",
+    "lemma": "kortom",
+    "pos": "other",
+    "en": [
+      "in short"
+    ],
+    "primaryEn": "in short",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h6-met-z-n-allen",
+    "chapter": 6,
+    "nl": "met z’n allen",
+    "lemma": "met z’n allen",
+    "pos": "phrase",
+    "en": [
+      "all together"
+    ],
+    "primaryEn": "all together",
+    "source": "generated"
+  },
+  {
+    "id": "h6-naar-boven-komen",
+    "chapter": 6,
+    "nl": "naar boven komen",
+    "lemma": "naar boven komen",
+    "pos": "phrase",
+    "en": [
+      "to surface",
+      "to come up"
+    ],
+    "primaryEn": "to surface",
+    "source": "generated"
+  },
+  {
+    "id": "h6-iets-in-gang-zetten",
+    "chapter": 6,
+    "nl": "iets in gang zetten",
+    "lemma": "iets in gang zetten",
+    "pos": "phrase",
+    "en": [
+      "to set something in motion"
+    ],
+    "primaryEn": "to set something in motion",
+    "source": "generated"
+  },
+  {
+    "id": "h6-er-is-niks-mis-mee",
+    "chapter": 6,
+    "nl": "er is niks mis mee",
+    "lemma": "er is niks mis mee",
+    "pos": "phrase",
+    "en": [
+      "there's nothing wrong with it"
+    ],
+    "primaryEn": "there's nothing wrong with it",
+    "source": "generated"
+  },
+  {
+    "id": "h6-niet-zoveel-op-hebben-met",
+    "chapter": 6,
+    "nl": "niet zoveel op hebben met",
+    "lemma": "niet zoveel op hebben met",
+    "pos": "phrase",
+    "en": [
+      "to not care much for"
+    ],
+    "primaryEn": "to not care much for",
+    "source": "generated"
+  },
+  {
+    "id": "h6-het-loopt-je-over-de-schoenen",
+    "chapter": 6,
+    "nl": "het loopt je over de schoenen",
+    "lemma": "loopt je over de schoenen",
+    "pos": "phrase",
+    "en": [
+      "it's getting too much to handle"
+    ],
+    "primaryEn": "it's getting too much to handle",
+    "source": "generated",
+    "needsReview": true
+  },
+  {
+    "id": "h6-op-zijn-tijd",
+    "chapter": 6,
+    "nl": "op zijn tijd",
+    "lemma": "op zijn tijd",
+    "pos": "phrase",
+    "en": [
+      "from time to time",
+      "at the right moment"
+    ],
+    "primaryEn": "from time to time",
+    "source": "generated"
+  },
+  {
+    "id": "h6-actief",
+    "chapter": 6,
+    "nl": "actief",
+    "lemma": "actief",
+    "pos": "adjective",
+    "en": [
+      "active"
+    ],
+    "primaryEn": "active",
+    "source": "generated"
+  },
+  {
+    "id": "h6-de-balans",
+    "chapter": 6,
+    "nl": "de balans",
+    "lemma": "balans",
+    "pos": "noun",
+    "en": [
+      "balance"
+    ],
+    "primaryEn": "balance",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h6-chronisch",
+    "chapter": 6,
+    "nl": "chronisch",
+    "lemma": "chronisch",
+    "pos": "adjective",
+    "en": [
+      "chronic"
+    ],
+    "primaryEn": "chronic",
+    "source": "generated"
+  },
+  {
+    "id": "h6-collectief",
+    "chapter": 6,
+    "nl": "collectief",
+    "lemma": "collectief",
+    "pos": "adjective",
+    "en": [
+      "collective"
+    ],
+    "primaryEn": "collective",
+    "source": "generated"
+  },
+  {
+    "id": "h6-combineren",
+    "chapter": 6,
+    "nl": "combineren",
+    "lemma": "combineren",
+    "pos": "verb",
+    "en": [
+      "to combine"
+    ],
+    "primaryEn": "to combine",
+    "source": "generated"
+  },
+  {
+    "id": "h6-zich-concentreren",
+    "chapter": 6,
+    "nl": "zich concentreren",
+    "lemma": "concentreren",
+    "pos": "verb",
+    "en": [
+      "to concentrate"
+    ],
+    "primaryEn": "to concentrate",
+    "source": "generated",
+    "reflexive": true
+  },
+  {
+    "id": "h6-de-connectie",
+    "chapter": 6,
+    "nl": "de connectie",
+    "lemma": "connectie",
+    "pos": "noun",
+    "en": [
+      "connection"
+    ],
+    "primaryEn": "connection",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h6-constant",
+    "chapter": 6,
+    "nl": "constant",
+    "lemma": "constant",
+    "pos": "adjective",
+    "en": [
+      "constant",
+      "constantly"
+    ],
+    "primaryEn": "constant",
+    "source": "generated"
+  },
+  {
+    "id": "h6-de-controle",
+    "chapter": 6,
+    "nl": "de controle",
+    "lemma": "controle",
+    "pos": "noun",
+    "en": [
+      "control",
+      "check"
+    ],
+    "primaryEn": "control",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h6-drijven",
+    "chapter": 6,
+    "nl": "drijven",
+    "lemma": "drijven",
+    "pos": "verb",
+    "en": [
+      "to float",
+      "to drive (someone to something)"
+    ],
+    "primaryEn": "to float",
+    "source": "generated",
+    "irregular": {
+      "past": "dreef",
+      "perfect": "(is) gedreven"
+    },
+    "examples": [
+      "Kaspar speelt elke dag vijf uur saxofoon. Hij zegt dat zijn motivatie heel groot is. Ik ben niet zo gedreven als Kaspar, ik speel ongeveer een halfuur per dag."
+    ]
+  },
+  {
+    "id": "h6-de-empathie",
+    "chapter": 6,
+    "nl": "de empathie",
+    "lemma": "empathie",
+    "pos": "noun",
+    "en": [
+      "empathy"
+    ],
+    "primaryEn": "empathy",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h6-fit",
+    "chapter": 6,
+    "nl": "fit",
+    "lemma": "fit",
+    "pos": "adjective",
+    "en": [
+      "fit"
+    ],
+    "primaryEn": "fit",
+    "source": "generated"
+  },
+  {
+    "id": "h6-functioneren",
+    "chapter": 6,
+    "nl": "functioneren",
+    "lemma": "functioneren",
+    "pos": "verb",
+    "en": [
+      "to function"
+    ],
+    "primaryEn": "to function",
+    "source": "generated"
+  },
+  {
+    "id": "h6-fysiek",
+    "chapter": 6,
+    "nl": "fysiek",
+    "lemma": "fysiek",
+    "pos": "adjective",
+    "en": [
+      "physical",
+      "physically"
+    ],
+    "primaryEn": "physical",
+    "source": "generated"
+  },
+  {
+    "id": "h6-de-hersenen-hersens",
+    "chapter": 6,
+    "nl": "de hersenen / hersens",
+    "lemma": "hersenen / hersens",
+    "pos": "noun",
+    "en": [
+      "brain",
+      "brains"
+    ],
+    "primaryEn": "brain",
+    "source": "generated"
+  },
+  {
+    "id": "h6-ideaal",
+    "chapter": 6,
+    "nl": "ideaal",
+    "lemma": "ideaal",
+    "pos": "other",
+    "en": [
+      "ideal"
+    ],
+    "primaryEn": "ideal",
+    "source": "generated"
+  },
+  {
+    "id": "h6-innovatief",
+    "chapter": 6,
+    "nl": "innovatief",
+    "lemma": "innovatief",
+    "pos": "adjective",
+    "en": [
+      "innovative"
+    ],
+    "primaryEn": "innovative",
+    "source": "generated"
+  },
+  {
+    "id": "h6-de-media",
+    "chapter": 6,
+    "nl": "de media",
+    "lemma": "media",
+    "pos": "noun",
+    "en": [
+      "media"
+    ],
+    "primaryEn": "media",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h6-mentaal",
+    "chapter": 6,
+    "nl": "mentaal",
+    "lemma": "mentaal",
+    "pos": "adjective",
+    "en": [
+      "mental",
+      "mentally"
+    ],
+    "primaryEn": "mental",
+    "source": "generated"
+  },
+  {
+    "id": "h6-multitasken",
+    "chapter": 6,
+    "nl": "multitasken",
+    "lemma": "multitasken",
+    "pos": "verb",
+    "en": [
+      "to multitask"
+    ],
+    "primaryEn": "to multitask",
+    "source": "generated"
+  },
+  {
+    "id": "h6-de-negativiteit",
+    "chapter": 6,
+    "nl": "de negativiteit",
+    "lemma": "negativiteit",
+    "pos": "noun",
+    "en": [
+      "negativity"
+    ],
+    "primaryEn": "negativity",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h6-de-neuropsychologie",
+    "chapter": 6,
+    "nl": "de neuropsychologie",
+    "lemma": "neuropsychologie",
+    "pos": "noun",
+    "en": [
+      "neuropsychology"
+    ],
+    "primaryEn": "neuropsychology",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h6-het-neurosysteem",
+    "chapter": 6,
+    "nl": "het neurosysteem",
+    "lemma": "neurosysteem",
+    "pos": "noun",
+    "en": [
+      "nervous system"
+    ],
+    "primaryEn": "nervous system",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "h6-onbereikbaar",
+    "chapter": 6,
+    "nl": "onbereikbaar",
+    "lemma": "onbereikbaar",
+    "pos": "adjective",
+    "en": [
+      "unreachable",
+      "unattainable"
+    ],
+    "primaryEn": "unreachable",
+    "source": "generated"
+  },
+  {
+    "id": "h6-onvoldoende",
+    "chapter": 6,
+    "nl": "onvoldoende",
+    "lemma": "onvoldoende",
+    "pos": "adjective",
+    "en": [
+      "insufficient",
+      "inadequate"
+    ],
+    "primaryEn": "insufficient",
+    "source": "generated",
+    "examples": [
+      "In wetenschappelijk onderzoek moet je voldoende bewijs voor iets vinden. Men accepteert onvoldoende bewijs niet."
+    ]
+  },
+  {
+    "id": "h6-optimaal",
+    "chapter": 6,
+    "nl": "optimaal",
+    "lemma": "optimaal",
+    "pos": "adjective",
+    "en": [
+      "optimal"
+    ],
+    "primaryEn": "optimal",
+    "source": "generated"
+  },
+  {
+    "id": "h6-de-periode",
+    "chapter": 6,
+    "nl": "de periode",
+    "lemma": "periode",
+    "pos": "noun",
+    "en": [
+      "period"
+    ],
+    "primaryEn": "period",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h6-regulier",
+    "chapter": 6,
+    "nl": "regulier",
+    "lemma": "regulier",
+    "pos": "adjective",
+    "en": [
+      "regular"
+    ],
+    "primaryEn": "regular",
+    "source": "generated"
+  },
+  {
+    "id": "h6-de-stress",
+    "chapter": 6,
+    "nl": "de stress",
+    "lemma": "stress",
+    "pos": "noun",
+    "en": [
+      "stress"
+    ],
+    "primaryEn": "stress",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h6-het-stresshormoon",
+    "chapter": 6,
+    "nl": "het stresshormoon",
+    "lemma": "stresshormoon",
+    "pos": "noun",
+    "en": [
+      "stress hormone"
+    ],
+    "primaryEn": "stress hormone",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "h6-de-stressreductie",
+    "chapter": 6,
+    "nl": "de stressreductie",
+    "lemma": "stressreductie",
+    "pos": "noun",
+    "en": [
+      "stress reduction"
+    ],
+    "primaryEn": "stress reduction",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h6-testen",
+    "chapter": 6,
+    "nl": "testen",
+    "lemma": "testen",
+    "pos": "verb",
+    "en": [
+      "to test"
+    ],
+    "primaryEn": "to test",
+    "source": "generated"
+  }
+]

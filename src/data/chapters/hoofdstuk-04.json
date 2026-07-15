@@ -1,0 +1,1768 @@
+[
+  {
+    "id": "h4-de-wereldreiziger",
+    "chapter": 4,
+    "nl": "de wereldreiziger",
+    "lemma": "wereldreiziger",
+    "pos": "noun",
+    "en": [
+      "globetrotters"
+    ],
+    "primaryEn": "globetrotters",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "wereldreizigers"
+  },
+  {
+    "id": "h4-de-reiziger",
+    "chapter": 4,
+    "nl": "de reiziger",
+    "lemma": "reiziger",
+    "pos": "noun",
+    "en": [
+      "traveller"
+    ],
+    "primaryEn": "traveller",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h4-de-verandering",
+    "chapter": 4,
+    "nl": "de verandering",
+    "lemma": "verandering",
+    "pos": "noun",
+    "en": [
+      "change"
+    ],
+    "primaryEn": "change",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h4-trekken",
+    "chapter": 4,
+    "nl": "trekken",
+    "lemma": "trekken",
+    "pos": "verb",
+    "en": [
+      "to travel",
+      "to pull"
+    ],
+    "primaryEn": "to travel",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "trok",
+      "perfect": "(is) getrokken"
+    },
+    "note": "hier: to travel, ook: to pull",
+    "hint": "door … trokken"
+  },
+  {
+    "id": "h4-beleven",
+    "chapter": 4,
+    "nl": "beleven",
+    "lemma": "beleven",
+    "pos": "verb",
+    "en": [
+      "to experience"
+    ],
+    "primaryEn": "to experience",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h4-hoe-hoe",
+    "chapter": 4,
+    "nl": "hoe … hoe …",
+    "lemma": "hoe … hoe …",
+    "pos": "phrase",
+    "en": [
+      "the … the … (i.e. the further, the better)"
+    ],
+    "primaryEn": "the … the … (i.e. the further, the better)",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h4-aanspreken",
+    "chapter": 4,
+    "nl": "aanspreken",
+    "lemma": "aanspreken",
+    "pos": "verb",
+    "en": [
+      "to appeal"
+    ],
+    "primaryEn": "to appeal",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "sprak aan",
+      "perfect": "aangesproken"
+    },
+    "hint": "spreekt … aan"
+  },
+  {
+    "id": "h4-eenmaal",
+    "chapter": 4,
+    "nl": "eenmaal",
+    "lemma": "eenmaal",
+    "pos": "other",
+    "en": [
+      "just",
+      "simply",
+      "once"
+    ],
+    "primaryEn": "just",
+    "source": "vocabulaire-list",
+    "note": "hier: just, simply, ook: once"
+  },
+  {
+    "id": "h4-ontdekken",
+    "chapter": 4,
+    "nl": "ontdekken",
+    "lemma": "ontdekken",
+    "pos": "verb",
+    "en": [
+      "to discover"
+    ],
+    "primaryEn": "to discover",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h4-de-blik",
+    "chapter": 4,
+    "nl": "de blik",
+    "lemma": "blik",
+    "pos": "noun",
+    "en": [
+      "perspective",
+      "look",
+      "glance"
+    ],
+    "primaryEn": "perspective",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "note": "hier: perspective, ook: look, glance"
+  },
+  {
+    "id": "h4-vanzelfsprekend",
+    "chapter": 4,
+    "nl": "vanzelfsprekend",
+    "lemma": "vanzelfsprekend",
+    "pos": "other",
+    "en": [
+      "obvious"
+    ],
+    "primaryEn": "obvious",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h4-ontbreken",
+    "chapter": 4,
+    "nl": "ontbreken",
+    "lemma": "ontbreken",
+    "pos": "verb",
+    "en": [
+      "to miss",
+      "to lack"
+    ],
+    "primaryEn": "to miss",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "ontbrak",
+      "perfect": "ontbroken"
+    },
+    "hint": "ontbreekt"
+  },
+  {
+    "id": "h4-waarderen",
+    "chapter": 4,
+    "nl": "waarderen",
+    "lemma": "waarderen",
+    "pos": "verb",
+    "en": [
+      "to appreciate"
+    ],
+    "primaryEn": "to appreciate",
+    "source": "vocabulaire-list",
+    "hint": "gewaardeerd"
+  },
+  {
+    "id": "h4-de-bestemming",
+    "chapter": 4,
+    "nl": "de bestemming",
+    "lemma": "bestemming",
+    "pos": "noun",
+    "en": [
+      "destination"
+    ],
+    "primaryEn": "destination",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h4-spannend",
+    "chapter": 4,
+    "nl": "spannend",
+    "lemma": "spannend",
+    "pos": "other",
+    "en": [
+      "exciting"
+    ],
+    "primaryEn": "exciting",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h4-zwerven",
+    "chapter": 4,
+    "nl": "zwerven",
+    "lemma": "zwerven",
+    "pos": "verb",
+    "en": [
+      "to wander"
+    ],
+    "primaryEn": "to wander",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "zwierf",
+      "perfect": "gezworven"
+    }
+  },
+  {
+    "id": "h4-zelden",
+    "chapter": 4,
+    "nl": "zelden",
+    "lemma": "zelden",
+    "pos": "other",
+    "en": [
+      "rarely"
+    ],
+    "primaryEn": "rarely",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h4-verrassen",
+    "chapter": 4,
+    "nl": "verrassen",
+    "lemma": "verrassen",
+    "pos": "verb",
+    "en": [
+      "to surprise"
+    ],
+    "primaryEn": "to surprise",
+    "source": "vocabulaire-list",
+    "hint": "verrast"
+  },
+  {
+    "id": "h4-eindigen",
+    "chapter": 4,
+    "nl": "eindigen",
+    "lemma": "eindigen",
+    "pos": "verb",
+    "en": [
+      "to end (with)"
+    ],
+    "primaryEn": "to end (with)",
+    "source": "vocabulaire-list",
+    "hint": "geëindigd; eindigen (met)"
+  },
+  {
+    "id": "h4-het-zandstuifgebied",
+    "chapter": 4,
+    "nl": "het zandstuifgebied",
+    "lemma": "zandstuifgebied",
+    "pos": "noun",
+    "en": [
+      "sand drift region"
+    ],
+    "primaryEn": "sand drift region",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h4-de-heide",
+    "chapter": 4,
+    "nl": "de heide",
+    "lemma": "heide",
+    "pos": "noun",
+    "en": [
+      "heather",
+      "heath"
+    ],
+    "primaryEn": "heather",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h4-bloeien",
+    "chapter": 4,
+    "nl": "bloeien",
+    "lemma": "bloeien",
+    "pos": "verb",
+    "en": [
+      "to bloom",
+      "to blossom"
+    ],
+    "primaryEn": "to bloom",
+    "source": "vocabulaire-list",
+    "hint": "bloeide"
+  },
+  {
+    "id": "h4-ruiken",
+    "chapter": 4,
+    "nl": "ruiken",
+    "lemma": "ruiken",
+    "pos": "verb",
+    "en": [
+      "to smell"
+    ],
+    "primaryEn": "to smell",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "rook",
+      "perfect": "geroken"
+    },
+    "hint": "rook"
+  },
+  {
+    "id": "h4-de-tegenslag",
+    "chapter": 4,
+    "nl": "de tegenslag",
+    "lemma": "tegenslag",
+    "pos": "noun",
+    "en": [
+      "setbacks"
+    ],
+    "primaryEn": "setbacks",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "tegenslagen"
+  },
+  {
+    "id": "h4-de-tocht",
+    "chapter": 4,
+    "nl": "de tocht",
+    "lemma": "tocht",
+    "pos": "noun",
+    "en": [
+      "tours",
+      "trips"
+    ],
+    "primaryEn": "tours",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "tochten"
+  },
+  {
+    "id": "h4-sowieso",
+    "chapter": 4,
+    "nl": "sowieso",
+    "lemma": "sowieso",
+    "pos": "other",
+    "en": [
+      "anyway",
+      "in any case"
+    ],
+    "primaryEn": "anyway",
+    "source": "vocabulaire-list",
+    "note": "hier: anyway, ook: in any case"
+  },
+  {
+    "id": "h4-opvangen",
+    "chapter": 4,
+    "nl": "opvangen",
+    "lemma": "opvangen",
+    "pos": "verb",
+    "en": [
+      "to deal with (setbacks)",
+      "to catch"
+    ],
+    "primaryEn": "to deal with (setbacks)",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "ving op",
+      "perfect": "opgevangen"
+    },
+    "note": "hier: to deal with (setbacks), ook: to catch"
+  },
+  {
+    "id": "h4-de-eend",
+    "chapter": 4,
+    "nl": "de eend",
+    "lemma": "eend",
+    "pos": "noun",
+    "en": [
+      "duck"
+    ],
+    "primaryEn": "duck",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h4-de-eilandengroep",
+    "chapter": 4,
+    "nl": "de eilandengroep",
+    "lemma": "eilandengroep",
+    "pos": "noun",
+    "en": [
+      "archipelago",
+      "group of islands"
+    ],
+    "primaryEn": "archipelago",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h4-het-vogelparadijs",
+    "chapter": 4,
+    "nl": "het vogelparadijs",
+    "lemma": "vogelparadijs",
+    "pos": "noun",
+    "en": [
+      "bird paradise"
+    ],
+    "primaryEn": "bird paradise",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h4-waaien",
+    "chapter": 4,
+    "nl": "waaien",
+    "lemma": "waaien",
+    "pos": "verb",
+    "en": [
+      "to blow (wind)"
+    ],
+    "primaryEn": "to blow (wind)",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "waaide / woei",
+      "perfect": "(is) gewaaid"
+    },
+    "hint": "waaide"
+  },
+  {
+    "id": "h4-enorm",
+    "chapter": 4,
+    "nl": "enorm",
+    "lemma": "enorm",
+    "pos": "other",
+    "en": [
+      "terribly",
+      "enormous",
+      "enormously"
+    ],
+    "primaryEn": "terribly",
+    "source": "vocabulaire-list",
+    "note": "hier: terribly, ook: enormous(ly)"
+  },
+  {
+    "id": "h4-schuilen",
+    "chapter": 4,
+    "nl": "schuilen",
+    "lemma": "schuilen",
+    "pos": "verb",
+    "en": [
+      "to shelter (from)",
+      "to hide (from)"
+    ],
+    "primaryEn": "to shelter (from)",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "schuilde / school",
+      "perfect": "gescholen"
+    },
+    "hint": "voor"
+  },
+  {
+    "id": "h4-druipen",
+    "chapter": 4,
+    "nl": "druipen",
+    "lemma": "druipen",
+    "pos": "verb",
+    "en": [
+      "to be soaked",
+      "to drip"
+    ],
+    "primaryEn": "to be soaked",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "droop",
+      "perfect": "(is) gedropen"
+    },
+    "note": "hier: to be soaked, ook: to drip",
+    "hint": "dropen"
+  },
+  {
+    "id": "h4-de-regen",
+    "chapter": 4,
+    "nl": "de regen",
+    "lemma": "regen",
+    "pos": "noun",
+    "en": [
+      "rain"
+    ],
+    "primaryEn": "rain",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h4-het-gaat-erom",
+    "chapter": 4,
+    "nl": "Het gaat erom …",
+    "lemma": "Het gaat erom …",
+    "pos": "phrase",
+    "en": [
+      "What matters (is what you do with it)"
+    ],
+    "primaryEn": "What matters (is what you do with it)",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h4-ermee",
+    "chapter": 4,
+    "nl": "ermee",
+    "lemma": "ermee",
+    "pos": "other",
+    "en": [
+      "with it"
+    ],
+    "primaryEn": "with it",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h4-de-groepsreis",
+    "chapter": 4,
+    "nl": "de groepsreis",
+    "lemma": "groepsreis",
+    "pos": "noun",
+    "en": [
+      "group holiday"
+    ],
+    "primaryEn": "group holiday",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h4-boeken",
+    "chapter": 4,
+    "nl": "boeken",
+    "lemma": "boeken",
+    "pos": "verb",
+    "en": [
+      "to book"
+    ],
+    "primaryEn": "to book",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h4-genieten",
+    "chapter": 4,
+    "nl": "genieten",
+    "lemma": "genieten",
+    "pos": "verb",
+    "en": [
+      "to enjoy"
+    ],
+    "primaryEn": "to enjoy",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "genoot",
+      "perfect": "genoten"
+    },
+    "hint": "genoten; genieten (van)"
+  },
+  {
+    "id": "h4-de-zandplaat",
+    "chapter": 4,
+    "nl": "de zandplaat",
+    "lemma": "zandplaat",
+    "pos": "noun",
+    "en": [
+      "sandbank"
+    ],
+    "primaryEn": "sandbank",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h4-de-strandvogel",
+    "chapter": 4,
+    "nl": "de strandvogel",
+    "lemma": "strandvogel",
+    "pos": "noun",
+    "en": [
+      "shorebirds"
+    ],
+    "primaryEn": "shorebirds",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "strandvogels"
+  },
+  {
+    "id": "h4-de-zeehond",
+    "chapter": 4,
+    "nl": "de zeehond",
+    "lemma": "zeehond",
+    "pos": "noun",
+    "en": [
+      "seals"
+    ],
+    "primaryEn": "seals",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "zeehonden"
+  },
+  {
+    "id": "h4-de-zee",
+    "chapter": 4,
+    "nl": "de zee",
+    "lemma": "zee",
+    "pos": "noun",
+    "en": [
+      "sea"
+    ],
+    "primaryEn": "sea",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h4-de-duisternis",
+    "chapter": 4,
+    "nl": "de duisternis",
+    "lemma": "duisternis",
+    "pos": "noun",
+    "en": [
+      "darkness"
+    ],
+    "primaryEn": "darkness",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h4-ervaren",
+    "chapter": 4,
+    "nl": "ervaren",
+    "lemma": "ervaren",
+    "pos": "verb",
+    "en": [
+      "to experience"
+    ],
+    "primaryEn": "to experience",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "ervoer",
+      "perfect": "ervaren"
+    }
+  },
+  {
+    "id": "h4-de-kanotocht",
+    "chapter": 4,
+    "nl": "de kanotocht",
+    "lemma": "kanotocht",
+    "pos": "noun",
+    "en": [
+      "canoe trips"
+    ],
+    "primaryEn": "canoe trips",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "kanotochten"
+  },
+  {
+    "id": "h4-waarbij",
+    "chapter": 4,
+    "nl": "waarbij",
+    "lemma": "waarbij",
+    "pos": "other",
+    "en": [
+      "in which"
+    ],
+    "primaryEn": "in which",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h4-wildkamperen",
+    "chapter": 4,
+    "nl": "wildkamperen",
+    "lemma": "wildkamperen",
+    "pos": "verb",
+    "en": [
+      "wild camping"
+    ],
+    "primaryEn": "wild camping",
+    "source": "vocabulaire-list",
+    "separable": true
+  },
+  {
+    "id": "h4-wild",
+    "chapter": 4,
+    "nl": "wild",
+    "lemma": "wild",
+    "pos": "other",
+    "en": [
+      "wild"
+    ],
+    "primaryEn": "wild",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h4-kamperen",
+    "chapter": 4,
+    "nl": "kamperen",
+    "lemma": "kamperen",
+    "pos": "verb",
+    "en": [
+      "to camp (out)"
+    ],
+    "primaryEn": "to camp (out)",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h4-verwachten",
+    "chapter": 4,
+    "nl": "verwachten",
+    "lemma": "verwachten",
+    "pos": "verb",
+    "en": [
+      "to expect"
+    ],
+    "primaryEn": "to expect",
+    "source": "vocabulaire-list",
+    "hint": "verwacht"
+  },
+  {
+    "id": "h4-vullen",
+    "chapter": 4,
+    "nl": "vullen",
+    "lemma": "vullen",
+    "pos": "verb",
+    "en": [
+      "to fill"
+    ],
+    "primaryEn": "to fill",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h4-kleuren",
+    "chapter": 4,
+    "nl": "kleuren",
+    "lemma": "kleuren",
+    "pos": "other",
+    "en": [
+      "tinted (to colour)"
+    ],
+    "primaryEn": "tinted (to colour)",
+    "source": "vocabulaire-list",
+    "hint": "gekleurde"
+  },
+  {
+    "id": "h4-halfvol",
+    "chapter": 4,
+    "nl": "halfvol",
+    "lemma": "halfvol",
+    "pos": "other",
+    "en": [
+      "half full"
+    ],
+    "primaryEn": "half full",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h4-halfleeg",
+    "chapter": 4,
+    "nl": "halfleeg",
+    "lemma": "halfleeg",
+    "pos": "other",
+    "en": [
+      "half empty"
+    ],
+    "primaryEn": "half empty",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h4-leeg",
+    "chapter": 4,
+    "nl": "leeg",
+    "lemma": "leeg",
+    "pos": "other",
+    "en": [
+      "empty"
+    ],
+    "primaryEn": "empty",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h4-de-hittegolf",
+    "chapter": 4,
+    "nl": "de hittegolf",
+    "lemma": "hittegolf",
+    "pos": "noun",
+    "en": [
+      "heatwave"
+    ],
+    "primaryEn": "heatwave",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h4-de-golf",
+    "chapter": 4,
+    "nl": "de golf",
+    "lemma": "golf",
+    "pos": "noun",
+    "en": [
+      "wave"
+    ],
+    "primaryEn": "wave",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h4-ooit",
+    "chapter": 4,
+    "nl": "ooit",
+    "lemma": "ooit",
+    "pos": "other",
+    "en": [
+      "ever",
+      "once"
+    ],
+    "primaryEn": "ever",
+    "source": "vocabulaire-list",
+    "note": "hier: ever, ook: once"
+  },
+  {
+    "id": "h4-eindelijk",
+    "chapter": 4,
+    "nl": "eindelijk",
+    "lemma": "eindelijk",
+    "pos": "other",
+    "en": [
+      "finally"
+    ],
+    "primaryEn": "finally",
+    "source": "struikelwoorden",
+    "struikelwoord": true,
+    "examples": [
+      "Corinne en Hanna hebben lang gezocht, maar nu hebben ze eindelijk een fijn huis gevonden."
+    ]
+  },
+  {
+    "id": "h4-aanbreken",
+    "chapter": 4,
+    "nl": "aanbreken",
+    "lemma": "aanbreken",
+    "pos": "verb",
+    "en": [
+      "to come",
+      "to arrive"
+    ],
+    "primaryEn": "to come",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "brak aan",
+      "perfect": "aangebroken"
+    },
+    "hint": "aangebroken"
+  },
+  {
+    "id": "h4-de-stap",
+    "chapter": 4,
+    "nl": "de stap",
+    "lemma": "stap",
+    "pos": "noun",
+    "en": [
+      "step",
+      "pace"
+    ],
+    "primaryEn": "step",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h4-broeierig",
+    "chapter": 4,
+    "nl": "broeierig",
+    "lemma": "broeierig",
+    "pos": "other",
+    "en": [
+      "humid",
+      "muggy"
+    ],
+    "primaryEn": "humid",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h4-het-dekbed",
+    "chapter": 4,
+    "nl": "het dekbed",
+    "lemma": "dekbed",
+    "pos": "noun",
+    "en": [
+      "duvet",
+      "quilt"
+    ],
+    "primaryEn": "duvet",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h4-heet",
+    "chapter": 4,
+    "nl": "heet",
+    "lemma": "heet",
+    "pos": "other",
+    "en": [
+      "hot"
+    ],
+    "primaryEn": "hot",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h4-afkoelen",
+    "chapter": 4,
+    "nl": "afkoelen",
+    "lemma": "afkoelen",
+    "pos": "verb",
+    "en": [
+      "to cool down"
+    ],
+    "primaryEn": "to cool down",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "hint": "koelt … af"
+  },
+  {
+    "id": "h4-nauwelijks",
+    "chapter": 4,
+    "nl": "nauwelijks",
+    "lemma": "nauwelijks",
+    "pos": "other",
+    "en": [
+      "hardly",
+      "barely"
+    ],
+    "primaryEn": "hardly",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h4-vanwege",
+    "chapter": 4,
+    "nl": "vanwege",
+    "lemma": "vanwege",
+    "pos": "other",
+    "en": [
+      "because of"
+    ],
+    "primaryEn": "because of",
+    "source": "struikelwoorden",
+    "struikelwoord": true,
+    "examples": [
+      "Vanwege de hitte lunchen we niet buiten maar binnen."
+    ]
+  },
+  {
+    "id": "h4-de-mug",
+    "chapter": 4,
+    "nl": "de mug",
+    "lemma": "mug",
+    "pos": "noun",
+    "en": [
+      "mosquitos"
+    ],
+    "primaryEn": "mosquitos",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "muggen"
+  },
+  {
+    "id": "h4-krap",
+    "chapter": 4,
+    "nl": "krap",
+    "lemma": "krap",
+    "pos": "other",
+    "en": [
+      "tight"
+    ],
+    "primaryEn": "tight",
+    "source": "vocabulaire-list",
+    "hint": "krappe"
+  },
+  {
+    "id": "h4-de-klamboe",
+    "chapter": 4,
+    "nl": "de klamboe",
+    "lemma": "klamboe",
+    "pos": "noun",
+    "en": [
+      "mosquito net"
+    ],
+    "primaryEn": "mosquito net",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h4-dichtdoen",
+    "chapter": 4,
+    "nl": "dichtdoen",
+    "lemma": "dichtdoen",
+    "pos": "verb",
+    "en": [
+      "to close"
+    ],
+    "primaryEn": "to close",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "deed dicht",
+      "perfect": "dichtgedaan"
+    },
+    "hint": "doet … dicht"
+  },
+  {
+    "id": "h4-hoog",
+    "chapter": 4,
+    "nl": "hoog",
+    "lemma": "hoog",
+    "pos": "other",
+    "en": [
+      "high"
+    ],
+    "primaryEn": "high",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h4-ijskoud",
+    "chapter": 4,
+    "nl": "ijskoud",
+    "lemma": "ijskoud",
+    "pos": "other",
+    "en": [
+      "freezing cold",
+      "ice cold (drink)"
+    ],
+    "primaryEn": "freezing cold",
+    "source": "vocabulaire-list",
+    "note": "hier: freezing cold, ook: ice cold (drink)"
+  },
+  {
+    "id": "h4-in-je-eentje",
+    "chapter": 4,
+    "nl": "in je eentje",
+    "lemma": "in je eentje",
+    "pos": "phrase",
+    "en": [
+      "on your own"
+    ],
+    "primaryEn": "on your own",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h4-balen-als-een-stekker",
+    "chapter": 4,
+    "nl": "balen als een stekker",
+    "lemma": "balen als een stekker",
+    "pos": "phrase",
+    "en": [
+      "to be seriously fed up with"
+    ],
+    "primaryEn": "to be seriously fed up with",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h4-balen",
+    "chapter": 4,
+    "nl": "balen",
+    "lemma": "balen",
+    "pos": "verb",
+    "en": [
+      "to be fed up (with)"
+    ],
+    "primaryEn": "to be fed up (with)",
+    "source": "struikelwoorden",
+    "hint": "baalt; balen (van)",
+    "struikelwoord": true,
+    "examples": [
+      "Hij is niet naar onze afspraak gekomen. Ik vind het heel vervelend, ik baal ervan."
+    ]
+  },
+  {
+    "id": "h4-voorbijkruipen",
+    "chapter": 4,
+    "nl": "voorbijkruipen",
+    "lemma": "voorbijkruipen",
+    "pos": "verb",
+    "en": [
+      "to drag on"
+    ],
+    "primaryEn": "to drag on",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "kroop voorbij",
+      "perfect": "is voorbijgekropen"
+    },
+    "hint": "kruipt voorbij"
+  },
+  {
+    "id": "h4-voorbij",
+    "chapter": 4,
+    "nl": "voorbij",
+    "lemma": "voorbij",
+    "pos": "other",
+    "en": [
+      "past"
+    ],
+    "primaryEn": "past",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h4-kruipen",
+    "chapter": 4,
+    "nl": "kruipen",
+    "lemma": "kruipen",
+    "pos": "verb",
+    "en": [
+      "to crawl"
+    ],
+    "primaryEn": "to crawl",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "kroop",
+      "perfect": "(is) gekropen"
+    }
+  },
+  {
+    "id": "h4-vanuit",
+    "chapter": 4,
+    "nl": "vanuit",
+    "lemma": "vanuit",
+    "pos": "other",
+    "en": [
+      "from"
+    ],
+    "primaryEn": "from",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h4-de-kantoorkoelkast",
+    "chapter": 4,
+    "nl": "de kantoorkoelkast",
+    "lemma": "kantoorkoelkast",
+    "pos": "noun",
+    "en": [
+      "office refrigerator"
+    ],
+    "primaryEn": "office refrigerator",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h4-de-koelkast",
+    "chapter": 4,
+    "nl": "de koelkast",
+    "lemma": "koelkast",
+    "pos": "noun",
+    "en": [
+      "refrigerator"
+    ],
+    "primaryEn": "refrigerator",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h4-de-warmte",
+    "chapter": 4,
+    "nl": "de warmte",
+    "lemma": "warmte",
+    "pos": "noun",
+    "en": [
+      "heat"
+    ],
+    "primaryEn": "heat",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h4-flauwvallen",
+    "chapter": 4,
+    "nl": "flauwvallen",
+    "lemma": "flauwvallen",
+    "pos": "verb",
+    "en": [
+      "to faint"
+    ],
+    "primaryEn": "to faint",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "viel flauw",
+      "perfect": "is flauwgevallen"
+    },
+    "hint": "val … flauw"
+  },
+  {
+    "id": "h4-flauw",
+    "chapter": 4,
+    "nl": "flauw",
+    "lemma": "flauw",
+    "pos": "other",
+    "en": [
+      "faint",
+      "bland",
+      "tasteless"
+    ],
+    "primaryEn": "faint",
+    "source": "vocabulaire-list",
+    "note": "hier: faint, ook: bland, tasteless"
+  },
+  {
+    "id": "h4-uitgeput",
+    "chapter": 4,
+    "nl": "uitgeput",
+    "lemma": "uitgeput",
+    "pos": "other",
+    "en": [
+      "exhausted"
+    ],
+    "primaryEn": "exhausted",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h4-de-stemming",
+    "chapter": 4,
+    "nl": "de stemming",
+    "lemma": "stemming",
+    "pos": "noun",
+    "en": [
+      "mood"
+    ],
+    "primaryEn": "mood",
+    "source": "struikelwoorden",
+    "article": "de",
+    "struikelwoord": true,
+    "examples": [
+      "Mayreen is altijd heel vrolijk. Ze is altijd in een goede stemming."
+    ]
+  },
+  {
+    "id": "h4-benauwd",
+    "chapter": 4,
+    "nl": "benauwd",
+    "lemma": "benauwd",
+    "pos": "other",
+    "en": [
+      "stuffy",
+      "muggy"
+    ],
+    "primaryEn": "stuffy",
+    "source": "struikelwoorden",
+    "hint": "benauwder",
+    "struikelwoord": true,
+    "examples": [
+      "We waren met heel veel mensen in een kleine ruimte. Ik kreeg het een beetje benauwd en ben snel naar buiten gegaan."
+    ]
+  },
+  {
+    "id": "h4-openzetten",
+    "chapter": 4,
+    "nl": "openzetten",
+    "lemma": "openzetten",
+    "pos": "verb",
+    "en": [
+      "to open"
+    ],
+    "primaryEn": "to open",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "hint": "zet … open"
+  },
+  {
+    "id": "h4-het-weerbericht",
+    "chapter": 4,
+    "nl": "het weerbericht",
+    "lemma": "weerbericht",
+    "pos": "noun",
+    "en": [
+      "weather forecast"
+    ],
+    "primaryEn": "weather forecast",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h4-het-bericht",
+    "chapter": 4,
+    "nl": "het bericht",
+    "lemma": "bericht",
+    "pos": "noun",
+    "en": [
+      "message",
+      "notice"
+    ],
+    "primaryEn": "message",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h4-volhouden",
+    "chapter": 4,
+    "nl": "volhouden",
+    "lemma": "volhouden",
+    "pos": "verb",
+    "en": [
+      "to keep going",
+      "to persevere"
+    ],
+    "primaryEn": "to keep going",
+    "source": "struikelwoorden",
+    "separable": true,
+    "irregular": {
+      "past": "hield vol",
+      "perfect": "volgehouden"
+    },
+    "hint": "houd … vol",
+    "struikelwoord": true,
+    "examples": [
+      "Freia eet sinds een maand alleen nog plantaardig. Ze vindt het niet makkelijk en mist kaas, maar ze wil het absoluut volhouden."
+    ]
+  },
+  {
+    "id": "h4-de-zwemkleding",
+    "chapter": 4,
+    "nl": "de zwemkleding",
+    "lemma": "zwemkleding",
+    "pos": "noun",
+    "en": [
+      "swimwear"
+    ],
+    "primaryEn": "swimwear",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h4-de-spiegel",
+    "chapter": 4,
+    "nl": "de spiegel",
+    "lemma": "spiegel",
+    "pos": "noun",
+    "en": [
+      "mirror"
+    ],
+    "primaryEn": "mirror",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h4-fris",
+    "chapter": 4,
+    "nl": "fris",
+    "lemma": "fris",
+    "pos": "other",
+    "en": [
+      "fresh"
+    ],
+    "primaryEn": "fresh",
+    "source": "struikelwoorden",
+    "struikelwoord": true,
+    "examples": [
+      "Gisteren was het nog drieëntwintig graden, vandaag is het veertien graden. Het is fris vandaag."
+    ]
+  },
+  {
+    "id": "h4-zwoel",
+    "chapter": 4,
+    "nl": "zwoel",
+    "lemma": "zwoel",
+    "pos": "other",
+    "en": [
+      "sultry"
+    ],
+    "primaryEn": "sultry",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h4-knus",
+    "chapter": 4,
+    "nl": "knus",
+    "lemma": "knus",
+    "pos": "other",
+    "en": [
+      "cosy"
+    ],
+    "primaryEn": "cosy",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h4-doorwerken",
+    "chapter": 4,
+    "nl": "doorwerken",
+    "lemma": "doorwerken",
+    "pos": "verb",
+    "en": [
+      "to keep working"
+    ],
+    "primaryEn": "to keep working",
+    "source": "vocabulaire-list",
+    "separable": true
+  },
+  {
+    "id": "h4-comfortabel",
+    "chapter": 4,
+    "nl": "comfortabel",
+    "lemma": "comfortabel",
+    "pos": "other",
+    "en": [
+      "comfortable"
+    ],
+    "primaryEn": "comfortable",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h4-koel",
+    "chapter": 4,
+    "nl": "koel",
+    "lemma": "koel",
+    "pos": "other",
+    "en": [
+      "cool"
+    ],
+    "primaryEn": "cool",
+    "source": "vocabulaire-list",
+    "hint": "koele"
+  },
+  {
+    "id": "h4-loom",
+    "chapter": 4,
+    "nl": "loom",
+    "lemma": "loom",
+    "pos": "other",
+    "en": [
+      "lethargic"
+    ],
+    "primaryEn": "lethargic",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h4-ontspannen",
+    "chapter": 4,
+    "nl": "ontspannen",
+    "lemma": "ontspannen",
+    "pos": "other",
+    "en": [
+      "relaxed"
+    ],
+    "primaryEn": "relaxed",
+    "source": "struikelwoorden",
+    "hint": "zich",
+    "struikelwoord": true,
+    "examples": [
+      "Het was een weekend zonder stress en ik ben nu dan ook totaal ontspannen."
+    ]
+  },
+  {
+    "id": "h4-zich-ontspannen",
+    "chapter": 4,
+    "nl": "zich ontspannen",
+    "lemma": "ontspannen",
+    "pos": "verb",
+    "en": [
+      "to relax"
+    ],
+    "primaryEn": "to relax",
+    "source": "vocabulaire-list",
+    "reflexive": true,
+    "hint": "zich",
+    "examples": [
+      "Het was een weekend zonder stress en ik ben nu dan ook totaal ontspannen."
+    ]
+  },
+  {
+    "id": "h4-meevallen",
+    "chapter": 4,
+    "nl": "meevallen",
+    "lemma": "meevallen",
+    "pos": "verb",
+    "en": [
+      "to be better than expected"
+    ],
+    "primaryEn": "to be better than expected",
+    "source": "struikelwoorden",
+    "separable": true,
+    "irregular": {
+      "past": "viel mee",
+      "perfect": "is meegevallen"
+    },
+    "hint": "valt … mee",
+    "struikelwoord": true,
+    "examples": [
+      "We hadden vandaag een test. Ik vond de test moeilijk. Ik hoop dat het resultaat beter is dan ik nu denk. Ik hoop dat het resultaat meevalt."
+    ]
+  },
+  {
+    "id": "h4-de-avondlucht",
+    "chapter": 4,
+    "nl": "de avondlucht",
+    "lemma": "avondlucht",
+    "pos": "noun",
+    "en": [
+      "evening air"
+    ],
+    "primaryEn": "evening air",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h4-stromen",
+    "chapter": 4,
+    "nl": "stromen",
+    "lemma": "stromen",
+    "pos": "verb",
+    "en": [
+      "to flow",
+      "to stream"
+    ],
+    "primaryEn": "to flow",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h4-dik",
+    "chapter": 4,
+    "nl": "dik",
+    "lemma": "dik",
+    "pos": "other",
+    "en": [
+      "fat"
+    ],
+    "primaryEn": "fat",
+    "source": "vocabulaire-list",
+    "hint": "dikker"
+  },
+  {
+    "id": "h4-afvallen",
+    "chapter": 4,
+    "nl": "afvallen",
+    "lemma": "afvallen",
+    "pos": "verb",
+    "en": [
+      "to lose weight"
+    ],
+    "primaryEn": "to lose weight",
+    "source": "struikelwoorden",
+    "separable": true,
+    "irregular": {
+      "past": "viel af",
+      "perfect": "is afgevallen"
+    },
+    "struikelwoord": true,
+    "examples": [
+      "Mijn vriend en ik zijn te dik, we willen tien kilo afvallen."
+    ]
+  },
+  {
+    "id": "h4-wachten",
+    "chapter": 4,
+    "nl": "wachten",
+    "lemma": "wachten",
+    "pos": "verb",
+    "en": [
+      "to wait (for)"
+    ],
+    "primaryEn": "to wait (for)",
+    "source": "vocabulaire-list",
+    "hint": "op"
+  },
+  {
+    "id": "h4-de-koelte",
+    "chapter": 4,
+    "nl": "de koelte",
+    "lemma": "koelte",
+    "pos": "noun",
+    "en": [
+      "coolness",
+      "the cool"
+    ],
+    "primaryEn": "coolness",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h4-de-krapte",
+    "chapter": 4,
+    "nl": "de krapte",
+    "lemma": "krapte",
+    "pos": "noun",
+    "en": [
+      "tightness",
+      "shortage"
+    ],
+    "primaryEn": "tightness",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h4-de-leegte",
+    "chapter": 4,
+    "nl": "de leegte",
+    "lemma": "leegte",
+    "pos": "noun",
+    "en": [
+      "emptiness"
+    ],
+    "primaryEn": "emptiness",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h4-organiseren",
+    "chapter": 4,
+    "nl": "organiseren",
+    "lemma": "organiseren",
+    "pos": "verb",
+    "en": [
+      "to organise"
+    ],
+    "primaryEn": "to organise",
+    "source": "generated"
+  },
+  {
+    "id": "h4-overnachten",
+    "chapter": 4,
+    "nl": "overnachten",
+    "lemma": "overnachten",
+    "pos": "verb",
+    "en": [
+      "to stay overnight"
+    ],
+    "primaryEn": "to stay overnight",
+    "source": "generated"
+  },
+  {
+    "id": "h4-het-paradijs",
+    "chapter": 4,
+    "nl": "het paradijs",
+    "lemma": "paradijs",
+    "pos": "noun",
+    "en": [
+      "paradise"
+    ],
+    "primaryEn": "paradise",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "h4-super",
+    "chapter": 4,
+    "nl": "super",
+    "lemma": "super",
+    "pos": "adjective",
+    "en": [
+      "great",
+      "super"
+    ],
+    "primaryEn": "great",
+    "source": "generated"
+  },
+  {
+    "id": "h4-synthetisch",
+    "chapter": 4,
+    "nl": "synthetisch",
+    "lemma": "synthetisch",
+    "pos": "adjective",
+    "en": [
+      "synthetic"
+    ],
+    "primaryEn": "synthetic",
+    "source": "generated"
+  },
+  {
+    "id": "h4-tegenvallen",
+    "chapter": 4,
+    "nl": "tegenvallen",
+    "lemma": "tegenvallen",
+    "pos": "verb",
+    "en": [
+      "to be disappointing",
+      "to fall short of expectations"
+    ],
+    "primaryEn": "to be disappointing",
+    "source": "generated",
+    "irregular": {
+      "past": "viel tegen",
+      "perfect": "is tegengevallen"
+    },
+    "separable": true,
+    "examples": [
+      "We hadden vandaag een test. Ik vond de test moeilijk. Ik hoop dat het resultaat beter is dan ik nu denk. Ik hoop dat het resultaat meevalt."
+    ]
+  },
+  {
+    "id": "h4-de-tent",
+    "chapter": 4,
+    "nl": "de tent",
+    "lemma": "tent",
+    "pos": "noun",
+    "en": [
+      "tent"
+    ],
+    "primaryEn": "tent",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h4-de-variatie",
+    "chapter": 4,
+    "nl": "de variatie",
+    "lemma": "variatie",
+    "pos": "noun",
+    "en": [
+      "variation",
+      "variety"
+    ],
+    "primaryEn": "variation",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h4-de-verte",
+    "chapter": 4,
+    "nl": "de verte",
+    "lemma": "verte",
+    "pos": "noun",
+    "en": [
+      "the distance"
+    ],
+    "primaryEn": "the distance",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h4-de-yurt",
+    "chapter": 4,
+    "nl": "de yurt",
+    "lemma": "yurt",
+    "pos": "noun",
+    "en": [
+      "yurt"
+    ],
+    "primaryEn": "yurt",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h4-gaan-om",
+    "chapter": 4,
+    "nl": "gaan om",
+    "lemma": "gaan om",
+    "pos": "phrase",
+    "en": [
+      "to be about",
+      "to be a matter of"
+    ],
+    "primaryEn": "to be about",
+    "source": "generated"
+  }
+]

@@ -1,0 +1,1049 @@
+[
+  {
+    "id": "h10-tikkie",
+    "chapter": 10,
+    "nl": "Tikkie",
+    "lemma": "Tikkie",
+    "pos": "other",
+    "en": [
+      "payment app"
+    ],
+    "primaryEn": "payment app",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h10-uitgaan",
+    "chapter": 10,
+    "nl": "uitgaan",
+    "lemma": "uitgaan",
+    "pos": "verb",
+    "en": [
+      "to go out (for the evening)"
+    ],
+    "primaryEn": "to go out (for the evening)",
+    "source": "vocabulaire-list",
+    "separable": true,
+    "irregular": {
+      "past": "ging uit",
+      "perfect": "is uitgegaan"
+    },
+    "hint": "avondjes uit"
+  },
+  {
+    "id": "h10-razendsnel",
+    "chapter": 10,
+    "nl": "razendsnel",
+    "lemma": "razendsnel",
+    "pos": "other",
+    "en": [
+      "extremely fast"
+    ],
+    "primaryEn": "extremely fast",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h10-dwingen",
+    "chapter": 10,
+    "nl": "dwingen",
+    "lemma": "dwingen",
+    "pos": "verb",
+    "en": [
+      "forceful (to force)"
+    ],
+    "primaryEn": "forceful (to force)",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "dwong",
+      "perfect": "gedwongen"
+    },
+    "hint": "dwingend"
+  },
+  {
+    "id": "h10-ontvangen",
+    "chapter": 10,
+    "nl": "ontvangen",
+    "lemma": "ontvangen",
+    "pos": "verb",
+    "en": [
+      "to receive"
+    ],
+    "primaryEn": "to receive",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "ontving",
+      "perfect": "ontvangen"
+    }
+  },
+  {
+    "id": "h10-de-koffieautomaat",
+    "chapter": 10,
+    "nl": "de koffieautomaat",
+    "lemma": "koffieautomaat",
+    "pos": "noun",
+    "en": [
+      "coffee machine"
+    ],
+    "primaryEn": "coffee machine",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h10-de-automaat",
+    "chapter": 10,
+    "nl": "de automaat",
+    "lemma": "automaat",
+    "pos": "noun",
+    "en": [
+      "machine"
+    ],
+    "primaryEn": "machine",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h10-massaal",
+    "chapter": 10,
+    "nl": "massaal",
+    "lemma": "massaal",
+    "pos": "other",
+    "en": [
+      "en masse"
+    ],
+    "primaryEn": "en masse",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h10-omarmen",
+    "chapter": 10,
+    "nl": "omarmen",
+    "lemma": "omarmen",
+    "pos": "verb",
+    "en": [
+      "to embrace"
+    ],
+    "primaryEn": "to embrace",
+    "source": "vocabulaire-list",
+    "hint": "omarmd"
+  },
+  {
+    "id": "h10-rijk",
+    "chapter": 10,
+    "nl": "rijk",
+    "lemma": "rijk",
+    "pos": "other",
+    "en": [
+      "rich"
+    ],
+    "primaryEn": "rich",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h10-het-minimumbedrag",
+    "chapter": 10,
+    "nl": "het minimumbedrag",
+    "lemma": "minimumbedrag",
+    "pos": "noun",
+    "en": [
+      "minimum amount"
+    ],
+    "primaryEn": "minimum amount",
+    "source": "vocabulaire-list",
+    "article": "het"
+  },
+  {
+    "id": "h10-minimum",
+    "chapter": 10,
+    "nl": "minimum",
+    "lemma": "minimum",
+    "pos": "other",
+    "en": [
+      "minimum"
+    ],
+    "primaryEn": "minimum",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h10-men",
+    "chapter": 10,
+    "nl": "men",
+    "lemma": "men",
+    "pos": "other",
+    "en": [
+      "people"
+    ],
+    "primaryEn": "people",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h10-veroveren",
+    "chapter": 10,
+    "nl": "veroveren",
+    "lemma": "veroveren",
+    "pos": "verb",
+    "en": [
+      "to take over",
+      "to conquer"
+    ],
+    "primaryEn": "to take over",
+    "source": "vocabulaire-list",
+    "note": "hier: to take over, ook: to conquer",
+    "hint": "veroverde"
+  },
+  {
+    "id": "h10-verrekenen",
+    "chapter": 10,
+    "nl": "verrekenen",
+    "lemma": "verrekenen",
+    "pos": "verb",
+    "en": [
+      "to settle (amounts owed)"
+    ],
+    "primaryEn": "to settle (amounts owed)",
+    "source": "vocabulaire-list",
+    "hint": "verrekend"
+  },
+  {
+    "id": "h10-stappen",
+    "chapter": 10,
+    "nl": "stappen",
+    "lemma": "stappen",
+    "pos": "verb",
+    "en": [
+      "to go out (in the evening)",
+      "to party"
+    ],
+    "primaryEn": "to go out (in the evening)",
+    "source": "struikelwoorden",
+    "struikelwoord": true,
+    "examples": [
+      "We gaan elke donderdag met een groep vrienden stappen. We gaan dan van het ene café naar het andere café. Ik vind het heel leuk om elke donderdag met die groep vrienden uit te gaan."
+    ]
+  },
+  {
+    "id": "h10-splitsen",
+    "chapter": 10,
+    "nl": "splitsen",
+    "lemma": "splitsen",
+    "pos": "verb",
+    "en": [
+      "to split",
+      "to divide"
+    ],
+    "primaryEn": "to split",
+    "source": "vocabulaire-list",
+    "hint": "splitsten"
+  },
+  {
+    "id": "h10-contant",
+    "chapter": 10,
+    "nl": "contant",
+    "lemma": "contant",
+    "pos": "other",
+    "en": [
+      "cash"
+    ],
+    "primaryEn": "cash",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h10-opeens",
+    "chapter": 10,
+    "nl": "opeens",
+    "lemma": "opeens",
+    "pos": "other",
+    "en": [
+      "suddenly"
+    ],
+    "primaryEn": "suddenly",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h10-rekenen",
+    "chapter": 10,
+    "nl": "rekenen",
+    "lemma": "rekenen",
+    "pos": "verb",
+    "en": [
+      "to calculate"
+    ],
+    "primaryEn": "to calculate",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h10-de-uitgave",
+    "chapter": 10,
+    "nl": "de uitgave",
+    "lemma": "uitgave",
+    "pos": "noun",
+    "en": [
+      "expense"
+    ],
+    "primaryEn": "expense",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h10-redelijk",
+    "chapter": 10,
+    "nl": "redelijk",
+    "lemma": "redelijk",
+    "pos": "other",
+    "en": [
+      "reasonable"
+    ],
+    "primaryEn": "reasonable",
+    "source": "struikelwoorden",
+    "struikelwoord": true,
+    "examples": [
+      "Ik vind het niet redelijk dat je zo boos op me bent. Het is echt niet mijn fout dat je fiets gestolen is."
+    ]
+  },
+  {
+    "id": "h10-concluderen",
+    "chapter": 10,
+    "nl": "concluderen",
+    "lemma": "concluderen",
+    "pos": "verb",
+    "en": [
+      "to conclude"
+    ],
+    "primaryEn": "to conclude",
+    "source": "vocabulaire-list",
+    "hint": "concludeert"
+  },
+  {
+    "id": "h10-telkens",
+    "chapter": 10,
+    "nl": "telkens",
+    "lemma": "telkens",
+    "pos": "other",
+    "en": [
+      "constantly"
+    ],
+    "primaryEn": "constantly",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h10-volledig",
+    "chapter": 10,
+    "nl": "volledig",
+    "lemma": "volledig",
+    "pos": "other",
+    "en": [
+      "completely",
+      "entirely"
+    ],
+    "primaryEn": "completely",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h10-verdwijnen",
+    "chapter": 10,
+    "nl": "verdwijnen",
+    "lemma": "verdwijnen",
+    "pos": "verb",
+    "en": [
+      "to disappear"
+    ],
+    "primaryEn": "to disappear",
+    "source": "vocabulaire-list",
+    "irregular": {
+      "past": "verdween",
+      "perfect": "is verdwenen"
+    },
+    "hint": "verdwenen"
+  },
+  {
+    "id": "h10-ondanks",
+    "chapter": 10,
+    "nl": "ondanks",
+    "lemma": "ondanks",
+    "pos": "other",
+    "en": [
+      "despite"
+    ],
+    "primaryEn": "despite",
+    "source": "struikelwoorden",
+    "hint": "dat",
+    "struikelwoord": true,
+    "examples": [
+      "Ondanks zijn vervelende appje blijf ik hem sympathiek vinden."
+    ]
+  },
+  {
+    "id": "h10-zich-lenen-voor",
+    "chapter": 10,
+    "nl": "zich lenen voor",
+    "lemma": "lenen voor",
+    "pos": "verb",
+    "en": [
+      "to be suitable for"
+    ],
+    "primaryEn": "to be suitable for",
+    "source": "vocabulaire-list",
+    "reflexive": true,
+    "hint": "leent zich … voor"
+  },
+  {
+    "id": "h10-het-gevolg",
+    "chapter": 10,
+    "nl": "het gevolg",
+    "lemma": "gevolg",
+    "pos": "noun",
+    "en": [
+      "consequences"
+    ],
+    "primaryEn": "consequences",
+    "source": "vocabulaire-list",
+    "article": "het",
+    "hint": "gevolgen"
+  },
+  {
+    "id": "h10-uitzetten",
+    "chapter": 10,
+    "nl": "uitzetten",
+    "lemma": "uitzetten",
+    "pos": "verb",
+    "en": [
+      "to be removed from",
+      "to switch off",
+      "to turn off"
+    ],
+    "primaryEn": "to be removed from",
+    "source": "struikelwoorden",
+    "separable": true,
+    "note": "hier: to be removed from, ook: to switch off, to turn off",
+    "hint": "uit … gezet",
+    "struikelwoord": true,
+    "examples": [
+      "Ze is uit de trein gezet, omdat ze op de wc zat te roken."
+    ]
+  },
+  {
+    "id": "h10-raar",
+    "chapter": 10,
+    "nl": "raar",
+    "lemma": "raar",
+    "pos": "other",
+    "en": [
+      "odd",
+      "weird"
+    ],
+    "primaryEn": "odd",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h10-verontwaardigd",
+    "chapter": 10,
+    "nl": "verontwaardigd",
+    "lemma": "verontwaardigd",
+    "pos": "other",
+    "en": [
+      "outraged",
+      "indignant"
+    ],
+    "primaryEn": "outraged",
+    "source": "vocabulaire-list",
+    "hint": "verontwaardigde"
+  },
+  {
+    "id": "h10-de-opmerking",
+    "chapter": 10,
+    "nl": "de opmerking",
+    "lemma": "opmerking",
+    "pos": "noun",
+    "en": [
+      "comment"
+    ],
+    "primaryEn": "comment",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h10-slechts",
+    "chapter": 10,
+    "nl": "slechts",
+    "lemma": "slechts",
+    "pos": "other",
+    "en": [
+      "only"
+    ],
+    "primaryEn": "only",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h10-de-reden",
+    "chapter": 10,
+    "nl": "de reden",
+    "lemma": "reden",
+    "pos": "noun",
+    "en": [
+      "reason"
+    ],
+    "primaryEn": "reason",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h10-onlangs",
+    "chapter": 10,
+    "nl": "onlangs",
+    "lemma": "onlangs",
+    "pos": "other",
+    "en": [
+      "recently"
+    ],
+    "primaryEn": "recently",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h10-voorstellen",
+    "chapter": 10,
+    "nl": "voorstellen",
+    "lemma": "voorstellen",
+    "pos": "verb",
+    "en": [
+      "to propose"
+    ],
+    "primaryEn": "to propose",
+    "source": "struikelwoorden",
+    "separable": true,
+    "hint": "voorgesteld",
+    "struikelwoord": true,
+    "examples": [
+      "Ze stelde voor om de rekening te splitsen, maar dat wilde de rest van de groep niet."
+    ]
+  },
+  {
+    "id": "h10-de-belediging",
+    "chapter": 10,
+    "nl": "de belediging",
+    "lemma": "belediging",
+    "pos": "noun",
+    "en": [
+      "insult"
+    ],
+    "primaryEn": "insult",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h10-beledigen",
+    "chapter": 10,
+    "nl": "beledigen",
+    "lemma": "beledigen",
+    "pos": "verb",
+    "en": [
+      "to insult"
+    ],
+    "primaryEn": "to insult",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h10-de-eer",
+    "chapter": 10,
+    "nl": "de eer",
+    "lemma": "eer",
+    "pos": "noun",
+    "en": [
+      "honour"
+    ],
+    "primaryEn": "honour",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h10-de-indruk",
+    "chapter": 10,
+    "nl": "de indruk",
+    "lemma": "indruk",
+    "pos": "noun",
+    "en": [
+      "impression"
+    ],
+    "primaryEn": "impression",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h10-de-invloed",
+    "chapter": 10,
+    "nl": "de invloed",
+    "lemma": "invloed",
+    "pos": "noun",
+    "en": [
+      "effect (on)",
+      "influence (on)"
+    ],
+    "primaryEn": "effect (on)",
+    "source": "vocabulaire-list",
+    "article": "de",
+    "hint": "invloed hebben (op)"
+  },
+  {
+    "id": "h10-op",
+    "chapter": 10,
+    "nl": "op",
+    "lemma": "op",
+    "pos": "verb",
+    "en": [
+      "to affect",
+      "to influence"
+    ],
+    "primaryEn": "to affect",
+    "source": "vocabulaire-list",
+    "note": "hier: to affect, ook: to influence",
+    "hint": "invloed hebben"
+  },
+  {
+    "id": "h10-ouderwets",
+    "chapter": 10,
+    "nl": "ouderwets",
+    "lemma": "ouderwets",
+    "pos": "other",
+    "en": [
+      "old-fashioned"
+    ],
+    "primaryEn": "old-fashioned",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h10-overigens",
+    "chapter": 10,
+    "nl": "overigens",
+    "lemma": "overigens",
+    "pos": "other",
+    "en": [
+      "anyway",
+      "otherwise"
+    ],
+    "primaryEn": "anyway",
+    "source": "vocabulaire-list",
+    "note": "hier: anyway, ook: otherwise"
+  },
+  {
+    "id": "h10-de-uitvinding",
+    "chapter": 10,
+    "nl": "de uitvinding",
+    "lemma": "uitvinding",
+    "pos": "noun",
+    "en": [
+      "invention"
+    ],
+    "primaryEn": "invention",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h10-de-eeuwigheid",
+    "chapter": 10,
+    "nl": "de eeuwigheid",
+    "lemma": "eeuwigheid",
+    "pos": "noun",
+    "en": [
+      "eternity"
+    ],
+    "primaryEn": "eternity",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h10-pinnen",
+    "chapter": 10,
+    "nl": "pinnen",
+    "lemma": "pinnen",
+    "pos": "verb",
+    "en": [
+      "to pay by card"
+    ],
+    "primaryEn": "to pay by card",
+    "source": "vocabulaire-list",
+    "hint": "pint"
+  },
+  {
+    "id": "h10-het-gebaar",
+    "chapter": 10,
+    "nl": "het gebaar",
+    "lemma": "gebaar",
+    "pos": "noun",
+    "en": [
+      "gesture"
+    ],
+    "primaryEn": "gesture",
+    "source": "struikelwoorden",
+    "article": "het",
+    "struikelwoord": true,
+    "examples": [
+      "Wat leuk dat je me trakteert omdat ik jarig ben. Dat vind ik een leuk gebaar, dank je wel."
+    ]
+  },
+  {
+    "id": "h10-ongemakkelijk",
+    "chapter": 10,
+    "nl": "ongemakkelijk",
+    "lemma": "ongemakkelijk",
+    "pos": "other",
+    "en": [
+      "uncomfortable"
+    ],
+    "primaryEn": "uncomfortable",
+    "source": "struikelwoorden",
+    "struikelwoord": true,
+    "examples": [
+      "Ik vroeg Christa of ze haar zoon had meegenomen. Hij bleek echter haar nieuwe vriend te zijn. Wat een ongemakkelijk moment!"
+    ]
+  },
+  {
+    "id": "h10-zowel-als",
+    "chapter": 10,
+    "nl": "zowel … als …",
+    "lemma": "zowel … als …",
+    "pos": "phrase",
+    "en": [
+      "both ‒ and"
+    ],
+    "primaryEn": "both ‒ and",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h10-de-studiegenoot",
+    "chapter": 10,
+    "nl": "de studiegenoot",
+    "lemma": "studiegenoot",
+    "pos": "noun",
+    "en": [
+      "fellow student"
+    ],
+    "primaryEn": "fellow student",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h10-dergelijk",
+    "chapter": 10,
+    "nl": "dergelijk",
+    "lemma": "dergelijk",
+    "pos": "other",
+    "en": [
+      "such"
+    ],
+    "primaryEn": "such",
+    "source": "vocabulaire-list",
+    "hint": "dergelijke"
+  },
+  {
+    "id": "h10-de-gewoonte",
+    "chapter": 10,
+    "nl": "de gewoonte",
+    "lemma": "gewoonte",
+    "pos": "noun",
+    "en": [
+      "habit"
+    ],
+    "primaryEn": "habit",
+    "source": "vocabulaire-list",
+    "article": "de"
+  },
+  {
+    "id": "h10-lief",
+    "chapter": 10,
+    "nl": "lief",
+    "lemma": "lief",
+    "pos": "other",
+    "en": [
+      "sweet",
+      "kind"
+    ],
+    "primaryEn": "sweet",
+    "source": "vocabulaire-list"
+  },
+  {
+    "id": "h10-los-van",
+    "chapter": 10,
+    "nl": "los van",
+    "lemma": "los van",
+    "pos": "phrase",
+    "en": [
+      "apart from",
+      "independent of"
+    ],
+    "primaryEn": "apart from",
+    "source": "generated"
+  },
+  {
+    "id": "h10-ergens-in-meegaan",
+    "chapter": 10,
+    "nl": "ergens in meegaan",
+    "lemma": "ergens in meegaan",
+    "pos": "phrase",
+    "en": [
+      "to go along with something"
+    ],
+    "primaryEn": "to go along with something",
+    "source": "generated"
+  },
+  {
+    "id": "h10-het-roerend-eens-zijn",
+    "chapter": 10,
+    "nl": "het roerend eens zijn",
+    "lemma": "roerend eens zijn",
+    "pos": "phrase",
+    "en": [
+      "to agree wholeheartedly"
+    ],
+    "primaryEn": "to agree wholeheartedly",
+    "source": "generated"
+  },
+  {
+    "id": "h10-te-spreken-zijn-over-iets",
+    "chapter": 10,
+    "nl": "te spreken zijn over iets",
+    "lemma": "te spreken zijn over iets",
+    "pos": "phrase",
+    "en": [
+      "to be pleased about something"
+    ],
+    "primaryEn": "to be pleased about something",
+    "source": "generated"
+  },
+  {
+    "id": "h10-iets-niet-vinden-kunnen",
+    "chapter": 10,
+    "nl": "iets niet vinden kunnen",
+    "lemma": "iets niet vinden kunnen",
+    "pos": "phrase",
+    "en": [
+      "to not approve of something"
+    ],
+    "primaryEn": "to not approve of something",
+    "source": "generated",
+    "needsReview": true
+  },
+  {
+    "id": "h10-gezelliger-wordt-het-er-niet-op",
+    "chapter": 10,
+    "nl": "Gezelliger wordt het er niet op.",
+    "lemma": "Gezelliger wordt het er niet op.",
+    "pos": "phrase",
+    "en": [
+      "It doesn't make things any more fun."
+    ],
+    "primaryEn": "It doesn't make things any more fun.",
+    "source": "generated"
+  },
+  {
+    "id": "h10-de-app",
+    "chapter": 10,
+    "nl": "de app",
+    "lemma": "app",
+    "pos": "noun",
+    "en": [
+      "app"
+    ],
+    "primaryEn": "app",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h10-avondje-uit",
+    "chapter": 10,
+    "nl": "avondje uit",
+    "lemma": "avondje uit",
+    "pos": "phrase",
+    "en": [
+      "night out"
+    ],
+    "primaryEn": "night out",
+    "source": "generated"
+  },
+  {
+    "id": "h10-de-cocktailbar",
+    "chapter": 10,
+    "nl": "de cocktailbar",
+    "lemma": "cocktailbar",
+    "pos": "noun",
+    "en": [
+      "cocktail bar"
+    ],
+    "primaryEn": "cocktail bar",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h10-crosscultureel",
+    "chapter": 10,
+    "nl": "crosscultureel",
+    "lemma": "crosscultureel",
+    "pos": "adjective",
+    "en": [
+      "cross-cultural"
+    ],
+    "primaryEn": "cross-cultural",
+    "source": "generated"
+  },
+  {
+    "id": "h10-de-date",
+    "chapter": 10,
+    "nl": "de date",
+    "lemma": "date",
+    "pos": "noun",
+    "en": [
+      "date"
+    ],
+    "primaryEn": "date",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h10-digitaal",
+    "chapter": 10,
+    "nl": "digitaal",
+    "lemma": "digitaal",
+    "pos": "adjective",
+    "en": [
+      "digital",
+      "digitally"
+    ],
+    "primaryEn": "digital",
+    "source": "generated"
+  },
+  {
+    "id": "h10-dubbel",
+    "chapter": 10,
+    "nl": "dubbel",
+    "lemma": "dubbel",
+    "pos": "adjective",
+    "en": [
+      "double"
+    ],
+    "primaryEn": "double",
+    "source": "generated"
+  },
+  {
+    "id": "h10-de-efficientie",
+    "chapter": 10,
+    "nl": "de efficiëntie",
+    "lemma": "efficiëntie",
+    "pos": "noun",
+    "en": [
+      "efficiency"
+    ],
+    "primaryEn": "efficiency",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h10-focussen",
+    "chapter": 10,
+    "nl": "focussen",
+    "lemma": "focussen",
+    "pos": "verb",
+    "en": [
+      "to focus"
+    ],
+    "primaryEn": "to focus",
+    "source": "generated"
+  },
+  {
+    "id": "h10-individualistisch",
+    "chapter": 10,
+    "nl": "individualistisch",
+    "lemma": "individualistisch",
+    "pos": "adjective",
+    "en": [
+      "individualistic"
+    ],
+    "primaryEn": "individualistic",
+    "source": "generated"
+  },
+  {
+    "id": "h10-introduceren",
+    "chapter": 10,
+    "nl": "introduceren",
+    "lemma": "introduceren",
+    "pos": "verb",
+    "en": [
+      "to introduce"
+    ],
+    "primaryEn": "to introduce",
+    "source": "generated"
+  },
+  {
+    "id": "h10-de-introductiegroep",
+    "chapter": 10,
+    "nl": "de introductiegroep",
+    "lemma": "introductiegroep",
+    "pos": "noun",
+    "en": [
+      "introduction group"
+    ],
+    "primaryEn": "introduction group",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h10-de-masterstudent",
+    "chapter": 10,
+    "nl": "de masterstudent",
+    "lemma": "masterstudent",
+    "pos": "noun",
+    "en": [
+      "master's student"
+    ],
+    "primaryEn": "master's student",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h10-de-norm",
+    "chapter": 10,
+    "nl": "de norm",
+    "lemma": "norm",
+    "pos": "noun",
+    "en": [
+      "norm",
+      "standard"
+    ],
+    "primaryEn": "norm",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "h10-praktisch",
+    "chapter": 10,
+    "nl": "praktisch",
+    "lemma": "praktisch",
+    "pos": "adjective",
+    "en": [
+      "practical",
+      "practically"
+    ],
+    "primaryEn": "practical",
+    "source": "generated"
+  },
+  {
+    "id": "h10-het-volleybalteam",
+    "chapter": 10,
+    "nl": "het volleybalteam",
+    "lemma": "volleybalteam",
+    "pos": "noun",
+    "en": [
+      "volleyball team"
+    ],
+    "primaryEn": "volleyball team",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "h10-zowel-als-2",
+    "chapter": 10,
+    "nl": "zowel ‒ als",
+    "lemma": "zowel ‒ als",
+    "pos": "phrase",
+    "en": [
+      "both … and"
+    ],
+    "primaryEn": "both … and",
+    "source": "generated"
+  }
+]
