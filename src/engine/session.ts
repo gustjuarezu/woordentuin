@@ -1,9 +1,10 @@
 import type { Word } from "../data/types";
 import type { CardState, Grade } from "./srs";
-import { isDue } from "./srs";
+import { growthStage, isDue } from "./srs";
+import { ppKey } from "./participle";
 
-/** Exercise types (brief §4.3 MVP set). */
-export type ExerciseType = "mc-nl-en" | "mc-en-nl" | "type-nl" | "listen";
+/** Exercise types (brief §4.3 MVP set + the participle drill). */
+export type ExerciseType = "mc-nl-en" | "mc-en-nl" | "type-nl" | "listen" | "type-participle";
 
 export type SessionTask =
   | { kind: "card"; word: Word; exercise: ExerciseType }
@@ -87,6 +88,41 @@ export function buildReviewWords(
   // Oldest-due first, lightly shuffled inside the cap.
   due.sort((a, b) => (states.get(a.id)!.due - states.get(b.id)!.due));
   return shuffle(due.slice(0, max), rng);
+}
+
+/**
+ * Round for the per-chapter participle drill: due participle cards first,
+ * then verbs never drilled, then the weakest of the rest. Participle progress
+ * lives on separate `id#pp` cards, so this never touches the vocab SRS state
+ * and there is no new-word throttle — it's a drill, not vocab introduction.
+ */
+export function buildParticipleTasks(
+  verbs: Word[],
+  states: Map<string, CardState>,
+  now: number,
+  max = 10,
+  rng: () => number = Math.random,
+): SessionTask[] {
+  const due = verbs.filter((w) => {
+    const s = states.get(ppKey(w.id));
+    return s && isDue(s, now);
+  });
+  const fresh = verbs.filter((w) => !states.get(ppKey(w.id)));
+  const rest = verbs
+    .filter((w) => {
+      const s = states.get(ppKey(w.id));
+      return s && !isDue(s, now);
+    })
+    .sort((a, b) => growthStage(states.get(ppKey(a.id))) - growthStage(states.get(ppKey(b.id))));
+  const pick = [...shuffle(due, rng), ...shuffle(fresh, rng), ...rest].slice(0, max);
+  return pick.map((word) => ({ kind: "card", word, exercise: "type-participle" }));
+}
+
+export function countDuePP(verbs: Word[], states: Map<string, CardState>, now: number): number {
+  return verbs.filter((w) => {
+    const s = states.get(ppKey(w.id));
+    return s && isDue(s, now);
+  }).length;
 }
 
 export function countDue(allWords: Word[], states: Map<string, CardState>, now: number): number {

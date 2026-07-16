@@ -3,6 +3,7 @@ import { Route, Routes, useLocation } from "react-router-dom";
 import { ChapterPage } from "./app/ChapterPage";
 import { Home } from "./app/Home";
 import { LessonPage } from "./app/LessonPage";
+import { ParticiplePage } from "./app/ParticiplePage";
 import { ReviewPage } from "./app/ReviewPage";
 import { SettingsPage } from "./app/SettingsPage";
 import { StatsPage } from "./app/StatsPage";
@@ -24,7 +25,11 @@ export default function App() {
 
   if (!ready) return <div className="wrap" />;
 
-  const inSession = pathname.includes("/lesson/") || pathname.endsWith("/practice") || pathname === "/review";
+  const inSession =
+    pathname.includes("/lesson/") ||
+    pathname.endsWith("/practice") ||
+    pathname.endsWith("/participles") ||
+    pathname === "/review";
 
   return (
     <div className="wrap">
@@ -34,6 +39,7 @@ export default function App() {
         <Route path="/chapter/:n" element={<ChapterPage />} />
         <Route path="/chapter/:n/lesson/:i" element={<LessonPage />} />
         <Route path="/chapter/:n/practice" element={<LessonPage practice />} />
+        <Route path="/chapter/:n/participles" element={<ParticiplePage />} />
         <Route path="/review" element={<ReviewPage />} />
         <Route path="/stats" element={<StatsPage />} />
         <Route path="/settings" element={<SettingsPage />} />

@@ -8,13 +8,15 @@ import {
   XP_PER_CORRECT,
   type SessionTask,
 } from "../engine/session";
+import { participleFor, ppKey } from "../engine/participle";
 import { stopSpeaking } from "../audio/tts";
 import { useApp } from "../store/useApp";
-import { FeedbackSheet } from "./FeedbackSheet";
+import { FeedbackSheet, type FeedbackData } from "./FeedbackSheet";
 import { Listening } from "./exercises/Listening";
 import { MultipleChoice } from "./exercises/MultipleChoice";
 import { Pairs, type PairsResult } from "./exercises/Pairs";
 import { TypeDutch } from "./exercises/TypeDutch";
+import { TypeParticiple } from "./exercises/TypeParticiple";
 import type { AnswerOutcome } from "./exercises/types";
 
 export interface LessonSummary {
@@ -40,6 +42,7 @@ export function LessonRunner({
   pool,
   newWords,
   chapterForThrottle,
+  mode = "vocab",
   onQuit,
   onFinish,
 }: {
@@ -47,6 +50,7 @@ export function LessonRunner({
   pool: Word[];
   newWords: Word[];
   chapterForThrottle?: number;
+  mode?: "vocab" | "participle";
   onQuit: () => void;
   onFinish: (s: LessonSummary) => void;
 }) {
@@ -54,7 +58,10 @@ export function LessonRunner({
   const heartsEnabled = app.settings.hearts;
   const [tasks, setTasks] = useState(initialTasks);
   const [idx, setIdx] = useState(0);
-  const [feedback, setFeedback] = useState<{ ok: boolean; word: Word } | null>(null);
+  const [feedback, setFeedback] = useState<FeedbackData | null>(null);
+  // Participle skill lives on its own SRS cards (`id#pp`) so it never touches
+  // the vocab card of the same word.
+  const keyFor = (w: Word) => (mode === "participle" ? ppKey(w.id) : w.id);
   const [hearts, setHearts] = useState(HEARTS_START);
   const taskStart = useRef(Date.now());
   const requeues = useRef(new Map<string, number>());
@@ -80,8 +87,8 @@ export function LessonRunner({
 
   const applyGrade = (word: Word, grade: Grade, correct: boolean) => {
     const s = stats.current;
-    const prevStage = growthStage(app.cardStates.get(word.id));
-    const next = app.grade(word.id, grade);
+    const prevStage = growthStage(app.cardStates.get(keyFor(word)));
+    const next = app.grade(keyFor(word), grade);
     const newStage = growthStage(next);
     s.seen.set(word.id, word);
     if (!s.firstTry.has(word.id)) s.firstTry.set(word.id, correct);
@@ -136,9 +143,20 @@ export function LessonRunner({
     }
     if (grade === "again" && (requeues.current.get(word.id) ?? 0) < MAX_REQUEUES_PER_WORD) {
       requeues.current.set(word.id, (requeues.current.get(word.id) ?? 0) + 1);
-      setTasks((t) => [...t, { kind: "card", word, exercise: "mc-nl-en" }]);
+      // Missed vocab cards come back as recognition; a missed participle must
+      // come back as the same production exercise.
+      const requeueAs: SessionTask = {
+        kind: "card",
+        word,
+        exercise: mode === "participle" ? "type-participle" : "mc-nl-en",
+      };
+      setTasks((t) => [...t, requeueAs]);
     }
-    setFeedback({ ok: outcome.correct, word });
+    setFeedback({
+      ok: outcome.correct,
+      word,
+      participle: mode === "participle" ? participleFor(word) ?? undefined : undefined,
+    });
   };
 
   const handlePairsDone = (results: PairsResult[]) => {
@@ -180,6 +198,8 @@ export function LessonRunner({
 
       {task.kind === "pairs" ? (
         <Pairs key={idx} words={task.words} onDone={handlePairsDone} />
+      ) : task.exercise === "type-participle" ? (
+        <TypeParticiple key={idx} word={task.word} onAnswer={(o) => handleCardAnswer(task.word, o)} />
       ) : task.exercise === "type-nl" ? (
         <TypeDutch key={idx} word={task.word} onAnswer={(o) => handleCardAnswer(task.word, o)} />
       ) : task.exercise === "listen" ? (

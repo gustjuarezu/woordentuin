@@ -20,6 +20,15 @@
 - New-word introductions are counted against the daily throttle **when a lesson
   finishes** (quitting mid-lesson doesn't consume the budget even though graded words
   keep their SRS state).
+- **Voltooid deelwoord drill (2026-07-16)**: per-chapter section → `/chapter/:n/participles`,
+  type-the-participle exercise; regular forms derived at runtime (`src/engine/participle.ts`,
+  exceptions in `src/data/participle-overrides.json` — keyed by lemma so they survive
+  re-ingestion), irregular forms from the book's list. "Regular vs irregular" = actual form
+  vs derived weak form (so weak-participle book verbs like *afvragen → afgevraagd* show
+  regelmatig). SRS on separate `wordId#pp` cards (no Dexie migration; garden/review/new-word
+  budget untouched). The corpus audit lives in `src/engine/participle.corpus.test.ts` +
+  `participle.expected.json` (all 266 forms hand-audited) — it diffs loudly after any book
+  re-ingest; fix overrides, never chapter JSONs.
 
 ## Book ingestion status
 
@@ -40,6 +49,10 @@
 - [ ] Speaking exercise via SpeechRecognition (stretch, §4.3 #8)
 - [ ] Dark mode
 - [ ] Playwright smoke tests (Vitest covers the engine; UI was smoke-tested manually)
+- [ ] Due `#pp` participle cards in the global `/review` queue (needs a task-level
+      key concept in `buildReviewWords`)
+- [ ] Participle on-ramp variant (choose t/d ending) and, later, requiring the
+      auxiliary (`is`/`heeft`) as part of the answer
 
 ## Later (documented, don't build — brief §9)
 

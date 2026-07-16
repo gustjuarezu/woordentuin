@@ -1,0 +1,24 @@
+{
+  "_comment": "Hand-curated exceptions for src/engine/participle.ts. Keyed by lemma (stable across book re-ingestion — chapter JSONs are regenerated wholesale by tools/ingest/ingest-book.mjs). schwaStems/noGe/separable match by endsWith so prefixed variants (beschilderen, opleveren) are covered by their base verb.",
+  "schwaStems": [
+    "ergeren",
+    "schilderen",
+    "luisteren",
+    "leveren",
+    "burgeren",
+    "hinderen",
+    "weigeren",
+    "bewonderen",
+    "veroveren"
+  ],
+  "stressedStems": ["verlenen"],
+  "separable": ["aanmelden", "aanpassen", "inzetten", "uitputten", "afvragen", "wegjagen"],
+  "noGe": ["omarmen", "overnachten", "overtuigen"],
+  "irregular": {
+    "houden aan": { "participle": "gehouden" },
+    "ontspannen": { "participle": "ontspannen" },
+    "aankijken": { "participle": "aangekeken" },
+    "bestaan": { "participle": "bestaan" }
+  },
+  "exclude": ["h1-that", "h2-about", "h10-op", "h3-twintigen"]
+}

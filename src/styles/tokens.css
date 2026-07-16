@@ -78,6 +78,7 @@ h1 { font-family: var(--display); font-weight: 600; font-size: 2.2rem; line-heig
 .btn-honey { background: var(--honey); color: #fff; box-shadow: 0 4px 0 var(--honey-ink); }
 .btn[disabled] { opacity: 0.45; pointer-events: none; }
 .tag { display: inline-block; font-size: 0.7rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; background: var(--honey-wash); color: var(--honey-ink); padding: 3px 8px; border-radius: 999px; }
+.tag.tag-irr { background: var(--clay-wash); color: var(--clay-dark); }
 .footnote { color: var(--ink-soft); font-size: 0.8rem; text-align: center; margin: 18px 0 4px; }
 
 /* ---- lesson ---- */

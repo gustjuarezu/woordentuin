@@ -1,12 +1,15 @@
 import { describe, expect, it } from "vitest";
 import type { Word } from "../data/types";
 import { gradeCard, newCardState, type CardState } from "./srs";
+import { ppKey } from "./participle";
 import {
   buildLessonWords,
+  buildParticipleTasks,
   buildReviewWords,
   buildTasks,
   chunkLessons,
   countDue,
+  countDuePP,
   outcomeToGrade,
   pickDistractors,
 } from "./session";
@@ -120,6 +123,35 @@ describe("buildTasks", () => {
       const tasks = buildTasks(words.slice(0, 8), states, { rng: seeded(seed), ttsAvailable: false, includePairs: false });
       for (const t of tasks) if (t.kind === "card") expect(t.exercise).not.toBe("listen");
     }
+  });
+});
+
+describe("buildParticipleTasks", () => {
+  const verbs = Array.from({ length: 15 }, (_, i) => mkWord(i, { pos: "verb" }));
+  const dueState = () => ({ ...gradeCard(newCardState(""), "good", NOW - 3 * DAY), wordId: "" });
+
+  it("emits only type-participle card tasks, capped at max", () => {
+    const tasks = buildParticipleTasks(verbs, new Map(), NOW, 10, seeded());
+    expect(tasks).toHaveLength(10);
+    for (const t of tasks) {
+      expect(t.kind).toBe("card");
+      if (t.kind === "card") expect(t.exercise).toBe("type-participle");
+    }
+  });
+
+  it("puts due #pp cards before never-drilled verbs and reads only #pp state", () => {
+    const states = statesWith([
+      // vocab-introduced but never participle-drilled → still counts as fresh
+      [verbs[0].id, gradeCard(newCardState(verbs[0].id), "good", NOW)],
+      [ppKey(verbs[1].id), { ...dueState(), wordId: ppKey(verbs[1].id) }],
+      [ppKey(verbs[2].id), gradeCard(newCardState(ppKey(verbs[2].id)), "good", NOW)], // not due
+    ]);
+    const tasks = buildParticipleTasks(verbs, states, NOW, 20, seeded());
+    const ids = tasks.map((t) => (t.kind === "card" ? t.word.id : ""));
+    expect(ids[0]).toBe(verbs[1].id); // the one due #pp card leads
+    expect(ids).toContain(verbs[0].id); // plain-id state is ignored
+    expect(ids.indexOf(verbs[2].id)).toBe(ids.length - 1); // non-due drilled card fills last
+    expect(countDuePP(verbs, states, NOW)).toBe(1);
   });
 });
 
