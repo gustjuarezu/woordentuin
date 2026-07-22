@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import { chapters, loadAllWords } from "../data";
+import { chapterLabel, chapters, loadAllWords } from "../data";
 import type { Word } from "../data/types";
 import { countDue } from "../engine/session";
 import { CROWN_LEVELS, crownLevel, growthStage, STAGE_MAX } from "../engine/srs";
@@ -41,6 +41,12 @@ export function Home() {
         </Link>
       </div>
 
+      <div className="row" style={{ marginBottom: 18 }}>
+        <Link to="/level-test" className="btn btn-primary">
+          Niveautoets · Level 4 — focus Geld (H6–10)
+        </Link>
+      </div>
+
       {chapters.map((ch) => {
         const words = allWords.filter((w) => w.chapter === ch.number);
         const stages = words.map((w) => growthStage(states.get(w.id)));
@@ -53,9 +59,9 @@ export function Home() {
           <div className="chapcard" key={ch.number}>
             <div className="ch-head">
               <div>
-                <h2>{ch.title}</h2>
+                <h2>{chapterLabel(ch)}</h2>
                 <p className="ch-meta">
-                  {ch.theme} · {ch.wordCount} words · {bloomed} bloomed
+                  {ch.wordCount} words · {bloomed} bloomed
                   {crown > 0 && (
                     <>
                       {" "}

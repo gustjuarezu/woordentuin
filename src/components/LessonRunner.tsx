@@ -9,6 +9,7 @@ import {
   type SessionTask,
 } from "../engine/session";
 import { participleFor, ppKey } from "../engine/participle";
+import { testKey } from "../engine/exam";
 import { stopSpeaking } from "../audio/tts";
 import { useApp } from "../store/useApp";
 import { FeedbackSheet, type FeedbackData } from "./FeedbackSheet";
@@ -50,7 +51,7 @@ export function LessonRunner({
   pool: Word[];
   newWords: Word[];
   chapterForThrottle?: number;
-  mode?: "vocab" | "participle";
+  mode?: "vocab" | "participle" | "test";
   onQuit: () => void;
   onFinish: (s: LessonSummary) => void;
 }) {
@@ -61,7 +62,8 @@ export function LessonRunner({
   const [feedback, setFeedback] = useState<FeedbackData | null>(null);
   // Participle skill lives on its own SRS cards (`id#pp`) so it never touches
   // the vocab card of the same word.
-  const keyFor = (w: Word) => (mode === "participle" ? ppKey(w.id) : w.id);
+  const keyFor = (w: Word) =>
+    mode === "participle" ? ppKey(w.id) : mode === "test" ? testKey(w.id) : w.id;
   const [hearts, setHearts] = useState(HEARTS_START);
   const taskStart = useRef(Date.now());
   const requeues = useRef(new Map<string, number>());

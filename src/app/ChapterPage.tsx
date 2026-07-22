@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
-import { chapterMeta, loadChapterWords } from "../data";
+import { chapterLabel, chapterMeta, loadChapterWords } from "../data";
 import type { Word } from "../data/types";
 import { chunkLessons, countDue, countDuePP } from "../engine/session";
 import { eligibleParticipleVerbs, ppKey } from "../engine/participle";
@@ -38,9 +38,9 @@ export function ChapterPage() {
       </Link>
       <div className="ch-head">
         <div>
-          <h1 style={{ fontSize: "1.9rem" }}>{meta.title}</h1>
+          <h1 style={{ fontSize: "1.9rem" }}>{chapterLabel(meta)}</h1>
           <p className="ch-meta">
-            {meta.theme} · {words.length} words
+            {words.length} words
             {crown > 0 && (
               <>
                 {" "}

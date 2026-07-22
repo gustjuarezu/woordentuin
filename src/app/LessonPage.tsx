@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useState } from "react";
 import { Link, useNavigate, useParams } from "react-router-dom";
-import { chapterMeta, loadChapterWords } from "../data";
+import { chapterLabel, chapterMeta, loadChapterWords } from "../data";
 import type { Word } from "../data/types";
 import { growthStage, isDue } from "../engine/srs";
 import { buildLessonWords, buildTasks, chunkLessons, shuffle, type SessionTask } from "../engine/session";
@@ -97,7 +97,7 @@ export function LessonPage({ practice = false }: { practice?: boolean }) {
     return (
       <section>
         <Link to={`/chapter/${num}`} className="backlink">
-          ← {meta.title}
+          ← {chapterLabel(meta)}
         </Link>
         <div className="notice">
           Nothing to practise right now — today’s new-word limit is reached and no reviews are due in this

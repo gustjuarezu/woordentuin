@@ -3,6 +3,7 @@ import { Route, Routes, useLocation } from "react-router-dom";
 import { ChapterPage } from "./app/ChapterPage";
 import { Home } from "./app/Home";
 import { LessonPage } from "./app/LessonPage";
+import { LevelTestPage } from "./app/LevelTestPage";
 import { ParticiplePage } from "./app/ParticiplePage";
 import { ReviewPage } from "./app/ReviewPage";
 import { SettingsPage } from "./app/SettingsPage";
@@ -29,6 +30,7 @@ export default function App() {
     pathname.includes("/lesson/") ||
     pathname.endsWith("/practice") ||
     pathname.endsWith("/participles") ||
+    pathname === "/level-test" ||
     pathname === "/review";
 
   return (
@@ -40,6 +42,7 @@ export default function App() {
         <Route path="/chapter/:n/lesson/:i" element={<LessonPage />} />
         <Route path="/chapter/:n/practice" element={<LessonPage practice />} />
         <Route path="/chapter/:n/participles" element={<ParticiplePage />} />
+        <Route path="/level-test" element={<LevelTestPage />} />
         <Route path="/review" element={<ReviewPage />} />
         <Route path="/stats" element={<StatsPage />} />
         <Route path="/settings" element={<SettingsPage />} />

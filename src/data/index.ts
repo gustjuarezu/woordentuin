@@ -18,6 +18,11 @@ export function chapterMeta(n: number): ChapterMeta | undefined {
   return chapters.find((c) => c.number === n);
 }
 
+/** Display label for a chapter, naming its theme, e.g. "Hoofdstuk 10 · Geld". */
+export function chapterLabel(m: ChapterMeta): string {
+  return `${m.title} · ${m.theme}`;
+}
+
 const cache = new Map<number, Promise<Word[]>>();
 export function loadChapterWords(n: number): Promise<Word[]> {
   const meta = chapterMeta(n);

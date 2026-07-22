@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import { chapters, loadAllWords } from "../data";
+import { chapterLabel, chapters, loadAllWords } from "../data";
 import type { Word } from "../data/types";
 import { countDue } from "../engine/session";
 import { growthStage, STAGE_MAX } from "../engine/srs";
@@ -53,7 +53,7 @@ export function StatsPage() {
           return (
             <div className="lesson-item" key={ch.number}>
               <div>
-                <strong>{ch.title}</strong>
+                <strong>{chapterLabel(ch)}</strong>
                 <div className="words-preview">
                   {stages.filter((s) => s > 0).length}/{words.length} planted ·{" "}
                   {stages.filter((s) => s >= STAGE_MAX).length} bloomed

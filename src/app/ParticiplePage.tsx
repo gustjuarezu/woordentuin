@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Link, useNavigate, useParams } from "react-router-dom";
-import { chapterMeta, loadChapterWords } from "../data";
+import { chapterLabel, chapterMeta, loadChapterWords } from "../data";
 import type { Word } from "../data/types";
 import { eligibleParticipleVerbs } from "../engine/participle";
 import { buildParticipleTasks, type SessionTask } from "../engine/session";
@@ -50,7 +50,7 @@ export function ParticiplePage() {
     return (
       <section>
         <Link to={`/chapter/${num}`} className="backlink">
-          ← {meta.title}
+          ← {chapterLabel(meta)}
         </Link>
         <div className="notice">This chapter has no verbs to drill.</div>
       </section>

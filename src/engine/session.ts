@@ -132,7 +132,7 @@ export function countDue(allWords: Word[], states: Map<string, CardState>, now: 
   }).length;
 }
 
-function eligibleExercises(w: Word, opts: SessionOptions): ExerciseType[] {
+export function eligibleExercises(w: Word, opts: SessionOptions): ExerciseType[] {
   const types: ExerciseType[] = ["mc-nl-en", "mc-en-nl"];
   const shortEnough = w.lemma.split(" ").length <= 2 && w.primaryEn.split(" ").length <= 3;
   if (shortEnough) types.push("type-nl");
