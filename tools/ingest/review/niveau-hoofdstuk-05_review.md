@@ -1,0 +1,93 @@
+# Niveau hoofdstuk 5 — Creatief: review
+
+79 words. ALL glosses are generated (the book prints none) — audit below.
+
+## gloss audit list
+- **te allen tijde** → at all times; always
+- **bovenal** → above all
+- **de cameravoering** → camera work
+- **eenheid van tijd en plaats** → unity of time and place
+- **het exposé** → exposition; detailed account
+- **gelikt** → slick; polished
+- **de Hollandse pot** → traditional Dutch cooking; Dutch home cooking
+- **liflafjes** → fancy little dishes; frilly nibbles
+- **de Michelin-ster** → Michelin star
+- **ontrafeld** → unravelled; picked apart
+- **de teneur** → tenor; general tone; drift
+- **het tig-gangen diner** → umpteen-course dinner
+- **toonaangevend** → leading; trendsetting
+- **de verloedering** → degradation; decay; deterioration
+- **verstomd** → dumbfounded; speechless
+- **waken voor** → to guard against
+- **met de deur in huis vallen** → to get straight to the point
+- **zijn doel voorbij schieten** → to defeat its purpose; to overshoot the mark
+- **ergens om draaien** → to be what it is all about; to revolve around
+- **er dwars doorheen kijken** → to see right through it
+- **iets uit je hoofd laten** → to put something out of your head; to not even think of doing something
+- **uit de lucht komen vallen** → to come out of the blue; to come out of nowhere
+- **het niet meekrijgen** → to not catch it; to miss it; to not get it
+- **het slaat nergens op** → it makes no sense; it is ridiculous
+- **iets niet onder stoelen of banken steken** → to make no secret of something
+- **het gaat er (op een bepaalde manier) aan toe** → things go (a certain way); that is how things are done
+- **met alle winden meewaaien** → to go whichever way the wind blows; to change one's opinion easily
+- **de aanschaf** → purchase; acquisition
+- **aanschaffen** → to purchase; to buy
+- **beogen** → to aim at; to intend
+- **destijds** → at the time; back then
+- **eng** → scary; creepy
+- **geoorloofd** → permitted; allowed
+- **grondig** → thorough
+- **onderschatten** → to underestimate
+- **de onderschatting** → underestimation
+- **zich onderscheiden** → to distinguish (oneself); to stand out
+- **het onderscheid** → distinction; difference
+- **de oproep** → call; appeal; summons
+- **oproepen tot** → to call for; to call upon
+- **zich opsluiten** → to lock oneself away; to shut oneself up
+- **overeenstemmen met** → to correspond with; to be in accordance with
+- **de overeenstemming** → agreement; correspondence
+- **peilen** → to gauge; to sound out
+- **de peiling** → poll; survey; sounding
+- **pikken** → to steal; to put up with; to peck
+- **proppen** → to stuff; to cram
+- **schattig** → cute; adorable
+- **tot stand komen** → to come about; to be established
+- **voldoen aan** → to meet; to satisfy; to comply with
+- **begaan** → to commit (a mistake, a crime); to make (an error)
+- **de beweegreden** → motive; motivation
+- **de diepte** → depth
+- **gissen** → to guess
+- **grotendeels** → largely; for the most part
+- **hetgeen** → that which; which
+- **de invalshoek** → angle; perspective; approach
+- **overeind blijven** → to hold up; to stand firm
+- **per se** → at all costs; necessarily; absolutely
+- **veroveren** → to conquer; to capture
+- **de verovering** → conquest
+- **verstoren** → to disturb; to disrupt
+- **verzwakken** → to weaken
+- **afleiden van** → to distract from; to derive from
+- **beschuldigen van** → to accuse of
+- **zich druk maken over** → to worry about; to get worked up about
+- **gissen naar** → to guess at
+- **te maken hebben met** → to have to do with; to deal with
+- **verhuizen naar** → to move to
+- **bedriegen** → to deceive; to cheat _(irr: bedroog / bedrogen)_
+- **duiken** → to dive _(irr: dook / (is) gedoken)_
+- **genezen** → to heal; to recover; to cure _(irr: genas / genezen)_
+- **glimmen** → to shine; to gleam _(irr: glom / geglommen)_
+- **ontwerpen** → to design _(irr: ontwierp / ontworpen)_
+- **prijzen** → to praise _(irr: prees / geprezen)_
+- **raden** → to guess _(irr: raadde / geraden)_
+- **verraden** → to betray; to give away _(irr: verraadde / verraden)_
+- **verslijten** → to wear out _(irr: versleet / versleten)_
+- **zuigen** → to suck _(irr: zoog / gezogen)_
+
+## warnings
+- The chapter's own 'Onregelmatige werkwoorden' material (pg 224 opdracht 36 and the Vocabulairelijst section on pg 227) prints infinitives only; past/perfect forms in irregularRaw were reconstructed from the book's appendix (bijlage 2a pg 275-276 and bijlage 2b pg 277-282, OCR). The '(is)' auxiliary marker for duiken comes from bijlage 2b ('dook, doken (is)').
+- Appendix OCR printed 'ontwierpen' in the perfect column for ontwerpen (pg 276) — corrected to 'ontworpen' per bijlage 2b pg 279.
+- OCR pg-226 reads 'perse'; the page image clearly prints 'per se' — image followed.
+- The Preposities section (pg 227) repeats six entries already listed elsewhere in the lijst (oproepen tot; opsluiten (in), (zich); overeenstemmen met; voldoen aan; waken voor; onderscheiden door, zich — printed with parentheses in the Goede reclame section). Each is included exactly once, at its first occurrence; only the six new Preposities entries were added.
+- '(ver)slijten' is printed with an optional prefix; nl and lemma kept exactly as printed.
+- 'liflafjes' is printed as a plural noun without an article; article set to null.
+- OCR line-wrap and I/l fixes applied to example sentences (e.g. 'Alsik' → 'Als ik', 'ieder- een' → 'iedereen', 'ls het geoorloofd' → 'Is het geoorloofd', 'Alser' → 'Als er', 'ledere' → 'Iedere').

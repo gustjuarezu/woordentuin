@@ -1,0 +1,841 @@
+[
+  {
+    "id": "n6-het-kiekje",
+    "chapter": 6,
+    "nl": "het kiekje",
+    "lemma": "kiekje",
+    "pos": "noun",
+    "en": [
+      "snapshot",
+      "photo"
+    ],
+    "primaryEn": "snapshot",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "n6-bulderen",
+    "chapter": 6,
+    "nl": "bulderen",
+    "lemma": "bulderen",
+    "pos": "verb",
+    "en": [
+      "to roar",
+      "to boom",
+      "to thunder"
+    ],
+    "primaryEn": "to roar",
+    "source": "generated"
+  },
+  {
+    "id": "n6-lichtvaardig",
+    "chapter": 6,
+    "nl": "lichtvaardig",
+    "lemma": "lichtvaardig",
+    "pos": "adjective",
+    "en": [
+      "rash",
+      "thoughtless",
+      "too lightly"
+    ],
+    "primaryEn": "rash",
+    "source": "generated"
+  },
+  {
+    "id": "n6-uitgebannen",
+    "chapter": 6,
+    "nl": "uitgebannen",
+    "lemma": "uitgebannen",
+    "pos": "other",
+    "en": [
+      "banished",
+      "driven out",
+      "eradicated"
+    ],
+    "primaryEn": "banished",
+    "source": "generated"
+  },
+  {
+    "id": "n6-naar-hartenlust",
+    "chapter": 6,
+    "nl": "naar hartenlust",
+    "lemma": "naar hartenlust",
+    "pos": "phrase",
+    "en": [
+      "to one's heart's content",
+      "as much as you like"
+    ],
+    "primaryEn": "to one's heart's content",
+    "source": "generated"
+  },
+  {
+    "id": "n6-het-erover-hebben",
+    "chapter": 6,
+    "nl": "het erover hebben",
+    "lemma": "erover hebben",
+    "pos": "phrase",
+    "en": [
+      "to talk about it",
+      "to discuss it"
+    ],
+    "primaryEn": "to talk about it",
+    "source": "generated"
+  },
+  {
+    "id": "n6-het-kwartje-valt",
+    "chapter": 6,
+    "nl": "het kwartje valt",
+    "lemma": "kwartje valt",
+    "pos": "phrase",
+    "en": [
+      "the penny drops",
+      "it suddenly becomes clear"
+    ],
+    "primaryEn": "the penny drops",
+    "source": "generated"
+  },
+  {
+    "id": "n6-je-de-ogen-doen-openen",
+    "chapter": 6,
+    "nl": "je de ogen doen openen",
+    "lemma": "je de ogen doen openen",
+    "pos": "phrase",
+    "en": [
+      "to open your eyes (to something)",
+      "to be an eye-opener"
+    ],
+    "primaryEn": "to open your eyes (to something)",
+    "source": "generated"
+  },
+  {
+    "id": "n6-op-pad-gaan",
+    "chapter": 6,
+    "nl": "op pad gaan",
+    "lemma": "op pad gaan",
+    "pos": "phrase",
+    "en": [
+      "to set off",
+      "to head out"
+    ],
+    "primaryEn": "to set off",
+    "source": "generated"
+  },
+  {
+    "id": "n6-aantonen",
+    "chapter": 6,
+    "nl": "aantonen",
+    "lemma": "aantonen",
+    "pos": "verb",
+    "en": [
+      "to demonstrate",
+      "to show",
+      "to prove"
+    ],
+    "primaryEn": "to demonstrate",
+    "source": "generated",
+    "separable": true,
+    "examples": [
+      "Door dit onderzoek is aangetoond dat het dragen van een fietshelm het aantal doden door ongelukken vermindert."
+    ]
+  },
+  {
+    "id": "n6-bestemd-zijn-voor",
+    "chapter": 6,
+    "nl": "bestemd zijn voor",
+    "lemma": "bestemd zijn voor",
+    "pos": "phrase",
+    "en": [
+      "to be intended for",
+      "to be meant for"
+    ],
+    "primaryEn": "to be intended for",
+    "source": "generated",
+    "examples": [
+      "Dit pakketje is niet voor mij bestemd. Het is voor mijn collega bedoeld."
+    ]
+  },
+  {
+    "id": "n6-blootstellen-aan",
+    "chapter": 6,
+    "nl": "blootstellen aan",
+    "lemma": "blootstellen aan",
+    "pos": "phrase",
+    "en": [
+      "to expose to"
+    ],
+    "primaryEn": "to expose to",
+    "source": "generated",
+    "separable": true,
+    "examples": [
+      "Het wordt aanbevolen om in de zomer tussen 12 en 15 uur je huid niet bloot te stellen aan zonlicht. Het is belangrijk om je huid dan te bedekken."
+    ]
+  },
+  {
+    "id": "n6-gaandeweg",
+    "chapter": 6,
+    "nl": "gaandeweg",
+    "lemma": "gaandeweg",
+    "pos": "adverb",
+    "en": [
+      "gradually",
+      "little by little"
+    ],
+    "primaryEn": "gradually",
+    "source": "generated",
+    "examples": [
+      "In het begin vond hij het leren van een vreemde taal niet leuk, maar gaandeweg kreeg hij er meer plezier in."
+    ]
+  },
+  {
+    "id": "n6-huidig",
+    "chapter": 6,
+    "nl": "huidig",
+    "lemma": "huidig",
+    "pos": "adjective",
+    "en": [
+      "current",
+      "present",
+      "present-day"
+    ],
+    "primaryEn": "current",
+    "source": "generated",
+    "examples": [
+      "De huidige generatie ouders neemt de kinderen op allerlei manieren mee op hun fiets: fietsstoeltjes voorop, fietsstoeltjes achterop, bakfietsen, fietsen met aanhangers. Het is aan hen te wijten dat kinderen tegenwoordig te weinig bewegen. Vroeger liepen de ouders vooral met hun kinderen."
+    ]
+  },
+  {
+    "id": "n6-omstreden",
+    "chapter": 6,
+    "nl": "omstreden",
+    "lemma": "omstreden",
+    "pos": "adjective",
+    "en": [
+      "controversial",
+      "disputed"
+    ],
+    "primaryEn": "controversial",
+    "source": "generated",
+    "examples": [
+      "Deze beslissing is omstreden. Er is veel discussie over of het wel de juiste beslissing is."
+    ]
+  },
+  {
+    "id": "n6-omwille-van",
+    "chapter": 6,
+    "nl": "omwille van",
+    "lemma": "omwille van",
+    "pos": "phrase",
+    "en": [
+      "for the sake of",
+      "because of"
+    ],
+    "primaryEn": "for the sake of",
+    "source": "generated",
+    "examples": [
+      "Hij is verhuisd omwille van het werk van zijn vrouw. Zij heeft een baan in het ziekenhuis en moet binnen een halfuur in het ziekenhuis kunnen zijn. Dat is de enige reden, want ze woonden op een prachtige plek."
+    ]
+  },
+  {
+    "id": "n6-overnemen",
+    "chapter": 6,
+    "nl": "overnemen",
+    "lemma": "overnemen",
+    "pos": "verb",
+    "en": [
+      "to take over",
+      "to adopt (a habit, an idea)"
+    ],
+    "primaryEn": "to take over",
+    "source": "generated",
+    "separable": true,
+    "irregular": {
+      "past": "nam over",
+      "perfect": "overgenomen"
+    },
+    "examples": [
+      "Als je in een ander land woont, neem je meestal wel bepaalde gewoontes van dat land over. Veel buitenlanders fietsen in Nederland, terwijl ze dat in hun eigen land niet doen.",
+      "Ik heb de fiets van mijn buurvrouw overgenomen. Hij was nog zo goed als nieuw, hij blonk nog helemaal. Toch kon ik hem voor niet veel geld van haar kopen."
+    ]
+  },
+  {
+    "id": "n6-overwegen",
+    "chapter": 6,
+    "nl": "overwegen",
+    "lemma": "overwegen",
+    "pos": "verb",
+    "en": [
+      "to consider",
+      "to contemplate"
+    ],
+    "primaryEn": "to consider",
+    "source": "generated",
+    "irregular": {
+      "past": "overwoog",
+      "perfect": "overwogen"
+    },
+    "examples": [
+      "Ik heb overwogen om te emigreren naar Nieuw-Zeeland, maar ik heb het uiteindelijk toch niet gedaan."
+    ]
+  },
+  {
+    "id": "n6-de-overweging",
+    "chapter": 6,
+    "nl": "de overweging",
+    "lemma": "overweging",
+    "pos": "noun",
+    "en": [
+      "consideration"
+    ],
+    "primaryEn": "consideration",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Ik heb overwogen om te emigreren naar Nieuw-Zeeland, maar ik heb het uiteindelijk toch niet gedaan."
+    ]
+  },
+  {
+    "id": "n6-schuilen",
+    "chapter": 6,
+    "nl": "schuilen",
+    "lemma": "schuilen",
+    "pos": "verb",
+    "en": [
+      "to shelter",
+      "to hide",
+      "to lurk (of a danger)"
+    ],
+    "primaryEn": "to shelter",
+    "source": "generated",
+    "examples": [
+      "Ik ben kletsnat door de regen. Je kunt me wel uitwringen. Ik had beter kunnen schuilen onder een afdakje. Dan was ik niet zo nat geworden.",
+      "Te veel fietsers hebben geen licht op hun fiets. Daarin schuilt een gevaar: automobilisten zien hen slecht in het donker, wat gevaarlijk is."
+    ]
+  },
+  {
+    "id": "n6-uitpuilen",
+    "chapter": 6,
+    "nl": "uitpuilen",
+    "lemma": "uitpuilen",
+    "pos": "verb",
+    "en": [
+      "to bulge",
+      "to bulge out"
+    ],
+    "primaryEn": "to bulge",
+    "source": "generated",
+    "separable": true,
+    "examples": [
+      "Ze had zo veel spullen gekocht dat haar tassen uitpuilden. De spullen pasten er niet in."
+    ]
+  },
+  {
+    "id": "n6-verrichten",
+    "chapter": 6,
+    "nl": "verrichten",
+    "lemma": "verrichten",
+    "pos": "verb",
+    "en": [
+      "to perform",
+      "to carry out"
+    ],
+    "primaryEn": "to perform",
+    "source": "generated",
+    "examples": [
+      "Voordat je iets kunt bestellen op die website, moet je eerst een aantal handelingen verrichten: je gegevens invoeren, een wachtwoord instellen en dat vervolgens bevestigen."
+    ]
+  },
+  {
+    "id": "n6-de-verrichting",
+    "chapter": 6,
+    "nl": "de verrichting",
+    "lemma": "verrichting",
+    "pos": "noun",
+    "en": [
+      "action",
+      "act",
+      "operation"
+    ],
+    "primaryEn": "action",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Voordat je iets kunt bestellen op die website, moet je eerst een aantal handelingen verrichten: je gegevens invoeren, een wachtwoord instellen en dat vervolgens bevestigen."
+    ]
+  },
+  {
+    "id": "n6-de-zorg",
+    "chapter": 6,
+    "nl": "de zorg",
+    "lemma": "zorg",
+    "pos": "noun",
+    "en": [
+      "concern",
+      "worry",
+      "care"
+    ],
+    "primaryEn": "concern",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Het baart ons zorgen dat kinderen te weinig fietsen, waardoor ze te weinig beweging krijgen. Ook leren ze niet om zelfstandig aan het verkeer deel te nemen."
+    ]
+  },
+  {
+    "id": "n6-zorgen-baren",
+    "chapter": 6,
+    "nl": "zorgen baren",
+    "lemma": "zorgen baren",
+    "pos": "phrase",
+    "en": [
+      "to cause concern",
+      "to worry (someone)"
+    ],
+    "primaryEn": "to cause concern",
+    "source": "generated",
+    "examples": [
+      "Het baart ons zorgen dat kinderen te weinig fietsen, waardoor ze te weinig beweging krijgen. Ook leren ze niet om zelfstandig aan het verkeer deel te nemen."
+    ]
+  },
+  {
+    "id": "n6-afronden",
+    "chapter": 6,
+    "nl": "afronden",
+    "lemma": "afronden",
+    "pos": "verb",
+    "en": [
+      "to complete",
+      "to finish",
+      "to round off"
+    ],
+    "primaryEn": "to complete",
+    "source": "generated",
+    "separable": true,
+    "examples": [
+      "Nadat de beoogde resultaten waren behaald, was er niets meer te doen en werd het project afgerond."
+    ]
+  },
+  {
+    "id": "n6-amper",
+    "chapter": 6,
+    "nl": "amper",
+    "lemma": "amper",
+    "pos": "adverb",
+    "en": [
+      "barely",
+      "hardly"
+    ],
+    "primaryEn": "barely",
+    "source": "generated",
+    "examples": [
+      "Ze had een cursus Nederlands gedaan, maar haar spreekvaardigheid voldeed niet aan de eisen. Ze kon amper Nederlands spreken."
+    ]
+  },
+  {
+    "id": "n6-beslaan",
+    "chapter": 6,
+    "nl": "beslaan",
+    "lemma": "beslaan",
+    "pos": "verb",
+    "en": [
+      "to cover, to take up (space)",
+      "to fog up, to steam up"
+    ],
+    "primaryEn": "to cover, to take up (space)",
+    "source": "generated",
+    "irregular": {
+      "past": "besloeg",
+      "perfect": "beslagen"
+    },
+    "examples": [
+      "Deze tekst beslaat de hele pagina. Er is geen witruimte over.",
+      "Als je doucht, beslaat de badkamerspiegel. Soms druipt het vocht er zelfs af."
+    ]
+  },
+  {
+    "id": "n6-doorzichtig",
+    "chapter": 6,
+    "nl": "doorzichtig",
+    "lemma": "doorzichtig",
+    "pos": "adjective",
+    "en": [
+      "transparent",
+      "see-through"
+    ],
+    "primaryEn": "transparent",
+    "source": "generated",
+    "examples": [
+      "De zwemster had een doorzichtige jurk aan, zodat je het badpak dat ze eronder droeg goed kon zien."
+    ]
+  },
+  {
+    "id": "n6-kriskras",
+    "chapter": 6,
+    "nl": "kriskras",
+    "lemma": "kriskras",
+    "pos": "adverb",
+    "en": [
+      "crisscross",
+      "in all directions"
+    ],
+    "primaryEn": "crisscross",
+    "source": "generated",
+    "examples": [
+      "De kinderen op het schoolplein renden kriskras door elkaar en ze krijsten. Je kon wel merken dat het de laatste dag voor de vakantie was."
+    ]
+  },
+  {
+    "id": "n6-nauw",
+    "chapter": 6,
+    "nl": "nauw",
+    "lemma": "nauw",
+    "pos": "adjective",
+    "en": [
+      "narrow",
+      "close, closely (of collaboration)"
+    ],
+    "primaryEn": "narrow",
+    "source": "generated",
+    "examples": [
+      "Broeken met nauwe pijpen zitten vaak nogal strak.",
+      "Een tandarts moet nauw samenwerken met zijn assistent."
+    ]
+  },
+  {
+    "id": "n6-onttrekken-aan",
+    "chapter": 6,
+    "nl": "onttrekken aan",
+    "lemma": "onttrekken aan",
+    "pos": "phrase",
+    "en": [
+      "to extract from",
+      "to withdraw from"
+    ],
+    "primaryEn": "to extract from",
+    "source": "generated",
+    "irregular": {
+      "past": "onttrok",
+      "perfect": "onttrokken"
+    },
+    "examples": [
+      "Er wordt vaak gezegd dat koffie dehydreert, maar dat is niet waar. Koffie onttrekt geen vocht aan het lichaam.",
+      "Hij onttrok zich aan zijn verplichtingen en schoot daardoor vreselijk tekort."
+    ]
+  },
+  {
+    "id": "n6-het-pand",
+    "chapter": 6,
+    "nl": "het pand",
+    "lemma": "pand",
+    "pos": "noun",
+    "en": [
+      "building",
+      "premises",
+      "property"
+    ],
+    "primaryEn": "building",
+    "source": "generated",
+    "article": "het",
+    "examples": [
+      "De oude kantoorpanden werden afgebroken en er kwamen doorzonwoningen voor in de plaats. Momenteel zijn ze ernaast aan het graven voor een parkeergarage."
+    ]
+  },
+  {
+    "id": "n6-verslinden",
+    "chapter": 6,
+    "nl": "verslinden",
+    "lemma": "verslinden",
+    "pos": "verb",
+    "en": [
+      "to devour"
+    ],
+    "primaryEn": "to devour",
+    "source": "generated",
+    "irregular": {
+      "past": "verslond",
+      "perfect": "verslonden"
+    },
+    "examples": [
+      "De leeuwen verslonden de gazelle met huid en haar. Ze vraten hem helemaal op.",
+      "Als kind las ik heel veel boeken, ik verslond ze gewoon."
+    ]
+  },
+  {
+    "id": "n6-verwijderen",
+    "chapter": 6,
+    "nl": "verwijderen",
+    "lemma": "verwijderen",
+    "pos": "verb",
+    "en": [
+      "to remove"
+    ],
+    "primaryEn": "to remove",
+    "source": "generated",
+    "examples": [
+      "Voordat je de pizza in de oven doet, moet je eerst het plastic verwijderen."
+    ]
+  },
+  {
+    "id": "n6-de-verwijdering",
+    "chapter": 6,
+    "nl": "de verwijdering",
+    "lemma": "verwijdering",
+    "pos": "noun",
+    "en": [
+      "removal"
+    ],
+    "primaryEn": "removal",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Voordat je de pizza in de oven doet, moet je eerst het plastic verwijderen."
+    ]
+  },
+  {
+    "id": "n6-voortzetten",
+    "chapter": 6,
+    "nl": "voortzetten",
+    "lemma": "voortzetten",
+    "pos": "verb",
+    "en": [
+      "to continue",
+      "to carry on"
+    ],
+    "primaryEn": "to continue",
+    "source": "generated",
+    "separable": true,
+    "examples": [
+      "We moesten nog 15 kilometer lopen. De moed zonk me in de schoenen. Na een lange pauze zetten we de wandeling voort."
+    ]
+  },
+  {
+    "id": "n6-de-voortzetting",
+    "chapter": 6,
+    "nl": "de voortzetting",
+    "lemma": "voortzetting",
+    "pos": "noun",
+    "en": [
+      "continuation"
+    ],
+    "primaryEn": "continuation",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "We moesten nog 15 kilometer lopen. De moed zonk me in de schoenen. Na een lange pauze zetten we de wandeling voort."
+    ]
+  },
+  {
+    "id": "n6-zogenaamd",
+    "chapter": 6,
+    "nl": "zogenaamd",
+    "lemma": "zogenaamd",
+    "pos": "adjective",
+    "en": [
+      "so-called",
+      "supposedly"
+    ],
+    "primaryEn": "so-called",
+    "source": "generated",
+    "examples": [
+      "Witte sneeuw is een zogenaamd pleonasme. Sneeuw is immers altijd wit.",
+      "Zijn zogenaamde vrienden lieten hem helemaal alleen achter in het bos. Een echte vriend zou dat nooit doen."
+    ]
+  },
+  {
+    "id": "n6-de-zonde",
+    "chapter": 6,
+    "nl": "de zonde",
+    "lemma": "zonde",
+    "pos": "noun",
+    "en": [
+      "a waste",
+      "a shame",
+      "sin"
+    ],
+    "primaryEn": "a waste",
+    "source": "generated",
+    "article": "de",
+    "hint": "zonde, (de)",
+    "examples": [
+      "Het is zonde om deze kleren weg te gooien. Ze zien er nog goed uit. Daar kun je andere mensen blij mee maken.",
+      "Overspel is een zonde volgens de Bijbel. Vroeger zei de dominee dat wie overspel pleegde niet in de hemel kwam."
+    ]
+  },
+  {
+    "id": "n6-geinteresseerd-zijn-in",
+    "chapter": 6,
+    "nl": "geïnteresseerd zijn in",
+    "lemma": "geïnteresseerd zijn in",
+    "pos": "phrase",
+    "en": [
+      "to be interested in"
+    ],
+    "primaryEn": "to be interested in",
+    "source": "generated"
+  },
+  {
+    "id": "n6-samenwerken-met",
+    "chapter": 6,
+    "nl": "samenwerken met",
+    "lemma": "samenwerken met",
+    "pos": "phrase",
+    "en": [
+      "to work together with",
+      "to collaborate with"
+    ],
+    "primaryEn": "to work together with",
+    "source": "generated",
+    "separable": true
+  },
+  {
+    "id": "n6-wijten-aan",
+    "chapter": 6,
+    "nl": "wijten aan",
+    "lemma": "wijten aan",
+    "pos": "phrase",
+    "en": [
+      "to blame on",
+      "to attribute to"
+    ],
+    "primaryEn": "to blame on",
+    "source": "generated",
+    "irregular": {
+      "past": "weet",
+      "perfect": "geweten"
+    }
+  },
+  {
+    "id": "n6-aanbevelen",
+    "chapter": 6,
+    "nl": "aanbevelen",
+    "lemma": "aanbevelen",
+    "pos": "verb",
+    "en": [
+      "to recommend"
+    ],
+    "primaryEn": "to recommend",
+    "source": "generated",
+    "separable": true,
+    "irregular": {
+      "past": "beval aan",
+      "perfect": "aanbevolen"
+    }
+  },
+  {
+    "id": "n6-blinken",
+    "chapter": 6,
+    "nl": "blinken",
+    "lemma": "blinken",
+    "pos": "verb",
+    "en": [
+      "to shine",
+      "to gleam"
+    ],
+    "primaryEn": "to shine",
+    "source": "generated",
+    "irregular": {
+      "past": "blonk",
+      "perfect": "geblonken"
+    }
+  },
+  {
+    "id": "n6-druipen",
+    "chapter": 6,
+    "nl": "druipen",
+    "lemma": "druipen",
+    "pos": "verb",
+    "en": [
+      "to drip"
+    ],
+    "primaryEn": "to drip",
+    "source": "generated",
+    "irregular": {
+      "past": "droop",
+      "perfect": "(is) gedropen"
+    }
+  },
+  {
+    "id": "n6-graven",
+    "chapter": 6,
+    "nl": "graven",
+    "lemma": "graven",
+    "pos": "verb",
+    "en": [
+      "to dig"
+    ],
+    "primaryEn": "to dig",
+    "source": "generated",
+    "irregular": {
+      "past": "groef",
+      "perfect": "gegraven"
+    }
+  },
+  {
+    "id": "n6-uitwringen",
+    "chapter": 6,
+    "nl": "uitwringen",
+    "lemma": "uitwringen",
+    "pos": "verb",
+    "en": [
+      "to wring out",
+      "to wring"
+    ],
+    "primaryEn": "to wring out",
+    "source": "generated",
+    "separable": true,
+    "irregular": {
+      "past": "wrong uit",
+      "perfect": "uitgewrongen"
+    },
+    "hint": "(uit)wringen"
+  },
+  {
+    "id": "n6-vreten",
+    "chapter": 6,
+    "nl": "vreten",
+    "lemma": "vreten",
+    "pos": "verb",
+    "en": [
+      "to devour",
+      "to gobble up (of animals)"
+    ],
+    "primaryEn": "to devour",
+    "source": "generated",
+    "irregular": {
+      "past": "vrat",
+      "perfect": "gevreten"
+    }
+  },
+  {
+    "id": "n6-wijten",
+    "chapter": 6,
+    "nl": "wijten",
+    "lemma": "wijten",
+    "pos": "verb",
+    "en": [
+      "to blame",
+      "to attribute"
+    ],
+    "primaryEn": "to blame",
+    "source": "generated",
+    "irregular": {
+      "past": "weet",
+      "perfect": "geweten"
+    }
+  },
+  {
+    "id": "n6-zinken",
+    "chapter": 6,
+    "nl": "zinken",
+    "lemma": "zinken",
+    "pos": "verb",
+    "en": [
+      "to sink"
+    ],
+    "primaryEn": "to sink",
+    "source": "generated",
+    "irregular": {
+      "past": "zonk",
+      "perfect": "is gezonken"
+    }
+  }
+]

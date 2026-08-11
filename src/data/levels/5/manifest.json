@@ -1,0 +1,38 @@
+[
+  {
+    "number": 1,
+    "title": "Hoofdstuk 1",
+    "theme": "Positief",
+    "wordCount": 120
+  },
+  {
+    "number": 2,
+    "title": "Hoofdstuk 2",
+    "theme": "Sociaal",
+    "wordCount": 97
+  },
+  {
+    "number": 3,
+    "title": "Hoofdstuk 3",
+    "theme": "Progressief",
+    "wordCount": 67
+  },
+  {
+    "number": 4,
+    "title": "Hoofdstuk 4",
+    "theme": "(Inter)nationaal",
+    "wordCount": 85
+  },
+  {
+    "number": 5,
+    "title": "Hoofdstuk 5",
+    "theme": "Creatief",
+    "wordCount": 79
+  },
+  {
+    "number": 6,
+    "title": "Hoofdstuk 6",
+    "theme": "Duurzaam",
+    "wordCount": 51
+  }
+]

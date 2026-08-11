@@ -1,0 +1,82 @@
+# Niveau hoofdstuk 3 — Progressief: review
+
+67 words. ALL glosses are generated (the book prints none) — audit below.
+
+## gloss audit list
+- **bijbenen** → to keep up with; to keep pace with
+- **iemand de deur wijzen** → to show someone the door; to turn someone away
+- **geboren en getogen** → born and bred; born and raised
+- **de hokjesgeest** → pigeonholing mentality; tendency to put people in boxes; compartmentalized thinking
+- **lef hebben** → to have guts; to have nerve; to dare
+- **de waan van de dag** → the whims of the day; short-lived issues of the moment
+- **het komt je niet aanwaaien** → it doesn't come easily; it takes real effort
+- **geen blad voor de mond nemen** → to not mince words; to speak one's mind
+- **het gelijk aan je zijde hebben** → to have right on your side; to be in the right
+- **in het geweer komen** → to rise up in protest; to spring into action
+- **geen haar op m'n hoofd die daaraan denkt** → I wouldn't dream of it; it wouldn't even cross my mind
+- **iets onder de loep nemen** → to examine something closely; to scrutinize something
+- **je sporen achterlaten** → to leave your mark; to leave traces behind
+- **van top tot teen** → from head to toe
+- **in de weer zijn** → to be busy; to be bustling about
+- **het voor het zeggen hebben** → to be in charge; to call the shots
+- **het aandeel** → share; contribution; part
+- **braaf** → well-behaved; good; obedient
+- **gelijkwaardig** → equal; equivalent; of equal value
+- **de gunst** → favor
+- **een hoop** → a lot; heap; pile
+- **klussen** → to do odd jobs; to do DIY
+- **het klusje** → odd job; chore; small job
+- **met name** → in particular; especially; notably
+- **moeizaam** → laborious; difficult; arduous
+- **ontkomen** → to escape; to get away; to avoid _(irr: ontkwam / is ontkomen)_
+- **opmaken** → to make (the bed); to use up; to put on makeup
+- **de opvang** → childcare; shelter; care
+- **opvangen** → to take care of; to look after; to catch _(irr: ving op / opgevangen)_
+- **pittig** → tough; spicy; feisty
+- **uitgaan van** → to assume; to take as a starting point _(irr: ging uit van / is uitgegaan van)_
+- **verdelen** → to divide; to distribute; to share out
+- **de verdeling** → division; distribution
+- **versieren** → to decorate; to chat someone up; to pick someone up
+- **de versiering** → decoration
+- **zielig** → pitiful; sad; pathetic
+- **benadrukken** → to emphasize; to stress
+- **het jargon** → jargon
+- **het litteken** → scar
+- **de naald** → needle
+- **ontroerend** → moving; touching
+- **de ontroering** → emotion; being moved
+- **opzichtig** → flashy; gaudy; showy
+- **overigens** → by the way; incidentally; for that matter
+- **overtuigen** → to convince; to persuade
+- **de overtuiging** → conviction; belief
+- **de rimpel** → wrinkle
+- **uitbundig** → exuberant; boisterous; unrestrained
+- **verpesten** → to ruin; to spoil
+- **zwerven** → to roam; to wander; to drift _(irr: zwierf / gezworven)_
+- **bezig zijn met** → to be busy with; to be occupied with
+- **communiceren met** → to communicate with
+- **te danken hebben aan** → to owe to; to have to thank for
+- **zich onderscheiden van** → to distinguish oneself from; to stand out from
+- **ontkomen aan** → to escape from; to avoid _(irr: ontkwam / is ontkomen)_
+- **zich ontwikkelen tot** → to develop into
+- **opmaken uit** → to gather from; to infer from; to conclude from
+- **overtuigd zijn van** → to be convinced of
+- **problemen hebben met** → to have problems with; to have trouble with
+- **de schuld geven aan** → to blame; to put the blame on
+- **zich schuldig maken aan** → to be guilty of; to make oneself guilty of
+- **spijt hebben van** → to regret
+- **toekomen aan** → to get around to; to find time for
+- **zich verantwoordelijk voelen voor** → to feel responsible for
+- **voorzichtig zijn met** → to be careful with
+- **wandelen met** → to walk with; to go for a walk with
+- **zorgen voor** → to take care of; to look after; to ensure
+
+## warnings
+- Chapter 3 prints its 'Onregelmatige werkwoorden' (p. 133 exercise and the lijst section on p. 135) as infinitives only, without past/perfect forms; irregularRaw triplets were completed from the book's own bijlage 2 (pp. 275-277) and match the forms printed inline in the chapter's Vocabulaire boxes (e.g. 'zwerven (zwierf, gezworven)').
+- The nine infinitives under the lijst section 'Onregelmatige werkwoorden' were NOT added as word entries: they are the irregular-verb study list (captured in irregularRaw), and one of them (zwerven) already appears as a regular lijst entry under 'Als Rihanna een Dali-snor wil'.
+- OCR of p. 134 truncated one entry to 'overt'; the page image clearly reads 'overtuigen' (between 'overigens' and 'overtuiging, de') and the image was followed.
+- Three words are printed twice in the lijst (once in a text section, once under 'Preposities') and were kept as separate entries as printed: 'uitgaan van' / 'uitgaan van', 'ontkomen (aan)' / 'ontkomen aan', 'opmaken (uit), (zich)' / 'opmaken uit'.
+- Inverted entries reordered: 'name, met' -> 'met name'; 'danken hebben aan, te' -> 'te danken hebben aan'; 'schuld geven aan, de' -> 'de schuld geven aan'; ', zich' entries -> leading 'zich'.
+- irregular forms were also attached to 'ontkomen (aan)', 'ontkomen aan', 'opvangen' and 'uitgaan van' because the chapter's Vocabulaire boxes print them explicitly (ontkwam/is ontkomen; ving op/opgevangen; ging uit van/is uitgegaan van), even though these verbs are not in the chapter's irregular-verb list.
+- 'overtuigen' is printed with forms '(overtuigde, overtuigd)' in the Vocabulaire box but is a regular verb, so irregular was left null.
+- duplicate entry dropped: uitgaan van

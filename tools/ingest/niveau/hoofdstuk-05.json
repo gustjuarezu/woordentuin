@@ -1,0 +1,1464 @@
+{
+  "chapter": 5,
+  "theme": "Creatief",
+  "wordCount": 79,
+  "irregularRaw": [
+    "bedriegen ‒ bedroog ‒ bedrogen",
+    "duiken ‒ dook ‒ (is) gedoken",
+    "genezen ‒ genas ‒ genezen",
+    "glimmen ‒ glom ‒ geglommen",
+    "ontwerpen ‒ ontwierp ‒ ontworpen",
+    "prijzen ‒ prees ‒ geprezen",
+    "raden ‒ raadde ‒ geraden",
+    "verraden ‒ verraadde ‒ verraden",
+    "(ver)slijten ‒ (ver)sleet ‒ (ver)sleten / gesleten",
+    "zuigen ‒ zoog ‒ gezogen"
+  ],
+  "warnings": [
+    "The chapter's own 'Onregelmatige werkwoorden' material (pg 224 opdracht 36 and the Vocabulairelijst section on pg 227) prints infinitives only; past/perfect forms in irregularRaw were reconstructed from the book's appendix (bijlage 2a pg 275-276 and bijlage 2b pg 277-282, OCR). The '(is)' auxiliary marker for duiken comes from bijlage 2b ('dook, doken (is)').",
+    "Appendix OCR printed 'ontwierpen' in the perfect column for ontwerpen (pg 276) — corrected to 'ontworpen' per bijlage 2b pg 279.",
+    "OCR pg-226 reads 'perse'; the page image clearly prints 'per se' — image followed.",
+    "The Preposities section (pg 227) repeats six entries already listed elsewhere in the lijst (oproepen tot; opsluiten (in), (zich); overeenstemmen met; voldoen aan; waken voor; onderscheiden door, zich — printed with parentheses in the Goede reclame section). Each is included exactly once, at its first occurrence; only the six new Preposities entries were added.",
+    "'(ver)slijten' is printed with an optional prefix; nl and lemma kept exactly as printed.",
+    "'liflafjes' is printed as a plural noun without an article; article set to null.",
+    "OCR line-wrap and I/l fixes applied to example sentences (e.g. 'Alsik' → 'Als ik', 'ieder- een' → 'iedereen', 'ls het geoorloofd' → 'Is het geoorloofd', 'Alser' → 'Als er', 'ledere' → 'Iedere')."
+  ],
+  "words": [
+    {
+      "nl": "te allen tijde",
+      "lemma": "te allen tijde",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "at all times",
+        "always"
+      ],
+      "primaryEn": "at all times",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "bovenal",
+      "lemma": "bovenal",
+      "article": null,
+      "pos": "adverb",
+      "en": [
+        "above all"
+      ],
+      "primaryEn": "above all",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "de cameravoering",
+      "lemma": "cameravoering",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "camera work"
+      ],
+      "primaryEn": "camera work",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "eenheid van tijd en plaats",
+      "lemma": "eenheid van tijd en plaats",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "unity of time and place"
+      ],
+      "primaryEn": "unity of time and place",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "het exposé",
+      "lemma": "exposé",
+      "article": "het",
+      "pos": "noun",
+      "en": [
+        "exposition",
+        "detailed account"
+      ],
+      "primaryEn": "exposition",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "gelikt",
+      "lemma": "gelikt",
+      "article": null,
+      "pos": "adjective",
+      "en": [
+        "slick",
+        "polished"
+      ],
+      "primaryEn": "slick",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "de Hollandse pot",
+      "lemma": "Hollandse pot",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "traditional Dutch cooking",
+        "Dutch home cooking"
+      ],
+      "primaryEn": "traditional Dutch cooking",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "liflafjes",
+      "lemma": "liflafjes",
+      "article": null,
+      "pos": "noun",
+      "en": [
+        "fancy little dishes",
+        "frilly nibbles"
+      ],
+      "primaryEn": "fancy little dishes",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "de Michelin-ster",
+      "lemma": "Michelin-ster",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "Michelin star"
+      ],
+      "primaryEn": "Michelin star",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "ontrafeld",
+      "lemma": "ontrafeld",
+      "article": null,
+      "pos": "adjective",
+      "en": [
+        "unravelled",
+        "picked apart"
+      ],
+      "primaryEn": "unravelled",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "de teneur",
+      "lemma": "teneur",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "tenor",
+        "general tone",
+        "drift"
+      ],
+      "primaryEn": "tenor",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "het tig-gangen diner",
+      "lemma": "tig-gangen diner",
+      "article": "het",
+      "pos": "noun",
+      "en": [
+        "umpteen-course dinner"
+      ],
+      "primaryEn": "umpteen-course dinner",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "toonaangevend",
+      "lemma": "toonaangevend",
+      "article": null,
+      "pos": "adjective",
+      "en": [
+        "leading",
+        "trendsetting"
+      ],
+      "primaryEn": "leading",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "de verloedering",
+      "lemma": "verloedering",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "degradation",
+        "decay",
+        "deterioration"
+      ],
+      "primaryEn": "degradation",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "verstomd",
+      "lemma": "verstomd",
+      "article": null,
+      "pos": "adjective",
+      "en": [
+        "dumbfounded",
+        "speechless"
+      ],
+      "primaryEn": "dumbfounded",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "waken voor",
+      "lemma": "waken voor",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to guard against"
+      ],
+      "primaryEn": "to guard against",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "met de deur in huis vallen",
+      "lemma": "met de deur in huis vallen",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "to get straight to the point"
+      ],
+      "primaryEn": "to get straight to the point",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "zijn doel voorbij schieten",
+      "lemma": "zijn doel voorbij schieten",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "to defeat its purpose",
+        "to overshoot the mark"
+      ],
+      "primaryEn": "to defeat its purpose",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "ergens om draaien",
+      "lemma": "ergens om draaien",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "to be what it is all about",
+        "to revolve around"
+      ],
+      "primaryEn": "to be what it is all about",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "er dwars doorheen kijken",
+      "lemma": "er dwars doorheen kijken",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "to see right through it"
+      ],
+      "primaryEn": "to see right through it",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "iets uit je hoofd laten",
+      "lemma": "iets uit je hoofd laten",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "to put something out of your head",
+        "to not even think of doing something"
+      ],
+      "primaryEn": "to put something out of your head",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "uit de lucht komen vallen",
+      "lemma": "uit de lucht komen vallen",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "to come out of the blue",
+        "to come out of nowhere"
+      ],
+      "primaryEn": "to come out of the blue",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "het niet meekrijgen",
+      "lemma": "het niet meekrijgen",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "to not catch it",
+        "to miss it",
+        "to not get it"
+      ],
+      "primaryEn": "to not catch it",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "het slaat nergens op",
+      "lemma": "het slaat nergens op",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "it makes no sense",
+        "it is ridiculous"
+      ],
+      "primaryEn": "it makes no sense",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "iets niet onder stoelen of banken steken",
+      "lemma": "iets niet onder stoelen of banken steken",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "to make no secret of something"
+      ],
+      "primaryEn": "to make no secret of something",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "het gaat er (op een bepaalde manier) aan toe",
+      "lemma": "het gaat er (op een bepaalde manier) aan toe",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "things go (a certain way)",
+        "that is how things are done"
+      ],
+      "primaryEn": "things go (a certain way)",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "met alle winden meewaaien",
+      "lemma": "met alle winden meewaaien",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "to go whichever way the wind blows",
+        "to change one's opinion easily"
+      ],
+      "primaryEn": "to go whichever way the wind blows",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "de aanschaf",
+      "lemma": "aanschaf",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "purchase",
+        "acquisition"
+      ],
+      "primaryEn": "purchase",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "De aanschaf van een e-reader was het beste wat ik het afgelopen jaar heb gedaan. Ik had hem veel eerder moeten aanschaffen."
+      ],
+      "note": null
+    },
+    {
+      "nl": "aanschaffen",
+      "lemma": "aanschaffen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to purchase",
+        "to buy"
+      ],
+      "primaryEn": "to purchase",
+      "hint": null,
+      "reflexive": false,
+      "separable": true,
+      "irregular": null,
+      "examples": [
+        "De aanschaf van een e-reader was het beste wat ik het afgelopen jaar heb gedaan. Ik had hem veel eerder moeten aanschaffen."
+      ],
+      "note": null
+    },
+    {
+      "nl": "beogen",
+      "lemma": "beogen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to aim at",
+        "to intend"
+      ],
+      "primaryEn": "to aim at",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Wat beoog je met dat plan? Wat wil je ermee bereiken?",
+        "De beoogde doelgroep van dit boek is hogeropgeleide anderstaligen. Voor hen is dit boek bedoeld."
+      ],
+      "note": null
+    },
+    {
+      "nl": "destijds",
+      "lemma": "destijds",
+      "article": null,
+      "pos": "adverb",
+      "en": [
+        "at the time",
+        "back then"
+      ],
+      "primaryEn": "at the time",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Vijftig jaar geleden bestond er nog geen internet. Nu kun je heel veel zaken online regelen, maar destijds was dat dus niet mogelijk."
+      ],
+      "note": null
+    },
+    {
+      "nl": "eng",
+      "lemma": "eng",
+      "article": null,
+      "pos": "adjective",
+      "en": [
+        "scary",
+        "creepy"
+      ],
+      "primaryEn": "scary",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Ik vind het eng om voor een grote groep mensen te staan. Dat vind ik spannend en ik word er nerveus van."
+      ],
+      "note": null
+    },
+    {
+      "nl": "geoorloofd",
+      "lemma": "geoorloofd",
+      "article": null,
+      "pos": "adjective",
+      "en": [
+        "permitted",
+        "allowed"
+      ],
+      "primaryEn": "permitted",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "— 'Is het geoorloofd om tijdens een examen je smartphone te gebruiken?' — 'Nee, dat is niet toegestaan.'"
+      ],
+      "note": null
+    },
+    {
+      "nl": "grondig",
+      "lemma": "grondig",
+      "article": null,
+      "pos": "adjective",
+      "en": [
+        "thorough"
+      ],
+      "primaryEn": "thorough",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Ik kan mijn sleutels niet vinden. Ik heb mijn huis grondig doorzocht. Ik heb echt overal gekeken, maar ik kan ze niet vinden."
+      ],
+      "note": null
+    },
+    {
+      "nl": "onderschatten",
+      "lemma": "onderschatten",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to underestimate"
+      ],
+      "primaryEn": "to underestimate",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "— 'Hoe was het om de presentatie te houden?' — 'Ik had het onderschat. Het was moeilijker en het kostte meer voorbereiding dan ik had gedacht. Misschien had ik mezelf dus enigszins overschat.'"
+      ],
+      "note": null
+    },
+    {
+      "nl": "de onderschatting",
+      "lemma": "onderschatting",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "underestimation"
+      ],
+      "primaryEn": "underestimation",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "zich onderscheiden",
+      "lemma": "onderscheiden",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to distinguish (oneself)",
+        "to stand out"
+      ],
+      "primaryEn": "to distinguish (oneself)",
+      "hint": "zich onderscheiden (door)",
+      "reflexive": true,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Zij onderscheidt zich door haar aparte kleding en haar bijzondere kapsel.",
+        "Het was ontzettend mistig, we konden bijna niets zien. In de verte konden we vaag een toren onderscheiden."
+      ],
+      "note": null
+    },
+    {
+      "nl": "het onderscheid",
+      "lemma": "onderscheid",
+      "article": "het",
+      "pos": "noun",
+      "en": [
+        "distinction",
+        "difference"
+      ],
+      "primaryEn": "distinction",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Is dit namaak? Het is niet van echt te onderscheiden. Ik kan tenminste het verschil niet zien. Dat onderscheid is wel heel klein."
+      ],
+      "note": null
+    },
+    {
+      "nl": "de oproep",
+      "lemma": "oproep",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "call",
+        "appeal",
+        "summons"
+      ],
+      "primaryEn": "call",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Als er verkiezingen zijn, krijg je een oproep om te gaan stemmen."
+      ],
+      "note": null
+    },
+    {
+      "nl": "oproepen tot",
+      "lemma": "oproepen tot",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to call for",
+        "to call upon"
+      ],
+      "primaryEn": "to call for",
+      "hint": null,
+      "reflexive": false,
+      "separable": true,
+      "irregular": null,
+      "examples": [
+        "We roepen iedereen op om suggesties te doen hoe we het tienjarig bestaan van ons bedrijf kunnen vieren.",
+        "Kun je nog beelden oproepen van toen je vier jaar was? Wat herinner je je?"
+      ],
+      "note": "boek: (riep op, opgeroepen)"
+    },
+    {
+      "nl": "zich opsluiten",
+      "lemma": "opsluiten",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to lock oneself away",
+        "to shut oneself up"
+      ],
+      "primaryEn": "to lock oneself away",
+      "hint": "zich opsluiten (in)",
+      "reflexive": true,
+      "separable": true,
+      "irregular": null,
+      "examples": [
+        "Als ik voor een tentamen moet leren, dan sluit ik me in mijn kamer op. Niemand mag me dan storen.",
+        "Vroeger werden kinderen in een kamer opgesloten als ze iets verkeerds hadden gedaan. Tegenwoordig worden alleen criminelen opgesloten."
+      ],
+      "note": "boek: (sloot op, opgesloten)"
+    },
+    {
+      "nl": "overeenstemmen met",
+      "lemma": "overeenstemmen met",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to correspond with",
+        "to be in accordance with"
+      ],
+      "primaryEn": "to correspond with",
+      "hint": null,
+      "reflexive": false,
+      "separable": true,
+      "irregular": null,
+      "examples": [
+        "Stemt de beschrijving van dat product overeen met de werkelijkheid? Of is het heel anders?"
+      ],
+      "note": null
+    },
+    {
+      "nl": "de overeenstemming",
+      "lemma": "overeenstemming",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "agreement",
+        "correspondence"
+      ],
+      "primaryEn": "agreement",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Stemt de beschrijving van dat product overeen met de werkelijkheid? Of is het heel anders?"
+      ],
+      "note": null
+    },
+    {
+      "nl": "peilen",
+      "lemma": "peilen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to gauge",
+        "to sound out"
+      ],
+      "primaryEn": "to gauge",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Ik heb een leuk, creatief idee voor een excursie met het team. Wil jij bij een aantal collega's eens peilen of ze dat ook leuk vinden? Je hoeft niet bij iedereen te informeren, hoor."
+      ],
+      "note": null
+    },
+    {
+      "nl": "de peiling",
+      "lemma": "peiling",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "poll",
+        "survey",
+        "sounding"
+      ],
+      "primaryEn": "poll",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Ik heb een leuk, creatief idee voor een excursie met het team. Wil jij bij een aantal collega's eens peilen of ze dat ook leuk vinden? Je hoeft niet bij iedereen te informeren, hoor."
+      ],
+      "note": null
+    },
+    {
+      "nl": "pikken",
+      "lemma": "pikken",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to steal",
+        "to put up with",
+        "to peck"
+      ],
+      "primaryEn": "to steal",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "(informeel) Dat gedrag pik ik niet. Ik accepteer niet dat iemand zo tegen mij doet.",
+        "(informeel) In de creatieve branche worden veel ideeën van anderen gepikt. Dat is eigenlijk gewoon stelen."
+      ],
+      "note": null
+    },
+    {
+      "nl": "proppen",
+      "lemma": "proppen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to stuff",
+        "to cram"
+      ],
+      "primaryEn": "to stuff",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Ik moest snel vertrekken. Ik heb dus wat kleding bij elkaar gezocht en die in een tas gepropt.",
+        "Er zaten heel veel mensen in de zaal. De zaal zat propvol."
+      ],
+      "note": null
+    },
+    {
+      "nl": "schattig",
+      "lemma": "schattig",
+      "article": null,
+      "pos": "adjective",
+      "en": [
+        "cute",
+        "adorable"
+      ],
+      "primaryEn": "cute",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Heb je al die jonge katjes gezien? Wat lief! Ze zijn zo schattig."
+      ],
+      "note": null
+    },
+    {
+      "nl": "tot stand komen",
+      "lemma": "tot stand komen",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "to come about",
+        "to be established"
+      ],
+      "primaryEn": "to come about",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Hoe is dat project tot stand gekomen? Wie kwam met het idee en hoe is dat idee verder uitgevoerd?"
+      ],
+      "note": null
+    },
+    {
+      "nl": "voldoen aan",
+      "lemma": "voldoen aan",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to meet",
+        "to satisfy",
+        "to comply with"
+      ],
+      "primaryEn": "to meet",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Voldoet dit boek aan je verwachtingen? Valt het mee of valt het tegen?",
+        "Aan welke eisen moet je voldoen om die baan te krijgen?"
+      ],
+      "note": null
+    },
+    {
+      "nl": "begaan",
+      "lemma": "begaan",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to commit (a mistake, a crime)",
+        "to make (an error)"
+      ],
+      "primaryEn": "to commit (a mistake, a crime)",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Ik heb een vergissing begaan door naar de andere kant van het land te verhuizen. Dat had ik beter niet kunnen doen."
+      ],
+      "note": null
+    },
+    {
+      "nl": "de beweegreden",
+      "lemma": "beweegreden",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "motive",
+        "motivation"
+      ],
+      "primaryEn": "motive",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Waarom is hij plotseling met zijn studie gestopt? Wat zijn zijn beweegredenen?"
+      ],
+      "note": null
+    },
+    {
+      "nl": "de diepte",
+      "lemma": "diepte",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "depth"
+      ],
+      "primaryEn": "depth",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Kun je in dit zwembad duiken of is het niet diep genoeg? De diepte moet dan minstens 3 meter zijn.",
+        "Het gesprek bleef oppervlakkig, het ging niet de diepte in."
+      ],
+      "note": null
+    },
+    {
+      "nl": "gissen",
+      "lemma": "gissen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to guess"
+      ],
+      "primaryEn": "to guess",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Bij dit abstracte schilderij blijft het gissen wat het voorstelt. Dat wordt niet duidelijk."
+      ],
+      "note": null
+    },
+    {
+      "nl": "grotendeels",
+      "lemma": "grotendeels",
+      "article": null,
+      "pos": "adverb",
+      "en": [
+        "largely",
+        "for the most part"
+      ],
+      "primaryEn": "largely",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "In creatieve beroepen gaat het niet alleen om inspiratie. Het is grotendeels gewoon hard werken."
+      ],
+      "note": null
+    },
+    {
+      "nl": "hetgeen",
+      "lemma": "hetgeen",
+      "article": null,
+      "pos": "other",
+      "en": [
+        "that which",
+        "which"
+      ],
+      "primaryEn": "that which",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Er is bij deze schilder een groot verschil in zijn vroegere en latere werk. Hetgeen hij het eerst heeft gemaakt, vind ik mooier dan dat wat hij later heeft gemaakt."
+      ],
+      "note": null
+    },
+    {
+      "nl": "de invalshoek",
+      "lemma": "invalshoek",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "angle",
+        "perspective",
+        "approach"
+      ],
+      "primaryEn": "angle",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Een journalist kan op verschillende manieren over een gebeurtenis schrijven. Dat hangt van zijn invalshoek af. Iedere journalist bekijkt het op zijn eigen manier."
+      ],
+      "note": null
+    },
+    {
+      "nl": "overeind blijven",
+      "lemma": "overeind blijven",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "to hold up",
+        "to stand firm"
+      ],
+      "primaryEn": "to hold up",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "In de discussie bleef zijn redenering niet overeind. De ander had allerlei goede tegenargumenten, waardoor bleek dat de redenering niet klopte."
+      ],
+      "note": "boek: (bleef, gebleven)"
+    },
+    {
+      "nl": "per se",
+      "lemma": "per se",
+      "article": null,
+      "pos": "adverb",
+      "en": [
+        "at all costs",
+        "necessarily",
+        "absolutely"
+      ],
+      "primaryEn": "at all costs",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Waar maak je je druk over? Waarom wil je dat nu per se weten? Is het zo belangrijk?"
+      ],
+      "note": null
+    },
+    {
+      "nl": "veroveren",
+      "lemma": "veroveren",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to conquer",
+        "to capture"
+      ],
+      "primaryEn": "to conquer",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Nederland heeft veel land op de zee veroverd. Zo was de provincie Flevoland vroeger de Zuiderzee."
+      ],
+      "note": null
+    },
+    {
+      "nl": "de verovering",
+      "lemma": "verovering",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "conquest"
+      ],
+      "primaryEn": "conquest",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Nederland heeft veel land op de zee veroverd. Zo was de provincie Flevoland vroeger de Zuiderzee."
+      ],
+      "note": null
+    },
+    {
+      "nl": "verstoren",
+      "lemma": "verstoren",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to disturb",
+        "to disrupt"
+      ],
+      "primaryEn": "to disturb",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Vliegtuigen die overvliegen verstoren de nachtrust van veel mensen. En een verstoorde nachtrust heeft consequenties voor je concentratie de volgende dag."
+      ],
+      "note": null
+    },
+    {
+      "nl": "verzwakken",
+      "lemma": "verzwakken",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to weaken"
+      ],
+      "primaryEn": "to weaken",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Hoewel ze was genezen van haar ziekte, was ze wel ernstig verzwakt. Ze had weinig kracht meer."
+      ],
+      "note": null
+    },
+    {
+      "nl": "afleiden van",
+      "lemma": "afleiden van",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to distract from",
+        "to derive from"
+      ],
+      "primaryEn": "to distract from",
+      "hint": null,
+      "reflexive": false,
+      "separable": true,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "beschuldigen van",
+      "lemma": "beschuldigen van",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to accuse of"
+      ],
+      "primaryEn": "to accuse of",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "zich druk maken over",
+      "lemma": "druk maken over",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "to worry about",
+        "to get worked up about"
+      ],
+      "primaryEn": "to worry about",
+      "hint": null,
+      "reflexive": true,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "gissen naar",
+      "lemma": "gissen naar",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to guess at"
+      ],
+      "primaryEn": "to guess at",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "te maken hebben met",
+      "lemma": "te maken hebben met",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "to have to do with",
+        "to deal with"
+      ],
+      "primaryEn": "to have to do with",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "verhuizen naar",
+      "lemma": "verhuizen naar",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to move to"
+      ],
+      "primaryEn": "to move to",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "bedriegen",
+      "lemma": "bedriegen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to deceive",
+        "to cheat"
+      ],
+      "primaryEn": "to deceive",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "bedroog",
+        "perfect": "bedrogen"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "duiken",
+      "lemma": "duiken",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to dive"
+      ],
+      "primaryEn": "to dive",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "dook",
+        "perfect": "(is) gedoken"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "genezen",
+      "lemma": "genezen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to heal",
+        "to recover",
+        "to cure"
+      ],
+      "primaryEn": "to heal",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "genas",
+        "perfect": "genezen"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "glimmen",
+      "lemma": "glimmen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to shine",
+        "to gleam"
+      ],
+      "primaryEn": "to shine",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "glom",
+        "perfect": "geglommen"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "ontwerpen",
+      "lemma": "ontwerpen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to design"
+      ],
+      "primaryEn": "to design",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "ontwierp",
+        "perfect": "ontworpen"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "prijzen",
+      "lemma": "prijzen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to praise"
+      ],
+      "primaryEn": "to praise",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "prees",
+        "perfect": "geprezen"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "raden",
+      "lemma": "raden",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to guess"
+      ],
+      "primaryEn": "to guess",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "raadde",
+        "perfect": "geraden"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "verraden",
+      "lemma": "verraden",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to betray",
+        "to give away"
+      ],
+      "primaryEn": "to betray",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "verraadde",
+        "perfect": "verraden"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "verslijten",
+      "lemma": "verslijten",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to wear out"
+      ],
+      "primaryEn": "to wear out",
+      "hint": "(ver)slijten",
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "versleet",
+        "perfect": "versleten"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "zuigen",
+      "lemma": "zuigen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to suck"
+      ],
+      "primaryEn": "to suck",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "zoog",
+        "perfect": "gezogen"
+      },
+      "examples": [],
+      "note": null
+    }
+  ]
+}

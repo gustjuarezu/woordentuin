@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "n3-bijbenen",
+    "chapter": 3,
+    "nl": "bijbenen",
+    "lemma": "bijbenen",
+    "pos": "verb",
+    "en": [
+      "to keep up with",
+      "to keep pace with"
+    ],
+    "primaryEn": "to keep up with",
+    "source": "generated",
+    "separable": true
+  },
+  {
+    "id": "n3-iemand-de-deur-wijzen",
+    "chapter": 3,
+    "nl": "iemand de deur wijzen",
+    "lemma": "iemand de deur wijzen",
+    "pos": "phrase",
+    "en": [
+      "to show someone the door",
+      "to turn someone away"
+    ],
+    "primaryEn": "to show someone the door",
+    "source": "generated"
+  },
+  {
+    "id": "n3-geboren-en-getogen",
+    "chapter": 3,
+    "nl": "geboren en getogen",
+    "lemma": "geboren en getogen",
+    "pos": "phrase",
+    "en": [
+      "born and bred",
+      "born and raised"
+    ],
+    "primaryEn": "born and bred",
+    "source": "generated"
+  },
+  {
+    "id": "n3-de-hokjesgeest",
+    "chapter": 3,
+    "nl": "de hokjesgeest",
+    "lemma": "hokjesgeest",
+    "pos": "noun",
+    "en": [
+      "pigeonholing mentality",
+      "tendency to put people in boxes",
+      "compartmentalized thinking"
+    ],
+    "primaryEn": "pigeonholing mentality",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "n3-lef-hebben",
+    "chapter": 3,
+    "nl": "lef hebben",
+    "lemma": "lef hebben",
+    "pos": "phrase",
+    "en": [
+      "to have guts",
+      "to have nerve",
+      "to dare"
+    ],
+    "primaryEn": "to have guts",
+    "source": "generated"
+  },
+  {
+    "id": "n3-de-waan-van-de-dag",
+    "chapter": 3,
+    "nl": "de waan van de dag",
+    "lemma": "waan van de dag",
+    "pos": "phrase",
+    "en": [
+      "the whims of the day",
+      "short-lived issues of the moment"
+    ],
+    "primaryEn": "the whims of the day",
+    "source": "generated"
+  },
+  {
+    "id": "n3-het-komt-je-niet-aanwaaien",
+    "chapter": 3,
+    "nl": "het komt je niet aanwaaien",
+    "lemma": "komt je niet aanwaaien",
+    "pos": "phrase",
+    "en": [
+      "it doesn't come easily",
+      "it takes real effort"
+    ],
+    "primaryEn": "it doesn't come easily",
+    "source": "generated"
+  },
+  {
+    "id": "n3-geen-blad-voor-de-mond-nemen",
+    "chapter": 3,
+    "nl": "geen blad voor de mond nemen",
+    "lemma": "geen blad voor de mond nemen",
+    "pos": "phrase",
+    "en": [
+      "to not mince words",
+      "to speak one's mind"
+    ],
+    "primaryEn": "to not mince words",
+    "source": "generated"
+  },
+  {
+    "id": "n3-het-gelijk-aan-je-zijde-hebben",
+    "chapter": 3,
+    "nl": "het gelijk aan je zijde hebben",
+    "lemma": "gelijk aan je zijde hebben",
+    "pos": "phrase",
+    "en": [
+      "to have right on your side",
+      "to be in the right"
+    ],
+    "primaryEn": "to have right on your side",
+    "source": "generated"
+  },
+  {
+    "id": "n3-in-het-geweer-komen",
+    "chapter": 3,
+    "nl": "in het geweer komen",
+    "lemma": "in het geweer komen",
+    "pos": "phrase",
+    "en": [
+      "to rise up in protest",
+      "to spring into action"
+    ],
+    "primaryEn": "to rise up in protest",
+    "source": "generated"
+  },
+  {
+    "id": "n3-geen-haar-op-m-n-hoofd-die-daaraan-denkt",
+    "chapter": 3,
+    "nl": "geen haar op m'n hoofd die daaraan denkt",
+    "lemma": "geen haar op m'n hoofd die daaraan denkt",
+    "pos": "phrase",
+    "en": [
+      "I wouldn't dream of it",
+      "it wouldn't even cross my mind"
+    ],
+    "primaryEn": "I wouldn't dream of it",
+    "source": "generated"
+  },
+  {
+    "id": "n3-iets-onder-de-loep-nemen",
+    "chapter": 3,
+    "nl": "iets onder de loep nemen",
+    "lemma": "iets onder de loep nemen",
+    "pos": "phrase",
+    "en": [
+      "to examine something closely",
+      "to scrutinize something"
+    ],
+    "primaryEn": "to examine something closely",
+    "source": "generated"
+  },
+  {
+    "id": "n3-je-sporen-achterlaten",
+    "chapter": 3,
+    "nl": "je sporen achterlaten",
+    "lemma": "je sporen achterlaten",
+    "pos": "phrase",
+    "en": [
+      "to leave your mark",
+      "to leave traces behind"
+    ],
+    "primaryEn": "to leave your mark",
+    "source": "generated"
+  },
+  {
+    "id": "n3-van-top-tot-teen",
+    "chapter": 3,
+    "nl": "van top tot teen",
+    "lemma": "van top tot teen",
+    "pos": "phrase",
+    "en": [
+      "from head to toe"
+    ],
+    "primaryEn": "from head to toe",
+    "source": "generated"
+  },
+  {
+    "id": "n3-in-de-weer-zijn",
+    "chapter": 3,
+    "nl": "in de weer zijn",
+    "lemma": "in de weer zijn",
+    "pos": "phrase",
+    "en": [
+      "to be busy",
+      "to be bustling about"
+    ],
+    "primaryEn": "to be busy",
+    "source": "generated"
+  },
+  {
+    "id": "n3-het-voor-het-zeggen-hebben",
+    "chapter": 3,
+    "nl": "het voor het zeggen hebben",
+    "lemma": "voor het zeggen hebben",
+    "pos": "phrase",
+    "en": [
+      "to be in charge",
+      "to call the shots"
+    ],
+    "primaryEn": "to be in charge",
+    "source": "generated"
+  },
+  {
+    "id": "n3-het-aandeel",
+    "chapter": 3,
+    "nl": "het aandeel",
+    "lemma": "aandeel",
+    "pos": "noun",
+    "en": [
+      "share",
+      "contribution",
+      "part"
+    ],
+    "primaryEn": "share",
+    "source": "generated",
+    "article": "het",
+    "examples": [
+      "Dat project doen we samen. Iedereen levert zijn aandeel, zodat we met elkaar het werk doen."
+    ]
+  },
+  {
+    "id": "n3-braaf",
+    "chapter": 3,
+    "nl": "braaf",
+    "lemma": "braaf",
+    "pos": "adjective",
+    "en": [
+      "well-behaved",
+      "good",
+      "obedient"
+    ],
+    "primaryEn": "well-behaved",
+    "source": "generated",
+    "examples": [
+      "Het is wel een héél braaf kind. Hij luistert áltijd naar zijn ouders en doet precies wat ze zeggen."
+    ]
+  },
+  {
+    "id": "n3-gelijkwaardig",
+    "chapter": 3,
+    "nl": "gelijkwaardig",
+    "lemma": "gelijkwaardig",
+    "pos": "adjective",
+    "en": [
+      "equal",
+      "equivalent",
+      "of equal value"
+    ],
+    "primaryEn": "equal",
+    "source": "generated",
+    "examples": [
+      "Natuurlijk zijn mannen en vrouwen niet gelijk, maar daarom kunnen ze wel gelijkwaardig worden behandeld. Het is toch belachelijk dat mannen meer salaris krijgen voor hetzelfde werk! Mannen en vrouwen zijn evenveel waard."
+    ]
+  },
+  {
+    "id": "n3-de-gunst",
+    "chapter": 3,
+    "nl": "de gunst",
+    "lemma": "gunst",
+    "pos": "noun",
+    "en": [
+      "favor"
+    ],
+    "primaryEn": "favor",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "'Zou ik je om een gunst mogen vragen?' — 'Ja natuurlijk, waar kan ik je mee helpen?'"
+    ]
+  },
+  {
+    "id": "n3-een-hoop",
+    "chapter": 3,
+    "nl": "een hoop",
+    "lemma": "hoop",
+    "pos": "noun",
+    "en": [
+      "a lot",
+      "heap",
+      "pile"
+    ],
+    "primaryEn": "a lot",
+    "source": "generated",
+    "hint": "een hoop (dingen)",
+    "examples": [
+      "Vergeleken met dertig jaar geleden zijn er een hoop dingen veranderd. Er zijn veel veranderingen geweest in mannenrollen en vrouwenrollen. Tegenwoordig zorgen mannen ook voor de kinderen."
+    ]
+  },
+  {
+    "id": "n3-klussen",
+    "chapter": 3,
+    "nl": "klussen",
+    "lemma": "klussen",
+    "pos": "verb",
+    "en": [
+      "to do odd jobs",
+      "to do DIY"
+    ],
+    "primaryEn": "to do odd jobs",
+    "source": "generated",
+    "examples": [
+      "'Theo, wie klust er bij jullie thuis?' — 'Ik doe de technische klusjes en mijn vriendin doet de huishoudelijke klusjes. Heel stereotiep!'"
+    ]
+  },
+  {
+    "id": "n3-het-klusje",
+    "chapter": 3,
+    "nl": "het klusje",
+    "lemma": "klusje",
+    "pos": "noun",
+    "en": [
+      "odd job",
+      "chore",
+      "small job"
+    ],
+    "primaryEn": "odd job",
+    "source": "generated",
+    "article": "het",
+    "examples": [
+      "'Theo, wie klust er bij jullie thuis?' — 'Ik doe de technische klusjes en mijn vriendin doet de huishoudelijke klusjes. Heel stereotiep!'"
+    ]
+  },
+  {
+    "id": "n3-met-name",
+    "chapter": 3,
+    "nl": "met name",
+    "lemma": "met name",
+    "pos": "adverb",
+    "en": [
+      "in particular",
+      "especially",
+      "notably"
+    ],
+    "primaryEn": "in particular",
+    "source": "generated",
+    "examples": [
+      "In Nederland werken met name vrouwen parttime. Mannen kunnen dat ook doen, maar vooral vrouwen met kinderen doen het."
+    ]
+  },
+  {
+    "id": "n3-moeizaam",
+    "chapter": 3,
+    "nl": "moeizaam",
+    "lemma": "moeizaam",
+    "pos": "adjective",
+    "en": [
+      "laborious",
+      "difficult",
+      "arduous"
+    ],
+    "primaryEn": "laborious",
+    "source": "generated",
+    "examples": [
+      "Het was een moeizaam proces. Het ging absoluut niet makkelijk."
+    ]
+  },
+  {
+    "id": "n3-ontkomen",
+    "chapter": 3,
+    "nl": "ontkomen",
+    "lemma": "ontkomen",
+    "pos": "verb",
+    "en": [
+      "to escape",
+      "to get away",
+      "to avoid"
+    ],
+    "primaryEn": "to escape",
+    "source": "generated",
+    "irregular": {
+      "past": "ontkwam",
+      "perfect": "is ontkomen"
+    },
+    "hint": "ontkomen (aan)",
+    "examples": [
+      "Of je nu wilt of niet, je moet dat doen. Je ontkomt er niet aan.",
+      "Het is de politie niet gelukt om de dieven te arresteren. Ze ontkwamen door in een auto te vluchten."
+    ]
+  },
+  {
+    "id": "n3-opmaken",
+    "chapter": 3,
+    "nl": "opmaken",
+    "lemma": "opmaken",
+    "pos": "verb",
+    "en": [
+      "to make (the bed)",
+      "to use up",
+      "to put on makeup"
+    ],
+    "primaryEn": "to make (the bed)",
+    "source": "generated",
+    "separable": true,
+    "hint": "opmaken (uit), (zich)",
+    "examples": [
+      "De slaapkamer ziet er keurig uit. Alles is opgeruimd en het bed is opgemaakt.",
+      "Ik heb al het geld opgemaakt. Het spijt me, ik heb niets meer over."
+    ]
+  },
+  {
+    "id": "n3-de-opvang",
+    "chapter": 3,
+    "nl": "de opvang",
+    "lemma": "opvang",
+    "pos": "noun",
+    "en": [
+      "childcare",
+      "shelter",
+      "care"
+    ],
+    "primaryEn": "childcare",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Als ouders werken dan kunnen kinderen naar de kinderopvang. Soms vangen ook de grootouders de kinderen op."
+    ]
+  },
+  {
+    "id": "n3-opvangen",
+    "chapter": 3,
+    "nl": "opvangen",
+    "lemma": "opvangen",
+    "pos": "verb",
+    "en": [
+      "to take care of",
+      "to look after",
+      "to catch"
+    ],
+    "primaryEn": "to take care of",
+    "source": "generated",
+    "separable": true,
+    "irregular": {
+      "past": "ving op",
+      "perfect": "opgevangen"
+    },
+    "examples": [
+      "Als ouders werken dan kunnen kinderen naar de kinderopvang. Soms vangen ook de grootouders de kinderen op."
+    ]
+  },
+  {
+    "id": "n3-pittig",
+    "chapter": 3,
+    "nl": "pittig",
+    "lemma": "pittig",
+    "pos": "adjective",
+    "en": [
+      "tough",
+      "spicy",
+      "feisty"
+    ],
+    "primaryEn": "tough",
+    "source": "generated",
+    "examples": [
+      "Het was een pittige test. Ik had niet verwacht dat hij zo moeilijk zou zijn.",
+      "Dat is wel een dame die weet wat ze wil. Het is een pittige dame."
+    ]
+  },
+  {
+    "id": "n3-uitgaan-van",
+    "chapter": 3,
+    "nl": "uitgaan van",
+    "lemma": "uitgaan van",
+    "pos": "phrase",
+    "en": [
+      "to assume",
+      "to take as a starting point"
+    ],
+    "primaryEn": "to assume",
+    "source": "generated",
+    "separable": true,
+    "irregular": {
+      "past": "ging uit van",
+      "perfect": "is uitgegaan van"
+    },
+    "examples": [
+      "'We hebben volgende week een afspraak. Jij wist nog niet of die kon doorgaan.' — 'Ga er maar van uit dat die afspraak doorgaat. Als het anders is, dan laat ik het je wel weten.'"
+    ]
+  },
+  {
+    "id": "n3-verdelen",
+    "chapter": 3,
+    "nl": "verdelen",
+    "lemma": "verdelen",
+    "pos": "verb",
+    "en": [
+      "to divide",
+      "to distribute",
+      "to share out"
+    ],
+    "primaryEn": "to divide",
+    "source": "generated",
+    "examples": [
+      "Hoe hebben jullie het werk verdeeld? Wie doet wat? Is het een eerlijke verdeling?"
+    ]
+  },
+  {
+    "id": "n3-de-verdeling",
+    "chapter": 3,
+    "nl": "de verdeling",
+    "lemma": "verdeling",
+    "pos": "noun",
+    "en": [
+      "division",
+      "distribution"
+    ],
+    "primaryEn": "division",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Hoe hebben jullie het werk verdeeld? Wie doet wat? Is het een eerlijke verdeling?"
+    ]
+  },
+  {
+    "id": "n3-versieren",
+    "chapter": 3,
+    "nl": "versieren",
+    "lemma": "versieren",
+    "pos": "verb",
+    "en": [
+      "to decorate",
+      "to chat someone up",
+      "to pick someone up"
+    ],
+    "primaryEn": "to decorate",
+    "source": "generated",
+    "examples": [
+      "Wat doe jij als je een vrouw leuk vindt en haar wilt versieren? Ga je dan flirten?",
+      "Als er in Nederland iemand jarig is, versieren we de kamer met slingers en ballonnen."
+    ]
+  },
+  {
+    "id": "n3-de-versiering",
+    "chapter": 3,
+    "nl": "de versiering",
+    "lemma": "versiering",
+    "pos": "noun",
+    "en": [
+      "decoration"
+    ],
+    "primaryEn": "decoration",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Als er in Nederland iemand jarig is, versieren we de kamer met slingers en ballonnen."
+    ]
+  },
+  {
+    "id": "n3-zielig",
+    "chapter": 3,
+    "nl": "zielig",
+    "lemma": "zielig",
+    "pos": "adjective",
+    "en": [
+      "pitiful",
+      "sad",
+      "pathetic"
+    ],
+    "primaryEn": "pitiful",
+    "source": "generated",
+    "examples": [
+      "O, kijk eens naar dat hondje. Wat zielig! Hij kan zich bijna niet bewegen."
+    ]
+  },
+  {
+    "id": "n3-benadrukken",
+    "chapter": 3,
+    "nl": "benadrukken",
+    "lemma": "benadrukken",
+    "pos": "verb",
+    "en": [
+      "to emphasize",
+      "to stress"
+    ],
+    "primaryEn": "to emphasize",
+    "source": "generated",
+    "examples": [
+      "De politicus benadrukte nog eens hoe gevaarlijk het is om drugs te gebruiken. Hij wilde dat iedereen dat wist."
+    ]
+  },
+  {
+    "id": "n3-het-jargon",
+    "chapter": 3,
+    "nl": "het jargon",
+    "lemma": "jargon",
+    "pos": "noun",
+    "en": [
+      "jargon"
+    ],
+    "primaryEn": "jargon",
+    "source": "generated",
+    "article": "het",
+    "examples": [
+      "Het jargon van juristen is onbegrijpelijk voor niet-juristen. Niet omdat je het niet kunt verstaan, maar omdat het te ingewikkeld is."
+    ]
+  },
+  {
+    "id": "n3-het-litteken",
+    "chapter": 3,
+    "nl": "het litteken",
+    "lemma": "litteken",
+    "pos": "noun",
+    "en": [
+      "scar"
+    ],
+    "primaryEn": "scar",
+    "source": "generated",
+    "article": "het",
+    "examples": [
+      "Op zijn arm zat een litteken. Hij was daar als kind door een hond gebeten."
+    ]
+  },
+  {
+    "id": "n3-de-naald",
+    "chapter": 3,
+    "nl": "de naald",
+    "lemma": "naald",
+    "pos": "noun",
+    "en": [
+      "needle"
+    ],
+    "primaryEn": "needle",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Ik wilde deze knoop aan mijn jas zetten, maar het lukt me niet de draad door de naald te krijgen. De draad gaat er telkens naast. Ik vind het een vervelend klusje."
+    ]
+  },
+  {
+    "id": "n3-ontroerend",
+    "chapter": 3,
+    "nl": "ontroerend",
+    "lemma": "ontroerend",
+    "pos": "adjective",
+    "en": [
+      "moving",
+      "touching"
+    ],
+    "primaryEn": "moving",
+    "source": "generated",
+    "examples": [
+      "Het was een ontroerend moment toen de vader zijn zoon omhelsde, nadat hij hem jaren niet had gezien. Hij wreef hem over zijn rug en kneep hem in zijn wang. Ze moesten allebei huilen."
+    ]
+  },
+  {
+    "id": "n3-de-ontroering",
+    "chapter": 3,
+    "nl": "de ontroering",
+    "lemma": "ontroering",
+    "pos": "noun",
+    "en": [
+      "emotion",
+      "being moved"
+    ],
+    "primaryEn": "emotion",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Het was een ontroerend moment toen de vader zijn zoon omhelsde, nadat hij hem jaren niet had gezien. Hij wreef hem over zijn rug en kneep hem in zijn wang. Ze moesten allebei huilen."
+    ]
+  },
+  {
+    "id": "n3-opzichtig",
+    "chapter": 3,
+    "nl": "opzichtig",
+    "lemma": "opzichtig",
+    "pos": "adjective",
+    "en": [
+      "flashy",
+      "gaudy",
+      "showy"
+    ],
+    "primaryEn": "flashy",
+    "source": "generated",
+    "examples": [
+      "In het calvinistische milieu vroeger hielden mensen niet van opzichtige kleding. Ze droegen dus geen kleren met felle kleuren en veel bloot."
+    ]
+  },
+  {
+    "id": "n3-overigens",
+    "chapter": 3,
+    "nl": "overigens",
+    "lemma": "overigens",
+    "pos": "adverb",
+    "en": [
+      "by the way",
+      "incidentally",
+      "for that matter"
+    ],
+    "primaryEn": "by the way",
+    "source": "generated",
+    "examples": [
+      "Fijn dat je wilt meewerken aan het verslag. O ja, ik kom overigens wat later op de vergadering. Jullie hoeven niet op mij te wachten."
+    ]
+  },
+  {
+    "id": "n3-overtuigen",
+    "chapter": 3,
+    "nl": "overtuigen",
+    "lemma": "overtuigen",
+    "pos": "verb",
+    "en": [
+      "to convince",
+      "to persuade"
+    ],
+    "primaryEn": "to convince",
+    "source": "generated",
+    "examples": [
+      "Galileo was ervan overtuigd dat de aarde rond was. Niet iedereen deelde die overtuiging. De meeste mensen waren het toen niet met hem eens."
+    ]
+  },
+  {
+    "id": "n3-de-overtuiging",
+    "chapter": 3,
+    "nl": "de overtuiging",
+    "lemma": "overtuiging",
+    "pos": "noun",
+    "en": [
+      "conviction",
+      "belief"
+    ],
+    "primaryEn": "conviction",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Galileo was ervan overtuigd dat de aarde rond was. Niet iedereen deelde die overtuiging. De meeste mensen waren het toen niet met hem eens."
+    ]
+  },
+  {
+    "id": "n3-de-rimpel",
+    "chapter": 3,
+    "nl": "de rimpel",
+    "lemma": "rimpel",
+    "pos": "noun",
+    "en": [
+      "wrinkle"
+    ],
+    "primaryEn": "wrinkle",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Deze speciale gezichtscrème zal het aantal rimpels in je gezicht verminderen, maar uiteindelijk is er geen ontkomen aan."
+    ]
+  },
+  {
+    "id": "n3-uitbundig",
+    "chapter": 3,
+    "nl": "uitbundig",
+    "lemma": "uitbundig",
+    "pos": "adjective",
+    "en": [
+      "exuberant",
+      "boisterous",
+      "unrestrained"
+    ],
+    "primaryEn": "exuberant",
+    "source": "generated",
+    "examples": [
+      "De supporters reageerden uitbundig tijdens de wedstrijd. Ze bliezen op toeters en zwaaiden met vlaggen."
+    ]
+  },
+  {
+    "id": "n3-verpesten",
+    "chapter": 3,
+    "nl": "verpesten",
+    "lemma": "verpesten",
+    "pos": "verb",
+    "en": [
+      "to ruin",
+      "to spoil"
+    ],
+    "primaryEn": "to ruin",
+    "source": "generated",
+    "examples": [
+      "Ik vind dat het uitzicht is verpest. Doordat er een hypermodern gebouw naast het kasteel is gezet, is de schoonheid van het landschap verloren gegaan."
+    ]
+  },
+  {
+    "id": "n3-zwerven",
+    "chapter": 3,
+    "nl": "zwerven",
+    "lemma": "zwerven",
+    "pos": "verb",
+    "en": [
+      "to roam",
+      "to wander",
+      "to drift"
+    ],
+    "primaryEn": "to roam",
+    "source": "generated",
+    "irregular": {
+      "past": "zwierf",
+      "perfect": "gezworven"
+    },
+    "examples": [
+      "De oude man heeft geen huis en geen familie. Hij zwerft door de stad, op zoek naar eten. Dat is toch zielig?"
+    ]
+  },
+  {
+    "id": "n3-bezig-zijn-met",
+    "chapter": 3,
+    "nl": "bezig zijn met",
+    "lemma": "bezig zijn met",
+    "pos": "phrase",
+    "en": [
+      "to be busy with",
+      "to be occupied with"
+    ],
+    "primaryEn": "to be busy with",
+    "source": "generated"
+  },
+  {
+    "id": "n3-communiceren-met",
+    "chapter": 3,
+    "nl": "communiceren met",
+    "lemma": "communiceren met",
+    "pos": "phrase",
+    "en": [
+      "to communicate with"
+    ],
+    "primaryEn": "to communicate with",
+    "source": "generated"
+  },
+  {
+    "id": "n3-te-danken-hebben-aan",
+    "chapter": 3,
+    "nl": "te danken hebben aan",
+    "lemma": "te danken hebben aan",
+    "pos": "phrase",
+    "en": [
+      "to owe to",
+      "to have to thank for"
+    ],
+    "primaryEn": "to owe to",
+    "source": "generated"
+  },
+  {
+    "id": "n3-zich-onderscheiden-van",
+    "chapter": 3,
+    "nl": "zich onderscheiden van",
+    "lemma": "onderscheiden van",
+    "pos": "verb",
+    "en": [
+      "to distinguish oneself from",
+      "to stand out from"
+    ],
+    "primaryEn": "to distinguish oneself from",
+    "source": "generated",
+    "reflexive": true
+  },
+  {
+    "id": "n3-ontkomen-aan",
+    "chapter": 3,
+    "nl": "ontkomen aan",
+    "lemma": "ontkomen aan",
+    "pos": "phrase",
+    "en": [
+      "to escape from",
+      "to avoid"
+    ],
+    "primaryEn": "to escape from",
+    "source": "generated",
+    "irregular": {
+      "past": "ontkwam",
+      "perfect": "is ontkomen"
+    },
+    "examples": [
+      "Of je nu wilt of niet, je moet dat doen. Je ontkomt er niet aan.",
+      "Het is de politie niet gelukt om de dieven te arresteren. Ze ontkwamen door in een auto te vluchten."
+    ]
+  },
+  {
+    "id": "n3-zich-ontwikkelen-tot",
+    "chapter": 3,
+    "nl": "zich ontwikkelen tot",
+    "lemma": "ontwikkelen tot",
+    "pos": "verb",
+    "en": [
+      "to develop into"
+    ],
+    "primaryEn": "to develop into",
+    "source": "generated",
+    "reflexive": true
+  },
+  {
+    "id": "n3-opmaken-uit",
+    "chapter": 3,
+    "nl": "opmaken uit",
+    "lemma": "opmaken uit",
+    "pos": "phrase",
+    "en": [
+      "to gather from",
+      "to infer from",
+      "to conclude from"
+    ],
+    "primaryEn": "to gather from",
+    "source": "generated",
+    "separable": true,
+    "examples": [
+      "Ik maak uit zijn woorden op dat hij binnenkort gaat verhuizen. Hij vertelde namelijk dat hij de huur van zijn huis per de eerste van de volgende maand heeft opgezegd."
+    ]
+  },
+  {
+    "id": "n3-overtuigd-zijn-van",
+    "chapter": 3,
+    "nl": "overtuigd zijn van",
+    "lemma": "overtuigd zijn van",
+    "pos": "phrase",
+    "en": [
+      "to be convinced of"
+    ],
+    "primaryEn": "to be convinced of",
+    "source": "generated"
+  },
+  {
+    "id": "n3-problemen-hebben-met",
+    "chapter": 3,
+    "nl": "problemen hebben met",
+    "lemma": "problemen hebben met",
+    "pos": "phrase",
+    "en": [
+      "to have problems with",
+      "to have trouble with"
+    ],
+    "primaryEn": "to have problems with",
+    "source": "generated"
+  },
+  {
+    "id": "n3-de-schuld-geven-aan",
+    "chapter": 3,
+    "nl": "de schuld geven aan",
+    "lemma": "schuld geven aan",
+    "pos": "phrase",
+    "en": [
+      "to blame",
+      "to put the blame on"
+    ],
+    "primaryEn": "to blame",
+    "source": "generated"
+  },
+  {
+    "id": "n3-zich-schuldig-maken-aan",
+    "chapter": 3,
+    "nl": "zich schuldig maken aan",
+    "lemma": "schuldig maken aan",
+    "pos": "phrase",
+    "en": [
+      "to be guilty of",
+      "to make oneself guilty of"
+    ],
+    "primaryEn": "to be guilty of",
+    "source": "generated",
+    "reflexive": true
+  },
+  {
+    "id": "n3-spijt-hebben-van",
+    "chapter": 3,
+    "nl": "spijt hebben van",
+    "lemma": "spijt hebben van",
+    "pos": "phrase",
+    "en": [
+      "to regret"
+    ],
+    "primaryEn": "to regret",
+    "source": "generated"
+  },
+  {
+    "id": "n3-toekomen-aan",
+    "chapter": 3,
+    "nl": "toekomen aan",
+    "lemma": "toekomen aan",
+    "pos": "phrase",
+    "en": [
+      "to get around to",
+      "to find time for"
+    ],
+    "primaryEn": "to get around to",
+    "source": "generated",
+    "separable": true
+  },
+  {
+    "id": "n3-zich-verantwoordelijk-voelen-voor",
+    "chapter": 3,
+    "nl": "zich verantwoordelijk voelen voor",
+    "lemma": "verantwoordelijk voelen voor",
+    "pos": "phrase",
+    "en": [
+      "to feel responsible for"
+    ],
+    "primaryEn": "to feel responsible for",
+    "source": "generated",
+    "reflexive": true
+  },
+  {
+    "id": "n3-voorzichtig-zijn-met",
+    "chapter": 3,
+    "nl": "voorzichtig zijn met",
+    "lemma": "voorzichtig zijn met",
+    "pos": "phrase",
+    "en": [
+      "to be careful with"
+    ],
+    "primaryEn": "to be careful with",
+    "source": "generated"
+  },
+  {
+    "id": "n3-wandelen-met",
+    "chapter": 3,
+    "nl": "wandelen met",
+    "lemma": "wandelen met",
+    "pos": "phrase",
+    "en": [
+      "to walk with",
+      "to go for a walk with"
+    ],
+    "primaryEn": "to walk with",
+    "source": "generated"
+  },
+  {
+    "id": "n3-zorgen-voor",
+    "chapter": 3,
+    "nl": "zorgen voor",
+    "lemma": "zorgen voor",
+    "pos": "phrase",
+    "en": [
+      "to take care of",
+      "to look after",
+      "to ensure"
+    ],
+    "primaryEn": "to take care of",
+    "source": "generated"
+  }
+]

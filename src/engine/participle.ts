@@ -22,9 +22,9 @@ export const ppKey = (wordId: string) => wordId + PP_SUFFIX;
 // Longest-first so "onderuit" wins over "onder", "open" over "op".
 const SEPARABLE_PREFIXES = [
   "onderuit", "terecht", "binnen", "voorbij", "tegen", "terug", "thuis", "langs",
-  "samen", "flauw", "dicht", "wild", "open", "over", "door", "voor", "rond",
-  "vast", "vrij", "aan", "mee", "mis", "weg", "af", "bij", "in", "na", "om",
-  "op", "stil", "toe", "uit",
+  "samen", "flauw", "dicht", "wild", "open", "over", "door", "voort", "voor",
+  "rond", "vast", "vrij", "aan", "mee", "mis", "weg", "af", "bij", "in", "na",
+  "om", "op", "stil", "toe", "uit",
 ].sort((a, b) => b.length - a.length);
 
 // No "er-": it false-positives on ergeren, and the only er- verb in the book
@@ -58,7 +58,7 @@ export function deriveRegularParticiple(
 
   let stem = stem0;
   const schwaEnding =
-    /[bcdfghjklmnpqrstvwxz]e[lnr]$/.test(stem0) &&
+    /[bcdfghjklmnpqrstvwxz]e[lnrm]$/.test(stem0) &&
     hasVowel(stem0.slice(0, -3)) &&
     // verbs stressed on the -e- (verLEnen → verleend) are not schwa endings
     !overrides.stressedStems.some((s) => infinitive.endsWith(s));

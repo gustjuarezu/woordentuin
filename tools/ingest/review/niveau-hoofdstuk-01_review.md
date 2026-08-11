@@ -1,0 +1,136 @@
+# Niveau hoofdstuk 1 — Positief: review
+
+120 words. ALL glosses are generated (the book prints none) — audit below.
+
+## gloss audit list
+- **iets niet uitvlakken** → not to underestimate something; not to be dismissed
+- **ergens van opkijken** → to be surprised by something; to be amazed at something
+- **het positiefste wat ervan af kan** → the highest praise possible; as positive as it gets
+- **beledigen** → to insult; to offend
+- **de belediging** → insult; offence
+- **beweren** → to claim; to assert; to maintain
+- **de bewering** → claim; assertion
+- **gaaf** → cool; great; flawless
+- **keurig** → neat; tidy; proper
+- **van nature** → by nature; naturally
+- **neigen** → to tend (to); to incline
+- **de neiging** → tendency; inclination
+- **ondergeschikt** → subordinate; inferior
+- **redelijk** → reasonable; fair; quite
+- **suggereren** → to suggest; to imply
+- **de suggestie** → suggestion
+- **toegeven aan** → to give in to; to yield to; to admit
+- **het aandachtspunt** → point of attention; point of concern
+- **aarzelen** → to hesitate
+- **de aarzeling** → hesitation
+- **de adem** → breath
+- **begeleiden** → to accompany; to guide; to supervise
+- **de begeleiding** → guidance; support; accompaniment
+- **bewaren** → to keep; to store; to save
+- **de gebeurtenis** → event; occurrence
+- **de geest** → mind; spirit; ghost
+- **zich iets voor de geest halen** → to call something to mind; to picture something
+- **geloofwaardig** → credible; believable
+- **gespannen** → tense; nervous
+- **gevoelig** → sensitive
+- **inademen** → to breathe in; to inhale
+- **de inademing** → inhalation; breathing in
+- **nagenieten van** → to relish the memory of; to keep enjoying (something) afterwards
+- **ondertussen** → meanwhile; in the meantime
+- **overbelast** → overloaded; overburdened
+- **de schoonheid** → beauty
+- **de toegang** → access; entrance; admission
+- **toevoegen** → to add
+- **de toevoeging** → addition
+- **trouw** → faithful; loyal
+- **uitademen** → to breathe out; to exhale
+- **de uitademing** → exhalation; breathing out
+- **uitvinden** → to invent
+- **de uitvinding** → invention
+- **verminderen** → to decrease; to reduce; to diminish
+- **de vermindering** → reduction; decrease
+- **verrassen** → to surprise
+- **de verrassing** → surprise
+- **waarnemen** → to observe; to perceive; to stand in (for someone) _(irr: nam waar / waargenomen)_
+- **de waarneming** → observation; perception
+- **aangezien** → since; as; seeing that
+- **daardoor** → because of that; as a result
+- **daarna** → after that; afterwards
+- **daarom** → therefore; that is why
+- **daarvoor** → before that; for that (purpose)
+- **indien** → if; in case
+- **mits** → provided that
+- **naarmate** → as; in proportion as
+- **ofschoon** → although; though
+- **opdat** → so that; in order that
+- **sinds** → since
+- **tenzij** → unless
+- **zolang** → as long as
+- **beginnen met / aan** → to begin with; to start on
+- **behoren tot** → to belong to
+- **beperken tot** → to limit to; to restrict to
+- **beslissen over** → to decide on; to decide about
+- **bestaan uit** → to consist of
+- **blijken uit** → to be evident from; to appear from
+- **brengen naar** → to take to; to bring to
+- **controleren op** → to check for
+- **delen met** → to share with
+- **denken aan** → to think of; to think about
+- **doorgaan met** → to continue with; to go on with
+- **dromen over / van** → to dream about; to dream of
+- **gaan naar** → to go to
+- **geloven in** → to believe in
+- **genieten van** → to enjoy
+- **geven aan** → to give to
+- **helpen met** → to help with
+- **herinneren aan** → to remind of
+- **hopen op** → to hope for
+- **houden van** → to love; to like
+- **ingaan op** → to go into; to address
+- **kijken naar** → to look at; to watch
+- **lachen om** → to laugh at; to laugh about
+- **leiden tot** → to lead to
+- **leveren aan** → to supply to; to deliver to
+- **lijken op** → to look like; to resemble
+- **luisteren naar** → to listen to
+- **oefenen met** → to practise with
+- **passen op** → to watch out for; to mind
+- **reageren op** → to react to; to respond to
+- **rekenen op** → to count on
+- **schrijven aan / naar** → to write to
+- **schrikken van** → to be startled by; to get a fright from
+- **spreken over iets met iemand** → to talk about something with someone
+- **stemmen op** → to vote for
+- **stoppen met** → to stop (doing); to quit
+- **trekken aan** → to pull on; to pull at
+- **trouwen met** → to marry
+- **vergelijken met** → to compare with; to compare to
+- **vertellen aan** → to tell (to)
+- **voorstellen aan** → to introduce to
+- **vragen aan** → to ask (someone)
+- **wachten op** → to wait for
+- **wennen aan** → to get used to
+- **wijzen naar** → to point at; to point to
+- **zeggen tegen / (aan)** → to say to
+- **zich voorbereiden op** → to prepare for
+- **zoeken naar** → to search for; to look for
+- **fluiten** → to whistle _(irr: floot / gefloten)_
+- **ondernemen** → to undertake _(irr: ondernam / ondernomen)_
+- **ontbijten** → to have breakfast _(irr: ontbeet / ontbeten)_
+- **ontbreken** → to be missing; to be lacking _(irr: ontbrak / ontbroken)_
+- **strijken** → to iron _(irr: streek / gestreken)_
+- **verheffen** → to raise (one's voice); to elevate _(irr: verhief / verheven)_
+- **vermijden** → to avoid _(irr: vermeed / vermeden)_
+- **verwerven** → to acquire; to gain _(irr: verwierf / verworven)_
+- **wegen** → to weigh _(irr: woog / gewogen)_
+
+## warnings
+- The chapter's own 'Onregelmatige werkwoorden' material (Opdracht 34 on p. 51 and the lijst section on p. 53) prints infinitives only; past/perfect forms in irregularRaw and in the irregular fields were taken from bijlage 2b 'Onregelmatige werkwoorden — alfabetisch' (pp. 278-282). Past forms are given as printed there, singular + plural (e.g. 'floot, floten').
+- 'toegeven aan' is printed twice in the lijst (under Compliment and under Preposities); included once (under Compliment, with its examples).
+- 'waarnemen' is printed twice in the lijst (under Zonnig de herfst in and under Onregelmatige werkwoorden); included once, with its irregular forms attached.
+- OCR of p. 52 renders 'toegang de' and 'uitvinding de' without commas; the page image clearly shows 'toegang, de' and 'uitvinding, de' — image followed.
+- The Vocabulaire boxes print irregular forms inline for 'toegeven (aan)' (gaf toe, toegegeven) and 'uitvinden' (vond uit, uitgevonden); these were NOT set in the irregular field because those verbs are not in the chapter's Onregelmatige werkwoorden list.
+- The connective group (aangezien ... zolang) on p. 53 has no printed section header in the lijst box; entries included as their own unnamed group.
+- The 'zich iets voor de geest halen / de geest' Vocabulaire box has 3 numbered examples; example 1 was assigned to the phrase, examples 2-3 to 'de geest'.
+- OCR 'ledereen' corrected to 'Iedereen' in the suggereren example; several OCR line-wrap hyphenations (hou-den, aange-naam, professio-neel, gemiddel-de, etc.) rejoined.
+- Glosses for the three Idiomatisch taalgebruik entries follow the book's own definitions in Opdracht 6 (p. 25): iets niet uitvlakken = iets niet onderschatten; ergens van opkijken = verbaasd zijn over iets; het positiefste wat ervan af kan = het grootste compliment dat gegeven wordt.

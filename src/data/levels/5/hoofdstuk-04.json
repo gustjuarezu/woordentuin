@@ -1,0 +1,1371 @@
+[
+  {
+    "id": "n4-het-gezelschap",
+    "chapter": 4,
+    "nl": "het gezelschap",
+    "lemma": "gezelschap",
+    "pos": "noun",
+    "en": [
+      "company",
+      "party (group of people)"
+    ],
+    "primaryEn": "company",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "n4-te-pas-en-te-onpas",
+    "chapter": 4,
+    "nl": "te pas en te onpas",
+    "lemma": "te pas en te onpas",
+    "pos": "phrase",
+    "en": [
+      "at every opportunity",
+      "whether appropriate or not"
+    ],
+    "primaryEn": "at every opportunity",
+    "source": "generated"
+  },
+  {
+    "id": "n4-versteld-staan",
+    "chapter": 4,
+    "nl": "versteld staan",
+    "lemma": "versteld staan",
+    "pos": "phrase",
+    "en": [
+      "to be amazed",
+      "to be astonished"
+    ],
+    "primaryEn": "to be amazed",
+    "source": "generated"
+  },
+  {
+    "id": "n4-wagen",
+    "chapter": 4,
+    "nl": "wagen",
+    "lemma": "wagen",
+    "pos": "verb",
+    "en": [
+      "to dare",
+      "to venture",
+      "to risk"
+    ],
+    "primaryEn": "to dare",
+    "source": "generated"
+  },
+  {
+    "id": "n4-de-aanpak",
+    "chapter": 4,
+    "nl": "de aanpak",
+    "lemma": "aanpak",
+    "pos": "noun",
+    "en": [
+      "approach",
+      "method"
+    ],
+    "primaryEn": "approach",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Wat is een goede manier om woorden te leren? Wat is een goede aanpak? Kun je vertellen hoe jij dat aanpakt?"
+    ]
+  },
+  {
+    "id": "n4-aanpakken",
+    "chapter": 4,
+    "nl": "aanpakken",
+    "lemma": "aanpakken",
+    "pos": "verb",
+    "en": [
+      "to tackle",
+      "to deal with",
+      "to approach"
+    ],
+    "primaryEn": "to tackle",
+    "source": "generated",
+    "separable": true,
+    "examples": [
+      "Wat is een goede manier om woorden te leren? Wat is een goede aanpak? Kun je vertellen hoe jij dat aanpakt?"
+    ]
+  },
+  {
+    "id": "n4-achterhaald",
+    "chapter": 4,
+    "nl": "achterhaald",
+    "lemma": "achterhaald",
+    "pos": "adjective",
+    "en": [
+      "outdated",
+      "obsolete"
+    ],
+    "primaryEn": "outdated",
+    "source": "generated",
+    "examples": [
+      "Dat vrouwen geen toppositie zouden kunnen hebben, is een achterhaald idee. Dat is niet meer van deze tijd."
+    ]
+  },
+  {
+    "id": "n4-afdwingen",
+    "chapter": 4,
+    "nl": "afdwingen",
+    "lemma": "afdwingen",
+    "pos": "verb",
+    "en": [
+      "to force",
+      "to compel",
+      "to command (respect)"
+    ],
+    "primaryEn": "to force",
+    "source": "generated",
+    "separable": true,
+    "irregular": {
+      "past": "dwong af",
+      "perfect": "afgedwongen"
+    },
+    "examples": [
+      "Respect kun je niet altijd afdwingen. Je krijgt het of je krijgt het niet.",
+      "Voor mijn baan bij een internationaal bedrijf moest ik het Engels perfect beheersen. Ik heb toen afgedwongen dat ze mijn taaltraining zouden betalen. Daarmee is de leiding akkoord gegaan."
+    ]
+  },
+  {
+    "id": "n4-de-afkomst",
+    "chapter": 4,
+    "nl": "de afkomst",
+    "lemma": "afkomst",
+    "pos": "noun",
+    "en": [
+      "origin",
+      "descent",
+      "background"
+    ],
+    "primaryEn": "origin",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Mijn partner is van Turkse afkomst. Ze woont al jaren in Nederland, maar ze is afkomstig uit Istanbul."
+    ]
+  },
+  {
+    "id": "n4-afkomstig",
+    "chapter": 4,
+    "nl": "afkomstig",
+    "lemma": "afkomstig",
+    "pos": "adjective",
+    "en": [
+      "originating (from)",
+      "coming from"
+    ],
+    "primaryEn": "originating (from)",
+    "source": "generated",
+    "examples": [
+      "Mijn partner is van Turkse afkomst. Ze woont al jaren in Nederland, maar ze is afkomstig uit Istanbul."
+    ]
+  },
+  {
+    "id": "n4-behandelen",
+    "chapter": 4,
+    "nl": "behandelen",
+    "lemma": "behandelen",
+    "pos": "verb",
+    "en": [
+      "to treat",
+      "to deal with",
+      "to discuss"
+    ],
+    "primaryEn": "to treat",
+    "source": "generated",
+    "examples": [
+      "De kinderen werden niet goed behandeld, eigenlijk werden ze zelfs mishandeld.",
+      "In dit hoofdstuk behandelen we het thema nationaal – internationaal."
+    ]
+  },
+  {
+    "id": "n4-de-behandeling",
+    "chapter": 4,
+    "nl": "de behandeling",
+    "lemma": "behandeling",
+    "pos": "noun",
+    "en": [
+      "treatment",
+      "handling"
+    ],
+    "primaryEn": "treatment",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Ik heb veel last van mijn rug. Ik ben daarvoor al tien keer door een fysiotherapeut behandeld. Er komen, denk ik, nog wel tien behandelingen.",
+      "De behandeling van deze rechtszaak duurt wel een aantal maanden. Het duurt dus lang voordat deze zaak klaar is."
+    ]
+  },
+  {
+    "id": "n4-bevorderen",
+    "chapter": 4,
+    "nl": "bevorderen",
+    "lemma": "bevorderen",
+    "pos": "verb",
+    "en": [
+      "to promote",
+      "to encourage",
+      "to further"
+    ],
+    "primaryEn": "to promote",
+    "source": "generated"
+  },
+  {
+    "id": "n4-dankzij",
+    "chapter": 4,
+    "nl": "dankzij",
+    "lemma": "dankzij",
+    "pos": "other",
+    "en": [
+      "thanks to"
+    ],
+    "primaryEn": "thanks to",
+    "source": "generated",
+    "examples": [
+      "Ik heb een appartement gevonden dankzij een tip van een collega. Ik ben blij dat mijn collega mij over dit appartement verteld heeft, anders had ik nu nog steeds geen woonruimte gevonden."
+    ]
+  },
+  {
+    "id": "n4-de-eis",
+    "chapter": 4,
+    "nl": "de eis",
+    "lemma": "eis",
+    "pos": "noun",
+    "en": [
+      "demand",
+      "requirement"
+    ],
+    "primaryEn": "demand",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Mijn leidinggevende eist dat ik die opleiding ga volgen. Dat is een harde eis. Ik moet die opleiding dus gaan volgen."
+    ]
+  },
+  {
+    "id": "n4-eisen",
+    "chapter": 4,
+    "nl": "eisen",
+    "lemma": "eisen",
+    "pos": "verb",
+    "en": [
+      "to demand",
+      "to require"
+    ],
+    "primaryEn": "to demand",
+    "source": "generated",
+    "examples": [
+      "Als je recht op dat geld hebt, dan kun je dat opeisen. Je kunt eisen dat dat geld aan jou wordt gegeven.",
+      "Mijn leidinggevende eist dat ik die opleiding ga volgen. Dat is een harde eis. Ik moet die opleiding dus gaan volgen."
+    ]
+  },
+  {
+    "id": "n4-gemengd",
+    "chapter": 4,
+    "nl": "gemengd",
+    "lemma": "gemengd",
+    "pos": "adjective",
+    "en": [
+      "mixed"
+    ],
+    "primaryEn": "mixed",
+    "source": "generated"
+  },
+  {
+    "id": "n4-geruime-tijd",
+    "chapter": 4,
+    "nl": "geruime tijd",
+    "lemma": "geruime tijd",
+    "pos": "phrase",
+    "en": [
+      "a considerable time",
+      "quite a long time"
+    ],
+    "primaryEn": "a considerable time",
+    "source": "generated",
+    "examples": [
+      "Hij heeft geruime tijd over de wereld gezworven, een jaar of twee."
+    ]
+  },
+  {
+    "id": "n4-inrichten",
+    "chapter": 4,
+    "nl": "inrichten",
+    "lemma": "inrichten",
+    "pos": "verb",
+    "en": [
+      "to furnish",
+      "to arrange",
+      "to set up"
+    ],
+    "primaryEn": "to furnish",
+    "source": "generated",
+    "separable": true,
+    "examples": [
+      "Hoe is jullie huis ingericht? Op welke verdieping is de woonkamer en op welke verdieping de keuken? Hebben jullie het modern ingericht of juist niet?",
+      "De opleiding is zo ingericht dat je eerst twee jaar theorie hebt en dan een half jaar stage en vervolgens een onderzoeksproject."
+    ]
+  },
+  {
+    "id": "n4-de-inrichting",
+    "chapter": 4,
+    "nl": "de inrichting",
+    "lemma": "inrichting",
+    "pos": "noun",
+    "en": [
+      "furnishing",
+      "layout",
+      "arrangement"
+    ],
+    "primaryEn": "furnishing",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Hoe is jullie huis ingericht? Op welke verdieping is de woonkamer en op welke verdieping de keuken? Hebben jullie het modern ingericht of juist niet?"
+    ]
+  },
+  {
+    "id": "n4-inspelen-op",
+    "chapter": 4,
+    "nl": "inspelen op",
+    "lemma": "inspelen op",
+    "pos": "phrase",
+    "en": [
+      "to respond to",
+      "to anticipate",
+      "to play into"
+    ],
+    "primaryEn": "to respond to",
+    "source": "generated",
+    "separable": true,
+    "examples": [
+      "Steeds minder mensen kopen hun spullen in een winkel. Die markt krimpt. Winkels spelen daarop in door hun producten via internet te verkopen. Het is wel slim om daar rekening mee te houden."
+    ]
+  },
+  {
+    "id": "n4-de-inzet",
+    "chapter": 4,
+    "nl": "de inzet",
+    "lemma": "inzet",
+    "pos": "noun",
+    "en": [
+      "commitment",
+      "effort",
+      "deployment"
+    ],
+    "primaryEn": "commitment",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "In verband met de grote drukte had NS extra treinen ingezet. De extra reistijd bedroeg een halfuur."
+    ]
+  },
+  {
+    "id": "n4-zich-inzetten-voor",
+    "chapter": 4,
+    "nl": "zich inzetten voor",
+    "lemma": "inzetten voor",
+    "pos": "verb",
+    "en": [
+      "to commit oneself to",
+      "to work hard for",
+      "to dedicate oneself to"
+    ],
+    "primaryEn": "to commit oneself to",
+    "source": "generated",
+    "reflexive": true,
+    "separable": true,
+    "examples": [
+      "Zij heeft zich erg ingezet voor een beter salaris voor vrouwen. Uiteindelijk is haar dat gelukt."
+    ]
+  },
+  {
+    "id": "n4-de-leiding",
+    "chapter": 4,
+    "nl": "de leiding",
+    "lemma": "leiding",
+    "pos": "noun",
+    "en": [
+      "management",
+      "leadership",
+      "direction"
+    ],
+    "primaryEn": "management",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "De leiding van ons bedrijf is internationaal. Zij bestaat zowel uit Nederlanders als uit buitenlanders.",
+      "Het orkest speelt dat muziekstuk onder leiding van een bekende Japanse dirigent."
+    ]
+  },
+  {
+    "id": "n4-de-leidinggevende",
+    "chapter": 4,
+    "nl": "de leidinggevende",
+    "lemma": "leidinggevende",
+    "pos": "noun",
+    "en": [
+      "manager",
+      "supervisor",
+      "boss"
+    ],
+    "primaryEn": "manager",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Mijn leidinggevende geeft op een prettige manier leiding. Hoewel zij de baas is, ben ik verantwoordelijk voor mijn eigen taken."
+    ]
+  },
+  {
+    "id": "n4-mede",
+    "chapter": 4,
+    "nl": "mede",
+    "lemma": "mede",
+    "pos": "adverb",
+    "en": [
+      "partly",
+      "also",
+      "co-"
+    ],
+    "primaryEn": "partly",
+    "source": "generated",
+    "examples": [
+      "Ik heb die baan mede gekregen door mijn internationale ervaring. Dat was natuurlijk niet de enige reden.",
+      "Heb jij veel contact met je medestudenten of medecursisten?"
+    ]
+  },
+  {
+    "id": "n4-de-meerderheid",
+    "chapter": 4,
+    "nl": "de meerderheid",
+    "lemma": "meerderheid",
+    "pos": "noun",
+    "en": [
+      "majority"
+    ],
+    "primaryEn": "majority",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "n4-mislukken",
+    "chapter": 4,
+    "nl": "mislukken",
+    "lemma": "mislukken",
+    "pos": "verb",
+    "en": [
+      "to fail",
+      "to be unsuccessful"
+    ],
+    "primaryEn": "to fail",
+    "source": "generated"
+  },
+  {
+    "id": "n4-onderdrukken",
+    "chapter": 4,
+    "nl": "onderdrukken",
+    "lemma": "onderdrukken",
+    "pos": "verb",
+    "en": [
+      "to oppress",
+      "to suppress"
+    ],
+    "primaryEn": "to oppress",
+    "source": "generated",
+    "examples": [
+      "Als ik moe ben en trek heb in eten, moet ik altijd gapen. Het is niet beleefd, maar ik kan dan het gapen niet altijd onderdrukken."
+    ]
+  },
+  {
+    "id": "n4-de-onderdrukking",
+    "chapter": 4,
+    "nl": "de onderdrukking",
+    "lemma": "onderdrukking",
+    "pos": "noun",
+    "en": [
+      "oppression",
+      "suppression"
+    ],
+    "primaryEn": "oppression",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Veel volkeren lijden onder de onderdrukking door een ander, dominant volk. Dat volk ziet hen niet als gelijkwaardig."
+    ]
+  },
+  {
+    "id": "n4-het-onderhoud",
+    "chapter": 4,
+    "nl": "het onderhoud",
+    "lemma": "onderhoud",
+    "pos": "noun",
+    "en": [
+      "maintenance",
+      "upkeep"
+    ],
+    "primaryEn": "maintenance",
+    "source": "generated",
+    "article": "het",
+    "examples": [
+      "Je moet een auto goed onderhouden en dus regelmatig naar de garage gaan. Helaas is het onderhoud van een auto niet goedkoop."
+    ]
+  },
+  {
+    "id": "n4-onderhouden",
+    "chapter": 4,
+    "nl": "onderhouden",
+    "lemma": "onderhouden",
+    "pos": "verb",
+    "en": [
+      "to maintain",
+      "to keep up",
+      "to support (financially)"
+    ],
+    "primaryEn": "to maintain",
+    "source": "generated",
+    "irregular": {
+      "past": "onderhield",
+      "perfect": "onderhouden"
+    },
+    "examples": [
+      "Je moet een auto goed onderhouden en dus regelmatig naar de garage gaan. Helaas is het onderhoud van een auto niet goedkoop.",
+      "Als vrienden in het buitenland wonen, moet je meer moeite doen om het contact te onderhouden."
+    ]
+  },
+  {
+    "id": "n4-ondersteunen",
+    "chapter": 4,
+    "nl": "ondersteunen",
+    "lemma": "ondersteunen",
+    "pos": "verb",
+    "en": [
+      "to support",
+      "to assist"
+    ],
+    "primaryEn": "to support",
+    "source": "generated"
+  },
+  {
+    "id": "n4-opeisen",
+    "chapter": 4,
+    "nl": "opeisen",
+    "lemma": "opeisen",
+    "pos": "verb",
+    "en": [
+      "to claim",
+      "to demand"
+    ],
+    "primaryEn": "to claim",
+    "source": "generated",
+    "separable": true,
+    "examples": [
+      "Als je recht op dat geld hebt, dan kun je dat opeisen. Je kunt eisen dat dat geld aan jou wordt gegeven."
+    ]
+  },
+  {
+    "id": "n4-opvatten",
+    "chapter": 4,
+    "nl": "opvatten",
+    "lemma": "opvatten",
+    "pos": "verb",
+    "en": [
+      "to interpret",
+      "to take (in a certain way)"
+    ],
+    "primaryEn": "to interpret",
+    "source": "generated",
+    "separable": true,
+    "examples": [
+      "Wat zijn de opvattingen van die politieke partij? Wat zijn hun ideeën?"
+    ]
+  },
+  {
+    "id": "n4-de-opvatting",
+    "chapter": 4,
+    "nl": "de opvatting",
+    "lemma": "opvatting",
+    "pos": "noun",
+    "en": [
+      "view",
+      "opinion",
+      "conception"
+    ],
+    "primaryEn": "view",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Wat zijn de opvattingen van die politieke partij? Wat zijn hun ideeën?"
+    ]
+  },
+  {
+    "id": "n4-het-platteland",
+    "chapter": 4,
+    "nl": "het platteland",
+    "lemma": "platteland",
+    "pos": "noun",
+    "en": [
+      "countryside",
+      "rural area"
+    ],
+    "primaryEn": "countryside",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "n4-de-schets",
+    "chapter": 4,
+    "nl": "de schets",
+    "lemma": "schets",
+    "pos": "noun",
+    "en": [
+      "sketch",
+      "outline"
+    ],
+    "primaryEn": "sketch",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Rembrandt is bekend om zijn schilderijen, maar hij heeft ook veel schetsen gemaakt. Ik vind die zwart-witte schetsen bijzonder."
+    ]
+  },
+  {
+    "id": "n4-schetsen",
+    "chapter": 4,
+    "nl": "schetsen",
+    "lemma": "schetsen",
+    "pos": "verb",
+    "en": [
+      "to sketch",
+      "to outline"
+    ],
+    "primaryEn": "to sketch",
+    "source": "generated",
+    "examples": [
+      "Kun jij een beeld van jouw toekomst schetsen?",
+      "Ik liep vorige week in Nijmegen en wie schetst mijn verbazing: ik kwam daar een vriendin van mij tegen uit Duitsland! Ik kon het niet geloven."
+    ]
+  },
+  {
+    "id": "n4-de-verhouding",
+    "chapter": 4,
+    "nl": "de verhouding",
+    "lemma": "verhouding",
+    "pos": "noun",
+    "en": [
+      "relationship",
+      "ratio",
+      "proportion"
+    ],
+    "primaryEn": "relationship",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "n4-voortijdig",
+    "chapter": 4,
+    "nl": "voortijdig",
+    "lemma": "voortijdig",
+    "pos": "adjective",
+    "en": [
+      "premature",
+      "prematurely",
+      "early"
+    ],
+    "primaryEn": "premature",
+    "source": "generated",
+    "examples": [
+      "Ze zijn voortijdig met de tenniswedstrijd gestopt. Het goot. Door die enorme regenbui moesten ze voor het eind met de wedstrijd stoppen."
+    ]
+  },
+  {
+    "id": "n4-de-werkelijkheid",
+    "chapter": 4,
+    "nl": "de werkelijkheid",
+    "lemma": "werkelijkheid",
+    "pos": "noun",
+    "en": [
+      "reality"
+    ],
+    "primaryEn": "reality",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "n4-wijden-aan",
+    "chapter": 4,
+    "nl": "wijden aan",
+    "lemma": "wijden aan",
+    "pos": "phrase",
+    "en": [
+      "to devote to",
+      "to dedicate to"
+    ],
+    "primaryEn": "to devote to",
+    "source": "generated",
+    "examples": [
+      "Dat hele boek is gewijd aan internationale relaties. Daar gaat het boek over."
+    ]
+  },
+  {
+    "id": "n4-aanraken",
+    "chapter": 4,
+    "nl": "aanraken",
+    "lemma": "aanraken",
+    "pos": "verb",
+    "en": [
+      "to touch"
+    ],
+    "primaryEn": "to touch",
+    "source": "generated",
+    "separable": true,
+    "examples": [
+      "In Nederland raken mensen elkaar niet zo makkelijk aan als in mediterrane landen. Er is minder lichamelijk contact."
+    ]
+  },
+  {
+    "id": "n4-de-aanraking",
+    "chapter": 4,
+    "nl": "de aanraking",
+    "lemma": "aanraking",
+    "pos": "noun",
+    "en": [
+      "touch",
+      "contact"
+    ],
+    "primaryEn": "touch",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Ik ben nog nooit in aanraking gekomen met de politie. Ik heb daar nog nooit mee te maken gehad."
+    ]
+  },
+  {
+    "id": "n4-in-aanraking-komen-met",
+    "chapter": 4,
+    "nl": "in aanraking komen met",
+    "lemma": "in aanraking komen met",
+    "pos": "phrase",
+    "en": [
+      "to come into contact with"
+    ],
+    "primaryEn": "to come into contact with",
+    "source": "generated",
+    "examples": [
+      "Ik ben nog nooit in aanraking gekomen met de politie. Ik heb daar nog nooit mee te maken gehad."
+    ]
+  },
+  {
+    "id": "n4-aanspreken",
+    "chapter": 4,
+    "nl": "aanspreken",
+    "lemma": "aanspreken",
+    "pos": "verb",
+    "en": [
+      "to address",
+      "to speak to"
+    ],
+    "primaryEn": "to address",
+    "source": "generated",
+    "separable": true,
+    "irregular": {
+      "past": "sprak aan",
+      "perfect": "aangesproken"
+    },
+    "examples": [
+      "Ik word op mijn werk geregeld aangesproken door studenten die niet weten waar de uitgang van het gebouw is."
+    ]
+  },
+  {
+    "id": "n4-aanstellen",
+    "chapter": 4,
+    "nl": "aanstellen",
+    "lemma": "aanstellen",
+    "pos": "verb",
+    "en": [
+      "to appoint"
+    ],
+    "primaryEn": "to appoint",
+    "source": "generated",
+    "separable": true,
+    "examples": [
+      "Hij heeft net een aanstelling gekregen als medewerker op een exportafdeling. Hij is eerst voor een jaar aangesteld. Hij heeft dus nu een baan voor een jaar."
+    ]
+  },
+  {
+    "id": "n4-de-aanstelling",
+    "chapter": 4,
+    "nl": "de aanstelling",
+    "lemma": "aanstelling",
+    "pos": "noun",
+    "en": [
+      "appointment (to a job)",
+      "position"
+    ],
+    "primaryEn": "appointment (to a job)",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Hij heeft net een aanstelling gekregen als medewerker op een exportafdeling. Hij is eerst voor een jaar aangesteld. Hij heeft dus nu een baan voor een jaar."
+    ]
+  },
+  {
+    "id": "n4-daadwerkelijk",
+    "chapter": 4,
+    "nl": "daadwerkelijk",
+    "lemma": "daadwerkelijk",
+    "pos": "adverb",
+    "en": [
+      "actually",
+      "really",
+      "indeed"
+    ],
+    "primaryEn": "actually",
+    "source": "generated",
+    "examples": [
+      "Ik heb gehoord dat er problemen zijn, maar wat is er nu daadwerkelijk aan de hand? Wat is nu echt het probleem?"
+    ]
+  },
+  {
+    "id": "n4-fatsoenlijk",
+    "chapter": 4,
+    "nl": "fatsoenlijk",
+    "lemma": "fatsoenlijk",
+    "pos": "adjective",
+    "en": [
+      "decent",
+      "proper"
+    ],
+    "primaryEn": "decent",
+    "source": "generated",
+    "examples": [
+      "Het is fatsoenlijk om 'u' te zeggen tegen oudere mensen.",
+      "Reageer niet zo opgewonden en schreeuw niet zo. Ik vind dat onfatsoenlijk gedrag."
+    ]
+  },
+  {
+    "id": "n4-de-gids",
+    "chapter": 4,
+    "nl": "de gids",
+    "lemma": "gids",
+    "pos": "noun",
+    "en": [
+      "guide"
+    ],
+    "primaryEn": "guide",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "We reisden per bus door Indonesië en naast de chauffeur zat onze gids. Hij vertelde ons van alles over het landschap en de mensen daar."
+    ]
+  },
+  {
+    "id": "n4-grof",
+    "chapter": 4,
+    "nl": "grof",
+    "lemma": "grof",
+    "pos": "adjective",
+    "en": [
+      "coarse",
+      "rude",
+      "rough"
+    ],
+    "primaryEn": "coarse",
+    "source": "generated",
+    "examples": [
+      "Vloeken en schelden is grof taalgebruik. Dat is niet netjes.",
+      "Ik heb een grove berekening gemaakt van de kosten, maar ik heb het nog niet in detail berekend."
+    ]
+  },
+  {
+    "id": "n4-de-kleuter",
+    "chapter": 4,
+    "nl": "de kleuter",
+    "lemma": "kleuter",
+    "pos": "noun",
+    "en": [
+      "preschooler",
+      "toddler"
+    ],
+    "primaryEn": "preschooler",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Kleuters zijn kinderen in de leeftijdscategorie van drie tot zes jaar. Maar je ziet soms ook oudere kinderen die zich als een kleuter gedragen."
+    ]
+  },
+  {
+    "id": "n4-de-kring",
+    "chapter": 4,
+    "nl": "de kring",
+    "lemma": "kring",
+    "pos": "noun",
+    "en": [
+      "circle",
+      "ring (mark)"
+    ],
+    "primaryEn": "circle",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Hij bevindt zich in de hoogste kringen en kent zelfs de minister van financiën persoonlijk.",
+      "Dat glas heeft op die houten tafel een kring achtergelaten. Je kunt precies zien waar het heeft gestaan. Ik heb er al een middeltje opgespoten, maar dat hielp niet."
+    ]
+  },
+  {
+    "id": "n4-mopperen-op-over",
+    "chapter": 4,
+    "nl": "mopperen op/over",
+    "lemma": "mopperen op/over",
+    "pos": "phrase",
+    "en": [
+      "to grumble about",
+      "to complain about"
+    ],
+    "primaryEn": "to grumble about",
+    "source": "generated",
+    "examples": [
+      "Nederlanders mopperen vaak over het weer. Als de zon niet schijnt, vinden ze het te koud en schijnt hij wel dan is het al gauw te heet."
+    ]
+  },
+  {
+    "id": "n4-omspringen-met",
+    "chapter": 4,
+    "nl": "omspringen met",
+    "lemma": "omspringen met",
+    "pos": "phrase",
+    "en": [
+      "to handle",
+      "to deal with"
+    ],
+    "primaryEn": "to handle",
+    "source": "generated",
+    "separable": true,
+    "examples": [
+      "Wie onverstandig met vuurwerk omspringt, loopt grote risico's. U wordt verzocht voorzichtig met vuurwerk om te gaan, want jaarlijks vallen er slachtoffers met Oud en Nieuw."
+    ]
+  },
+  {
+    "id": "n4-de-prestatie",
+    "chapter": 4,
+    "nl": "de prestatie",
+    "lemma": "prestatie",
+    "pos": "noun",
+    "en": [
+      "achievement",
+      "performance"
+    ],
+    "primaryEn": "achievement",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Een jaar geleden sprak hij nog geen woord Nederlands en nu spreekt hij bijna foutloos Nederlands. Dát noem ik een prestatie! Er zijn niet veel mensen die dat presteren."
+    ]
+  },
+  {
+    "id": "n4-uitsluitend",
+    "chapter": 4,
+    "nl": "uitsluitend",
+    "lemma": "uitsluitend",
+    "pos": "adverb",
+    "en": [
+      "exclusively",
+      "only"
+    ],
+    "primaryEn": "exclusively",
+    "source": "generated",
+    "examples": [
+      "Deze bibliotheek is uitsluitend bedoeld voor studenten en docenten. Mensen van buiten de universiteit mogen er geen boeken lenen."
+    ]
+  },
+  {
+    "id": "n4-vandaar",
+    "chapter": 4,
+    "nl": "vandaar",
+    "lemma": "vandaar",
+    "pos": "adverb",
+    "en": [
+      "hence",
+      "that is why"
+    ],
+    "primaryEn": "hence",
+    "source": "generated",
+    "examples": [
+      "Deze mensen spreken geen Nederlands, maar ze zoeken wel werk. Vandaar dat ik ze geadviseerd heb om een cursus Nederlands te gaan volgen. Dat lijkt me een goede reden."
+    ]
+  },
+  {
+    "id": "n4-als-vanouds",
+    "chapter": 4,
+    "nl": "als vanouds",
+    "lemma": "als vanouds",
+    "pos": "phrase",
+    "en": [
+      "as of old",
+      "just like old times"
+    ],
+    "primaryEn": "as of old",
+    "source": "generated",
+    "examples": [
+      "De cursisten ontmoetten elkaar na jaren pas weer, maar het contact was direct weer als vanouds. Het was net als vroeger erg gezellig."
+    ]
+  },
+  {
+    "id": "n4-het-verzet",
+    "chapter": 4,
+    "nl": "het verzet",
+    "lemma": "verzet",
+    "pos": "noun",
+    "en": [
+      "resistance",
+      "opposition"
+    ],
+    "primaryEn": "resistance",
+    "source": "generated",
+    "article": "het",
+    "examples": [
+      "Als kinderen in de puberteit komen, gaan ze zich verzetten tegen hun ouders. Ze willen hun eigen weg kiezen. Dat duurt een paar jaar, maar het komt meestal weer goed."
+    ]
+  },
+  {
+    "id": "n4-zich-verzetten-tegen",
+    "chapter": 4,
+    "nl": "zich verzetten tegen",
+    "lemma": "verzetten tegen",
+    "pos": "verb",
+    "en": [
+      "to resist",
+      "to oppose"
+    ],
+    "primaryEn": "to resist",
+    "source": "generated",
+    "reflexive": true,
+    "examples": [
+      "Als kinderen in de puberteit komen, gaan ze zich verzetten tegen hun ouders. Ze willen hun eigen weg kiezen. Dat duurt een paar jaar, maar het komt meestal weer goed."
+    ]
+  },
+  {
+    "id": "n4-vloeiend",
+    "chapter": 4,
+    "nl": "vloeiend",
+    "lemma": "vloeiend",
+    "pos": "adjective",
+    "en": [
+      "fluent",
+      "fluently"
+    ],
+    "primaryEn": "fluent",
+    "source": "generated",
+    "examples": [
+      "Toen ik in Frankrijk woonde, sprak ik vloeiend Frans. Nu woon ik al weer een aantal jaren in Nederland en zijn er allerlei fouten in mijn Frans geslopen. Het gaat ook minder automatisch."
+    ]
+  },
+  {
+    "id": "n4-zich-aanpassen-aan",
+    "chapter": 4,
+    "nl": "zich aanpassen aan",
+    "lemma": "aanpassen aan",
+    "pos": "verb",
+    "en": [
+      "to adapt to",
+      "to adjust to"
+    ],
+    "primaryEn": "to adapt to",
+    "source": "generated",
+    "reflexive": true,
+    "separable": true
+  },
+  {
+    "id": "n4-afkomstig-zijn-uit",
+    "chapter": 4,
+    "nl": "afkomstig zijn uit",
+    "lemma": "afkomstig zijn uit",
+    "pos": "phrase",
+    "en": [
+      "to come from",
+      "to originate from"
+    ],
+    "primaryEn": "to come from",
+    "source": "generated",
+    "examples": [
+      "Mijn partner is van Turkse afkomst. Ze woont al jaren in Nederland, maar ze is afkomstig uit Istanbul."
+    ]
+  },
+  {
+    "id": "n4-doorstromen-naar",
+    "chapter": 4,
+    "nl": "doorstromen naar",
+    "lemma": "doorstromen naar",
+    "pos": "phrase",
+    "en": [
+      "to move on to",
+      "to advance to"
+    ],
+    "primaryEn": "to move on to",
+    "source": "generated",
+    "separable": true
+  },
+  {
+    "id": "n4-hulp-geven-aan",
+    "chapter": 4,
+    "nl": "hulp geven aan",
+    "lemma": "hulp geven aan",
+    "pos": "phrase",
+    "en": [
+      "to give help to",
+      "to assist"
+    ],
+    "primaryEn": "to give help to",
+    "source": "generated"
+  },
+  {
+    "id": "n4-kiezen-voor",
+    "chapter": 4,
+    "nl": "kiezen voor",
+    "lemma": "kiezen voor",
+    "pos": "phrase",
+    "en": [
+      "to choose",
+      "to opt for"
+    ],
+    "primaryEn": "to choose",
+    "source": "generated"
+  },
+  {
+    "id": "n4-klagen-over",
+    "chapter": 4,
+    "nl": "klagen over",
+    "lemma": "klagen over",
+    "pos": "phrase",
+    "en": [
+      "to complain about"
+    ],
+    "primaryEn": "to complain about",
+    "source": "generated"
+  },
+  {
+    "id": "n4-lijden-onder",
+    "chapter": 4,
+    "nl": "lijden onder",
+    "lemma": "lijden onder",
+    "pos": "phrase",
+    "en": [
+      "to suffer under",
+      "to suffer from"
+    ],
+    "primaryEn": "to suffer under",
+    "source": "generated"
+  },
+  {
+    "id": "n4-omgaan-met",
+    "chapter": 4,
+    "nl": "omgaan met",
+    "lemma": "omgaan met",
+    "pos": "phrase",
+    "en": [
+      "to deal with",
+      "to handle",
+      "to interact with"
+    ],
+    "primaryEn": "to deal with",
+    "source": "generated",
+    "separable": true
+  },
+  {
+    "id": "n4-overschakelen-op",
+    "chapter": 4,
+    "nl": "overschakelen op",
+    "lemma": "overschakelen op",
+    "pos": "phrase",
+    "en": [
+      "to switch (over) to"
+    ],
+    "primaryEn": "to switch (over) to",
+    "source": "generated",
+    "separable": true
+  },
+  {
+    "id": "n4-profiteren-van",
+    "chapter": 4,
+    "nl": "profiteren van",
+    "lemma": "profiteren van",
+    "pos": "phrase",
+    "en": [
+      "to benefit from",
+      "to profit from"
+    ],
+    "primaryEn": "to benefit from",
+    "source": "generated"
+  },
+  {
+    "id": "n4-recht-hebben-op",
+    "chapter": 4,
+    "nl": "recht hebben op",
+    "lemma": "recht hebben op",
+    "pos": "phrase",
+    "en": [
+      "to have a right to",
+      "to be entitled to"
+    ],
+    "primaryEn": "to have a right to",
+    "source": "generated"
+  },
+  {
+    "id": "n4-trots-zijn-op",
+    "chapter": 4,
+    "nl": "trots zijn op",
+    "lemma": "trots zijn op",
+    "pos": "phrase",
+    "en": [
+      "to be proud of"
+    ],
+    "primaryEn": "to be proud of",
+    "source": "generated"
+  },
+  {
+    "id": "n4-verantwoordelijk-zijn-voor",
+    "chapter": 4,
+    "nl": "verantwoordelijk zijn voor",
+    "lemma": "verantwoordelijk zijn voor",
+    "pos": "phrase",
+    "en": [
+      "to be responsible for"
+    ],
+    "primaryEn": "to be responsible for",
+    "source": "generated"
+  },
+  {
+    "id": "n4-bedragen",
+    "chapter": 4,
+    "nl": "bedragen",
+    "lemma": "bedragen",
+    "pos": "verb",
+    "en": [
+      "to amount to"
+    ],
+    "primaryEn": "to amount to",
+    "source": "generated",
+    "irregular": {
+      "past": "bedroeg",
+      "perfect": "bedragen"
+    }
+  },
+  {
+    "id": "n4-gieten",
+    "chapter": 4,
+    "nl": "gieten",
+    "lemma": "gieten",
+    "pos": "verb",
+    "en": [
+      "to pour"
+    ],
+    "primaryEn": "to pour",
+    "source": "generated",
+    "irregular": {
+      "past": "goot",
+      "perfect": "gegoten"
+    }
+  },
+  {
+    "id": "n4-krimpen",
+    "chapter": 4,
+    "nl": "krimpen",
+    "lemma": "krimpen",
+    "pos": "verb",
+    "en": [
+      "to shrink"
+    ],
+    "primaryEn": "to shrink",
+    "source": "generated",
+    "irregular": {
+      "past": "kromp",
+      "perfect": "is gekrompen"
+    }
+  },
+  {
+    "id": "n4-meten",
+    "chapter": 4,
+    "nl": "meten",
+    "lemma": "meten",
+    "pos": "verb",
+    "en": [
+      "to measure"
+    ],
+    "primaryEn": "to measure",
+    "source": "generated",
+    "irregular": {
+      "past": "mat",
+      "perfect": "gemeten"
+    }
+  },
+  {
+    "id": "n4-opspuiten",
+    "chapter": 4,
+    "nl": "opspuiten",
+    "lemma": "opspuiten",
+    "pos": "verb",
+    "en": [
+      "to spray (on)",
+      "to inject"
+    ],
+    "primaryEn": "to spray (on)",
+    "source": "generated",
+    "separable": true,
+    "irregular": {
+      "past": "spoot op",
+      "perfect": "opgespoten"
+    },
+    "hint": "(op)spuiten"
+  },
+  {
+    "id": "n4-opwinden",
+    "chapter": 4,
+    "nl": "opwinden",
+    "lemma": "opwinden",
+    "pos": "verb",
+    "en": [
+      "to wind up",
+      "to excite"
+    ],
+    "primaryEn": "to wind up",
+    "source": "generated",
+    "separable": true,
+    "irregular": {
+      "past": "wond op",
+      "perfect": "opgewonden"
+    }
+  },
+  {
+    "id": "n4-sluipen",
+    "chapter": 4,
+    "nl": "sluipen",
+    "lemma": "sluipen",
+    "pos": "verb",
+    "en": [
+      "to sneak",
+      "to creep"
+    ],
+    "primaryEn": "to sneak",
+    "source": "generated",
+    "irregular": {
+      "past": "sloop",
+      "perfect": "(is) geslopen"
+    }
+  },
+  {
+    "id": "n4-verzoeken",
+    "chapter": 4,
+    "nl": "verzoeken",
+    "lemma": "verzoeken",
+    "pos": "verb",
+    "en": [
+      "to request"
+    ],
+    "primaryEn": "to request",
+    "source": "generated",
+    "irregular": {
+      "past": "verzocht",
+      "perfect": "verzocht"
+    }
+  }
+]

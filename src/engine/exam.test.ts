@@ -12,7 +12,7 @@ import {
   type ExamBucket,
 } from "./exam";
 
-const chaptersDir = join(__dirname, "..", "data", "chapters");
+const chaptersDir = join(__dirname, "..", "data", "levels", "4");
 const files = readdirSync(chaptersDir).filter((f) => /^hoofdstuk-\d+\.json$/.test(f));
 const allWords: Word[] = files.flatMap((f) => JSON.parse(readFileSync(join(chaptersDir, f), "utf8")) as Word[]);
 const extraIds = new Set((level4.extraWords as Word[]).map((w) => w.id));

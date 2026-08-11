@@ -1,0 +1,113 @@
+# Niveau hoofdstuk 2 — Sociaal: review
+
+97 words. ALL glosses are generated (the book prints none) — audit below.
+
+## gloss audit list
+- **afkopen** → to buy off; to buy out
+- **coulant** → lenient; accommodating; flexible
+- **de ervaringsdeskundige** → expert by experience; someone with first-hand experience
+- **excessief** → excessive
+- **fulmineren** → to fulminate; to rail (against)
+- **het keurslijf** → straitjacket (figurative); corset
+- **leuteren** → to waffle; to blather; to drivel on
+- **schromelijk** → grossly; terribly
+- **het sneeuwbaleffect** → snowball effect
+- **zich verheven voelen** → to feel superior; to feel above others
+- **het verenigingsleven** → club life; association life
+- **het vliegwieleffect** → flywheel effect
+- **de vrijbuiter** → free spirit; maverick; freebooter
+- **waarden en normen** → values and norms; norms and values
+- **het weerwoord** → rebuttal; retort; reply
+- **koste wat (het) kost** → at all costs; whatever it takes
+- **aan de grond raken** → to hit rock bottom; to run out of money
+- **de handen uit de mouwen steken** → to roll up one's sleeves; to get to work
+- **iets in de markt zetten** → to market something; to launch something on the market
+- **iemand met de neus op de feiten drukken** → to confront someone with the facts; to rub someone's nose in the facts
+- **er is iets niet in orde** → something is wrong; something is not right
+- **aan de slag gaan** → to get to work; to get started
+- **iets waar je u tegen zegt** → something that commands respect; really something; something to be reckoned with
+- **dan wordt het een ander verhaal** → then it's a different story; that changes things
+- **afleiden uit** → to deduce from; to infer from
+- **afwijken** → to deviate; to differ _(irr: week af / is afgeweken)_
+- **de afwijking** → deviation; anomaly; abnormality
+- **zich ergeren aan** → to be annoyed by; to get irritated at
+- **de ergernis** → annoyance; irritation
+- **gevaarlijk** → dangerous
+- **gooien** → to throw (at)
+- **de haast** → hurry; haste
+- **zich haasten** → to hurry; to rush
+- **haastig** → hasty; hurried
+- **onvoorstelbaar** → unimaginable; inconceivable
+- **de overkant** → the other side; the opposite side
+- **schandelijk** → disgraceful; shameful
+- **de schande** → disgrace; shame
+- **toeteren** → to honk; to sound the horn
+- **de troep** → mess; junk; rubbish
+- **de uiting** → expression; utterance
+- **het verstand** → mind; common sense; reason
+- **verstandig** → sensible; wise
+- **verwarrend** → confusing
+- **de verwarring** → confusion
+- **in de war raken / zijn** → to get confused; to be confused
+- **de voorrang** → right of way; priority
+- **aanmaken** → to create (e.g. an account); to make
+- **beheersen** → to control (oneself); to master
+- **de beheersing** → control; self-control; command
+- **beslist** → definitely; certainly
+- **boeien** → to captivate; to fascinate; to handcuff
+- **boeiend** → fascinating; captivating
+- **doordringen tot** → to get through to; to penetrate _(irr: drong door / is doorgedrongen)_
+- **elders** → elsewhere
+- **fel** → fierce; bright (of light or colour); intense
+- **knikken** → to nod
+- **overdrijven** → to exaggerate _(irr: overdreef / overdreven)_
+- **overmatig** → excessive
+- **stapelen** → to stack; to pile up
+- **staren** → to stare
+- **tekortkomen** → to lack; to be short of _(irr: kwam tekort / is tekortgekomen)_
+- **telkens** → each time; again and again
+- **ter sprake komen / sprake (zijn) van** → to come up (in conversation); to be a matter of / there being talk of
+- **verslaafd zijn** → to be addicted (to)
+- **de verslaving** → addiction
+- **zowat** → almost; just about; nearly
+- **afhankelijk zijn van** → to be dependent on; to depend on
+- **afstand nemen van** → to distance oneself from; to step back from
+- **besteden aan** → to spend on; to devote to
+- **doorbrengen met** → to spend (time) with
+- **een effect hebben op** → to have an effect on
+- **enthousiast zijn over** → to be enthusiastic about
+- **gericht zijn op** → to be focused on; to be aimed at
+- **geven om** → to care about
+- **een hekel hebben aan** → to hate; to strongly dislike
+- **horen bij** → to belong to; to go with
+- **leren van** → to learn from
+- **letten op** → to pay attention to; to keep an eye on
+- **meedoen aan** → to take part in; to participate in
+- **nadenken over** → to think about
+- **de nadruk leggen op** → to emphasize; to put emphasis on
+- **onderzoek doen naar** → to do research into; to investigate
+- **opkijken van** → to be surprised by; to be amazed at
+- **rekening houden met** → to take into account; to consider
+- **zich richten op** → to focus on; to aim at
+- **staren naar** → to stare at
+- **toevoegen aan** → to add to
+- **verslaafd zijn aan** → to be addicted to
+- **zin hebben in** → to feel like; to be in the mood for
+- **gedragen** → to behave; to conduct oneself _(irr: gedroeg / gedragen)_
+- **onthouden** → to remember; to memorize _(irr: onthield / onthouden)_
+- **ontslaan** → to fire; to dismiss _(irr: ontsloeg / ontslagen)_
+- **opbergen** → to put away; to store _(irr: borg op / opgeborgen)_
+- **toestaan** → to allow; to permit _(irr: stond toe / toegestaan)_
+- **verkopen** → to sell _(irr: verkocht / verkocht)_
+- **vervangen** → to replace _(irr: verving / vervangen)_
+
+## warnings
+- The chapter's Onregelmatige werkwoorden page (p. 92, Opdracht 41) prints only the eight infinitives (no past/perfect forms), so irregularRaw contains infinitives only. For 'afwijken' the forms 'week af, is afgeweken' are printed in the Vocabulaire box on p. 62 and were used as printed; the forms for the other seven verbs are not printed anywhere in the chapter and were supplied from standard Dutch morphology.
+- 'doordringen tot' (drong door, is doorgedrongen), 'tekortkomen' (kwam tekort, is tekortgekomen) and 'overdrijven' (overdreef, overdreven) are not in the chapter's Onregelmatige werkwoorden list, but their principal parts are printed in the Vocabulaire boxes on p. 74-75, so irregular was filled for those entries too.
+- The Fietsetiquette section prints 'afwijken,' with a trailing comma (both in the page image and the OCR); transcribed as 'afwijken' (apparent typographical remnant of inverted notation).
+- 'beheersen, (zich)' prints the reflexive pronoun in parentheses (optional); transcribed as nl 'beheersen' with the printed form kept in hint and reflexive set to false.
+- Several entries are printed twice in different sections and were kept as separate entries per list order: 'afleiden uit' and 'zich ergeren aan' (Fietsetiquette + Preposities), 'verslaafd zijn (aan)' (Altijd en overal online) vs 'verslaafd zijn aan' (Preposities), 'staren' vs 'staren naar', and 'afwijken' (Fietsetiquette + Onregelmatige werkwoorden).
+- OCR of the lijst pages (pg-093/094) matched the page images throughout; only cosmetic OCR artifacts (missing blank-line grouping, 'Ishij'/'Deouders'-style joins on p. 92) were observed, no substantive disagreements.
+- duplicate entry dropped: afleiden uit
+- duplicate entry dropped: zich ergeren aan
+- duplicate entry dropped: afwijken

@@ -42,7 +42,7 @@ export function LessonRunner({
   tasks: initialTasks,
   pool,
   newWords,
-  chapterForThrottle,
+  throttleKey,
   mode = "vocab",
   onQuit,
   onFinish,
@@ -50,7 +50,7 @@ export function LessonRunner({
   tasks: SessionTask[];
   pool: Word[];
   newWords: Word[];
-  chapterForThrottle?: number;
+  throttleKey?: string; // "level:chapter" — see useApp.throttleKey
   mode?: "vocab" | "participle" | "test";
   onQuit: () => void;
   onFinish: (s: LessonSummary) => void;
@@ -113,8 +113,8 @@ export function LessonRunner({
       app.addXp(XP_LESSON_BONUS);
     }
     app.bumpStreak();
-    if (chapterForThrottle !== undefined && newWords.length > 0) {
-      app.noteIntroduced(chapterForThrottle, newWords.length);
+    if (throttleKey !== undefined && newWords.length > 0) {
+      app.noteIntroduced(throttleKey, newWords.length);
     }
     onFinish({
       total: firstTries.length,

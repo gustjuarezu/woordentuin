@@ -9,16 +9,28 @@
     "hinderen",
     "weigeren",
     "bewonderen",
-    "veroveren"
+    "veroveren",
+    "minderen",
+    "leuteren",
+    "toeteren",
+    "vorderen",
+    "bulderen",
+    "verwijderen"
   ],
-  "stressedStems": ["verlenen"],
+  "stressedStems": ["verlenen", "verdelen"],
   "separable": ["aanmelden", "aanpassen", "inzetten", "uitputten", "afvragen", "wegjagen"],
-  "noGe": ["omarmen", "overnachten", "overtuigen"],
+  "noGe": ["omarmen", "overnachten", "overtuigen", "mislukken", "onderdrukken", "ondersteunen", "onderschatten"],
   "irregular": {
     "houden aan": { "participle": "gehouden" },
     "ontspannen": { "participle": "ontspannen" },
     "aankijken": { "participle": "aangekeken" },
-    "bestaan": { "participle": "bestaan" }
+    "bestaan": { "participle": "bestaan" },
+    "uitvinden": { "participle": "uitgevonden" },
+    "afkopen": { "participle": "afgekocht" },
+    "onderscheiden": { "participle": "onderscheiden" },
+    "onderscheiden van": { "participle": "onderscheiden" },
+    "beogen": { "participle": "beoogd" },
+    "opsluiten": { "participle": "opgesloten" }
   },
   "exclude": ["h1-that", "h2-about", "h10-op", "h3-twintigen"]
 }

@@ -3,32 +3,46 @@ import { join } from "node:path";
 import { describe, expect, it } from "vitest";
 import { validateWords } from "../../tools/ingest/validate";
 import type { Word } from "./types";
-import manifest from "./chapters/manifest.json";
+import manifest4 from "./levels/4/manifest.json";
+import manifest5 from "./levels/5/manifest.json";
 
-const chaptersDir = join(__dirname, "chapters");
-const files = readdirSync(chaptersDir).filter((f) => /^hoofdstuk-\d+\.json$/.test(f));
-const load = (f: string) => JSON.parse(readFileSync(join(chaptersDir, f), "utf8")) as Word[];
-const byNumber = new Map<number, Word[]>(files.map((f) => [Number(f.match(/\d+/)![0]), load(f)]));
+const levelDir = (level: number) => join(__dirname, "levels", String(level));
+const loadLevel = (level: number) =>
+  new Map<number, Word[]>(
+    readdirSync(levelDir(level))
+      .filter((f) => /^hoofdstuk-\d+\.json$/.test(f))
+      .map((f) => [
+        Number(f.match(/\d+/)![0]),
+        JSON.parse(readFileSync(join(levelDir(level), f), "utf8")) as Word[],
+      ]),
+  );
+const byNumber = loadLevel(4);
+const byNumber5 = loadLevel(5);
 
-describe("chapter data", () => {
-  it("covers all 11 hoofdstukken of the book", () => {
-    expect([...byNumber.keys()].sort((a, b) => a - b)).toEqual([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]);
+describe.each([
+  [4, byNumber, manifest4, [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]],
+  [5, byNumber5, manifest5, [1, 2, 3, 4, 5, 6]],
+] as const)("level %d chapter data", (_level, chapters, manifest, expectedNumbers) => {
+  it("covers all hoofdstukken of the book", () => {
+    expect([...chapters.keys()].sort((a, b) => a - b)).toEqual(expectedNumbers);
   });
 
-  it.each([...byNumber.entries()])("hoofdstuk %d passes schema validation", (n, words) => {
+  it.each([...chapters.entries()])("hoofdstuk %d passes schema validation", (n, words) => {
     expect(validateWords(words, n)).toEqual([]);
   });
 
   it("manifest matches the files", () => {
-    expect(manifest).toHaveLength(byNumber.size);
+    expect(manifest).toHaveLength(chapters.size);
     for (const m of manifest) {
-      expect(byNumber.get(m.number)).toHaveLength(m.wordCount);
+      expect(chapters.get(m.number)).toHaveLength(m.wordCount);
       expect(m.theme).toBeTruthy();
     }
   });
+});
 
-  it("ids are globally unique", () => {
-    const all = [...byNumber.values()].flat().map((w) => w.id);
+describe("cross-level data", () => {
+  it("ids are globally unique across levels", () => {
+    const all = [...byNumber.values(), ...byNumber5.values()].flat().map((w) => w.id);
     expect(new Set(all).size).toBe(all.length);
   });
 });

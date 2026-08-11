@@ -23,6 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 
-# The textbook is copyrighted — never commit it (ingest reads it locally)
+# The textbooks are copyrighted — never commit them (ingest reads them locally)
 reference/Nederlands_in_actie.pdf
+reference/Nederlands_op_niveau.pdf
 tools/ingest/.cache/

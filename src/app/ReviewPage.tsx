@@ -6,19 +6,20 @@ import { buildReviewWords, buildTasks, type SessionTask } from "../engine/sessio
 import { LessonRunner, type LessonSummary } from "../components/LessonRunner";
 import { speakerAvailable } from "../components/Speaker";
 import { SummaryScreen } from "../components/SummaryScreen";
-import { useApp } from "../store/useApp";
+import { useApp, useLevel } from "../store/useApp";
 
-/** Global "Oefenen" review: all due cards across every chapter (the SRS heartbeat). */
+/** Global "Oefenen" review: all due cards across the active level (the SRS heartbeat). */
 export function ReviewPage() {
   const navigate = useNavigate();
+  const level = useLevel();
   const [words, setWords] = useState<Word[] | null>(null);
   const [tasks, setTasks] = useState<SessionTask[] | null>(null);
   const [summary, setSummary] = useState<LessonSummary | null>(null);
   const [round, setRound] = useState(0);
 
   useEffect(() => {
-    void loadAllWords().then(setWords);
-  }, []);
+    void loadAllWords(level).then(setWords);
+  }, [level]);
 
   const build = useCallback((all: Word[]) => {
     const states = useApp.getState().cardStates;

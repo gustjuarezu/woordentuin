@@ -1,20 +1,55 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import { chapterLabel, chapters, loadAllWords } from "../data";
-import type { Word } from "../data/types";
+import { bookFor, chapterLabel, chaptersFor, LEVELS, loadAllWords } from "../data";
+import type { Level, Word } from "../data/types";
 import { countDue } from "../engine/session";
 import { CROWN_LEVELS, crownLevel, growthStage, STAGE_MAX } from "../engine/srs";
 import { Garden } from "../components/Garden";
 import { useApp } from "../store/useApp";
 
+/** First-launch level picker: shown until a level is chosen once. */
+function LevelPicker({ onPick }: { onPick: (level: Level) => void }) {
+  return (
+    <section>
+      <p className="eyebrow">Dutch vocabulary trainer</p>
+      <h1>
+        Grow your Dutch,
+        <br />
+        one word at a time.
+      </h1>
+      <p className="sub">Which course are you working through? You can switch any time.</p>
+      {LEVELS.map(({ level, book }) => (
+        <div className="chapcard" key={level}>
+          <div className="lesson-item">
+            <div>
+              <strong>Level {level}</strong>
+              <div className="words-preview">
+                <i>{book}</i> · {chaptersFor(level).length} hoofdstukken
+              </div>
+            </div>
+            <button className="btn btn-primary" onClick={() => onPick(level)}>
+              Start
+            </button>
+          </div>
+        </div>
+      ))}
+    </section>
+  );
+}
+
 export function Home() {
   const states = useApp((s) => s.cardStates);
+  const level = useApp((s) => s.settings.level);
+  const setLevel = useApp((s) => s.setLevel);
   const [allWords, setAllWords] = useState<Word[]>([]);
 
   useEffect(() => {
-    void loadAllWords().then(setAllWords);
-  }, []);
+    if (level !== null) void loadAllWords(level).then(setAllWords);
+  }, [level]);
 
+  if (level === null) return <LevelPicker onPick={setLevel} />;
+
+  const chapters = chaptersFor(level);
   const due = countDue(allWords, states, Date.now());
 
   return (
@@ -26,9 +61,24 @@ export function Home() {
         one word at a time.
       </h1>
       <p className="sub">
-        Bite-sized lessons per hoofdstuk of <i>Nederlands in actie</i> — with spaced repetition, audio, and a
+        Bite-sized lessons per hoofdstuk of <i>{bookFor(level)}</i> — with spaced repetition, audio, and a
         garden that blooms as words stick.
       </p>
+
+      <div className="row" style={{ marginBottom: 18 }} role="tablist" aria-label="Level">
+        {LEVELS.map(({ level: l, book }) => (
+          <button
+            key={l}
+            role="tab"
+            aria-selected={l === level}
+            className={`btn ${l === level ? "btn-primary" : "btn-ghost"}`}
+            onClick={() => setLevel(l)}
+            title={book}
+          >
+            Level {l}
+          </button>
+        ))}
+      </div>
 
       <div className="row" style={{ marginBottom: 18 }}>
         <Link
@@ -41,11 +91,13 @@ export function Home() {
         </Link>
       </div>
 
-      <div className="row" style={{ marginBottom: 18 }}>
-        <Link to="/level-test" className="btn btn-primary">
-          Niveautoets · Level 4 — focus Geld (H6–10)
-        </Link>
-      </div>
+      {level === 4 && (
+        <div className="row" style={{ marginBottom: 18 }}>
+          <Link to="/level-test" className="btn btn-primary">
+            Niveautoets · Level 4 — focus Geld (H6–10)
+          </Link>
+        </div>
+      )}
 
       {chapters.map((ch) => {
         const words = allWords.filter((w) => w.chapter === ch.number);

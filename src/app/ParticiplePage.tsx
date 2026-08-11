@@ -6,13 +6,14 @@ import { eligibleParticipleVerbs } from "../engine/participle";
 import { buildParticipleTasks, type SessionTask } from "../engine/session";
 import { LessonRunner, type LessonSummary } from "../components/LessonRunner";
 import { SummaryScreen } from "../components/SummaryScreen";
-import { useApp } from "../store/useApp";
+import { useApp, useLevel } from "../store/useApp";
 
 /** The per-chapter voltooid-deelwoord drill (/chapter/:n/participles).
  * Grades onto separate `id#pp` cards; no new-word throttle involved. */
 export function ParticiplePage() {
   const { n } = useParams();
   const num = Number(n);
+  const level = useLevel();
   const navigate = useNavigate();
   const [verbs, setVerbs] = useState<Word[] | null>(null);
   const [tasks, setTasks] = useState<SessionTask[] | null>(null);
@@ -20,8 +21,8 @@ export function ParticiplePage() {
   const [round, setRound] = useState(0);
 
   useEffect(() => {
-    void loadChapterWords(num).then((words) => setVerbs(eligibleParticipleVerbs(words)));
-  }, [num]);
+    void loadChapterWords(level, num).then((words) => setVerbs(eligibleParticipleVerbs(words)));
+  }, [level, num]);
 
   useEffect(() => {
     if (verbs) {
@@ -32,7 +33,7 @@ export function ParticiplePage() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [verbs, round, num]);
 
-  const meta = chapterMeta(num);
+  const meta = chapterMeta(level, num);
   if (!meta) return <p>Unknown chapter.</p>;
   if (!verbs || !tasks) return <p className="sub">Loading…</p>;
 

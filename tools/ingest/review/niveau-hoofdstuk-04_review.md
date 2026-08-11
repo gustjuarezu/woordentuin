@@ -1,0 +1,107 @@
+# Niveau hoofdstuk 4 — (Inter)nationaal: review
+
+85 words. ALL glosses are generated (the book prints none) — audit below.
+
+## gloss audit list
+- **het gezelschap** → company; party (group of people)
+- **te pas en te onpas** → at every opportunity; whether appropriate or not
+- **versteld staan** → to be amazed; to be astonished
+- **wagen** → to dare; to venture; to risk
+- **de aanpak** → approach; method
+- **aanpakken** → to tackle; to deal with; to approach
+- **achterhaald** → outdated; obsolete
+- **afdwingen** → to force; to compel; to command (respect) _(irr: dwong af / afgedwongen)_
+- **de afkomst** → origin; descent; background
+- **afkomstig** → originating (from); coming from
+- **behandelen** → to treat; to deal with; to discuss
+- **de behandeling** → treatment; handling
+- **bevorderen** → to promote; to encourage; to further
+- **dankzij** → thanks to
+- **de eis** → demand; requirement
+- **eisen** → to demand; to require
+- **gemengd** → mixed
+- **geruime tijd** → a considerable time; quite a long time
+- **inrichten** → to furnish; to arrange; to set up
+- **de inrichting** → furnishing; layout; arrangement
+- **inspelen op** → to respond to; to anticipate; to play into
+- **de inzet** → commitment; effort; deployment
+- **zich inzetten voor** → to commit oneself to; to work hard for; to dedicate oneself to
+- **de leiding** → management; leadership; direction
+- **de leidinggevende** → manager; supervisor; boss
+- **mede** → partly; also; co-
+- **de meerderheid** → majority
+- **mislukken** → to fail; to be unsuccessful
+- **onderdrukken** → to oppress; to suppress
+- **de onderdrukking** → oppression; suppression
+- **het onderhoud** → maintenance; upkeep
+- **onderhouden** → to maintain; to keep up; to support (financially) _(irr: onderhield / onderhouden)_
+- **ondersteunen** → to support; to assist
+- **opeisen** → to claim; to demand
+- **opvatten** → to interpret; to take (in a certain way)
+- **de opvatting** → view; opinion; conception
+- **het platteland** → countryside; rural area
+- **de schets** → sketch; outline
+- **schetsen** → to sketch; to outline
+- **de verhouding** → relationship; ratio; proportion
+- **voortijdig** → premature; prematurely; early
+- **de werkelijkheid** → reality
+- **wijden aan** → to devote to; to dedicate to
+- **aanraken** → to touch
+- **de aanraking** → touch; contact
+- **in aanraking komen met** → to come into contact with
+- **aanspreken** → to address; to speak to _(irr: sprak aan / aangesproken)_
+- **aanstellen** → to appoint
+- **de aanstelling** → appointment (to a job); position
+- **daadwerkelijk** → actually; really; indeed
+- **fatsoenlijk** → decent; proper
+- **de gids** → guide
+- **grof** → coarse; rude; rough
+- **de kleuter** → preschooler; toddler
+- **de kring** → circle; ring (mark)
+- **mopperen op/over** → to grumble about; to complain about
+- **omspringen met** → to handle; to deal with
+- **de prestatie** → achievement; performance
+- **uitsluitend** → exclusively; only
+- **vandaar** → hence; that is why
+- **als vanouds** → as of old; just like old times
+- **het verzet** → resistance; opposition
+- **zich verzetten tegen** → to resist; to oppose
+- **vloeiend** → fluent; fluently
+- **zich aanpassen aan** → to adapt to; to adjust to
+- **afkomstig zijn uit** → to come from; to originate from
+- **doorstromen naar** → to move on to; to advance to
+- **hulp geven aan** → to give help to; to assist
+- **kiezen voor** → to choose; to opt for
+- **klagen over** → to complain about
+- **lijden onder** → to suffer under; to suffer from
+- **omgaan met** → to deal with; to handle; to interact with
+- **overschakelen op** → to switch (over) to
+- **profiteren van** → to benefit from; to profit from
+- **recht hebben op** → to have a right to; to be entitled to
+- **trots zijn op** → to be proud of
+- **verantwoordelijk zijn voor** → to be responsible for
+- **bedragen** → to amount to _(irr: bedroeg / bedragen)_
+- **gieten** → to pour _(irr: goot / gegoten)_
+- **krimpen** → to shrink _(irr: kromp / is gekrompen)_
+- **meten** → to measure _(irr: mat / gemeten)_
+- **opspuiten** → to spray (on); to inject _(irr: spoot op / opgespoten)_
+- **opwinden** → to wind up; to excite _(irr: wond op / opgewonden)_
+- **sluipen** → to sneak; to creep _(irr: sloop / (is) geslopen)_
+- **verzoeken** → to request _(irr: verzocht / verzocht)_
+
+## warnings
+- The chapter itself prints no three-forms table for the irregular verbs: pg-186 (Opdracht 46) and the Vocabulairelijst section 'Onregelmatige werkwoorden' list infinitives only. The past/perfect forms in irregularRaw were taken from the book's appendix (bijlage 2a/2b, pp. 275-281).
+- Possible 'is'/'(is)' auxiliary markers in the appendix could not be reliably recovered from OCR (column alignment is mangled), so perfects are given without an 'is ' prefix. Note: krimpen and sluipen normally take 'zijn' ('is gekrompen', 'is geslopen'); the chapter text itself uses 'zijn er fouten in mijn Frans geslopen'.
+- Eight items are printed twice in the shaded box (once in a text section and again under Preposities or Onregelmatige werkwoorden): in aanraking komen met, inspelen op, zich inzetten voor, mopperen op/over, omspringen met, zich verzetten tegen, wijden aan, onderhouden. Both printed occurrences are kept as separate entries per the do-not-merge rule; a consumer may want to dedupe.
+- OCR of pg-188 garbled 'verantwoordelij ... jin voor'; the image clearly reads 'verantwoordelijk zijn voor' (resolved from image).
+- The first example sentence item for 'schetsen' is truncated mid-sentence in the OCR ('Hoe denk je dat jouw toe-'); only its complete first sentence was kept as an example.
+- afdwingen and aanspreken are not in the chapter's Onregelmatige werkwoorden list, but the chapter's Vocabulaire boxes print their irregular forms inline ('dwong af, afgedwongen'; 'sprak aan, aangesproken'), so irregular was filled for these two as printed.
+- The list prints '(op)spuiten'; the appendix lists the forms under plain 'spuiten' (spoot, spoten ‒ gespoten) and Opdracht 46 also prints 'spuiten'.
+- duplicate entry dropped: in aanraking komen met
+- duplicate entry dropped: inspelen op
+- duplicate entry dropped: zich inzetten voor
+- duplicate entry dropped: mopperen op/over
+- duplicate entry dropped: omspringen met
+- duplicate entry dropped: zich verzetten tegen
+- duplicate entry dropped: wijden aan
+- duplicate entry dropped: onderhouden

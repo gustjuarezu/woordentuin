@@ -1,19 +1,20 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import { chapterLabel, chapters, loadAllWords } from "../data";
+import { bookFor, chapterLabel, chaptersFor, loadAllWords } from "../data";
 import type { Word } from "../data/types";
 import { countDue } from "../engine/session";
 import { growthStage, STAGE_MAX } from "../engine/srs";
-import { useApp } from "../store/useApp";
+import { useApp, useLevel } from "../store/useApp";
 
 export function StatsPage() {
   const states = useApp((s) => s.cardStates);
   const profile = useApp((s) => s.profile);
+  const level = useLevel();
   const [allWords, setAllWords] = useState<Word[]>([]);
 
   useEffect(() => {
-    void loadAllWords().then(setAllWords);
-  }, []);
+    void loadAllWords(level).then(setAllWords);
+  }, [level]);
 
   const introduced = allWords.filter((w) => states.get(w.id)?.introduced).length;
   const bloomed = allWords.filter((w) => growthStage(states.get(w.id)) >= STAGE_MAX).length;
@@ -25,6 +26,9 @@ export function StatsPage() {
         ← Home
       </Link>
       <h1 style={{ fontSize: "1.9rem" }}>Stats</h1>
+      <p className="sub">
+        Level {level} · <i>{bookFor(level)}</i>. XP and streak are shared across levels.
+      </p>
       <div className="statgrid">
         <div className="scorebox">
           <div className="n">{profile.xp}</div>
@@ -44,7 +48,7 @@ export function StatsPage() {
         </div>
       </div>
       <div className="chapcard">
-        {chapters.map((ch) => {
+        {chaptersFor(level).map((ch) => {
           const words = allWords.filter((w) => w.chapter === ch.number);
           const stages = words.map((w) => growthStage(states.get(w.id)));
           const pct = words.length

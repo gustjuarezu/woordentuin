@@ -16,12 +16,16 @@ import expected from "./participle.expected.json";
  * dictionary, and add it here (fix data/participle-overrides.json if the
  * derivation is wrong — never edit chapter JSONs, they get regenerated).
  */
-const dir = join(__dirname, "../data/chapters");
-const files = readdirSync(dir)
-  .filter((f) => /^hoofdstuk-\d+\.json$/.test(f))
+const levelsDir = join(__dirname, "../data/levels");
+const files = readdirSync(levelsDir)
+  .flatMap((lvl) =>
+    readdirSync(join(levelsDir, lvl))
+      .filter((f) => /^hoofdstuk-\d+\.json$/.test(f))
+      .map((f) => join(levelsDir, lvl, f)),
+  )
   .sort();
 const verbs = files.flatMap((f) =>
-  eligibleParticipleVerbs(JSON.parse(readFileSync(join(dir, f), "utf8")) as Word[]),
+  eligibleParticipleVerbs(JSON.parse(readFileSync(f, "utf8")) as Word[]),
 );
 
 const render = (w: Word): string => {

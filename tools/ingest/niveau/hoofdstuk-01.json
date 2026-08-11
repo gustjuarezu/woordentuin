@@ -1,0 +1,2166 @@
+{
+  "chapter": 1,
+  "theme": "Positief",
+  "wordCount": 120,
+  "irregularRaw": [
+    "fluiten ‒ floot, floten ‒ gefloten",
+    "ondernemen ‒ ondernam, ondernamen ‒ ondernomen",
+    "ontbijten ‒ ontbeet, ontbeten ‒ ontbeten",
+    "ontbreken ‒ ontbrak, ontbraken ‒ ontbroken",
+    "strijken ‒ streek, streken ‒ gestreken",
+    "verheffen ‒ verhief, verhieven ‒ verheven",
+    "vermijden ‒ vermeed, vermeden ‒ vermeden",
+    "verwerven ‒ verwierf, verwierven ‒ verworven",
+    "waarnemen ‒ nam waar, namen waar ‒ waargenomen",
+    "wegen ‒ woog, wogen ‒ gewogen"
+  ],
+  "warnings": [
+    "The chapter's own 'Onregelmatige werkwoorden' material (Opdracht 34 on p. 51 and the lijst section on p. 53) prints infinitives only; past/perfect forms in irregularRaw and in the irregular fields were taken from bijlage 2b 'Onregelmatige werkwoorden — alfabetisch' (pp. 278-282). Past forms are given as printed there, singular + plural (e.g. 'floot, floten').",
+    "'toegeven aan' is printed twice in the lijst (under Compliment and under Preposities); included once (under Compliment, with its examples).",
+    "'waarnemen' is printed twice in the lijst (under Zonnig de herfst in and under Onregelmatige werkwoorden); included once, with its irregular forms attached.",
+    "OCR of p. 52 renders 'toegang de' and 'uitvinding de' without commas; the page image clearly shows 'toegang, de' and 'uitvinding, de' — image followed.",
+    "The Vocabulaire boxes print irregular forms inline for 'toegeven (aan)' (gaf toe, toegegeven) and 'uitvinden' (vond uit, uitgevonden); these were NOT set in the irregular field because those verbs are not in the chapter's Onregelmatige werkwoorden list.",
+    "The connective group (aangezien ... zolang) on p. 53 has no printed section header in the lijst box; entries included as their own unnamed group.",
+    "The 'zich iets voor de geest halen / de geest' Vocabulaire box has 3 numbered examples; example 1 was assigned to the phrase, examples 2-3 to 'de geest'.",
+    "OCR 'ledereen' corrected to 'Iedereen' in the suggereren example; several OCR line-wrap hyphenations (hou-den, aange-naam, professio-neel, gemiddel-de, etc.) rejoined.",
+    "Glosses for the three Idiomatisch taalgebruik entries follow the book's own definitions in Opdracht 6 (p. 25): iets niet uitvlakken = iets niet onderschatten; ergens van opkijken = verbaasd zijn over iets; het positiefste wat ervan af kan = het grootste compliment dat gegeven wordt."
+  ],
+  "words": [
+    {
+      "nl": "iets niet uitvlakken",
+      "lemma": "iets niet uitvlakken",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "not to underestimate something",
+        "not to be dismissed"
+      ],
+      "primaryEn": "not to underestimate something",
+      "hint": null,
+      "reflexive": false,
+      "separable": true,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "ergens van opkijken",
+      "lemma": "ergens van opkijken",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "to be surprised by something",
+        "to be amazed at something"
+      ],
+      "primaryEn": "to be surprised by something",
+      "hint": null,
+      "reflexive": false,
+      "separable": true,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "het positiefste wat ervan af kan",
+      "lemma": "het positiefste wat ervan af kan",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "the highest praise possible",
+        "as positive as it gets"
+      ],
+      "primaryEn": "the highest praise possible",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "beledigen",
+      "lemma": "beledigen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to insult",
+        "to offend"
+      ],
+      "primaryEn": "to insult",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Onze buurvrouw voelde zich beledigd toen ik vroeg of ze hulp nodig had bij het schoonmaken van haar ramen. Ze zei dat ze dat heel goed zelf kon doen, maar dat ze het de laatste tijd te druk had gehad."
+      ],
+      "note": null
+    },
+    {
+      "nl": "de belediging",
+      "lemma": "belediging",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "insult",
+        "offence"
+      ],
+      "primaryEn": "insult",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Onze buurvrouw voelde zich beledigd toen ik vroeg of ze hulp nodig had bij het schoonmaken van haar ramen. Ze zei dat ze dat heel goed zelf kon doen, maar dat ze het de laatste tijd te druk had gehad."
+      ],
+      "note": null
+    },
+    {
+      "nl": "beweren",
+      "lemma": "beweren",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to claim",
+        "to assert",
+        "to maintain"
+      ],
+      "primaryEn": "to claim",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Johan beweert dat hij alle romans van Dostojevski heeft gelezen, maar dat geloof ik niet. Hij zegt wel vaker dingen die je niet zo serieus moet nemen."
+      ],
+      "note": null
+    },
+    {
+      "nl": "de bewering",
+      "lemma": "bewering",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "claim",
+        "assertion"
+      ],
+      "primaryEn": "claim",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Johan beweert dat hij alle romans van Dostojevski heeft gelezen, maar dat geloof ik niet. Hij zegt wel vaker dingen die je niet zo serieus moet nemen."
+      ],
+      "note": null
+    },
+    {
+      "nl": "gaaf",
+      "lemma": "gaaf",
+      "article": null,
+      "pos": "adjective",
+      "en": [
+        "cool",
+        "great",
+        "flawless"
+      ],
+      "primaryEn": "cool",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Gaaf dat je een prijs hebt gewonnen en dat je nu naar het concert mag gaan.",
+        "Mijn buurvrouw is 75 jaar, maar ze ziet er nog goed uit. Ze heeft een heel gave huid, helemaal glad zonder vlekken."
+      ],
+      "note": null
+    },
+    {
+      "nl": "keurig",
+      "lemma": "keurig",
+      "article": null,
+      "pos": "adjective",
+      "en": [
+        "neat",
+        "tidy",
+        "proper"
+      ],
+      "primaryEn": "neat",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Heb je opgeruimd? Je kamer ziet er echt weer keurig uit!",
+        "Hij ziet er altijd keurig uit met zijn gestreken overhemden."
+      ],
+      "note": null
+    },
+    {
+      "nl": "van nature",
+      "lemma": "van nature",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "by nature",
+        "naturally"
+      ],
+      "primaryEn": "by nature",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Mensen zijn van nature optimistisch. Ondanks negatieve gebeurtenissen houden ze een positieve kijk op de wereld."
+      ],
+      "note": null
+    },
+    {
+      "nl": "neigen",
+      "lemma": "neigen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to tend (to)",
+        "to incline"
+      ],
+      "primaryEn": "to tend (to)",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Mensen die van rust en stilte houden, zijn niet geneigd om naar grote dance-evenementen te gaan. Ze vermijden de drukte en hebben de neiging om thuis te blijven."
+      ],
+      "note": null
+    },
+    {
+      "nl": "de neiging",
+      "lemma": "neiging",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "tendency",
+        "inclination"
+      ],
+      "primaryEn": "tendency",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Mensen die van rust en stilte houden, zijn niet geneigd om naar grote dance-evenementen te gaan. Ze vermijden de drukte en hebben de neiging om thuis te blijven."
+      ],
+      "note": null
+    },
+    {
+      "nl": "ondergeschikt",
+      "lemma": "ondergeschikt",
+      "article": null,
+      "pos": "adjective",
+      "en": [
+        "subordinate",
+        "inferior"
+      ],
+      "primaryEn": "subordinate",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "In de negentiende eeuw beschouwde men in Nederland de vrouw als ondergeschikt aan de man. Daarom hadden vrouwen bijvoorbeeld geen stemrecht."
+      ],
+      "note": null
+    },
+    {
+      "nl": "redelijk",
+      "lemma": "redelijk",
+      "article": null,
+      "pos": "adjective",
+      "en": [
+        "reasonable",
+        "fair",
+        "quite"
+      ],
+      "primaryEn": "reasonable",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Ik vond het examen moeilijk, maar het resultaat was redelijk. Ik ben tevreden met de 7 die ik heb gekregen.",
+        "Het is niet koud, maar het waait redelijk hard. Dat maakt het minder aangenaam."
+      ],
+      "note": null
+    },
+    {
+      "nl": "suggereren",
+      "lemma": "suggereren",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to suggest",
+        "to imply"
+      ],
+      "primaryEn": "to suggest",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Reclames suggereren vaak dat je heel gelukkig zult worden als je een bepaald product koopt. Iedereen weet wel dat dat onzin is, maar toch blijven ze zulke reclames maken."
+      ],
+      "note": null
+    },
+    {
+      "nl": "de suggestie",
+      "lemma": "suggestie",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "suggestion"
+      ],
+      "primaryEn": "suggestion",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Reclames suggereren vaak dat je heel gelukkig zult worden als je een bepaald product koopt. Iedereen weet wel dat dat onzin is, maar toch blijven ze zulke reclames maken."
+      ],
+      "note": null
+    },
+    {
+      "nl": "toegeven aan",
+      "lemma": "toegeven aan",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to give in to",
+        "to yield to",
+        "to admit"
+      ],
+      "primaryEn": "to give in to",
+      "hint": null,
+      "reflexive": false,
+      "separable": true,
+      "irregular": null,
+      "examples": [
+        "Geef nou maar toe dat je ook weleens iets onaardigs tegen je ouders hebt gezegd. Niemand is perfect.",
+        "Als ik drop zie, dan moet ik een dropje eten. Ik moet daar gewoon aan toegeven."
+      ],
+      "note": null
+    },
+    {
+      "nl": "het aandachtspunt",
+      "lemma": "aandachtspunt",
+      "article": "het",
+      "pos": "noun",
+      "en": [
+        "point of attention",
+        "point of concern"
+      ],
+      "primaryEn": "point of attention",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "In een checklist met twaalf aandachtspunten was weergegeven waar we naar moesten kijken. We mochten beslist geen aandachtspunt overslaan."
+      ],
+      "note": null
+    },
+    {
+      "nl": "aarzelen",
+      "lemma": "aarzelen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to hesitate"
+      ],
+      "primaryEn": "to hesitate",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "De moedige politieagent sprong zonder aarzeling in het kanaal om het kind uit het water te halen. Hij aarzelde geen moment."
+      ],
+      "note": null
+    },
+    {
+      "nl": "de aarzeling",
+      "lemma": "aarzeling",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "hesitation"
+      ],
+      "primaryEn": "hesitation",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "De moedige politieagent sprong zonder aarzeling in het kanaal om het kind uit het water te halen. Hij aarzelde geen moment."
+      ],
+      "note": null
+    },
+    {
+      "nl": "de adem",
+      "lemma": "adem",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "breath"
+      ],
+      "primaryEn": "breath",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Bij deze oefening moet je door je neus inademen en door je mond uitademen."
+      ],
+      "note": null
+    },
+    {
+      "nl": "begeleiden",
+      "lemma": "begeleiden",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to accompany",
+        "to guide",
+        "to supervise"
+      ],
+      "primaryEn": "to accompany",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Tijdens onze reis door Zuid-Amerika werden we begeleid door een Friese dame die in 1989 naar Brazilië was verhuisd. Ze wist ons erg veel over het land te vertellen. We waren heel tevreden over de begeleiding."
+      ],
+      "note": null
+    },
+    {
+      "nl": "de begeleiding",
+      "lemma": "begeleiding",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "guidance",
+        "support",
+        "accompaniment"
+      ],
+      "primaryEn": "guidance",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Tijdens onze reis door Zuid-Amerika werden we begeleid door een Friese dame die in 1989 naar Brazilië was verhuisd. Ze wist ons erg veel over het land te vertellen. We waren heel tevreden over de begeleiding."
+      ],
+      "note": null
+    },
+    {
+      "nl": "bewaren",
+      "lemma": "bewaren",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to keep",
+        "to store",
+        "to save"
+      ],
+      "primaryEn": "to keep",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Ik heb de neiging om alles te bewaren. Ik kan echt niets weggooien. Daarom staan er zo veel spullen in de garage."
+      ],
+      "note": null
+    },
+    {
+      "nl": "de gebeurtenis",
+      "lemma": "gebeurtenis",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "event",
+        "occurrence"
+      ],
+      "primaryEn": "event",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Een huwelijk is een van de belangrijkste gebeurtenissen in het leven van veel mensen. Niet voor niets wordt de trouwdag vaak de mooiste dag van je leven genoemd."
+      ],
+      "note": null
+    },
+    {
+      "nl": "de geest",
+      "lemma": "geest",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "mind",
+        "spirit",
+        "ghost"
+      ],
+      "primaryEn": "mind",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Geloof jij dat er een geest in een wonderlamp kan zitten?",
+        "Het is in de geest van deze tijd om vooral te genieten van het leven."
+      ],
+      "note": null
+    },
+    {
+      "nl": "zich iets voor de geest halen",
+      "lemma": "iets voor de geest halen",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "to call something to mind",
+        "to picture something"
+      ],
+      "primaryEn": "to call something to mind",
+      "hint": null,
+      "reflexive": true,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Hij probeerde zich te herinneren wat er precies gebeurd was, maar hij kon zich de situatie niet meer voor de geest halen."
+      ],
+      "note": null
+    },
+    {
+      "nl": "geloofwaardig",
+      "lemma": "geloofwaardig",
+      "article": null,
+      "pos": "adjective",
+      "en": [
+        "credible",
+        "believable"
+      ],
+      "primaryEn": "credible",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "De politicus heeft ons van alles beloofd, maar hij heeft niets bereikt. Hij is totaal niet meer geloofwaardig."
+      ],
+      "note": null
+    },
+    {
+      "nl": "gespannen",
+      "lemma": "gespannen",
+      "article": null,
+      "pos": "adjective",
+      "en": [
+        "tense",
+        "nervous"
+      ],
+      "primaryEn": "tense",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Sommige cursisten zijn erg gespannen als ze een toets moeten doen. Het is jammer dat ze zo nerveus zijn, want de meeste mensen presteren beter als ze ontspannen zijn."
+      ],
+      "note": null
+    },
+    {
+      "nl": "gevoelig",
+      "lemma": "gevoelig",
+      "article": null,
+      "pos": "adjective",
+      "en": [
+        "sensitive"
+      ],
+      "primaryEn": "sensitive",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Artiesten zijn vaak erg gevoelige mensen. Kleine dingen kunnen bij hen grote emoties veroorzaken."
+      ],
+      "note": null
+    },
+    {
+      "nl": "inademen",
+      "lemma": "inademen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to breathe in",
+        "to inhale"
+      ],
+      "primaryEn": "to breathe in",
+      "hint": null,
+      "reflexive": false,
+      "separable": true,
+      "irregular": null,
+      "examples": [
+        "Bij deze oefening moet je door je neus inademen en door je mond uitademen."
+      ],
+      "note": null
+    },
+    {
+      "nl": "de inademing",
+      "lemma": "inademing",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "inhalation",
+        "breathing in"
+      ],
+      "primaryEn": "inhalation",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Bij deze oefening moet je door je neus inademen en door je mond uitademen."
+      ],
+      "note": null
+    },
+    {
+      "nl": "nagenieten van",
+      "lemma": "nagenieten van",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to relish the memory of",
+        "to keep enjoying (something) afterwards"
+      ],
+      "primaryEn": "to relish the memory of",
+      "hint": null,
+      "reflexive": false,
+      "separable": true,
+      "irregular": null,
+      "examples": [
+        "Theo zat na afloop van de film nog een hele poos na te genieten. Hij vond de film prachtig."
+      ],
+      "note": null
+    },
+    {
+      "nl": "ondertussen",
+      "lemma": "ondertussen",
+      "article": null,
+      "pos": "adverb",
+      "en": [
+        "meanwhile",
+        "in the meantime"
+      ],
+      "primaryEn": "meanwhile",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "De cursisten maakten de toets en ondertussen bekeek de docent de schrijfopdrachten."
+      ],
+      "note": null
+    },
+    {
+      "nl": "overbelast",
+      "lemma": "overbelast",
+      "article": null,
+      "pos": "adjective",
+      "en": [
+        "overloaded",
+        "overburdened"
+      ],
+      "primaryEn": "overloaded",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Het netwerk van de server was overbelast, doordat iedereen naar de website met de gratis concerttickets ging. Daardoor konden we geen tickets meer bestellen."
+      ],
+      "note": null
+    },
+    {
+      "nl": "de schoonheid",
+      "lemma": "schoonheid",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "beauty"
+      ],
+      "primaryEn": "beauty",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Schoonheid is zo relatief; wat de een mooi vindt, vindt de ander superlelijk."
+      ],
+      "note": null
+    },
+    {
+      "nl": "de toegang",
+      "lemma": "toegang",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "access",
+        "entrance",
+        "admission"
+      ],
+      "primaryEn": "access",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Als je een blauw bord ziet met witte letters 'Verboden toegang art. 461' betekent dat dat je niet op het terrein mag komen. Vaak is dat dan privéterrein."
+      ],
+      "note": null
+    },
+    {
+      "nl": "toevoegen",
+      "lemma": "toevoegen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to add"
+      ],
+      "primaryEn": "to add",
+      "hint": "toevoegen (aan)",
+      "reflexive": false,
+      "separable": true,
+      "irregular": null,
+      "examples": [
+        "Er ontbreekt iets in de cake. Hij is niet zoet genoeg. Heb je wel suiker toegevoegd?"
+      ],
+      "note": null
+    },
+    {
+      "nl": "de toevoeging",
+      "lemma": "toevoeging",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "addition"
+      ],
+      "primaryEn": "addition",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Er ontbreekt iets in de cake. Hij is niet zoet genoeg. Heb je wel suiker toegevoegd?"
+      ],
+      "note": null
+    },
+    {
+      "nl": "trouw",
+      "lemma": "trouw",
+      "article": null,
+      "pos": "adjective",
+      "en": [
+        "faithful",
+        "loyal"
+      ],
+      "primaryEn": "faithful",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "De pianist zet elke avond trouw de wekker zodat hij de volgende dag vroeg kan beginnen met studeren."
+      ],
+      "note": null
+    },
+    {
+      "nl": "uitademen",
+      "lemma": "uitademen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to breathe out",
+        "to exhale"
+      ],
+      "primaryEn": "to breathe out",
+      "hint": null,
+      "reflexive": false,
+      "separable": true,
+      "irregular": null,
+      "examples": [
+        "Bij deze oefening moet je door je neus inademen en door je mond uitademen."
+      ],
+      "note": null
+    },
+    {
+      "nl": "de uitademing",
+      "lemma": "uitademing",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "exhalation",
+        "breathing out"
+      ],
+      "primaryEn": "exhalation",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Bij deze oefening moet je door je neus inademen en door je mond uitademen."
+      ],
+      "note": null
+    },
+    {
+      "nl": "uitvinden",
+      "lemma": "uitvinden",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to invent"
+      ],
+      "primaryEn": "to invent",
+      "hint": null,
+      "reflexive": false,
+      "separable": true,
+      "irregular": null,
+      "examples": [
+        "De telefoon is een uitvinding van Alexander Graham Bell. Hij was professioneel uitvinder en heeft ook een soort metaaldetector uitgevonden."
+      ],
+      "note": null
+    },
+    {
+      "nl": "de uitvinding",
+      "lemma": "uitvinding",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "invention"
+      ],
+      "primaryEn": "invention",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "De telefoon is een uitvinding van Alexander Graham Bell. Hij was professioneel uitvinder en heeft ook een soort metaaldetector uitgevonden."
+      ],
+      "note": null
+    },
+    {
+      "nl": "verminderen",
+      "lemma": "verminderen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to decrease",
+        "to reduce",
+        "to diminish"
+      ],
+      "primaryEn": "to decrease",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Het aantal boekwinkels is verminderd, omdat mensen steeds vaker boeken via internet bestellen."
+      ],
+      "note": null
+    },
+    {
+      "nl": "de vermindering",
+      "lemma": "vermindering",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "reduction",
+        "decrease"
+      ],
+      "primaryEn": "reduction",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Het aantal boekwinkels is verminderd, omdat mensen steeds vaker boeken via internet bestellen."
+      ],
+      "note": null
+    },
+    {
+      "nl": "verrassen",
+      "lemma": "verrassen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to surprise"
+      ],
+      "primaryEn": "to surprise",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Sommige mannen verrassen hun vrouw zo nu en dan met een bos bloemen. Je moet niet elk weekend bloemen meebrengen, want dan is het al snel geen verrassing meer."
+      ],
+      "note": null
+    },
+    {
+      "nl": "de verrassing",
+      "lemma": "verrassing",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "surprise"
+      ],
+      "primaryEn": "surprise",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Sommige mannen verrassen hun vrouw zo nu en dan met een bos bloemen. Je moet niet elk weekend bloemen meebrengen, want dan is het al snel geen verrassing meer."
+      ],
+      "note": null
+    },
+    {
+      "nl": "waarnemen",
+      "lemma": "waarnemen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to observe",
+        "to perceive",
+        "to stand in (for someone)"
+      ],
+      "primaryEn": "to observe",
+      "hint": null,
+      "reflexive": false,
+      "separable": true,
+      "irregular": {
+        "past": "nam waar",
+        "perfect": "waargenomen"
+      },
+      "examples": [
+        "Klimatologen hebben in de afgelopen decennia een stijging van de gemiddelde temperatuur waargenomen. Door metingen hebben ze dat kunnen zien.",
+        "Als de dokter afwezig is, dan neemt een collega zijn taken waar."
+      ],
+      "note": null
+    },
+    {
+      "nl": "de waarneming",
+      "lemma": "waarneming",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "observation",
+        "perception"
+      ],
+      "primaryEn": "observation",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Klimatologen hebben in de afgelopen decennia een stijging van de gemiddelde temperatuur waargenomen. Door metingen hebben ze dat kunnen zien.",
+        "Als de dokter afwezig is, dan neemt een collega zijn taken waar."
+      ],
+      "note": null
+    },
+    {
+      "nl": "aangezien",
+      "lemma": "aangezien",
+      "article": null,
+      "pos": "other",
+      "en": [
+        "since",
+        "as",
+        "seeing that"
+      ],
+      "primaryEn": "since",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "daardoor",
+      "lemma": "daardoor",
+      "article": null,
+      "pos": "adverb",
+      "en": [
+        "because of that",
+        "as a result"
+      ],
+      "primaryEn": "because of that",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "daarna",
+      "lemma": "daarna",
+      "article": null,
+      "pos": "adverb",
+      "en": [
+        "after that",
+        "afterwards"
+      ],
+      "primaryEn": "after that",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "daarom",
+      "lemma": "daarom",
+      "article": null,
+      "pos": "adverb",
+      "en": [
+        "therefore",
+        "that is why"
+      ],
+      "primaryEn": "therefore",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "daarvoor",
+      "lemma": "daarvoor",
+      "article": null,
+      "pos": "adverb",
+      "en": [
+        "before that",
+        "for that (purpose)"
+      ],
+      "primaryEn": "before that",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "indien",
+      "lemma": "indien",
+      "article": null,
+      "pos": "other",
+      "en": [
+        "if",
+        "in case"
+      ],
+      "primaryEn": "if",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "mits",
+      "lemma": "mits",
+      "article": null,
+      "pos": "other",
+      "en": [
+        "provided that"
+      ],
+      "primaryEn": "provided that",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "naarmate",
+      "lemma": "naarmate",
+      "article": null,
+      "pos": "other",
+      "en": [
+        "as",
+        "in proportion as"
+      ],
+      "primaryEn": "as",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "ofschoon",
+      "lemma": "ofschoon",
+      "article": null,
+      "pos": "other",
+      "en": [
+        "although",
+        "though"
+      ],
+      "primaryEn": "although",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "opdat",
+      "lemma": "opdat",
+      "article": null,
+      "pos": "other",
+      "en": [
+        "so that",
+        "in order that"
+      ],
+      "primaryEn": "so that",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "sinds",
+      "lemma": "sinds",
+      "article": null,
+      "pos": "other",
+      "en": [
+        "since"
+      ],
+      "primaryEn": "since",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "tenzij",
+      "lemma": "tenzij",
+      "article": null,
+      "pos": "other",
+      "en": [
+        "unless"
+      ],
+      "primaryEn": "unless",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "zolang",
+      "lemma": "zolang",
+      "article": null,
+      "pos": "other",
+      "en": [
+        "as long as"
+      ],
+      "primaryEn": "as long as",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "beginnen met / aan",
+      "lemma": "beginnen met / aan",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to begin with",
+        "to start on"
+      ],
+      "primaryEn": "to begin with",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "behoren tot",
+      "lemma": "behoren tot",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to belong to"
+      ],
+      "primaryEn": "to belong to",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "beperken tot",
+      "lemma": "beperken tot",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to limit to",
+        "to restrict to"
+      ],
+      "primaryEn": "to limit to",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "beslissen over",
+      "lemma": "beslissen over",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to decide on",
+        "to decide about"
+      ],
+      "primaryEn": "to decide on",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "bestaan uit",
+      "lemma": "bestaan uit",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to consist of"
+      ],
+      "primaryEn": "to consist of",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "blijken uit",
+      "lemma": "blijken uit",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to be evident from",
+        "to appear from"
+      ],
+      "primaryEn": "to be evident from",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "brengen naar",
+      "lemma": "brengen naar",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to take to",
+        "to bring to"
+      ],
+      "primaryEn": "to take to",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "controleren op",
+      "lemma": "controleren op",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to check for"
+      ],
+      "primaryEn": "to check for",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "delen met",
+      "lemma": "delen met",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to share with"
+      ],
+      "primaryEn": "to share with",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "denken aan",
+      "lemma": "denken aan",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to think of",
+        "to think about"
+      ],
+      "primaryEn": "to think of",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "doorgaan met",
+      "lemma": "doorgaan met",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to continue with",
+        "to go on with"
+      ],
+      "primaryEn": "to continue with",
+      "hint": null,
+      "reflexive": false,
+      "separable": true,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "dromen over / van",
+      "lemma": "dromen over / van",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to dream about",
+        "to dream of"
+      ],
+      "primaryEn": "to dream about",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "gaan naar",
+      "lemma": "gaan naar",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to go to"
+      ],
+      "primaryEn": "to go to",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "geloven in",
+      "lemma": "geloven in",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to believe in"
+      ],
+      "primaryEn": "to believe in",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "genieten van",
+      "lemma": "genieten van",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to enjoy"
+      ],
+      "primaryEn": "to enjoy",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "geven aan",
+      "lemma": "geven aan",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to give to"
+      ],
+      "primaryEn": "to give to",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "helpen met",
+      "lemma": "helpen met",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to help with"
+      ],
+      "primaryEn": "to help with",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "herinneren aan",
+      "lemma": "herinneren aan",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to remind of"
+      ],
+      "primaryEn": "to remind of",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "hopen op",
+      "lemma": "hopen op",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to hope for"
+      ],
+      "primaryEn": "to hope for",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "houden van",
+      "lemma": "houden van",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to love",
+        "to like"
+      ],
+      "primaryEn": "to love",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "ingaan op",
+      "lemma": "ingaan op",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to go into",
+        "to address"
+      ],
+      "primaryEn": "to go into",
+      "hint": null,
+      "reflexive": false,
+      "separable": true,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "kijken naar",
+      "lemma": "kijken naar",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to look at",
+        "to watch"
+      ],
+      "primaryEn": "to look at",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "lachen om",
+      "lemma": "lachen om",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to laugh at",
+        "to laugh about"
+      ],
+      "primaryEn": "to laugh at",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "leiden tot",
+      "lemma": "leiden tot",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to lead to"
+      ],
+      "primaryEn": "to lead to",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "leveren aan",
+      "lemma": "leveren aan",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to supply to",
+        "to deliver to"
+      ],
+      "primaryEn": "to supply to",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "lijken op",
+      "lemma": "lijken op",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to look like",
+        "to resemble"
+      ],
+      "primaryEn": "to look like",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "luisteren naar",
+      "lemma": "luisteren naar",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to listen to"
+      ],
+      "primaryEn": "to listen to",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "oefenen met",
+      "lemma": "oefenen met",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to practise with"
+      ],
+      "primaryEn": "to practise with",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "passen op",
+      "lemma": "passen op",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to watch out for",
+        "to mind"
+      ],
+      "primaryEn": "to watch out for",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "reageren op",
+      "lemma": "reageren op",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to react to",
+        "to respond to"
+      ],
+      "primaryEn": "to react to",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "rekenen op",
+      "lemma": "rekenen op",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to count on"
+      ],
+      "primaryEn": "to count on",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "schrijven aan / naar",
+      "lemma": "schrijven aan / naar",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to write to"
+      ],
+      "primaryEn": "to write to",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "schrikken van",
+      "lemma": "schrikken van",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to be startled by",
+        "to get a fright from"
+      ],
+      "primaryEn": "to be startled by",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "spreken over iets met iemand",
+      "lemma": "spreken over iets met iemand",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to talk about something with someone"
+      ],
+      "primaryEn": "to talk about something with someone",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "stemmen op",
+      "lemma": "stemmen op",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to vote for"
+      ],
+      "primaryEn": "to vote for",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "stoppen met",
+      "lemma": "stoppen met",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to stop (doing)",
+        "to quit"
+      ],
+      "primaryEn": "to stop (doing)",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "trekken aan",
+      "lemma": "trekken aan",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to pull on",
+        "to pull at"
+      ],
+      "primaryEn": "to pull on",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "trouwen met",
+      "lemma": "trouwen met",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to marry"
+      ],
+      "primaryEn": "to marry",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "vergelijken met",
+      "lemma": "vergelijken met",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to compare with",
+        "to compare to"
+      ],
+      "primaryEn": "to compare with",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "vertellen aan",
+      "lemma": "vertellen aan",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to tell (to)"
+      ],
+      "primaryEn": "to tell (to)",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "voorstellen aan",
+      "lemma": "voorstellen aan",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to introduce to"
+      ],
+      "primaryEn": "to introduce to",
+      "hint": null,
+      "reflexive": false,
+      "separable": true,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "vragen aan",
+      "lemma": "vragen aan",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to ask (someone)"
+      ],
+      "primaryEn": "to ask (someone)",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "wachten op",
+      "lemma": "wachten op",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to wait for"
+      ],
+      "primaryEn": "to wait for",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "wennen aan",
+      "lemma": "wennen aan",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to get used to"
+      ],
+      "primaryEn": "to get used to",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "wijzen naar",
+      "lemma": "wijzen naar",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to point at",
+        "to point to"
+      ],
+      "primaryEn": "to point at",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "zeggen tegen / (aan)",
+      "lemma": "zeggen tegen / (aan)",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to say to"
+      ],
+      "primaryEn": "to say to",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "zich voorbereiden op",
+      "lemma": "voorbereiden op",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "to prepare for"
+      ],
+      "primaryEn": "to prepare for",
+      "hint": null,
+      "reflexive": true,
+      "separable": true,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "zoeken naar",
+      "lemma": "zoeken naar",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to search for",
+        "to look for"
+      ],
+      "primaryEn": "to search for",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "fluiten",
+      "lemma": "fluiten",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to whistle"
+      ],
+      "primaryEn": "to whistle",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "floot",
+        "perfect": "gefloten"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "ondernemen",
+      "lemma": "ondernemen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to undertake"
+      ],
+      "primaryEn": "to undertake",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "ondernam",
+        "perfect": "ondernomen"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "ontbijten",
+      "lemma": "ontbijten",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to have breakfast"
+      ],
+      "primaryEn": "to have breakfast",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "ontbeet",
+        "perfect": "ontbeten"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "ontbreken",
+      "lemma": "ontbreken",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to be missing",
+        "to be lacking"
+      ],
+      "primaryEn": "to be missing",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "ontbrak",
+        "perfect": "ontbroken"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "strijken",
+      "lemma": "strijken",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to iron"
+      ],
+      "primaryEn": "to iron",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "streek",
+        "perfect": "gestreken"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "verheffen",
+      "lemma": "verheffen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to raise (one's voice)",
+        "to elevate"
+      ],
+      "primaryEn": "to raise (one's voice)",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "verhief",
+        "perfect": "verheven"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "vermijden",
+      "lemma": "vermijden",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to avoid"
+      ],
+      "primaryEn": "to avoid",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "vermeed",
+        "perfect": "vermeden"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "verwerven",
+      "lemma": "verwerven",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to acquire",
+        "to gain"
+      ],
+      "primaryEn": "to acquire",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "verwierf",
+        "perfect": "verworven"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "wegen",
+      "lemma": "wegen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to weigh"
+      ],
+      "primaryEn": "to weigh",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "woog",
+        "perfect": "gewogen"
+      },
+      "examples": [],
+      "note": null
+    }
+  ]
+}

@@ -1,5 +1,8 @@
 export type PartOfSpeech = "noun" | "verb" | "adjective" | "adverb" | "phrase" | "other";
 
+/** Course level: 4 = Nederlands in actie, 5 = Nederlands op niveau. */
+export type Level = 4 | 5;
+
 export interface Word {
   id: string;              // stable slug, e.g. "h8-de-aarde"
   chapter: number;
@@ -25,5 +28,6 @@ export interface ChapterMeta {
   title: string;   // "Hoofdstuk 7"
   theme: string;   // "Nederlands leren"
   wordCount: number;
+  level: Level;
   load: () => Promise<Word[]>;
 }

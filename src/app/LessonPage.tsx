@@ -7,7 +7,7 @@ import { buildLessonWords, buildTasks, chunkLessons, shuffle, type SessionTask }
 import { LessonRunner, type LessonSummary } from "../components/LessonRunner";
 import { speakerAvailable } from "../components/Speaker";
 import { SummaryScreen } from "../components/SummaryScreen";
-import { useApp } from "../store/useApp";
+import { throttleKey, useApp, useLevel } from "../store/useApp";
 
 interface Session {
   tasks: SessionTask[];
@@ -23,14 +23,15 @@ export function LessonPage({ practice = false }: { practice?: boolean }) {
   const lessonIndex = practice ? -1 : Number(i);
   const navigate = useNavigate();
   const app = useApp();
+  const level = useLevel();
   const [words, setWords] = useState<Word[] | null>(null);
   const [session, setSession] = useState<Session | null>(null);
   const [summary, setSummary] = useState<LessonSummary | null>(null);
   const [round, setRound] = useState(0);
 
   useEffect(() => {
-    void loadChapterWords(num).then(setWords);
-  }, [num]);
+    void loadChapterWords(level, num).then(setWords);
+  }, [level, num]);
 
   const build = useCallback(
     (chapterWords: Word[]): Session => {
@@ -57,7 +58,7 @@ export function LessonPage({ practice = false }: { practice?: boolean }) {
         chapterWords,
         states,
         now,
-        app.newRemainingToday(num, now),
+        app.newRemainingToday(throttleKey(level, num), now),
       );
       return {
         tasks: buildTasks([...newWords, ...reviewWords], states, opts),
@@ -65,7 +66,7 @@ export function LessonPage({ practice = false }: { practice?: boolean }) {
         pool: chapterWords,
       };
     },
-    [practice, lessonIndex, num, app],
+    [practice, lessonIndex, num, level, app],
   );
 
   useEffect(() => {
@@ -79,7 +80,7 @@ export function LessonPage({ practice = false }: { practice?: boolean }) {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [words, round, practice, lessonIndex, num]);
 
-  const meta = chapterMeta(num);
+  const meta = chapterMeta(level, num);
   if (!meta) return <p>Unknown chapter.</p>;
   if (!words || !session) return <p className="sub">Loading…</p>;
 
@@ -114,7 +115,7 @@ export function LessonPage({ practice = false }: { practice?: boolean }) {
       tasks={session.tasks}
       pool={session.pool}
       newWords={session.newWords}
-      chapterForThrottle={num}
+      throttleKey={throttleKey(level, num)}
       onQuit={() => navigate(`/chapter/${num}`)}
       onFinish={setSummary}
     />

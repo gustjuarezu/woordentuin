@@ -1,0 +1,1750 @@
+[
+  {
+    "id": "n1-iets-niet-uitvlakken",
+    "chapter": 1,
+    "nl": "iets niet uitvlakken",
+    "lemma": "iets niet uitvlakken",
+    "pos": "phrase",
+    "en": [
+      "not to underestimate something",
+      "not to be dismissed"
+    ],
+    "primaryEn": "not to underestimate something",
+    "source": "generated",
+    "separable": true
+  },
+  {
+    "id": "n1-ergens-van-opkijken",
+    "chapter": 1,
+    "nl": "ergens van opkijken",
+    "lemma": "ergens van opkijken",
+    "pos": "phrase",
+    "en": [
+      "to be surprised by something",
+      "to be amazed at something"
+    ],
+    "primaryEn": "to be surprised by something",
+    "source": "generated",
+    "separable": true
+  },
+  {
+    "id": "n1-het-positiefste-wat-ervan-af-kan",
+    "chapter": 1,
+    "nl": "het positiefste wat ervan af kan",
+    "lemma": "positiefste wat ervan af kan",
+    "pos": "phrase",
+    "en": [
+      "the highest praise possible",
+      "as positive as it gets"
+    ],
+    "primaryEn": "the highest praise possible",
+    "source": "generated"
+  },
+  {
+    "id": "n1-beledigen",
+    "chapter": 1,
+    "nl": "beledigen",
+    "lemma": "beledigen",
+    "pos": "verb",
+    "en": [
+      "to insult",
+      "to offend"
+    ],
+    "primaryEn": "to insult",
+    "source": "generated",
+    "examples": [
+      "Onze buurvrouw voelde zich beledigd toen ik vroeg of ze hulp nodig had bij het schoonmaken van haar ramen. Ze zei dat ze dat heel goed zelf kon doen, maar dat ze het de laatste tijd te druk had gehad."
+    ]
+  },
+  {
+    "id": "n1-de-belediging",
+    "chapter": 1,
+    "nl": "de belediging",
+    "lemma": "belediging",
+    "pos": "noun",
+    "en": [
+      "insult",
+      "offence"
+    ],
+    "primaryEn": "insult",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Onze buurvrouw voelde zich beledigd toen ik vroeg of ze hulp nodig had bij het schoonmaken van haar ramen. Ze zei dat ze dat heel goed zelf kon doen, maar dat ze het de laatste tijd te druk had gehad."
+    ]
+  },
+  {
+    "id": "n1-beweren",
+    "chapter": 1,
+    "nl": "beweren",
+    "lemma": "beweren",
+    "pos": "verb",
+    "en": [
+      "to claim",
+      "to assert",
+      "to maintain"
+    ],
+    "primaryEn": "to claim",
+    "source": "generated",
+    "examples": [
+      "Johan beweert dat hij alle romans van Dostojevski heeft gelezen, maar dat geloof ik niet. Hij zegt wel vaker dingen die je niet zo serieus moet nemen."
+    ]
+  },
+  {
+    "id": "n1-de-bewering",
+    "chapter": 1,
+    "nl": "de bewering",
+    "lemma": "bewering",
+    "pos": "noun",
+    "en": [
+      "claim",
+      "assertion"
+    ],
+    "primaryEn": "claim",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Johan beweert dat hij alle romans van Dostojevski heeft gelezen, maar dat geloof ik niet. Hij zegt wel vaker dingen die je niet zo serieus moet nemen."
+    ]
+  },
+  {
+    "id": "n1-gaaf",
+    "chapter": 1,
+    "nl": "gaaf",
+    "lemma": "gaaf",
+    "pos": "adjective",
+    "en": [
+      "cool",
+      "great",
+      "flawless"
+    ],
+    "primaryEn": "cool",
+    "source": "generated",
+    "examples": [
+      "Gaaf dat je een prijs hebt gewonnen en dat je nu naar het concert mag gaan.",
+      "Mijn buurvrouw is 75 jaar, maar ze ziet er nog goed uit. Ze heeft een heel gave huid, helemaal glad zonder vlekken."
+    ]
+  },
+  {
+    "id": "n1-keurig",
+    "chapter": 1,
+    "nl": "keurig",
+    "lemma": "keurig",
+    "pos": "adjective",
+    "en": [
+      "neat",
+      "tidy",
+      "proper"
+    ],
+    "primaryEn": "neat",
+    "source": "generated",
+    "examples": [
+      "Heb je opgeruimd? Je kamer ziet er echt weer keurig uit!",
+      "Hij ziet er altijd keurig uit met zijn gestreken overhemden."
+    ]
+  },
+  {
+    "id": "n1-van-nature",
+    "chapter": 1,
+    "nl": "van nature",
+    "lemma": "van nature",
+    "pos": "phrase",
+    "en": [
+      "by nature",
+      "naturally"
+    ],
+    "primaryEn": "by nature",
+    "source": "generated",
+    "examples": [
+      "Mensen zijn van nature optimistisch. Ondanks negatieve gebeurtenissen houden ze een positieve kijk op de wereld."
+    ]
+  },
+  {
+    "id": "n1-neigen",
+    "chapter": 1,
+    "nl": "neigen",
+    "lemma": "neigen",
+    "pos": "verb",
+    "en": [
+      "to tend (to)",
+      "to incline"
+    ],
+    "primaryEn": "to tend (to)",
+    "source": "generated",
+    "examples": [
+      "Mensen die van rust en stilte houden, zijn niet geneigd om naar grote dance-evenementen te gaan. Ze vermijden de drukte en hebben de neiging om thuis te blijven."
+    ]
+  },
+  {
+    "id": "n1-de-neiging",
+    "chapter": 1,
+    "nl": "de neiging",
+    "lemma": "neiging",
+    "pos": "noun",
+    "en": [
+      "tendency",
+      "inclination"
+    ],
+    "primaryEn": "tendency",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Mensen die van rust en stilte houden, zijn niet geneigd om naar grote dance-evenementen te gaan. Ze vermijden de drukte en hebben de neiging om thuis te blijven."
+    ]
+  },
+  {
+    "id": "n1-ondergeschikt",
+    "chapter": 1,
+    "nl": "ondergeschikt",
+    "lemma": "ondergeschikt",
+    "pos": "adjective",
+    "en": [
+      "subordinate",
+      "inferior"
+    ],
+    "primaryEn": "subordinate",
+    "source": "generated",
+    "examples": [
+      "In de negentiende eeuw beschouwde men in Nederland de vrouw als ondergeschikt aan de man. Daarom hadden vrouwen bijvoorbeeld geen stemrecht."
+    ]
+  },
+  {
+    "id": "n1-redelijk",
+    "chapter": 1,
+    "nl": "redelijk",
+    "lemma": "redelijk",
+    "pos": "adjective",
+    "en": [
+      "reasonable",
+      "fair",
+      "quite"
+    ],
+    "primaryEn": "reasonable",
+    "source": "generated",
+    "examples": [
+      "Ik vond het examen moeilijk, maar het resultaat was redelijk. Ik ben tevreden met de 7 die ik heb gekregen.",
+      "Het is niet koud, maar het waait redelijk hard. Dat maakt het minder aangenaam."
+    ]
+  },
+  {
+    "id": "n1-suggereren",
+    "chapter": 1,
+    "nl": "suggereren",
+    "lemma": "suggereren",
+    "pos": "verb",
+    "en": [
+      "to suggest",
+      "to imply"
+    ],
+    "primaryEn": "to suggest",
+    "source": "generated",
+    "examples": [
+      "Reclames suggereren vaak dat je heel gelukkig zult worden als je een bepaald product koopt. Iedereen weet wel dat dat onzin is, maar toch blijven ze zulke reclames maken."
+    ]
+  },
+  {
+    "id": "n1-de-suggestie",
+    "chapter": 1,
+    "nl": "de suggestie",
+    "lemma": "suggestie",
+    "pos": "noun",
+    "en": [
+      "suggestion"
+    ],
+    "primaryEn": "suggestion",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Reclames suggereren vaak dat je heel gelukkig zult worden als je een bepaald product koopt. Iedereen weet wel dat dat onzin is, maar toch blijven ze zulke reclames maken."
+    ]
+  },
+  {
+    "id": "n1-toegeven-aan",
+    "chapter": 1,
+    "nl": "toegeven aan",
+    "lemma": "toegeven aan",
+    "pos": "phrase",
+    "en": [
+      "to give in to",
+      "to yield to",
+      "to admit"
+    ],
+    "primaryEn": "to give in to",
+    "source": "generated",
+    "separable": true,
+    "examples": [
+      "Geef nou maar toe dat je ook weleens iets onaardigs tegen je ouders hebt gezegd. Niemand is perfect.",
+      "Als ik drop zie, dan moet ik een dropje eten. Ik moet daar gewoon aan toegeven."
+    ]
+  },
+  {
+    "id": "n1-het-aandachtspunt",
+    "chapter": 1,
+    "nl": "het aandachtspunt",
+    "lemma": "aandachtspunt",
+    "pos": "noun",
+    "en": [
+      "point of attention",
+      "point of concern"
+    ],
+    "primaryEn": "point of attention",
+    "source": "generated",
+    "article": "het",
+    "examples": [
+      "In een checklist met twaalf aandachtspunten was weergegeven waar we naar moesten kijken. We mochten beslist geen aandachtspunt overslaan."
+    ]
+  },
+  {
+    "id": "n1-aarzelen",
+    "chapter": 1,
+    "nl": "aarzelen",
+    "lemma": "aarzelen",
+    "pos": "verb",
+    "en": [
+      "to hesitate"
+    ],
+    "primaryEn": "to hesitate",
+    "source": "generated",
+    "examples": [
+      "De moedige politieagent sprong zonder aarzeling in het kanaal om het kind uit het water te halen. Hij aarzelde geen moment."
+    ]
+  },
+  {
+    "id": "n1-de-aarzeling",
+    "chapter": 1,
+    "nl": "de aarzeling",
+    "lemma": "aarzeling",
+    "pos": "noun",
+    "en": [
+      "hesitation"
+    ],
+    "primaryEn": "hesitation",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "De moedige politieagent sprong zonder aarzeling in het kanaal om het kind uit het water te halen. Hij aarzelde geen moment."
+    ]
+  },
+  {
+    "id": "n1-de-adem",
+    "chapter": 1,
+    "nl": "de adem",
+    "lemma": "adem",
+    "pos": "noun",
+    "en": [
+      "breath"
+    ],
+    "primaryEn": "breath",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Bij deze oefening moet je door je neus inademen en door je mond uitademen."
+    ]
+  },
+  {
+    "id": "n1-begeleiden",
+    "chapter": 1,
+    "nl": "begeleiden",
+    "lemma": "begeleiden",
+    "pos": "verb",
+    "en": [
+      "to accompany",
+      "to guide",
+      "to supervise"
+    ],
+    "primaryEn": "to accompany",
+    "source": "generated",
+    "examples": [
+      "Tijdens onze reis door Zuid-Amerika werden we begeleid door een Friese dame die in 1989 naar Brazilië was verhuisd. Ze wist ons erg veel over het land te vertellen. We waren heel tevreden over de begeleiding."
+    ]
+  },
+  {
+    "id": "n1-de-begeleiding",
+    "chapter": 1,
+    "nl": "de begeleiding",
+    "lemma": "begeleiding",
+    "pos": "noun",
+    "en": [
+      "guidance",
+      "support",
+      "accompaniment"
+    ],
+    "primaryEn": "guidance",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Tijdens onze reis door Zuid-Amerika werden we begeleid door een Friese dame die in 1989 naar Brazilië was verhuisd. Ze wist ons erg veel over het land te vertellen. We waren heel tevreden over de begeleiding."
+    ]
+  },
+  {
+    "id": "n1-bewaren",
+    "chapter": 1,
+    "nl": "bewaren",
+    "lemma": "bewaren",
+    "pos": "verb",
+    "en": [
+      "to keep",
+      "to store",
+      "to save"
+    ],
+    "primaryEn": "to keep",
+    "source": "generated",
+    "examples": [
+      "Ik heb de neiging om alles te bewaren. Ik kan echt niets weggooien. Daarom staan er zo veel spullen in de garage."
+    ]
+  },
+  {
+    "id": "n1-de-gebeurtenis",
+    "chapter": 1,
+    "nl": "de gebeurtenis",
+    "lemma": "gebeurtenis",
+    "pos": "noun",
+    "en": [
+      "event",
+      "occurrence"
+    ],
+    "primaryEn": "event",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Een huwelijk is een van de belangrijkste gebeurtenissen in het leven van veel mensen. Niet voor niets wordt de trouwdag vaak de mooiste dag van je leven genoemd."
+    ]
+  },
+  {
+    "id": "n1-de-geest",
+    "chapter": 1,
+    "nl": "de geest",
+    "lemma": "geest",
+    "pos": "noun",
+    "en": [
+      "mind",
+      "spirit",
+      "ghost"
+    ],
+    "primaryEn": "mind",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Geloof jij dat er een geest in een wonderlamp kan zitten?",
+      "Het is in de geest van deze tijd om vooral te genieten van het leven."
+    ]
+  },
+  {
+    "id": "n1-zich-iets-voor-de-geest-halen",
+    "chapter": 1,
+    "nl": "zich iets voor de geest halen",
+    "lemma": "iets voor de geest halen",
+    "pos": "phrase",
+    "en": [
+      "to call something to mind",
+      "to picture something"
+    ],
+    "primaryEn": "to call something to mind",
+    "source": "generated",
+    "reflexive": true,
+    "examples": [
+      "Hij probeerde zich te herinneren wat er precies gebeurd was, maar hij kon zich de situatie niet meer voor de geest halen."
+    ]
+  },
+  {
+    "id": "n1-geloofwaardig",
+    "chapter": 1,
+    "nl": "geloofwaardig",
+    "lemma": "geloofwaardig",
+    "pos": "adjective",
+    "en": [
+      "credible",
+      "believable"
+    ],
+    "primaryEn": "credible",
+    "source": "generated",
+    "examples": [
+      "De politicus heeft ons van alles beloofd, maar hij heeft niets bereikt. Hij is totaal niet meer geloofwaardig."
+    ]
+  },
+  {
+    "id": "n1-gespannen",
+    "chapter": 1,
+    "nl": "gespannen",
+    "lemma": "gespannen",
+    "pos": "adjective",
+    "en": [
+      "tense",
+      "nervous"
+    ],
+    "primaryEn": "tense",
+    "source": "generated",
+    "examples": [
+      "Sommige cursisten zijn erg gespannen als ze een toets moeten doen. Het is jammer dat ze zo nerveus zijn, want de meeste mensen presteren beter als ze ontspannen zijn."
+    ]
+  },
+  {
+    "id": "n1-gevoelig",
+    "chapter": 1,
+    "nl": "gevoelig",
+    "lemma": "gevoelig",
+    "pos": "adjective",
+    "en": [
+      "sensitive"
+    ],
+    "primaryEn": "sensitive",
+    "source": "generated",
+    "examples": [
+      "Artiesten zijn vaak erg gevoelige mensen. Kleine dingen kunnen bij hen grote emoties veroorzaken."
+    ]
+  },
+  {
+    "id": "n1-inademen",
+    "chapter": 1,
+    "nl": "inademen",
+    "lemma": "inademen",
+    "pos": "verb",
+    "en": [
+      "to breathe in",
+      "to inhale"
+    ],
+    "primaryEn": "to breathe in",
+    "source": "generated",
+    "separable": true,
+    "examples": [
+      "Bij deze oefening moet je door je neus inademen en door je mond uitademen."
+    ]
+  },
+  {
+    "id": "n1-de-inademing",
+    "chapter": 1,
+    "nl": "de inademing",
+    "lemma": "inademing",
+    "pos": "noun",
+    "en": [
+      "inhalation",
+      "breathing in"
+    ],
+    "primaryEn": "inhalation",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Bij deze oefening moet je door je neus inademen en door je mond uitademen."
+    ]
+  },
+  {
+    "id": "n1-nagenieten-van",
+    "chapter": 1,
+    "nl": "nagenieten van",
+    "lemma": "nagenieten van",
+    "pos": "phrase",
+    "en": [
+      "to relish the memory of",
+      "to keep enjoying (something) afterwards"
+    ],
+    "primaryEn": "to relish the memory of",
+    "source": "generated",
+    "separable": true,
+    "examples": [
+      "Theo zat na afloop van de film nog een hele poos na te genieten. Hij vond de film prachtig."
+    ]
+  },
+  {
+    "id": "n1-ondertussen",
+    "chapter": 1,
+    "nl": "ondertussen",
+    "lemma": "ondertussen",
+    "pos": "adverb",
+    "en": [
+      "meanwhile",
+      "in the meantime"
+    ],
+    "primaryEn": "meanwhile",
+    "source": "generated",
+    "examples": [
+      "De cursisten maakten de toets en ondertussen bekeek de docent de schrijfopdrachten."
+    ]
+  },
+  {
+    "id": "n1-overbelast",
+    "chapter": 1,
+    "nl": "overbelast",
+    "lemma": "overbelast",
+    "pos": "adjective",
+    "en": [
+      "overloaded",
+      "overburdened"
+    ],
+    "primaryEn": "overloaded",
+    "source": "generated",
+    "examples": [
+      "Het netwerk van de server was overbelast, doordat iedereen naar de website met de gratis concerttickets ging. Daardoor konden we geen tickets meer bestellen."
+    ]
+  },
+  {
+    "id": "n1-de-schoonheid",
+    "chapter": 1,
+    "nl": "de schoonheid",
+    "lemma": "schoonheid",
+    "pos": "noun",
+    "en": [
+      "beauty"
+    ],
+    "primaryEn": "beauty",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Schoonheid is zo relatief; wat de een mooi vindt, vindt de ander superlelijk."
+    ]
+  },
+  {
+    "id": "n1-de-toegang",
+    "chapter": 1,
+    "nl": "de toegang",
+    "lemma": "toegang",
+    "pos": "noun",
+    "en": [
+      "access",
+      "entrance",
+      "admission"
+    ],
+    "primaryEn": "access",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Als je een blauw bord ziet met witte letters 'Verboden toegang art. 461' betekent dat dat je niet op het terrein mag komen. Vaak is dat dan privéterrein."
+    ]
+  },
+  {
+    "id": "n1-toevoegen",
+    "chapter": 1,
+    "nl": "toevoegen",
+    "lemma": "toevoegen",
+    "pos": "verb",
+    "en": [
+      "to add"
+    ],
+    "primaryEn": "to add",
+    "source": "generated",
+    "separable": true,
+    "hint": "toevoegen (aan)",
+    "examples": [
+      "Er ontbreekt iets in de cake. Hij is niet zoet genoeg. Heb je wel suiker toegevoegd?"
+    ]
+  },
+  {
+    "id": "n1-de-toevoeging",
+    "chapter": 1,
+    "nl": "de toevoeging",
+    "lemma": "toevoeging",
+    "pos": "noun",
+    "en": [
+      "addition"
+    ],
+    "primaryEn": "addition",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Er ontbreekt iets in de cake. Hij is niet zoet genoeg. Heb je wel suiker toegevoegd?"
+    ]
+  },
+  {
+    "id": "n1-trouw",
+    "chapter": 1,
+    "nl": "trouw",
+    "lemma": "trouw",
+    "pos": "adjective",
+    "en": [
+      "faithful",
+      "loyal"
+    ],
+    "primaryEn": "faithful",
+    "source": "generated",
+    "examples": [
+      "De pianist zet elke avond trouw de wekker zodat hij de volgende dag vroeg kan beginnen met studeren."
+    ]
+  },
+  {
+    "id": "n1-uitademen",
+    "chapter": 1,
+    "nl": "uitademen",
+    "lemma": "uitademen",
+    "pos": "verb",
+    "en": [
+      "to breathe out",
+      "to exhale"
+    ],
+    "primaryEn": "to breathe out",
+    "source": "generated",
+    "separable": true,
+    "examples": [
+      "Bij deze oefening moet je door je neus inademen en door je mond uitademen."
+    ]
+  },
+  {
+    "id": "n1-de-uitademing",
+    "chapter": 1,
+    "nl": "de uitademing",
+    "lemma": "uitademing",
+    "pos": "noun",
+    "en": [
+      "exhalation",
+      "breathing out"
+    ],
+    "primaryEn": "exhalation",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Bij deze oefening moet je door je neus inademen en door je mond uitademen."
+    ]
+  },
+  {
+    "id": "n1-uitvinden",
+    "chapter": 1,
+    "nl": "uitvinden",
+    "lemma": "uitvinden",
+    "pos": "verb",
+    "en": [
+      "to invent"
+    ],
+    "primaryEn": "to invent",
+    "source": "generated",
+    "separable": true,
+    "examples": [
+      "De telefoon is een uitvinding van Alexander Graham Bell. Hij was professioneel uitvinder en heeft ook een soort metaaldetector uitgevonden."
+    ]
+  },
+  {
+    "id": "n1-de-uitvinding",
+    "chapter": 1,
+    "nl": "de uitvinding",
+    "lemma": "uitvinding",
+    "pos": "noun",
+    "en": [
+      "invention"
+    ],
+    "primaryEn": "invention",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "De telefoon is een uitvinding van Alexander Graham Bell. Hij was professioneel uitvinder en heeft ook een soort metaaldetector uitgevonden."
+    ]
+  },
+  {
+    "id": "n1-verminderen",
+    "chapter": 1,
+    "nl": "verminderen",
+    "lemma": "verminderen",
+    "pos": "verb",
+    "en": [
+      "to decrease",
+      "to reduce",
+      "to diminish"
+    ],
+    "primaryEn": "to decrease",
+    "source": "generated",
+    "examples": [
+      "Het aantal boekwinkels is verminderd, omdat mensen steeds vaker boeken via internet bestellen."
+    ]
+  },
+  {
+    "id": "n1-de-vermindering",
+    "chapter": 1,
+    "nl": "de vermindering",
+    "lemma": "vermindering",
+    "pos": "noun",
+    "en": [
+      "reduction",
+      "decrease"
+    ],
+    "primaryEn": "reduction",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Het aantal boekwinkels is verminderd, omdat mensen steeds vaker boeken via internet bestellen."
+    ]
+  },
+  {
+    "id": "n1-verrassen",
+    "chapter": 1,
+    "nl": "verrassen",
+    "lemma": "verrassen",
+    "pos": "verb",
+    "en": [
+      "to surprise"
+    ],
+    "primaryEn": "to surprise",
+    "source": "generated",
+    "examples": [
+      "Sommige mannen verrassen hun vrouw zo nu en dan met een bos bloemen. Je moet niet elk weekend bloemen meebrengen, want dan is het al snel geen verrassing meer."
+    ]
+  },
+  {
+    "id": "n1-de-verrassing",
+    "chapter": 1,
+    "nl": "de verrassing",
+    "lemma": "verrassing",
+    "pos": "noun",
+    "en": [
+      "surprise"
+    ],
+    "primaryEn": "surprise",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Sommige mannen verrassen hun vrouw zo nu en dan met een bos bloemen. Je moet niet elk weekend bloemen meebrengen, want dan is het al snel geen verrassing meer."
+    ]
+  },
+  {
+    "id": "n1-waarnemen",
+    "chapter": 1,
+    "nl": "waarnemen",
+    "lemma": "waarnemen",
+    "pos": "verb",
+    "en": [
+      "to observe",
+      "to perceive",
+      "to stand in (for someone)"
+    ],
+    "primaryEn": "to observe",
+    "source": "generated",
+    "separable": true,
+    "irregular": {
+      "past": "nam waar",
+      "perfect": "waargenomen"
+    },
+    "examples": [
+      "Klimatologen hebben in de afgelopen decennia een stijging van de gemiddelde temperatuur waargenomen. Door metingen hebben ze dat kunnen zien.",
+      "Als de dokter afwezig is, dan neemt een collega zijn taken waar."
+    ]
+  },
+  {
+    "id": "n1-de-waarneming",
+    "chapter": 1,
+    "nl": "de waarneming",
+    "lemma": "waarneming",
+    "pos": "noun",
+    "en": [
+      "observation",
+      "perception"
+    ],
+    "primaryEn": "observation",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Klimatologen hebben in de afgelopen decennia een stijging van de gemiddelde temperatuur waargenomen. Door metingen hebben ze dat kunnen zien.",
+      "Als de dokter afwezig is, dan neemt een collega zijn taken waar."
+    ]
+  },
+  {
+    "id": "n1-aangezien",
+    "chapter": 1,
+    "nl": "aangezien",
+    "lemma": "aangezien",
+    "pos": "other",
+    "en": [
+      "since",
+      "as",
+      "seeing that"
+    ],
+    "primaryEn": "since",
+    "source": "generated"
+  },
+  {
+    "id": "n1-daardoor",
+    "chapter": 1,
+    "nl": "daardoor",
+    "lemma": "daardoor",
+    "pos": "adverb",
+    "en": [
+      "because of that",
+      "as a result"
+    ],
+    "primaryEn": "because of that",
+    "source": "generated"
+  },
+  {
+    "id": "n1-daarna",
+    "chapter": 1,
+    "nl": "daarna",
+    "lemma": "daarna",
+    "pos": "adverb",
+    "en": [
+      "after that",
+      "afterwards"
+    ],
+    "primaryEn": "after that",
+    "source": "generated"
+  },
+  {
+    "id": "n1-daarom",
+    "chapter": 1,
+    "nl": "daarom",
+    "lemma": "daarom",
+    "pos": "adverb",
+    "en": [
+      "therefore",
+      "that is why"
+    ],
+    "primaryEn": "therefore",
+    "source": "generated"
+  },
+  {
+    "id": "n1-daarvoor",
+    "chapter": 1,
+    "nl": "daarvoor",
+    "lemma": "daarvoor",
+    "pos": "adverb",
+    "en": [
+      "before that",
+      "for that (purpose)"
+    ],
+    "primaryEn": "before that",
+    "source": "generated"
+  },
+  {
+    "id": "n1-indien",
+    "chapter": 1,
+    "nl": "indien",
+    "lemma": "indien",
+    "pos": "other",
+    "en": [
+      "if",
+      "in case"
+    ],
+    "primaryEn": "if",
+    "source": "generated"
+  },
+  {
+    "id": "n1-mits",
+    "chapter": 1,
+    "nl": "mits",
+    "lemma": "mits",
+    "pos": "other",
+    "en": [
+      "provided that"
+    ],
+    "primaryEn": "provided that",
+    "source": "generated"
+  },
+  {
+    "id": "n1-naarmate",
+    "chapter": 1,
+    "nl": "naarmate",
+    "lemma": "naarmate",
+    "pos": "other",
+    "en": [
+      "as",
+      "in proportion as"
+    ],
+    "primaryEn": "as",
+    "source": "generated"
+  },
+  {
+    "id": "n1-ofschoon",
+    "chapter": 1,
+    "nl": "ofschoon",
+    "lemma": "ofschoon",
+    "pos": "other",
+    "en": [
+      "although",
+      "though"
+    ],
+    "primaryEn": "although",
+    "source": "generated"
+  },
+  {
+    "id": "n1-opdat",
+    "chapter": 1,
+    "nl": "opdat",
+    "lemma": "opdat",
+    "pos": "other",
+    "en": [
+      "so that",
+      "in order that"
+    ],
+    "primaryEn": "so that",
+    "source": "generated"
+  },
+  {
+    "id": "n1-sinds",
+    "chapter": 1,
+    "nl": "sinds",
+    "lemma": "sinds",
+    "pos": "other",
+    "en": [
+      "since"
+    ],
+    "primaryEn": "since",
+    "source": "generated"
+  },
+  {
+    "id": "n1-tenzij",
+    "chapter": 1,
+    "nl": "tenzij",
+    "lemma": "tenzij",
+    "pos": "other",
+    "en": [
+      "unless"
+    ],
+    "primaryEn": "unless",
+    "source": "generated"
+  },
+  {
+    "id": "n1-zolang",
+    "chapter": 1,
+    "nl": "zolang",
+    "lemma": "zolang",
+    "pos": "other",
+    "en": [
+      "as long as"
+    ],
+    "primaryEn": "as long as",
+    "source": "generated"
+  },
+  {
+    "id": "n1-beginnen-met-aan",
+    "chapter": 1,
+    "nl": "beginnen met / aan",
+    "lemma": "beginnen met / aan",
+    "pos": "phrase",
+    "en": [
+      "to begin with",
+      "to start on"
+    ],
+    "primaryEn": "to begin with",
+    "source": "generated"
+  },
+  {
+    "id": "n1-behoren-tot",
+    "chapter": 1,
+    "nl": "behoren tot",
+    "lemma": "behoren tot",
+    "pos": "phrase",
+    "en": [
+      "to belong to"
+    ],
+    "primaryEn": "to belong to",
+    "source": "generated"
+  },
+  {
+    "id": "n1-beperken-tot",
+    "chapter": 1,
+    "nl": "beperken tot",
+    "lemma": "beperken tot",
+    "pos": "phrase",
+    "en": [
+      "to limit to",
+      "to restrict to"
+    ],
+    "primaryEn": "to limit to",
+    "source": "generated"
+  },
+  {
+    "id": "n1-beslissen-over",
+    "chapter": 1,
+    "nl": "beslissen over",
+    "lemma": "beslissen over",
+    "pos": "phrase",
+    "en": [
+      "to decide on",
+      "to decide about"
+    ],
+    "primaryEn": "to decide on",
+    "source": "generated"
+  },
+  {
+    "id": "n1-bestaan-uit",
+    "chapter": 1,
+    "nl": "bestaan uit",
+    "lemma": "bestaan uit",
+    "pos": "phrase",
+    "en": [
+      "to consist of"
+    ],
+    "primaryEn": "to consist of",
+    "source": "generated"
+  },
+  {
+    "id": "n1-blijken-uit",
+    "chapter": 1,
+    "nl": "blijken uit",
+    "lemma": "blijken uit",
+    "pos": "phrase",
+    "en": [
+      "to be evident from",
+      "to appear from"
+    ],
+    "primaryEn": "to be evident from",
+    "source": "generated"
+  },
+  {
+    "id": "n1-brengen-naar",
+    "chapter": 1,
+    "nl": "brengen naar",
+    "lemma": "brengen naar",
+    "pos": "phrase",
+    "en": [
+      "to take to",
+      "to bring to"
+    ],
+    "primaryEn": "to take to",
+    "source": "generated"
+  },
+  {
+    "id": "n1-controleren-op",
+    "chapter": 1,
+    "nl": "controleren op",
+    "lemma": "controleren op",
+    "pos": "phrase",
+    "en": [
+      "to check for"
+    ],
+    "primaryEn": "to check for",
+    "source": "generated"
+  },
+  {
+    "id": "n1-delen-met",
+    "chapter": 1,
+    "nl": "delen met",
+    "lemma": "delen met",
+    "pos": "phrase",
+    "en": [
+      "to share with"
+    ],
+    "primaryEn": "to share with",
+    "source": "generated"
+  },
+  {
+    "id": "n1-denken-aan",
+    "chapter": 1,
+    "nl": "denken aan",
+    "lemma": "denken aan",
+    "pos": "phrase",
+    "en": [
+      "to think of",
+      "to think about"
+    ],
+    "primaryEn": "to think of",
+    "source": "generated"
+  },
+  {
+    "id": "n1-doorgaan-met",
+    "chapter": 1,
+    "nl": "doorgaan met",
+    "lemma": "doorgaan met",
+    "pos": "phrase",
+    "en": [
+      "to continue with",
+      "to go on with"
+    ],
+    "primaryEn": "to continue with",
+    "source": "generated",
+    "separable": true
+  },
+  {
+    "id": "n1-dromen-over-van",
+    "chapter": 1,
+    "nl": "dromen over / van",
+    "lemma": "dromen over / van",
+    "pos": "phrase",
+    "en": [
+      "to dream about",
+      "to dream of"
+    ],
+    "primaryEn": "to dream about",
+    "source": "generated"
+  },
+  {
+    "id": "n1-gaan-naar",
+    "chapter": 1,
+    "nl": "gaan naar",
+    "lemma": "gaan naar",
+    "pos": "phrase",
+    "en": [
+      "to go to"
+    ],
+    "primaryEn": "to go to",
+    "source": "generated"
+  },
+  {
+    "id": "n1-geloven-in",
+    "chapter": 1,
+    "nl": "geloven in",
+    "lemma": "geloven in",
+    "pos": "phrase",
+    "en": [
+      "to believe in"
+    ],
+    "primaryEn": "to believe in",
+    "source": "generated"
+  },
+  {
+    "id": "n1-genieten-van",
+    "chapter": 1,
+    "nl": "genieten van",
+    "lemma": "genieten van",
+    "pos": "phrase",
+    "en": [
+      "to enjoy"
+    ],
+    "primaryEn": "to enjoy",
+    "source": "generated"
+  },
+  {
+    "id": "n1-geven-aan",
+    "chapter": 1,
+    "nl": "geven aan",
+    "lemma": "geven aan",
+    "pos": "phrase",
+    "en": [
+      "to give to"
+    ],
+    "primaryEn": "to give to",
+    "source": "generated"
+  },
+  {
+    "id": "n1-helpen-met",
+    "chapter": 1,
+    "nl": "helpen met",
+    "lemma": "helpen met",
+    "pos": "phrase",
+    "en": [
+      "to help with"
+    ],
+    "primaryEn": "to help with",
+    "source": "generated"
+  },
+  {
+    "id": "n1-herinneren-aan",
+    "chapter": 1,
+    "nl": "herinneren aan",
+    "lemma": "herinneren aan",
+    "pos": "phrase",
+    "en": [
+      "to remind of"
+    ],
+    "primaryEn": "to remind of",
+    "source": "generated"
+  },
+  {
+    "id": "n1-hopen-op",
+    "chapter": 1,
+    "nl": "hopen op",
+    "lemma": "hopen op",
+    "pos": "phrase",
+    "en": [
+      "to hope for"
+    ],
+    "primaryEn": "to hope for",
+    "source": "generated"
+  },
+  {
+    "id": "n1-houden-van",
+    "chapter": 1,
+    "nl": "houden van",
+    "lemma": "houden van",
+    "pos": "phrase",
+    "en": [
+      "to love",
+      "to like"
+    ],
+    "primaryEn": "to love",
+    "source": "generated"
+  },
+  {
+    "id": "n1-ingaan-op",
+    "chapter": 1,
+    "nl": "ingaan op",
+    "lemma": "ingaan op",
+    "pos": "phrase",
+    "en": [
+      "to go into",
+      "to address"
+    ],
+    "primaryEn": "to go into",
+    "source": "generated",
+    "separable": true
+  },
+  {
+    "id": "n1-kijken-naar",
+    "chapter": 1,
+    "nl": "kijken naar",
+    "lemma": "kijken naar",
+    "pos": "phrase",
+    "en": [
+      "to look at",
+      "to watch"
+    ],
+    "primaryEn": "to look at",
+    "source": "generated"
+  },
+  {
+    "id": "n1-lachen-om",
+    "chapter": 1,
+    "nl": "lachen om",
+    "lemma": "lachen om",
+    "pos": "phrase",
+    "en": [
+      "to laugh at",
+      "to laugh about"
+    ],
+    "primaryEn": "to laugh at",
+    "source": "generated"
+  },
+  {
+    "id": "n1-leiden-tot",
+    "chapter": 1,
+    "nl": "leiden tot",
+    "lemma": "leiden tot",
+    "pos": "phrase",
+    "en": [
+      "to lead to"
+    ],
+    "primaryEn": "to lead to",
+    "source": "generated"
+  },
+  {
+    "id": "n1-leveren-aan",
+    "chapter": 1,
+    "nl": "leveren aan",
+    "lemma": "leveren aan",
+    "pos": "phrase",
+    "en": [
+      "to supply to",
+      "to deliver to"
+    ],
+    "primaryEn": "to supply to",
+    "source": "generated"
+  },
+  {
+    "id": "n1-lijken-op",
+    "chapter": 1,
+    "nl": "lijken op",
+    "lemma": "lijken op",
+    "pos": "phrase",
+    "en": [
+      "to look like",
+      "to resemble"
+    ],
+    "primaryEn": "to look like",
+    "source": "generated"
+  },
+  {
+    "id": "n1-luisteren-naar",
+    "chapter": 1,
+    "nl": "luisteren naar",
+    "lemma": "luisteren naar",
+    "pos": "phrase",
+    "en": [
+      "to listen to"
+    ],
+    "primaryEn": "to listen to",
+    "source": "generated"
+  },
+  {
+    "id": "n1-oefenen-met",
+    "chapter": 1,
+    "nl": "oefenen met",
+    "lemma": "oefenen met",
+    "pos": "phrase",
+    "en": [
+      "to practise with"
+    ],
+    "primaryEn": "to practise with",
+    "source": "generated"
+  },
+  {
+    "id": "n1-passen-op",
+    "chapter": 1,
+    "nl": "passen op",
+    "lemma": "passen op",
+    "pos": "phrase",
+    "en": [
+      "to watch out for",
+      "to mind"
+    ],
+    "primaryEn": "to watch out for",
+    "source": "generated"
+  },
+  {
+    "id": "n1-reageren-op",
+    "chapter": 1,
+    "nl": "reageren op",
+    "lemma": "reageren op",
+    "pos": "phrase",
+    "en": [
+      "to react to",
+      "to respond to"
+    ],
+    "primaryEn": "to react to",
+    "source": "generated"
+  },
+  {
+    "id": "n1-rekenen-op",
+    "chapter": 1,
+    "nl": "rekenen op",
+    "lemma": "rekenen op",
+    "pos": "phrase",
+    "en": [
+      "to count on"
+    ],
+    "primaryEn": "to count on",
+    "source": "generated"
+  },
+  {
+    "id": "n1-schrijven-aan-naar",
+    "chapter": 1,
+    "nl": "schrijven aan / naar",
+    "lemma": "schrijven aan / naar",
+    "pos": "phrase",
+    "en": [
+      "to write to"
+    ],
+    "primaryEn": "to write to",
+    "source": "generated"
+  },
+  {
+    "id": "n1-schrikken-van",
+    "chapter": 1,
+    "nl": "schrikken van",
+    "lemma": "schrikken van",
+    "pos": "phrase",
+    "en": [
+      "to be startled by",
+      "to get a fright from"
+    ],
+    "primaryEn": "to be startled by",
+    "source": "generated"
+  },
+  {
+    "id": "n1-spreken-over-iets-met-iemand",
+    "chapter": 1,
+    "nl": "spreken over iets met iemand",
+    "lemma": "spreken over iets met iemand",
+    "pos": "phrase",
+    "en": [
+      "to talk about something with someone"
+    ],
+    "primaryEn": "to talk about something with someone",
+    "source": "generated"
+  },
+  {
+    "id": "n1-stemmen-op",
+    "chapter": 1,
+    "nl": "stemmen op",
+    "lemma": "stemmen op",
+    "pos": "phrase",
+    "en": [
+      "to vote for"
+    ],
+    "primaryEn": "to vote for",
+    "source": "generated"
+  },
+  {
+    "id": "n1-stoppen-met",
+    "chapter": 1,
+    "nl": "stoppen met",
+    "lemma": "stoppen met",
+    "pos": "phrase",
+    "en": [
+      "to stop (doing)",
+      "to quit"
+    ],
+    "primaryEn": "to stop (doing)",
+    "source": "generated"
+  },
+  {
+    "id": "n1-trekken-aan",
+    "chapter": 1,
+    "nl": "trekken aan",
+    "lemma": "trekken aan",
+    "pos": "phrase",
+    "en": [
+      "to pull on",
+      "to pull at"
+    ],
+    "primaryEn": "to pull on",
+    "source": "generated"
+  },
+  {
+    "id": "n1-trouwen-met",
+    "chapter": 1,
+    "nl": "trouwen met",
+    "lemma": "trouwen met",
+    "pos": "phrase",
+    "en": [
+      "to marry"
+    ],
+    "primaryEn": "to marry",
+    "source": "generated"
+  },
+  {
+    "id": "n1-vergelijken-met",
+    "chapter": 1,
+    "nl": "vergelijken met",
+    "lemma": "vergelijken met",
+    "pos": "phrase",
+    "en": [
+      "to compare with",
+      "to compare to"
+    ],
+    "primaryEn": "to compare with",
+    "source": "generated"
+  },
+  {
+    "id": "n1-vertellen-aan",
+    "chapter": 1,
+    "nl": "vertellen aan",
+    "lemma": "vertellen aan",
+    "pos": "phrase",
+    "en": [
+      "to tell (to)"
+    ],
+    "primaryEn": "to tell (to)",
+    "source": "generated"
+  },
+  {
+    "id": "n1-voorstellen-aan",
+    "chapter": 1,
+    "nl": "voorstellen aan",
+    "lemma": "voorstellen aan",
+    "pos": "phrase",
+    "en": [
+      "to introduce to"
+    ],
+    "primaryEn": "to introduce to",
+    "source": "generated",
+    "separable": true
+  },
+  {
+    "id": "n1-vragen-aan",
+    "chapter": 1,
+    "nl": "vragen aan",
+    "lemma": "vragen aan",
+    "pos": "phrase",
+    "en": [
+      "to ask (someone)"
+    ],
+    "primaryEn": "to ask (someone)",
+    "source": "generated"
+  },
+  {
+    "id": "n1-wachten-op",
+    "chapter": 1,
+    "nl": "wachten op",
+    "lemma": "wachten op",
+    "pos": "phrase",
+    "en": [
+      "to wait for"
+    ],
+    "primaryEn": "to wait for",
+    "source": "generated"
+  },
+  {
+    "id": "n1-wennen-aan",
+    "chapter": 1,
+    "nl": "wennen aan",
+    "lemma": "wennen aan",
+    "pos": "phrase",
+    "en": [
+      "to get used to"
+    ],
+    "primaryEn": "to get used to",
+    "source": "generated"
+  },
+  {
+    "id": "n1-wijzen-naar",
+    "chapter": 1,
+    "nl": "wijzen naar",
+    "lemma": "wijzen naar",
+    "pos": "phrase",
+    "en": [
+      "to point at",
+      "to point to"
+    ],
+    "primaryEn": "to point at",
+    "source": "generated"
+  },
+  {
+    "id": "n1-zeggen-tegen-aan",
+    "chapter": 1,
+    "nl": "zeggen tegen / (aan)",
+    "lemma": "zeggen tegen / (aan)",
+    "pos": "phrase",
+    "en": [
+      "to say to"
+    ],
+    "primaryEn": "to say to",
+    "source": "generated"
+  },
+  {
+    "id": "n1-zich-voorbereiden-op",
+    "chapter": 1,
+    "nl": "zich voorbereiden op",
+    "lemma": "voorbereiden op",
+    "pos": "phrase",
+    "en": [
+      "to prepare for"
+    ],
+    "primaryEn": "to prepare for",
+    "source": "generated",
+    "reflexive": true,
+    "separable": true
+  },
+  {
+    "id": "n1-zoeken-naar",
+    "chapter": 1,
+    "nl": "zoeken naar",
+    "lemma": "zoeken naar",
+    "pos": "phrase",
+    "en": [
+      "to search for",
+      "to look for"
+    ],
+    "primaryEn": "to search for",
+    "source": "generated"
+  },
+  {
+    "id": "n1-fluiten",
+    "chapter": 1,
+    "nl": "fluiten",
+    "lemma": "fluiten",
+    "pos": "verb",
+    "en": [
+      "to whistle"
+    ],
+    "primaryEn": "to whistle",
+    "source": "generated",
+    "irregular": {
+      "past": "floot",
+      "perfect": "gefloten"
+    }
+  },
+  {
+    "id": "n1-ondernemen",
+    "chapter": 1,
+    "nl": "ondernemen",
+    "lemma": "ondernemen",
+    "pos": "verb",
+    "en": [
+      "to undertake"
+    ],
+    "primaryEn": "to undertake",
+    "source": "generated",
+    "irregular": {
+      "past": "ondernam",
+      "perfect": "ondernomen"
+    }
+  },
+  {
+    "id": "n1-ontbijten",
+    "chapter": 1,
+    "nl": "ontbijten",
+    "lemma": "ontbijten",
+    "pos": "verb",
+    "en": [
+      "to have breakfast"
+    ],
+    "primaryEn": "to have breakfast",
+    "source": "generated",
+    "irregular": {
+      "past": "ontbeet",
+      "perfect": "ontbeten"
+    }
+  },
+  {
+    "id": "n1-ontbreken",
+    "chapter": 1,
+    "nl": "ontbreken",
+    "lemma": "ontbreken",
+    "pos": "verb",
+    "en": [
+      "to be missing",
+      "to be lacking"
+    ],
+    "primaryEn": "to be missing",
+    "source": "generated",
+    "irregular": {
+      "past": "ontbrak",
+      "perfect": "ontbroken"
+    }
+  },
+  {
+    "id": "n1-strijken",
+    "chapter": 1,
+    "nl": "strijken",
+    "lemma": "strijken",
+    "pos": "verb",
+    "en": [
+      "to iron"
+    ],
+    "primaryEn": "to iron",
+    "source": "generated",
+    "irregular": {
+      "past": "streek",
+      "perfect": "gestreken"
+    }
+  },
+  {
+    "id": "n1-verheffen",
+    "chapter": 1,
+    "nl": "verheffen",
+    "lemma": "verheffen",
+    "pos": "verb",
+    "en": [
+      "to raise (one's voice)",
+      "to elevate"
+    ],
+    "primaryEn": "to raise (one's voice)",
+    "source": "generated",
+    "irregular": {
+      "past": "verhief",
+      "perfect": "verheven"
+    }
+  },
+  {
+    "id": "n1-vermijden",
+    "chapter": 1,
+    "nl": "vermijden",
+    "lemma": "vermijden",
+    "pos": "verb",
+    "en": [
+      "to avoid"
+    ],
+    "primaryEn": "to avoid",
+    "source": "generated",
+    "irregular": {
+      "past": "vermeed",
+      "perfect": "vermeden"
+    }
+  },
+  {
+    "id": "n1-verwerven",
+    "chapter": 1,
+    "nl": "verwerven",
+    "lemma": "verwerven",
+    "pos": "verb",
+    "en": [
+      "to acquire",
+      "to gain"
+    ],
+    "primaryEn": "to acquire",
+    "source": "generated",
+    "irregular": {
+      "past": "verwierf",
+      "perfect": "verworven"
+    }
+  },
+  {
+    "id": "n1-wegen",
+    "chapter": 1,
+    "nl": "wegen",
+    "lemma": "wegen",
+    "pos": "verb",
+    "en": [
+      "to weigh"
+    ],
+    "primaryEn": "to weigh",
+    "source": "generated",
+    "irregular": {
+      "past": "woog",
+      "perfect": "gewogen"
+    }
+  }
+]

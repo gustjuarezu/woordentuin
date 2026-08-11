@@ -1,0 +1,1005 @@
+{
+  "chapter": 6,
+  "theme": "Duurzaam",
+  "wordCount": 51,
+  "irregularRaw": [
+    "aanbevelen ‒ beval aan ‒ aanbevolen",
+    "blinken ‒ blonk ‒ geblonken",
+    "druipen ‒ droop ‒ (is) gedropen",
+    "graven ‒ groef ‒ gegraven",
+    "overwegen ‒ overwoog ‒ overwogen",
+    "(uit)wringen ‒ (uit)wrong ‒ (uit)gewrongen",
+    "vreten ‒ vrat ‒ gevreten",
+    "wijten ‒ weet ‒ geweten",
+    "zinken ‒ zonk ‒ gezonken"
+  ],
+  "warnings": [
+    "The chapter's 'Onregelmatige werkwoorden' page (pg 261, Opdracht 34) and the Vocabulairelijst section print INFINITIVES ONLY, no principal parts. Past/perfect forms in irregularRaw were taken from the book's own appendix 'Onregelmatige werkwoorden' (bijlage 2a/2b, OCR pg 275/276/278/282). The appendix marks druipen with '(is)'; no '(is)' is visible for zinken in the appendix OCR even though zinken normally takes zijn ('is gezonken') — possibly an OCR omission, so zinken's perfect is given without the marker.",
+    "Entries printed twice in the lijst were kept once (at first occurrence): 'bestemd zijn voor' and 'blootstellen aan' (Britse fietsimmigrant over Nederland + Preposities), 'onttrekken aan' (Duurzame huid voor rijtjeshuis + Preposities), 'overwegen' (Britse fietsimmigrant over Nederland + Onregelmatige werkwoorden). 'wijten aan' (Preposities) and 'wijten' (Onregelmatige werkwoorden) are different printed strings and were kept as two entries.",
+    "The in-chapter Vocabulaire boxes print irregular forms for verslinden (verslond, verslonden), beslaan, onttrekken aan (onttrok, onttrokken) and overnemen (nam over, overgenomen); these were attached to those entries even though they are not on the chapter's irregular-verb page. OCR of pg 253 prints 'beslaan (besloeg, beslaan)' — the second form was read as an OCR error for 'beslagen' (the standard perfect); no page image was available to verify.",
+    "Receptief items are printed in bare form: 'kiekje' has no article printed (standard Dutch: het kiekje), so article is null; 'uitgebannen' is the past participle of the separable verb 'uitbannen' and was tagged pos 'other'.",
+    "Image vs OCR on the lijst pages: no substantive disagreements — the OCR only merged the two columns and dropped the blank-line grouping. Note pg 263 prints '(uit)wringen' with parentheses while Opdracht 34 on pg 261 prints 'uitwringen'; the lijst form was kept as nl.",
+    "'zonde, (de)' prints the article in parentheses; transcribed as a de-noun with the printed form preserved in hint."
+  ],
+  "words": [
+    {
+      "nl": "het kiekje",
+      "lemma": "kiekje",
+      "article": "het",
+      "pos": "noun",
+      "en": [
+        "snapshot",
+        "photo"
+      ],
+      "primaryEn": "snapshot",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "bulderen",
+      "lemma": "bulderen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to roar",
+        "to boom",
+        "to thunder"
+      ],
+      "primaryEn": "to roar",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "lichtvaardig",
+      "lemma": "lichtvaardig",
+      "article": null,
+      "pos": "adjective",
+      "en": [
+        "rash",
+        "thoughtless",
+        "too lightly"
+      ],
+      "primaryEn": "rash",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "uitgebannen",
+      "lemma": "uitgebannen",
+      "article": null,
+      "pos": "other",
+      "en": [
+        "banished",
+        "driven out",
+        "eradicated"
+      ],
+      "primaryEn": "banished",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "naar hartenlust",
+      "lemma": "naar hartenlust",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "to one's heart's content",
+        "as much as you like"
+      ],
+      "primaryEn": "to one's heart's content",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "het erover hebben",
+      "lemma": "het erover hebben",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "to talk about it",
+        "to discuss it"
+      ],
+      "primaryEn": "to talk about it",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "het kwartje valt",
+      "lemma": "het kwartje valt",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "the penny drops",
+        "it suddenly becomes clear"
+      ],
+      "primaryEn": "the penny drops",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "je de ogen doen openen",
+      "lemma": "je de ogen doen openen",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "to open your eyes (to something)",
+        "to be an eye-opener"
+      ],
+      "primaryEn": "to open your eyes (to something)",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "op pad gaan",
+      "lemma": "op pad gaan",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "to set off",
+        "to head out"
+      ],
+      "primaryEn": "to set off",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "aantonen",
+      "lemma": "aantonen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to demonstrate",
+        "to show",
+        "to prove"
+      ],
+      "primaryEn": "to demonstrate",
+      "hint": null,
+      "reflexive": false,
+      "separable": true,
+      "irregular": null,
+      "examples": [
+        "Door dit onderzoek is aangetoond dat het dragen van een fietshelm het aantal doden door ongelukken vermindert."
+      ],
+      "note": null
+    },
+    {
+      "nl": "bestemd zijn voor",
+      "lemma": "bestemd zijn voor",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "to be intended for",
+        "to be meant for"
+      ],
+      "primaryEn": "to be intended for",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Dit pakketje is niet voor mij bestemd. Het is voor mijn collega bedoeld."
+      ],
+      "note": null
+    },
+    {
+      "nl": "blootstellen aan",
+      "lemma": "blootstellen aan",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to expose to"
+      ],
+      "primaryEn": "to expose to",
+      "hint": null,
+      "reflexive": false,
+      "separable": true,
+      "irregular": null,
+      "examples": [
+        "Het wordt aanbevolen om in de zomer tussen 12 en 15 uur je huid niet bloot te stellen aan zonlicht. Het is belangrijk om je huid dan te bedekken."
+      ],
+      "note": null
+    },
+    {
+      "nl": "gaandeweg",
+      "lemma": "gaandeweg",
+      "article": null,
+      "pos": "adverb",
+      "en": [
+        "gradually",
+        "little by little"
+      ],
+      "primaryEn": "gradually",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "In het begin vond hij het leren van een vreemde taal niet leuk, maar gaandeweg kreeg hij er meer plezier in."
+      ],
+      "note": null
+    },
+    {
+      "nl": "huidig",
+      "lemma": "huidig",
+      "article": null,
+      "pos": "adjective",
+      "en": [
+        "current",
+        "present",
+        "present-day"
+      ],
+      "primaryEn": "current",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "De huidige generatie ouders neemt de kinderen op allerlei manieren mee op hun fiets: fietsstoeltjes voorop, fietsstoeltjes achterop, bakfietsen, fietsen met aanhangers. Het is aan hen te wijten dat kinderen tegenwoordig te weinig bewegen. Vroeger liepen de ouders vooral met hun kinderen."
+      ],
+      "note": null
+    },
+    {
+      "nl": "omstreden",
+      "lemma": "omstreden",
+      "article": null,
+      "pos": "adjective",
+      "en": [
+        "controversial",
+        "disputed"
+      ],
+      "primaryEn": "controversial",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Deze beslissing is omstreden. Er is veel discussie over of het wel de juiste beslissing is."
+      ],
+      "note": null
+    },
+    {
+      "nl": "omwille van",
+      "lemma": "omwille van",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "for the sake of",
+        "because of"
+      ],
+      "primaryEn": "for the sake of",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Hij is verhuisd omwille van het werk van zijn vrouw. Zij heeft een baan in het ziekenhuis en moet binnen een halfuur in het ziekenhuis kunnen zijn. Dat is de enige reden, want ze woonden op een prachtige plek."
+      ],
+      "note": null
+    },
+    {
+      "nl": "overnemen",
+      "lemma": "overnemen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to take over",
+        "to adopt (a habit, an idea)"
+      ],
+      "primaryEn": "to take over",
+      "hint": null,
+      "reflexive": false,
+      "separable": true,
+      "irregular": {
+        "past": "nam over",
+        "perfect": "overgenomen"
+      },
+      "examples": [
+        "Als je in een ander land woont, neem je meestal wel bepaalde gewoontes van dat land over. Veel buitenlanders fietsen in Nederland, terwijl ze dat in hun eigen land niet doen.",
+        "Ik heb de fiets van mijn buurvrouw overgenomen. Hij was nog zo goed als nieuw, hij blonk nog helemaal. Toch kon ik hem voor niet veel geld van haar kopen."
+      ],
+      "note": null
+    },
+    {
+      "nl": "overwegen",
+      "lemma": "overwegen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to consider",
+        "to contemplate"
+      ],
+      "primaryEn": "to consider",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "overwoog",
+        "perfect": "overwogen"
+      },
+      "examples": [
+        "Ik heb overwogen om te emigreren naar Nieuw-Zeeland, maar ik heb het uiteindelijk toch niet gedaan."
+      ],
+      "note": null
+    },
+    {
+      "nl": "de overweging",
+      "lemma": "overweging",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "consideration"
+      ],
+      "primaryEn": "consideration",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Ik heb overwogen om te emigreren naar Nieuw-Zeeland, maar ik heb het uiteindelijk toch niet gedaan."
+      ],
+      "note": null
+    },
+    {
+      "nl": "schuilen",
+      "lemma": "schuilen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to shelter",
+        "to hide",
+        "to lurk (of a danger)"
+      ],
+      "primaryEn": "to shelter",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Ik ben kletsnat door de regen. Je kunt me wel uitwringen. Ik had beter kunnen schuilen onder een afdakje. Dan was ik niet zo nat geworden.",
+        "Te veel fietsers hebben geen licht op hun fiets. Daarin schuilt een gevaar: automobilisten zien hen slecht in het donker, wat gevaarlijk is."
+      ],
+      "note": null
+    },
+    {
+      "nl": "uitpuilen",
+      "lemma": "uitpuilen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to bulge",
+        "to bulge out"
+      ],
+      "primaryEn": "to bulge",
+      "hint": null,
+      "reflexive": false,
+      "separable": true,
+      "irregular": null,
+      "examples": [
+        "Ze had zo veel spullen gekocht dat haar tassen uitpuilden. De spullen pasten er niet in."
+      ],
+      "note": null
+    },
+    {
+      "nl": "verrichten",
+      "lemma": "verrichten",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to perform",
+        "to carry out"
+      ],
+      "primaryEn": "to perform",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Voordat je iets kunt bestellen op die website, moet je eerst een aantal handelingen verrichten: je gegevens invoeren, een wachtwoord instellen en dat vervolgens bevestigen."
+      ],
+      "note": null
+    },
+    {
+      "nl": "de verrichting",
+      "lemma": "verrichting",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "action",
+        "act",
+        "operation"
+      ],
+      "primaryEn": "action",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Voordat je iets kunt bestellen op die website, moet je eerst een aantal handelingen verrichten: je gegevens invoeren, een wachtwoord instellen en dat vervolgens bevestigen."
+      ],
+      "note": null
+    },
+    {
+      "nl": "de zorg",
+      "lemma": "zorg",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "concern",
+        "worry",
+        "care"
+      ],
+      "primaryEn": "concern",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Het baart ons zorgen dat kinderen te weinig fietsen, waardoor ze te weinig beweging krijgen. Ook leren ze niet om zelfstandig aan het verkeer deel te nemen."
+      ],
+      "note": null
+    },
+    {
+      "nl": "zorgen baren",
+      "lemma": "zorgen baren",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "to cause concern",
+        "to worry (someone)"
+      ],
+      "primaryEn": "to cause concern",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Het baart ons zorgen dat kinderen te weinig fietsen, waardoor ze te weinig beweging krijgen. Ook leren ze niet om zelfstandig aan het verkeer deel te nemen."
+      ],
+      "note": null
+    },
+    {
+      "nl": "afronden",
+      "lemma": "afronden",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to complete",
+        "to finish",
+        "to round off"
+      ],
+      "primaryEn": "to complete",
+      "hint": null,
+      "reflexive": false,
+      "separable": true,
+      "irregular": null,
+      "examples": [
+        "Nadat de beoogde resultaten waren behaald, was er niets meer te doen en werd het project afgerond."
+      ],
+      "note": null
+    },
+    {
+      "nl": "amper",
+      "lemma": "amper",
+      "article": null,
+      "pos": "adverb",
+      "en": [
+        "barely",
+        "hardly"
+      ],
+      "primaryEn": "barely",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Ze had een cursus Nederlands gedaan, maar haar spreekvaardigheid voldeed niet aan de eisen. Ze kon amper Nederlands spreken."
+      ],
+      "note": null
+    },
+    {
+      "nl": "beslaan",
+      "lemma": "beslaan",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to cover, to take up (space)",
+        "to fog up, to steam up"
+      ],
+      "primaryEn": "to cover, to take up (space)",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "besloeg",
+        "perfect": "beslagen"
+      },
+      "examples": [
+        "Deze tekst beslaat de hele pagina. Er is geen witruimte over.",
+        "Als je doucht, beslaat de badkamerspiegel. Soms druipt het vocht er zelfs af."
+      ],
+      "note": null
+    },
+    {
+      "nl": "doorzichtig",
+      "lemma": "doorzichtig",
+      "article": null,
+      "pos": "adjective",
+      "en": [
+        "transparent",
+        "see-through"
+      ],
+      "primaryEn": "transparent",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "De zwemster had een doorzichtige jurk aan, zodat je het badpak dat ze eronder droeg goed kon zien."
+      ],
+      "note": null
+    },
+    {
+      "nl": "kriskras",
+      "lemma": "kriskras",
+      "article": null,
+      "pos": "adverb",
+      "en": [
+        "crisscross",
+        "in all directions"
+      ],
+      "primaryEn": "crisscross",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "De kinderen op het schoolplein renden kriskras door elkaar en ze krijsten. Je kon wel merken dat het de laatste dag voor de vakantie was."
+      ],
+      "note": null
+    },
+    {
+      "nl": "nauw",
+      "lemma": "nauw",
+      "article": null,
+      "pos": "adjective",
+      "en": [
+        "narrow",
+        "close, closely (of collaboration)"
+      ],
+      "primaryEn": "narrow",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Broeken met nauwe pijpen zitten vaak nogal strak.",
+        "Een tandarts moet nauw samenwerken met zijn assistent."
+      ],
+      "note": null
+    },
+    {
+      "nl": "onttrekken aan",
+      "lemma": "onttrekken aan",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to extract from",
+        "to withdraw from"
+      ],
+      "primaryEn": "to extract from",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "onttrok",
+        "perfect": "onttrokken"
+      },
+      "examples": [
+        "Er wordt vaak gezegd dat koffie dehydreert, maar dat is niet waar. Koffie onttrekt geen vocht aan het lichaam.",
+        "Hij onttrok zich aan zijn verplichtingen en schoot daardoor vreselijk tekort."
+      ],
+      "note": null
+    },
+    {
+      "nl": "het pand",
+      "lemma": "pand",
+      "article": "het",
+      "pos": "noun",
+      "en": [
+        "building",
+        "premises",
+        "property"
+      ],
+      "primaryEn": "building",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "De oude kantoorpanden werden afgebroken en er kwamen doorzonwoningen voor in de plaats. Momenteel zijn ze ernaast aan het graven voor een parkeergarage."
+      ],
+      "note": null
+    },
+    {
+      "nl": "verslinden",
+      "lemma": "verslinden",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to devour"
+      ],
+      "primaryEn": "to devour",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "verslond",
+        "perfect": "verslonden"
+      },
+      "examples": [
+        "De leeuwen verslonden de gazelle met huid en haar. Ze vraten hem helemaal op.",
+        "Als kind las ik heel veel boeken, ik verslond ze gewoon."
+      ],
+      "note": null
+    },
+    {
+      "nl": "verwijderen",
+      "lemma": "verwijderen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to remove"
+      ],
+      "primaryEn": "to remove",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Voordat je de pizza in de oven doet, moet je eerst het plastic verwijderen."
+      ],
+      "note": null
+    },
+    {
+      "nl": "de verwijdering",
+      "lemma": "verwijdering",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "removal"
+      ],
+      "primaryEn": "removal",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Voordat je de pizza in de oven doet, moet je eerst het plastic verwijderen."
+      ],
+      "note": null
+    },
+    {
+      "nl": "voortzetten",
+      "lemma": "voortzetten",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to continue",
+        "to carry on"
+      ],
+      "primaryEn": "to continue",
+      "hint": null,
+      "reflexive": false,
+      "separable": true,
+      "irregular": null,
+      "examples": [
+        "We moesten nog 15 kilometer lopen. De moed zonk me in de schoenen. Na een lange pauze zetten we de wandeling voort."
+      ],
+      "note": null
+    },
+    {
+      "nl": "de voortzetting",
+      "lemma": "voortzetting",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "continuation"
+      ],
+      "primaryEn": "continuation",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "We moesten nog 15 kilometer lopen. De moed zonk me in de schoenen. Na een lange pauze zetten we de wandeling voort."
+      ],
+      "note": null
+    },
+    {
+      "nl": "zogenaamd",
+      "lemma": "zogenaamd",
+      "article": null,
+      "pos": "adjective",
+      "en": [
+        "so-called",
+        "supposedly"
+      ],
+      "primaryEn": "so-called",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Witte sneeuw is een zogenaamd pleonasme. Sneeuw is immers altijd wit.",
+        "Zijn zogenaamde vrienden lieten hem helemaal alleen achter in het bos. Een echte vriend zou dat nooit doen."
+      ],
+      "note": null
+    },
+    {
+      "nl": "de zonde",
+      "lemma": "zonde",
+      "article": "de",
+      "pos": "noun",
+      "en": [
+        "a waste",
+        "a shame",
+        "sin"
+      ],
+      "primaryEn": "a waste",
+      "hint": "zonde, (de)",
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [
+        "Het is zonde om deze kleren weg te gooien. Ze zien er nog goed uit. Daar kun je andere mensen blij mee maken.",
+        "Overspel is een zonde volgens de Bijbel. Vroeger zei de dominee dat wie overspel pleegde niet in de hemel kwam."
+      ],
+      "note": null
+    },
+    {
+      "nl": "geïnteresseerd zijn in",
+      "lemma": "geïnteresseerd zijn in",
+      "article": null,
+      "pos": "phrase",
+      "en": [
+        "to be interested in"
+      ],
+      "primaryEn": "to be interested in",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "samenwerken met",
+      "lemma": "samenwerken met",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to work together with",
+        "to collaborate with"
+      ],
+      "primaryEn": "to work together with",
+      "hint": null,
+      "reflexive": false,
+      "separable": true,
+      "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "wijten aan",
+      "lemma": "wijten aan",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to blame on",
+        "to attribute to"
+      ],
+      "primaryEn": "to blame on",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "weet",
+        "perfect": "geweten"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "aanbevelen",
+      "lemma": "aanbevelen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to recommend"
+      ],
+      "primaryEn": "to recommend",
+      "hint": null,
+      "reflexive": false,
+      "separable": true,
+      "irregular": {
+        "past": "beval aan",
+        "perfect": "aanbevolen"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "blinken",
+      "lemma": "blinken",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to shine",
+        "to gleam"
+      ],
+      "primaryEn": "to shine",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "blonk",
+        "perfect": "geblonken"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "druipen",
+      "lemma": "druipen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to drip"
+      ],
+      "primaryEn": "to drip",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "droop",
+        "perfect": "(is) gedropen"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "graven",
+      "lemma": "graven",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to dig"
+      ],
+      "primaryEn": "to dig",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "groef",
+        "perfect": "gegraven"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "uitwringen",
+      "lemma": "uitwringen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to wring out",
+        "to wring"
+      ],
+      "primaryEn": "to wring out",
+      "hint": "(uit)wringen",
+      "reflexive": false,
+      "separable": true,
+      "irregular": {
+        "past": "wrong uit",
+        "perfect": "uitgewrongen"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "vreten",
+      "lemma": "vreten",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to devour",
+        "to gobble up (of animals)"
+      ],
+      "primaryEn": "to devour",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "vrat",
+        "perfect": "gevreten"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "wijten",
+      "lemma": "wijten",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to blame",
+        "to attribute"
+      ],
+      "primaryEn": "to blame",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "weet",
+        "perfect": "geweten"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "zinken",
+      "lemma": "zinken",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to sink"
+      ],
+      "primaryEn": "to sink",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "zonk",
+        "perfect": "is gezonken"
+      },
+      "examples": [],
+      "note": null
+    }
+  ]
+}

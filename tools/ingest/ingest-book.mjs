@@ -28,7 +28,7 @@ const pdfPath = process.argv.includes("--pdf")
 const cacheDir = join(here, ".cache");
 const cacheFile = join(cacheDir, "book.txt");
 const reviewDir = join(here, "review");
-const outDir = join(root, "src", "data", "chapters");
+const outDir = join(root, "src", "data", "levels", "4");
 
 // ---------------------------------------------------------------- extraction
 

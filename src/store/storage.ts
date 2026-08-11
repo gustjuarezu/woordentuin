@@ -4,6 +4,7 @@
  * localStorage — it is partitioned/blocked in sandboxed iframes on iOS.
  */
 import Dexie, { type Table } from "dexie";
+import type { Level } from "../data/types";
 import type { CardState } from "../engine/srs";
 
 export interface Profile {
@@ -11,7 +12,7 @@ export interface Profile {
   streak: number;
   lastDay: string | null;           // YYYY-MM-DD of last completed session
   introducedDay: string | null;     // day the counters below belong to
-  introducedByChapter: Record<number, number>;
+  introducedByChapter: Record<string, number>; // key "level:chapter", e.g. "5:2"
 }
 
 export interface Settings {
@@ -19,6 +20,7 @@ export interface Settings {
   lessonSize: number;
   hearts: boolean;          // Duolingo-style lives, default OFF (brief §4.5)
   audioOnProduction: boolean; // allow speaker on cards where you must produce Dutch
+  level: Level | null;      // active book; null until first chosen → Home shows the picker
 }
 
 export const DEFAULT_SETTINGS: Settings = {
@@ -26,6 +28,7 @@ export const DEFAULT_SETTINGS: Settings = {
   lessonSize: 7,
   hearts: false,
   audioOnProduction: false,
+  level: null,
 };
 
 export const DEFAULT_PROFILE: Profile = {

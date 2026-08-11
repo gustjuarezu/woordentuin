@@ -23,7 +23,9 @@ export function LevelTestPage() {
   const [round, setRound] = useState(0);
 
   useEffect(() => {
-    void loadAllWords().then(setAllWords);
+    // The Niveautoets is a Level 4 (Nederlands in actie) exam regardless of
+    // the active level.
+    void loadAllWords(4).then(setAllWords);
   }, []);
 
   const pool = useMemo(() => (allWords ? buildLevel4ExamPool(allWords) : []), [allWords]);

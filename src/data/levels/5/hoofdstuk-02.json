@@ -1,0 +1,1470 @@
+[
+  {
+    "id": "n2-afkopen",
+    "chapter": 2,
+    "nl": "afkopen",
+    "lemma": "afkopen",
+    "pos": "verb",
+    "en": [
+      "to buy off",
+      "to buy out"
+    ],
+    "primaryEn": "to buy off",
+    "source": "generated",
+    "separable": true
+  },
+  {
+    "id": "n2-coulant",
+    "chapter": 2,
+    "nl": "coulant",
+    "lemma": "coulant",
+    "pos": "adjective",
+    "en": [
+      "lenient",
+      "accommodating",
+      "flexible"
+    ],
+    "primaryEn": "lenient",
+    "source": "generated"
+  },
+  {
+    "id": "n2-de-ervaringsdeskundige",
+    "chapter": 2,
+    "nl": "de ervaringsdeskundige",
+    "lemma": "ervaringsdeskundige",
+    "pos": "noun",
+    "en": [
+      "expert by experience",
+      "someone with first-hand experience"
+    ],
+    "primaryEn": "expert by experience",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "n2-excessief",
+    "chapter": 2,
+    "nl": "excessief",
+    "lemma": "excessief",
+    "pos": "adjective",
+    "en": [
+      "excessive"
+    ],
+    "primaryEn": "excessive",
+    "source": "generated"
+  },
+  {
+    "id": "n2-fulmineren",
+    "chapter": 2,
+    "nl": "fulmineren",
+    "lemma": "fulmineren",
+    "pos": "verb",
+    "en": [
+      "to fulminate",
+      "to rail (against)"
+    ],
+    "primaryEn": "to fulminate",
+    "source": "generated"
+  },
+  {
+    "id": "n2-het-keurslijf",
+    "chapter": 2,
+    "nl": "het keurslijf",
+    "lemma": "keurslijf",
+    "pos": "noun",
+    "en": [
+      "straitjacket (figurative)",
+      "corset"
+    ],
+    "primaryEn": "straitjacket (figurative)",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "n2-leuteren",
+    "chapter": 2,
+    "nl": "leuteren",
+    "lemma": "leuteren",
+    "pos": "verb",
+    "en": [
+      "to waffle",
+      "to blather",
+      "to drivel on"
+    ],
+    "primaryEn": "to waffle",
+    "source": "generated"
+  },
+  {
+    "id": "n2-schromelijk",
+    "chapter": 2,
+    "nl": "schromelijk",
+    "lemma": "schromelijk",
+    "pos": "adverb",
+    "en": [
+      "grossly",
+      "terribly"
+    ],
+    "primaryEn": "grossly",
+    "source": "generated"
+  },
+  {
+    "id": "n2-het-sneeuwbaleffect",
+    "chapter": 2,
+    "nl": "het sneeuwbaleffect",
+    "lemma": "sneeuwbaleffect",
+    "pos": "noun",
+    "en": [
+      "snowball effect"
+    ],
+    "primaryEn": "snowball effect",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "n2-zich-verheven-voelen",
+    "chapter": 2,
+    "nl": "zich verheven voelen",
+    "lemma": "verheven voelen",
+    "pos": "phrase",
+    "en": [
+      "to feel superior",
+      "to feel above others"
+    ],
+    "primaryEn": "to feel superior",
+    "source": "generated",
+    "reflexive": true
+  },
+  {
+    "id": "n2-het-verenigingsleven",
+    "chapter": 2,
+    "nl": "het verenigingsleven",
+    "lemma": "verenigingsleven",
+    "pos": "noun",
+    "en": [
+      "club life",
+      "association life"
+    ],
+    "primaryEn": "club life",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "n2-het-vliegwieleffect",
+    "chapter": 2,
+    "nl": "het vliegwieleffect",
+    "lemma": "vliegwieleffect",
+    "pos": "noun",
+    "en": [
+      "flywheel effect"
+    ],
+    "primaryEn": "flywheel effect",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "n2-de-vrijbuiter",
+    "chapter": 2,
+    "nl": "de vrijbuiter",
+    "lemma": "vrijbuiter",
+    "pos": "noun",
+    "en": [
+      "free spirit",
+      "maverick",
+      "freebooter"
+    ],
+    "primaryEn": "free spirit",
+    "source": "generated",
+    "article": "de"
+  },
+  {
+    "id": "n2-waarden-en-normen",
+    "chapter": 2,
+    "nl": "waarden en normen",
+    "lemma": "waarden en normen",
+    "pos": "phrase",
+    "en": [
+      "values and norms",
+      "norms and values"
+    ],
+    "primaryEn": "values and norms",
+    "source": "generated"
+  },
+  {
+    "id": "n2-het-weerwoord",
+    "chapter": 2,
+    "nl": "het weerwoord",
+    "lemma": "weerwoord",
+    "pos": "noun",
+    "en": [
+      "rebuttal",
+      "retort",
+      "reply"
+    ],
+    "primaryEn": "rebuttal",
+    "source": "generated",
+    "article": "het"
+  },
+  {
+    "id": "n2-koste-wat-het-kost",
+    "chapter": 2,
+    "nl": "koste wat (het) kost",
+    "lemma": "koste wat (het) kost",
+    "pos": "phrase",
+    "en": [
+      "at all costs",
+      "whatever it takes"
+    ],
+    "primaryEn": "at all costs",
+    "source": "generated"
+  },
+  {
+    "id": "n2-aan-de-grond-raken",
+    "chapter": 2,
+    "nl": "aan de grond raken",
+    "lemma": "aan de grond raken",
+    "pos": "phrase",
+    "en": [
+      "to hit rock bottom",
+      "to run out of money"
+    ],
+    "primaryEn": "to hit rock bottom",
+    "source": "generated"
+  },
+  {
+    "id": "n2-de-handen-uit-de-mouwen-steken",
+    "chapter": 2,
+    "nl": "de handen uit de mouwen steken",
+    "lemma": "handen uit de mouwen steken",
+    "pos": "phrase",
+    "en": [
+      "to roll up one's sleeves",
+      "to get to work"
+    ],
+    "primaryEn": "to roll up one's sleeves",
+    "source": "generated"
+  },
+  {
+    "id": "n2-iets-in-de-markt-zetten",
+    "chapter": 2,
+    "nl": "iets in de markt zetten",
+    "lemma": "iets in de markt zetten",
+    "pos": "phrase",
+    "en": [
+      "to market something",
+      "to launch something on the market"
+    ],
+    "primaryEn": "to market something",
+    "source": "generated"
+  },
+  {
+    "id": "n2-iemand-met-de-neus-op-de-feiten-drukken",
+    "chapter": 2,
+    "nl": "iemand met de neus op de feiten drukken",
+    "lemma": "iemand met de neus op de feiten drukken",
+    "pos": "phrase",
+    "en": [
+      "to confront someone with the facts",
+      "to rub someone's nose in the facts"
+    ],
+    "primaryEn": "to confront someone with the facts",
+    "source": "generated"
+  },
+  {
+    "id": "n2-er-is-iets-niet-in-orde",
+    "chapter": 2,
+    "nl": "er is iets niet in orde",
+    "lemma": "er is iets niet in orde",
+    "pos": "phrase",
+    "en": [
+      "something is wrong",
+      "something is not right"
+    ],
+    "primaryEn": "something is wrong",
+    "source": "generated"
+  },
+  {
+    "id": "n2-aan-de-slag-gaan",
+    "chapter": 2,
+    "nl": "aan de slag gaan",
+    "lemma": "aan de slag gaan",
+    "pos": "phrase",
+    "en": [
+      "to get to work",
+      "to get started"
+    ],
+    "primaryEn": "to get to work",
+    "source": "generated"
+  },
+  {
+    "id": "n2-iets-waar-je-u-tegen-zegt",
+    "chapter": 2,
+    "nl": "iets waar je u tegen zegt",
+    "lemma": "iets waar je u tegen zegt",
+    "pos": "phrase",
+    "en": [
+      "something that commands respect",
+      "really something",
+      "something to be reckoned with"
+    ],
+    "primaryEn": "something that commands respect",
+    "source": "generated"
+  },
+  {
+    "id": "n2-dan-wordt-het-een-ander-verhaal",
+    "chapter": 2,
+    "nl": "dan wordt het een ander verhaal",
+    "lemma": "dan wordt het een ander verhaal",
+    "pos": "phrase",
+    "en": [
+      "then it's a different story",
+      "that changes things"
+    ],
+    "primaryEn": "then it's a different story",
+    "source": "generated"
+  },
+  {
+    "id": "n2-afleiden-uit",
+    "chapter": 2,
+    "nl": "afleiden uit",
+    "lemma": "afleiden uit",
+    "pos": "phrase",
+    "en": [
+      "to deduce from",
+      "to infer from"
+    ],
+    "primaryEn": "to deduce from",
+    "source": "generated",
+    "separable": true,
+    "examples": [
+      "Dat hij een goed salaris heeft, kun je wel afleiden uit het feit dat hij om de twee jaar een nieuwe auto koopt."
+    ]
+  },
+  {
+    "id": "n2-afwijken",
+    "chapter": 2,
+    "nl": "afwijken",
+    "lemma": "afwijken",
+    "pos": "verb",
+    "en": [
+      "to deviate",
+      "to differ"
+    ],
+    "primaryEn": "to deviate",
+    "source": "generated",
+    "separable": true,
+    "irregular": {
+      "past": "week af",
+      "perfect": "is afgeweken"
+    },
+    "examples": [
+      "Maak je geen zorgen. Normaal gesproken is het niet zo warm. Dit is een afwijking van de normale temperatuur."
+    ]
+  },
+  {
+    "id": "n2-de-afwijking",
+    "chapter": 2,
+    "nl": "de afwijking",
+    "lemma": "afwijking",
+    "pos": "noun",
+    "en": [
+      "deviation",
+      "anomaly",
+      "abnormality"
+    ],
+    "primaryEn": "deviation",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Maak je geen zorgen. Normaal gesproken is het niet zo warm. Dit is een afwijking van de normale temperatuur."
+    ]
+  },
+  {
+    "id": "n2-zich-ergeren-aan",
+    "chapter": 2,
+    "nl": "zich ergeren aan",
+    "lemma": "ergeren aan",
+    "pos": "verb",
+    "en": [
+      "to be annoyed by",
+      "to get irritated at"
+    ],
+    "primaryEn": "to be annoyed by",
+    "source": "generated",
+    "reflexive": true,
+    "examples": [
+      "In de bus erger ik me eraan als kinderen blijven zitten, terwijl oude mensen moeten staan. Ik heb dan de neiging om mijn ergernis daarover uit te spreken."
+    ]
+  },
+  {
+    "id": "n2-de-ergernis",
+    "chapter": 2,
+    "nl": "de ergernis",
+    "lemma": "ergernis",
+    "pos": "noun",
+    "en": [
+      "annoyance",
+      "irritation"
+    ],
+    "primaryEn": "annoyance",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "In de bus erger ik me eraan als kinderen blijven zitten, terwijl oude mensen moeten staan. Ik heb dan de neiging om mijn ergernis daarover uit te spreken."
+    ]
+  },
+  {
+    "id": "n2-gevaarlijk",
+    "chapter": 2,
+    "nl": "gevaarlijk",
+    "lemma": "gevaarlijk",
+    "pos": "adjective",
+    "en": [
+      "dangerous"
+    ],
+    "primaryEn": "dangerous",
+    "source": "generated",
+    "examples": [
+      "Het gevaarlijkste kruispunt van Nederland bevindt zich in Groningen. Daar gebeuren de meeste ongelukken. Met borden en verkeerslichten heeft men geprobeerd het veiliger te maken."
+    ]
+  },
+  {
+    "id": "n2-gooien",
+    "chapter": 2,
+    "nl": "gooien",
+    "lemma": "gooien",
+    "pos": "verb",
+    "en": [
+      "to throw (at)"
+    ],
+    "primaryEn": "to throw (at)",
+    "source": "generated",
+    "hint": "gooien (naar)",
+    "examples": [
+      "Tijdens de protesten gooiden enkele demonstranten stenen naar de politie. Zij werden gearresteerd."
+    ]
+  },
+  {
+    "id": "n2-de-haast",
+    "chapter": 2,
+    "nl": "de haast",
+    "lemma": "haast",
+    "pos": "noun",
+    "en": [
+      "hurry",
+      "haste"
+    ],
+    "primaryEn": "hurry",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Ik heb haast. De trein vertrekt over vijf minuten en ik wil ook nog koffie kopen. Ik moet me echt haasten.",
+      "Haastige spoed is zelden goed."
+    ]
+  },
+  {
+    "id": "n2-zich-haasten",
+    "chapter": 2,
+    "nl": "zich haasten",
+    "lemma": "haasten",
+    "pos": "verb",
+    "en": [
+      "to hurry",
+      "to rush"
+    ],
+    "primaryEn": "to hurry",
+    "source": "generated",
+    "reflexive": true,
+    "examples": [
+      "Ik heb haast. De trein vertrekt over vijf minuten en ik wil ook nog koffie kopen. Ik moet me echt haasten."
+    ]
+  },
+  {
+    "id": "n2-haastig",
+    "chapter": 2,
+    "nl": "haastig",
+    "lemma": "haastig",
+    "pos": "adjective",
+    "en": [
+      "hasty",
+      "hurried"
+    ],
+    "primaryEn": "hasty",
+    "source": "generated"
+  },
+  {
+    "id": "n2-onvoorstelbaar",
+    "chapter": 2,
+    "nl": "onvoorstelbaar",
+    "lemma": "onvoorstelbaar",
+    "pos": "adjective",
+    "en": [
+      "unimaginable",
+      "inconceivable"
+    ],
+    "primaryEn": "unimaginable",
+    "source": "generated",
+    "examples": [
+      "Midden op de oceaan zie je 's nachts onvoorstelbaar veel sterren. Als je daar nooit bent geweest, kun je je niet voorstellen hoe mooi dat is."
+    ]
+  },
+  {
+    "id": "n2-de-overkant",
+    "chapter": 2,
+    "nl": "de overkant",
+    "lemma": "overkant",
+    "pos": "noun",
+    "en": [
+      "the other side",
+      "the opposite side"
+    ],
+    "primaryEn": "the other side",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Als u die winkel zoekt, dan bent u hier aan de verkeerde kant van de gracht. Hij zit namelijk aan de overkant."
+    ]
+  },
+  {
+    "id": "n2-schandelijk",
+    "chapter": 2,
+    "nl": "schandelijk",
+    "lemma": "schandelijk",
+    "pos": "adjective",
+    "en": [
+      "disgraceful",
+      "shameful"
+    ],
+    "primaryEn": "disgraceful",
+    "source": "generated",
+    "examples": [
+      "Vroeger was het een schande als een vrouw ging werken in plaats van dat ze thuisbleef om voor de kinderen te zorgen. Men vond dat schandelijk. Nu denkt men daar gelukkig anders over."
+    ]
+  },
+  {
+    "id": "n2-de-schande",
+    "chapter": 2,
+    "nl": "de schande",
+    "lemma": "schande",
+    "pos": "noun",
+    "en": [
+      "disgrace",
+      "shame"
+    ],
+    "primaryEn": "disgrace",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Vroeger was het een schande als een vrouw ging werken in plaats van dat ze thuisbleef om voor de kinderen te zorgen. Men vond dat schandelijk. Nu denkt men daar gelukkig anders over."
+    ]
+  },
+  {
+    "id": "n2-toeteren",
+    "chapter": 2,
+    "nl": "toeteren",
+    "lemma": "toeteren",
+    "pos": "verb",
+    "en": [
+      "to honk",
+      "to sound the horn"
+    ],
+    "primaryEn": "to honk",
+    "source": "generated",
+    "examples": [
+      "Je mag in Nederland in de auto alleen toeteren als er gevaar dreigt. Als je je claxon gebruikt terwijl er niets aan de hand is, kun je een bekeuring krijgen."
+    ]
+  },
+  {
+    "id": "n2-de-troep",
+    "chapter": 2,
+    "nl": "de troep",
+    "lemma": "troep",
+    "pos": "noun",
+    "en": [
+      "mess",
+      "junk",
+      "rubbish"
+    ],
+    "primaryEn": "mess",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Er ligt erg veel troep op straat. Waarom worden er geen afvalbakken geplaatst?"
+    ]
+  },
+  {
+    "id": "n2-de-uiting",
+    "chapter": 2,
+    "nl": "de uiting",
+    "lemma": "uiting",
+    "pos": "noun",
+    "en": [
+      "expression",
+      "utterance"
+    ],
+    "primaryEn": "expression",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Als een baby huilt, is dat meestal een uiting van dorst. Hoe moet een baby zich anders uiten?"
+    ]
+  },
+  {
+    "id": "n2-het-verstand",
+    "chapter": 2,
+    "nl": "het verstand",
+    "lemma": "verstand",
+    "pos": "noun",
+    "en": [
+      "mind",
+      "common sense",
+      "reason"
+    ],
+    "primaryEn": "mind",
+    "source": "generated",
+    "article": "het",
+    "examples": [
+      "Mensen die hun verstand gebruiken, doen een lange broek aan in de bossen. Het is onverstandig om daar met blote benen te wandelen, want er zijn allerlei insecten."
+    ]
+  },
+  {
+    "id": "n2-verstandig",
+    "chapter": 2,
+    "nl": "verstandig",
+    "lemma": "verstandig",
+    "pos": "adjective",
+    "en": [
+      "sensible",
+      "wise"
+    ],
+    "primaryEn": "sensible",
+    "source": "generated",
+    "hint": "(on)verstandig — onverstandig = unwise",
+    "examples": [
+      "Mensen die hun verstand gebruiken, doen een lange broek aan in de bossen. Het is onverstandig om daar met blote benen te wandelen, want er zijn allerlei insecten."
+    ]
+  },
+  {
+    "id": "n2-verwarrend",
+    "chapter": 2,
+    "nl": "verwarrend",
+    "lemma": "verwarrend",
+    "pos": "adjective",
+    "en": [
+      "confusing"
+    ],
+    "primaryEn": "confusing",
+    "source": "generated",
+    "examples": [
+      "De nummering van de lokalen in het universiteitsgebouw is heel verwarrend. Ik raak altijd in de war. Zo bevindt lokaal 0346 zich op de vierde verdieping."
+    ]
+  },
+  {
+    "id": "n2-de-verwarring",
+    "chapter": 2,
+    "nl": "de verwarring",
+    "lemma": "verwarring",
+    "pos": "noun",
+    "en": [
+      "confusion"
+    ],
+    "primaryEn": "confusion",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "De nummering van de lokalen in het universiteitsgebouw is heel verwarrend. Ik raak altijd in de war. Zo bevindt lokaal 0346 zich op de vierde verdieping."
+    ]
+  },
+  {
+    "id": "n2-in-de-war-raken-zijn",
+    "chapter": 2,
+    "nl": "in de war raken / zijn",
+    "lemma": "in de war raken / zijn",
+    "pos": "phrase",
+    "en": [
+      "to get confused",
+      "to be confused"
+    ],
+    "primaryEn": "to get confused",
+    "source": "generated",
+    "examples": [
+      "De nummering van de lokalen in het universiteitsgebouw is heel verwarrend. Ik raak altijd in de war. Zo bevindt lokaal 0346 zich op de vierde verdieping."
+    ]
+  },
+  {
+    "id": "n2-de-voorrang",
+    "chapter": 2,
+    "nl": "de voorrang",
+    "lemma": "voorrang",
+    "pos": "noun",
+    "en": [
+      "right of way",
+      "priority"
+    ],
+    "primaryEn": "right of way",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "In Nederland heb je voorrang als je van rechts komt, maar in Engeland moet je dan juist voorrang geven. Daar moet je wel even aan wennen als je gaat autorijden."
+    ]
+  },
+  {
+    "id": "n2-aanmaken",
+    "chapter": 2,
+    "nl": "aanmaken",
+    "lemma": "aanmaken",
+    "pos": "verb",
+    "en": [
+      "to create (e.g. an account)",
+      "to make"
+    ],
+    "primaryEn": "to create (e.g. an account)",
+    "source": "generated",
+    "separable": true,
+    "examples": [
+      "Als je de opdrachten op de website wilt maken, dan moet je eerst een account aanmaken. Anders heb je geen toegang tot de website."
+    ]
+  },
+  {
+    "id": "n2-beheersen",
+    "chapter": 2,
+    "nl": "beheersen",
+    "lemma": "beheersen",
+    "pos": "verb",
+    "en": [
+      "to control (oneself)",
+      "to master"
+    ],
+    "primaryEn": "to control (oneself)",
+    "source": "generated",
+    "hint": "beheersen, (zich)",
+    "examples": [
+      "Hij werd woedend, hij kon zich niet beheersen en begon met spullen te gooien. Hij had zichzelf niet onder controle.",
+      "Ik beheers de stof van het vorige hoofdstuk, dus ik ben niet bang voor de test. Ik begrijp alles."
+    ]
+  },
+  {
+    "id": "n2-de-beheersing",
+    "chapter": 2,
+    "nl": "de beheersing",
+    "lemma": "beheersing",
+    "pos": "noun",
+    "en": [
+      "control",
+      "self-control",
+      "command"
+    ],
+    "primaryEn": "control",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Hij werd woedend, hij kon zich niet beheersen en begon met spullen te gooien. Hij had zichzelf niet onder controle."
+    ]
+  },
+  {
+    "id": "n2-beslist",
+    "chapter": 2,
+    "nl": "beslist",
+    "lemma": "beslist",
+    "pos": "adverb",
+    "en": [
+      "definitely",
+      "certainly"
+    ],
+    "primaryEn": "definitely",
+    "source": "generated",
+    "examples": [
+      "Ik ben beslist niet afhankelijk van mijn mobieltje. Absoluut niet."
+    ]
+  },
+  {
+    "id": "n2-boeien",
+    "chapter": 2,
+    "nl": "boeien",
+    "lemma": "boeien",
+    "pos": "verb",
+    "en": [
+      "to captivate",
+      "to fascinate",
+      "to handcuff"
+    ],
+    "primaryEn": "to captivate",
+    "source": "generated",
+    "examples": [
+      "Die film boeide me niet. Ik vond hem niet interessant, hoewel het boek wel boeiend was.",
+      "De inbreker werd door de politie geboeid en zo meegenomen naar het politiebureau."
+    ]
+  },
+  {
+    "id": "n2-boeiend",
+    "chapter": 2,
+    "nl": "boeiend",
+    "lemma": "boeiend",
+    "pos": "adjective",
+    "en": [
+      "fascinating",
+      "captivating"
+    ],
+    "primaryEn": "fascinating",
+    "source": "generated",
+    "examples": [
+      "Die film boeide me niet. Ik vond hem niet interessant, hoewel het boek wel boeiend was."
+    ]
+  },
+  {
+    "id": "n2-doordringen-tot",
+    "chapter": 2,
+    "nl": "doordringen tot",
+    "lemma": "doordringen tot",
+    "pos": "phrase",
+    "en": [
+      "to get through to",
+      "to penetrate"
+    ],
+    "primaryEn": "to get through to",
+    "source": "generated",
+    "separable": true,
+    "irregular": {
+      "past": "drong door",
+      "perfect": "is doorgedrongen"
+    },
+    "examples": [
+      "Het positieve nieuws drong niet tot hem door. Hij kon het niet geloven!",
+      "In dat gebied zijn nog maar weinig mensen geweest. Het is moeilijk om door te dringen in dat gebied, omdat er geen paden zijn."
+    ]
+  },
+  {
+    "id": "n2-elders",
+    "chapter": 2,
+    "nl": "elders",
+    "lemma": "elders",
+    "pos": "adverb",
+    "en": [
+      "elsewhere"
+    ],
+    "primaryEn": "elsewhere",
+    "source": "generated",
+    "examples": [
+      "Ben je het weekend thuis of ben je elders?"
+    ]
+  },
+  {
+    "id": "n2-fel",
+    "chapter": 2,
+    "nl": "fel",
+    "lemma": "fel",
+    "pos": "adjective",
+    "en": [
+      "fierce",
+      "bright (of light or colour)",
+      "intense"
+    ],
+    "primaryEn": "fierce",
+    "source": "generated",
+    "examples": [
+      "Wat schijnt de zon fel. Ik moet even een zonnebril opzetten.",
+      "Ik denk dat ik iets verkeerds heb gezegd, want ze reageerde erg fel. Het was bijna agressief."
+    ]
+  },
+  {
+    "id": "n2-knikken",
+    "chapter": 2,
+    "nl": "knikken",
+    "lemma": "knikken",
+    "pos": "verb",
+    "en": [
+      "to nod"
+    ],
+    "primaryEn": "to nod",
+    "source": "generated",
+    "examples": [
+      "In Nederland knik je je hoofd bij ja en schud je met je hoofd bij nee. In sommige landen is dat precies andersom."
+    ]
+  },
+  {
+    "id": "n2-overdrijven",
+    "chapter": 2,
+    "nl": "overdrijven",
+    "lemma": "overdrijven",
+    "pos": "verb",
+    "en": [
+      "to exaggerate"
+    ],
+    "primaryEn": "to exaggerate",
+    "source": "generated",
+    "irregular": {
+      "past": "overdreef",
+      "perfect": "overdreven"
+    },
+    "examples": [
+      "Je zegt dat ik dag en nacht online ben, maar dat is overdreven. Ik lig 's nachts gewoon te slapen."
+    ]
+  },
+  {
+    "id": "n2-overmatig",
+    "chapter": 2,
+    "nl": "overmatig",
+    "lemma": "overmatig",
+    "pos": "adjective",
+    "en": [
+      "excessive"
+    ],
+    "primaryEn": "excessive",
+    "source": "generated",
+    "examples": [
+      "Alles wat je te veel doet, is niet goed. Dat geldt voor overmatig internetgebruik, maar ook voor drankgebruik."
+    ]
+  },
+  {
+    "id": "n2-stapelen",
+    "chapter": 2,
+    "nl": "stapelen",
+    "lemma": "stapelen",
+    "pos": "verb",
+    "en": [
+      "to stack",
+      "to pile up"
+    ],
+    "primaryEn": "to stack",
+    "source": "generated",
+    "examples": [
+      "Wil je de borden op elkaar stapelen? Zo'n stapel borden neemt minder ruimte in dan wanneer je de borden naast elkaar zet."
+    ]
+  },
+  {
+    "id": "n2-staren",
+    "chapter": 2,
+    "nl": "staren",
+    "lemma": "staren",
+    "pos": "verb",
+    "en": [
+      "to stare"
+    ],
+    "primaryEn": "to stare",
+    "source": "generated",
+    "examples": [
+      "In de bus zat die vrouw de hele tijd naar mij te staren. Ze keek zo lang naar me dat ik de neiging had om te vragen: 'Wat is er aan de hand?'",
+      "Soms is het goed als je een paar minuten uit het raam staart. Niets doen en nergens aan denken."
+    ]
+  },
+  {
+    "id": "n2-tekortkomen",
+    "chapter": 2,
+    "nl": "tekortkomen",
+    "lemma": "tekortkomen",
+    "pos": "verb",
+    "en": [
+      "to lack",
+      "to be short of"
+    ],
+    "primaryEn": "to lack",
+    "source": "generated",
+    "separable": true,
+    "irregular": {
+      "past": "kwam tekort",
+      "perfect": "is tekortgekomen"
+    },
+    "examples": [
+      "Ik heb het erg druk. Ik kom tijd tekort om alles te doen."
+    ]
+  },
+  {
+    "id": "n2-telkens",
+    "chapter": 2,
+    "nl": "telkens",
+    "lemma": "telkens",
+    "pos": "adverb",
+    "en": [
+      "each time",
+      "again and again"
+    ],
+    "primaryEn": "each time",
+    "source": "generated",
+    "examples": [
+      "Telkens als ik iets met je wil afspreken, heb je geen tijd. Heb je het elke keer zo druk?"
+    ]
+  },
+  {
+    "id": "n2-ter-sprake-komen-sprake-zijn-van",
+    "chapter": 2,
+    "nl": "ter sprake komen / sprake (zijn) van",
+    "lemma": "ter sprake komen / sprake (zijn) van",
+    "pos": "phrase",
+    "en": [
+      "to come up (in conversation)",
+      "to be a matter of / there being talk of"
+    ],
+    "primaryEn": "to come up (in conversation)",
+    "source": "generated",
+    "examples": [
+      "Er is sprake van een toename van het aantal ooievaars in Nederland.",
+      "'Hebben jullie nog over dat asociale gedrag gepraat?' 'Nee, dat is niet ter sprake gekomen.'"
+    ]
+  },
+  {
+    "id": "n2-verslaafd-zijn",
+    "chapter": 2,
+    "nl": "verslaafd zijn",
+    "lemma": "verslaafd zijn",
+    "pos": "phrase",
+    "en": [
+      "to be addicted (to)"
+    ],
+    "primaryEn": "to be addicted (to)",
+    "source": "generated",
+    "hint": "verslaafd zijn (aan)",
+    "examples": [
+      "Steeds meer jongeren zijn tegenwoordig verslaafd aan gamen. Men spreekt van een verslaving als ze meer dan 16 uur per dag aan het gamen zijn."
+    ]
+  },
+  {
+    "id": "n2-de-verslaving",
+    "chapter": 2,
+    "nl": "de verslaving",
+    "lemma": "verslaving",
+    "pos": "noun",
+    "en": [
+      "addiction"
+    ],
+    "primaryEn": "addiction",
+    "source": "generated",
+    "article": "de",
+    "examples": [
+      "Steeds meer jongeren zijn tegenwoordig verslaafd aan gamen. Men spreekt van een verslaving als ze meer dan 16 uur per dag aan het gamen zijn."
+    ]
+  },
+  {
+    "id": "n2-zowat",
+    "chapter": 2,
+    "nl": "zowat",
+    "lemma": "zowat",
+    "pos": "adverb",
+    "en": [
+      "almost",
+      "just about",
+      "nearly"
+    ],
+    "primaryEn": "almost",
+    "source": "generated",
+    "examples": [
+      "Zowat al mijn vrienden komen op mijn feest. Bijna iedereen, behalve James en Vera."
+    ]
+  },
+  {
+    "id": "n2-afhankelijk-zijn-van",
+    "chapter": 2,
+    "nl": "afhankelijk zijn van",
+    "lemma": "afhankelijk zijn van",
+    "pos": "phrase",
+    "en": [
+      "to be dependent on",
+      "to depend on"
+    ],
+    "primaryEn": "to be dependent on",
+    "source": "generated"
+  },
+  {
+    "id": "n2-afstand-nemen-van",
+    "chapter": 2,
+    "nl": "afstand nemen van",
+    "lemma": "afstand nemen van",
+    "pos": "phrase",
+    "en": [
+      "to distance oneself from",
+      "to step back from"
+    ],
+    "primaryEn": "to distance oneself from",
+    "source": "generated"
+  },
+  {
+    "id": "n2-besteden-aan",
+    "chapter": 2,
+    "nl": "besteden aan",
+    "lemma": "besteden aan",
+    "pos": "phrase",
+    "en": [
+      "to spend on",
+      "to devote to"
+    ],
+    "primaryEn": "to spend on",
+    "source": "generated"
+  },
+  {
+    "id": "n2-doorbrengen-met",
+    "chapter": 2,
+    "nl": "doorbrengen met",
+    "lemma": "doorbrengen met",
+    "pos": "phrase",
+    "en": [
+      "to spend (time) with"
+    ],
+    "primaryEn": "to spend (time) with",
+    "source": "generated",
+    "separable": true
+  },
+  {
+    "id": "n2-een-effect-hebben-op",
+    "chapter": 2,
+    "nl": "een effect hebben op",
+    "lemma": "effect hebben op",
+    "pos": "phrase",
+    "en": [
+      "to have an effect on"
+    ],
+    "primaryEn": "to have an effect on",
+    "source": "generated"
+  },
+  {
+    "id": "n2-enthousiast-zijn-over",
+    "chapter": 2,
+    "nl": "enthousiast zijn over",
+    "lemma": "enthousiast zijn over",
+    "pos": "phrase",
+    "en": [
+      "to be enthusiastic about"
+    ],
+    "primaryEn": "to be enthusiastic about",
+    "source": "generated"
+  },
+  {
+    "id": "n2-gericht-zijn-op",
+    "chapter": 2,
+    "nl": "gericht zijn op",
+    "lemma": "gericht zijn op",
+    "pos": "phrase",
+    "en": [
+      "to be focused on",
+      "to be aimed at"
+    ],
+    "primaryEn": "to be focused on",
+    "source": "generated"
+  },
+  {
+    "id": "n2-geven-om",
+    "chapter": 2,
+    "nl": "geven om",
+    "lemma": "geven om",
+    "pos": "phrase",
+    "en": [
+      "to care about"
+    ],
+    "primaryEn": "to care about",
+    "source": "generated"
+  },
+  {
+    "id": "n2-een-hekel-hebben-aan",
+    "chapter": 2,
+    "nl": "een hekel hebben aan",
+    "lemma": "hekel hebben aan",
+    "pos": "phrase",
+    "en": [
+      "to hate",
+      "to strongly dislike"
+    ],
+    "primaryEn": "to hate",
+    "source": "generated"
+  },
+  {
+    "id": "n2-horen-bij",
+    "chapter": 2,
+    "nl": "horen bij",
+    "lemma": "horen bij",
+    "pos": "phrase",
+    "en": [
+      "to belong to",
+      "to go with"
+    ],
+    "primaryEn": "to belong to",
+    "source": "generated"
+  },
+  {
+    "id": "n2-leren-van",
+    "chapter": 2,
+    "nl": "leren van",
+    "lemma": "leren van",
+    "pos": "phrase",
+    "en": [
+      "to learn from"
+    ],
+    "primaryEn": "to learn from",
+    "source": "generated"
+  },
+  {
+    "id": "n2-letten-op",
+    "chapter": 2,
+    "nl": "letten op",
+    "lemma": "letten op",
+    "pos": "phrase",
+    "en": [
+      "to pay attention to",
+      "to keep an eye on"
+    ],
+    "primaryEn": "to pay attention to",
+    "source": "generated"
+  },
+  {
+    "id": "n2-meedoen-aan",
+    "chapter": 2,
+    "nl": "meedoen aan",
+    "lemma": "meedoen aan",
+    "pos": "phrase",
+    "en": [
+      "to take part in",
+      "to participate in"
+    ],
+    "primaryEn": "to take part in",
+    "source": "generated",
+    "separable": true
+  },
+  {
+    "id": "n2-nadenken-over",
+    "chapter": 2,
+    "nl": "nadenken over",
+    "lemma": "nadenken over",
+    "pos": "phrase",
+    "en": [
+      "to think about"
+    ],
+    "primaryEn": "to think about",
+    "source": "generated",
+    "separable": true
+  },
+  {
+    "id": "n2-de-nadruk-leggen-op",
+    "chapter": 2,
+    "nl": "de nadruk leggen op",
+    "lemma": "nadruk leggen op",
+    "pos": "phrase",
+    "en": [
+      "to emphasize",
+      "to put emphasis on"
+    ],
+    "primaryEn": "to emphasize",
+    "source": "generated"
+  },
+  {
+    "id": "n2-onderzoek-doen-naar",
+    "chapter": 2,
+    "nl": "onderzoek doen naar",
+    "lemma": "onderzoek doen naar",
+    "pos": "phrase",
+    "en": [
+      "to do research into",
+      "to investigate"
+    ],
+    "primaryEn": "to do research into",
+    "source": "generated"
+  },
+  {
+    "id": "n2-opkijken-van",
+    "chapter": 2,
+    "nl": "opkijken van",
+    "lemma": "opkijken van",
+    "pos": "phrase",
+    "en": [
+      "to be surprised by",
+      "to be amazed at"
+    ],
+    "primaryEn": "to be surprised by",
+    "source": "generated",
+    "separable": true
+  },
+  {
+    "id": "n2-rekening-houden-met",
+    "chapter": 2,
+    "nl": "rekening houden met",
+    "lemma": "rekening houden met",
+    "pos": "phrase",
+    "en": [
+      "to take into account",
+      "to consider"
+    ],
+    "primaryEn": "to take into account",
+    "source": "generated"
+  },
+  {
+    "id": "n2-zich-richten-op",
+    "chapter": 2,
+    "nl": "zich richten op",
+    "lemma": "richten op",
+    "pos": "verb",
+    "en": [
+      "to focus on",
+      "to aim at"
+    ],
+    "primaryEn": "to focus on",
+    "source": "generated",
+    "reflexive": true
+  },
+  {
+    "id": "n2-staren-naar",
+    "chapter": 2,
+    "nl": "staren naar",
+    "lemma": "staren naar",
+    "pos": "phrase",
+    "en": [
+      "to stare at"
+    ],
+    "primaryEn": "to stare at",
+    "source": "generated"
+  },
+  {
+    "id": "n2-toevoegen-aan",
+    "chapter": 2,
+    "nl": "toevoegen aan",
+    "lemma": "toevoegen aan",
+    "pos": "phrase",
+    "en": [
+      "to add to"
+    ],
+    "primaryEn": "to add to",
+    "source": "generated",
+    "separable": true
+  },
+  {
+    "id": "n2-verslaafd-zijn-aan",
+    "chapter": 2,
+    "nl": "verslaafd zijn aan",
+    "lemma": "verslaafd zijn aan",
+    "pos": "phrase",
+    "en": [
+      "to be addicted to"
+    ],
+    "primaryEn": "to be addicted to",
+    "source": "generated",
+    "examples": [
+      "Steeds meer jongeren zijn tegenwoordig verslaafd aan gamen. Men spreekt van een verslaving als ze meer dan 16 uur per dag aan het gamen zijn."
+    ]
+  },
+  {
+    "id": "n2-zin-hebben-in",
+    "chapter": 2,
+    "nl": "zin hebben in",
+    "lemma": "zin hebben in",
+    "pos": "phrase",
+    "en": [
+      "to feel like",
+      "to be in the mood for"
+    ],
+    "primaryEn": "to feel like",
+    "source": "generated"
+  },
+  {
+    "id": "n2-gedragen",
+    "chapter": 2,
+    "nl": "gedragen",
+    "lemma": "gedragen",
+    "pos": "verb",
+    "en": [
+      "to behave",
+      "to conduct oneself"
+    ],
+    "primaryEn": "to behave",
+    "source": "generated",
+    "irregular": {
+      "past": "gedroeg",
+      "perfect": "gedragen"
+    }
+  },
+  {
+    "id": "n2-onthouden",
+    "chapter": 2,
+    "nl": "onthouden",
+    "lemma": "onthouden",
+    "pos": "verb",
+    "en": [
+      "to remember",
+      "to memorize"
+    ],
+    "primaryEn": "to remember",
+    "source": "generated",
+    "irregular": {
+      "past": "onthield",
+      "perfect": "onthouden"
+    }
+  },
+  {
+    "id": "n2-ontslaan",
+    "chapter": 2,
+    "nl": "ontslaan",
+    "lemma": "ontslaan",
+    "pos": "verb",
+    "en": [
+      "to fire",
+      "to dismiss"
+    ],
+    "primaryEn": "to fire",
+    "source": "generated",
+    "irregular": {
+      "past": "ontsloeg",
+      "perfect": "ontslagen"
+    }
+  },
+  {
+    "id": "n2-opbergen",
+    "chapter": 2,
+    "nl": "opbergen",
+    "lemma": "opbergen",
+    "pos": "verb",
+    "en": [
+      "to put away",
+      "to store"
+    ],
+    "primaryEn": "to put away",
+    "source": "generated",
+    "separable": true,
+    "irregular": {
+      "past": "borg op",
+      "perfect": "opgeborgen"
+    }
+  },
+  {
+    "id": "n2-toestaan",
+    "chapter": 2,
+    "nl": "toestaan",
+    "lemma": "toestaan",
+    "pos": "verb",
+    "en": [
+      "to allow",
+      "to permit"
+    ],
+    "primaryEn": "to allow",
+    "source": "generated",
+    "separable": true,
+    "irregular": {
+      "past": "stond toe",
+      "perfect": "toegestaan"
+    }
+  },
+  {
+    "id": "n2-verkopen",
+    "chapter": 2,
+    "nl": "verkopen",
+    "lemma": "verkopen",
+    "pos": "verb",
+    "en": [
+      "to sell"
+    ],
+    "primaryEn": "to sell",
+    "source": "generated",
+    "irregular": {
+      "past": "verkocht",
+      "perfect": "verkocht"
+    }
+  },
+  {
+    "id": "n2-vervangen",
+    "chapter": 2,
+    "nl": "vervangen",
+    "lemma": "vervangen",
+    "pos": "verb",
+    "en": [
+      "to replace"
+    ],
+    "primaryEn": "to replace",
+    "source": "generated",
+    "irregular": {
+      "past": "verving",
+      "perfect": "vervangen"
+    }
+  }
+]

@@ -1,4 +1,5 @@
 import { create } from "zustand";
+import type { Level } from "../data/types";
 import type { CardState, Grade } from "../engine/srs";
 import { gradeCard, newCardState } from "../engine/srs";
 import {
@@ -16,6 +17,14 @@ export function todayStr(now = Date.now()): string {
   return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
 }
 
+/** Daily new-word counters are per level AND chapter (both books have a
+ * hoofdstuk 1–6, so a bare chapter number would collide). */
+export const throttleKey = (level: Level, chapter: number) => `${level}:${chapter}`;
+
+/** Active level for content pages. Defaults to 4 until the picker has run —
+ * that matches installs that predate the level feature. */
+export const useLevel = (): Level => useApp((s) => s.settings.level ?? 4);
+
 interface AppState {
   ready: boolean;
   cardStates: Map<string, CardState>;
@@ -25,8 +34,9 @@ interface AppState {
   grade: (wordId: string, grade: Grade, now?: number) => CardState;
   addXp: (n: number) => void;
   bumpStreak: (now?: number) => void;
-  noteIntroduced: (chapter: number, count: number, now?: number) => void;
-  newRemainingToday: (chapter: number, now?: number) => number;
+  noteIntroduced: (key: string, count: number, now?: number) => void;
+  newRemainingToday: (key: string, now?: number) => number;
+  setLevel: (level: Level) => void;
   updateSettings: (patch: Partial<Settings>) => void;
   resetProgress: () => Promise<void>;
 }
@@ -78,20 +88,26 @@ export const useApp = create<AppState>((set, get) => ({
     void storage.saveProfile(profile);
   },
 
-  noteIntroduced: (chapter, count, now = Date.now()) => {
+  noteIntroduced: (key, count, now = Date.now()) => {
     const p = get().profile;
     const today = todayStr(now);
     const byChapter = p.introducedDay === today ? { ...p.introducedByChapter } : {};
-    byChapter[chapter] = (byChapter[chapter] ?? 0) + count;
+    byChapter[key] = (byChapter[key] ?? 0) + count;
     const profile = { ...p, introducedDay: today, introducedByChapter: byChapter };
     set({ profile });
     void storage.saveProfile(profile);
   },
 
-  newRemainingToday: (chapter, now = Date.now()) => {
+  newRemainingToday: (key, now = Date.now()) => {
     const { profile, settings } = get();
-    const used = profile.introducedDay === todayStr(now) ? (profile.introducedByChapter[chapter] ?? 0) : 0;
+    const used = profile.introducedDay === todayStr(now) ? (profile.introducedByChapter[key] ?? 0) : 0;
     return Math.max(0, settings.newPerDay - used);
+  },
+
+  setLevel: (level) => {
+    const settings = { ...get().settings, level };
+    set({ settings });
+    void storage.saveSettings(settings);
   },
 
   updateSettings: (patch) => {

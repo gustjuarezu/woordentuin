@@ -6,19 +6,20 @@ import { chunkLessons, countDue, countDuePP } from "../engine/session";
 import { eligibleParticipleVerbs, ppKey } from "../engine/participle";
 import { CROWN_LEVELS, crownLevel, growthStage, STAGE_MAX } from "../engine/srs";
 import { Garden } from "../components/Garden";
-import { useApp } from "../store/useApp";
+import { useApp, useLevel } from "../store/useApp";
 
 export function ChapterPage() {
   const { n } = useParams();
   const num = Number(n);
-  const meta = chapterMeta(num);
+  const level = useLevel();
+  const meta = chapterMeta(level, num);
   const states = useApp((s) => s.cardStates);
   const lessonSize = useApp((s) => s.settings.lessonSize);
   const [words, setWords] = useState<Word[]>([]);
 
   useEffect(() => {
-    void loadChapterWords(num).then(setWords);
-  }, [num]);
+    void loadChapterWords(level, num).then(setWords);
+  }, [level, num]);
 
   if (!meta) return <p>Unknown chapter.</p>;
 
