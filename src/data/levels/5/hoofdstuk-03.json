@@ -11,7 +11,8 @@
     ],
     "primaryEn": "to keep up with",
     "source": "generated",
-    "separable": true
+    "separable": true,
+    "freqTier": "other"
   },
   {
     "id": "n3-iemand-de-deur-wijzen",
@@ -24,7 +25,8 @@
       "to turn someone away"
     ],
     "primaryEn": "to show someone the door",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "other"
   },
   {
     "id": "n3-geboren-en-getogen",
@@ -37,7 +39,8 @@
       "born and raised"
     ],
     "primaryEn": "born and bred",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "other"
   },
   {
     "id": "n3-de-hokjesgeest",
@@ -52,7 +55,8 @@
     ],
     "primaryEn": "pigeonholing mentality",
     "source": "generated",
-    "article": "de"
+    "article": "de",
+    "freqTier": "other"
   },
   {
     "id": "n3-lef-hebben",
@@ -66,7 +70,8 @@
       "to dare"
     ],
     "primaryEn": "to have guts",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "other"
   },
   {
     "id": "n3-de-waan-van-de-dag",
@@ -79,7 +84,8 @@
       "short-lived issues of the moment"
     ],
     "primaryEn": "the whims of the day",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "other"
   },
   {
     "id": "n3-het-komt-je-niet-aanwaaien",
@@ -92,7 +98,8 @@
       "it takes real effort"
     ],
     "primaryEn": "it doesn't come easily",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "other"
   },
   {
     "id": "n3-geen-blad-voor-de-mond-nemen",
@@ -105,7 +112,8 @@
       "to speak one's mind"
     ],
     "primaryEn": "to not mince words",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "other"
   },
   {
     "id": "n3-het-gelijk-aan-je-zijde-hebben",
@@ -118,7 +126,8 @@
       "to be in the right"
     ],
     "primaryEn": "to have right on your side",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "other"
   },
   {
     "id": "n3-in-het-geweer-komen",
@@ -131,7 +140,8 @@
       "to spring into action"
     ],
     "primaryEn": "to rise up in protest",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "other"
   },
   {
     "id": "n3-geen-haar-op-m-n-hoofd-die-daaraan-denkt",
@@ -144,7 +154,8 @@
       "it wouldn't even cross my mind"
     ],
     "primaryEn": "I wouldn't dream of it",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "other"
   },
   {
     "id": "n3-iets-onder-de-loep-nemen",
@@ -157,7 +168,8 @@
       "to scrutinize something"
     ],
     "primaryEn": "to examine something closely",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "other"
   },
   {
     "id": "n3-je-sporen-achterlaten",
@@ -170,7 +182,8 @@
       "to leave traces behind"
     ],
     "primaryEn": "to leave your mark",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "other"
   },
   {
     "id": "n3-van-top-tot-teen",
@@ -182,7 +195,8 @@
       "from head to toe"
     ],
     "primaryEn": "from head to toe",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "other"
   },
   {
     "id": "n3-in-de-weer-zijn",
@@ -195,7 +209,8 @@
       "to be bustling about"
     ],
     "primaryEn": "to be busy",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "other"
   },
   {
     "id": "n3-het-voor-het-zeggen-hebben",
@@ -208,7 +223,8 @@
       "to call the shots"
     ],
     "primaryEn": "to be in charge",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "other"
   },
   {
     "id": "n3-het-aandeel",
@@ -226,7 +242,8 @@
     "article": "het",
     "examples": [
       "Dat project doen we samen. Iedereen levert zijn aandeel, zodat we met elkaar het werk doen."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n3-braaf",
@@ -243,7 +260,8 @@
     "source": "generated",
     "examples": [
       "Het is wel een héél braaf kind. Hij luistert áltijd naar zijn ouders en doet precies wat ze zeggen."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n3-gelijkwaardig",
@@ -260,7 +278,8 @@
     "source": "generated",
     "examples": [
       "Natuurlijk zijn mannen en vrouwen niet gelijk, maar daarom kunnen ze wel gelijkwaardig worden behandeld. Het is toch belachelijk dat mannen meer salaris krijgen voor hetzelfde werk! Mannen en vrouwen zijn evenveel waard."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n3-de-gunst",
@@ -276,7 +295,8 @@
     "article": "de",
     "examples": [
       "'Zou ik je om een gunst mogen vragen?' — 'Ja natuurlijk, waar kan ik je mee helpen?'"
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n3-een-hoop",
@@ -294,7 +314,8 @@
     "hint": "een hoop (dingen)",
     "examples": [
       "Vergeleken met dertig jaar geleden zijn er een hoop dingen veranderd. Er zijn veel veranderingen geweest in mannenrollen en vrouwenrollen. Tegenwoordig zorgen mannen ook voor de kinderen."
-    ]
+    ],
+    "freqTier": "bold"
   },
   {
     "id": "n3-klussen",
@@ -310,7 +331,8 @@
     "source": "generated",
     "examples": [
       "'Theo, wie klust er bij jullie thuis?' — 'Ik doe de technische klusjes en mijn vriendin doet de huishoudelijke klusjes. Heel stereotiep!'"
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n3-het-klusje",
@@ -328,7 +350,8 @@
     "article": "het",
     "examples": [
       "'Theo, wie klust er bij jullie thuis?' — 'Ik doe de technische klusjes en mijn vriendin doet de huishoudelijke klusjes. Heel stereotiep!'"
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n3-met-name",
@@ -345,7 +368,8 @@
     "source": "generated",
     "examples": [
       "In Nederland werken met name vrouwen parttime. Mannen kunnen dat ook doen, maar vooral vrouwen met kinderen doen het."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n3-moeizaam",
@@ -362,7 +386,8 @@
     "source": "generated",
     "examples": [
       "Het was een moeizaam proces. Het ging absoluut niet makkelijk."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n3-ontkomen",
@@ -385,7 +410,8 @@
     "examples": [
       "Of je nu wilt of niet, je moet dat doen. Je ontkomt er niet aan.",
       "Het is de politie niet gelukt om de dieven te arresteren. Ze ontkwamen door in een auto te vluchten."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n3-opmaken",
@@ -405,7 +431,8 @@
     "examples": [
       "De slaapkamer ziet er keurig uit. Alles is opgeruimd en het bed is opgemaakt.",
       "Ik heb al het geld opgemaakt. Het spijt me, ik heb niets meer over."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n3-de-opvang",
@@ -423,7 +450,8 @@
     "article": "de",
     "examples": [
       "Als ouders werken dan kunnen kinderen naar de kinderopvang. Soms vangen ook de grootouders de kinderen op."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n3-opvangen",
@@ -445,7 +473,8 @@
     },
     "examples": [
       "Als ouders werken dan kunnen kinderen naar de kinderopvang. Soms vangen ook de grootouders de kinderen op."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n3-pittig",
@@ -463,7 +492,8 @@
     "examples": [
       "Het was een pittige test. Ik had niet verwacht dat hij zo moeilijk zou zijn.",
       "Dat is wel een dame die weet wat ze wil. Het is een pittige dame."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n3-uitgaan-van",
@@ -484,7 +514,8 @@
     },
     "examples": [
       "'We hebben volgende week een afspraak. Jij wist nog niet of die kon doorgaan.' — 'Ga er maar van uit dat die afspraak doorgaat. Als het anders is, dan laat ik het je wel weten.'"
-    ]
+    ],
+    "freqTier": "bold"
   },
   {
     "id": "n3-verdelen",
@@ -501,7 +532,8 @@
     "source": "generated",
     "examples": [
       "Hoe hebben jullie het werk verdeeld? Wie doet wat? Is het een eerlijke verdeling?"
-    ]
+    ],
+    "freqTier": "bold"
   },
   {
     "id": "n3-de-verdeling",
@@ -518,7 +550,8 @@
     "article": "de",
     "examples": [
       "Hoe hebben jullie het werk verdeeld? Wie doet wat? Is het een eerlijke verdeling?"
-    ]
+    ],
+    "freqTier": "bold"
   },
   {
     "id": "n3-versieren",
@@ -536,7 +569,8 @@
     "examples": [
       "Wat doe jij als je een vrouw leuk vindt en haar wilt versieren? Ga je dan flirten?",
       "Als er in Nederland iemand jarig is, versieren we de kamer met slingers en ballonnen."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n3-de-versiering",
@@ -552,7 +586,8 @@
     "article": "de",
     "examples": [
       "Als er in Nederland iemand jarig is, versieren we de kamer met slingers en ballonnen."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n3-zielig",
@@ -569,7 +604,8 @@
     "source": "generated",
     "examples": [
       "O, kijk eens naar dat hondje. Wat zielig! Hij kan zich bijna niet bewegen."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n3-benadrukken",
@@ -585,7 +621,8 @@
     "source": "generated",
     "examples": [
       "De politicus benadrukte nog eens hoe gevaarlijk het is om drugs te gebruiken. Hij wilde dat iedereen dat wist."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n3-het-jargon",
@@ -601,7 +638,8 @@
     "article": "het",
     "examples": [
       "Het jargon van juristen is onbegrijpelijk voor niet-juristen. Niet omdat je het niet kunt verstaan, maar omdat het te ingewikkeld is."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n3-het-litteken",
@@ -617,7 +655,8 @@
     "article": "het",
     "examples": [
       "Op zijn arm zat een litteken. Hij was daar als kind door een hond gebeten."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n3-de-naald",
@@ -633,7 +672,8 @@
     "article": "de",
     "examples": [
       "Ik wilde deze knoop aan mijn jas zetten, maar het lukt me niet de draad door de naald te krijgen. De draad gaat er telkens naast. Ik vind het een vervelend klusje."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n3-ontroerend",
@@ -649,7 +689,8 @@
     "source": "generated",
     "examples": [
       "Het was een ontroerend moment toen de vader zijn zoon omhelsde, nadat hij hem jaren niet had gezien. Hij wreef hem over zijn rug en kneep hem in zijn wang. Ze moesten allebei huilen."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n3-de-ontroering",
@@ -666,7 +707,8 @@
     "article": "de",
     "examples": [
       "Het was een ontroerend moment toen de vader zijn zoon omhelsde, nadat hij hem jaren niet had gezien. Hij wreef hem over zijn rug en kneep hem in zijn wang. Ze moesten allebei huilen."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n3-opzichtig",
@@ -683,7 +725,8 @@
     "source": "generated",
     "examples": [
       "In het calvinistische milieu vroeger hielden mensen niet van opzichtige kleding. Ze droegen dus geen kleren met felle kleuren en veel bloot."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n3-overigens",
@@ -700,7 +743,8 @@
     "source": "generated",
     "examples": [
       "Fijn dat je wilt meewerken aan het verslag. O ja, ik kom overigens wat later op de vergadering. Jullie hoeven niet op mij te wachten."
-    ]
+    ],
+    "freqTier": "bold"
   },
   {
     "id": "n3-overtuigen",
@@ -716,7 +760,8 @@
     "source": "generated",
     "examples": [
       "Galileo was ervan overtuigd dat de aarde rond was. Niet iedereen deelde die overtuiging. De meeste mensen waren het toen niet met hem eens."
-    ]
+    ],
+    "freqTier": "bold"
   },
   {
     "id": "n3-de-overtuiging",
@@ -733,7 +778,8 @@
     "article": "de",
     "examples": [
       "Galileo was ervan overtuigd dat de aarde rond was. Niet iedereen deelde die overtuiging. De meeste mensen waren het toen niet met hem eens."
-    ]
+    ],
+    "freqTier": "bold"
   },
   {
     "id": "n3-de-rimpel",
@@ -749,7 +795,8 @@
     "article": "de",
     "examples": [
       "Deze speciale gezichtscrème zal het aantal rimpels in je gezicht verminderen, maar uiteindelijk is er geen ontkomen aan."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n3-uitbundig",
@@ -766,7 +813,8 @@
     "source": "generated",
     "examples": [
       "De supporters reageerden uitbundig tijdens de wedstrijd. Ze bliezen op toeters en zwaaiden met vlaggen."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n3-verpesten",
@@ -782,7 +830,8 @@
     "source": "generated",
     "examples": [
       "Ik vind dat het uitzicht is verpest. Doordat er een hypermodern gebouw naast het kasteel is gezet, is de schoonheid van het landschap verloren gegaan."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n3-zwerven",
@@ -803,7 +852,8 @@
     },
     "examples": [
       "De oude man heeft geen huis en geen familie. Hij zwerft door de stad, op zoek naar eten. Dat is toch zielig?"
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n3-bezig-zijn-met",
@@ -816,7 +866,8 @@
       "to be occupied with"
     ],
     "primaryEn": "to be busy with",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n3-communiceren-met",
@@ -828,7 +879,8 @@
       "to communicate with"
     ],
     "primaryEn": "to communicate with",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "other"
   },
   {
     "id": "n3-te-danken-hebben-aan",
@@ -841,7 +893,8 @@
       "to have to thank for"
     ],
     "primaryEn": "to owe to",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "other"
   },
   {
     "id": "n3-zich-onderscheiden-van",
@@ -855,7 +908,8 @@
     ],
     "primaryEn": "to distinguish oneself from",
     "source": "generated",
-    "reflexive": true
+    "reflexive": true,
+    "freqTier": "bold"
   },
   {
     "id": "n3-ontkomen-aan",
@@ -876,7 +930,8 @@
     "examples": [
       "Of je nu wilt of niet, je moet dat doen. Je ontkomt er niet aan.",
       "Het is de politie niet gelukt om de dieven te arresteren. Ze ontkwamen door in een auto te vluchten."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n3-zich-ontwikkelen-tot",
@@ -889,7 +944,8 @@
     ],
     "primaryEn": "to develop into",
     "source": "generated",
-    "reflexive": true
+    "reflexive": true,
+    "freqTier": "bold"
   },
   {
     "id": "n3-opmaken-uit",
@@ -907,7 +963,8 @@
     "separable": true,
     "examples": [
       "Ik maak uit zijn woorden op dat hij binnenkort gaat verhuizen. Hij vertelde namelijk dat hij de huur van zijn huis per de eerste van de volgende maand heeft opgezegd."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n3-overtuigd-zijn-van",
@@ -919,7 +976,8 @@
       "to be convinced of"
     ],
     "primaryEn": "to be convinced of",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n3-problemen-hebben-met",
@@ -932,7 +990,8 @@
       "to have trouble with"
     ],
     "primaryEn": "to have problems with",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n3-de-schuld-geven-aan",
@@ -945,7 +1004,8 @@
       "to put the blame on"
     ],
     "primaryEn": "to blame",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "other"
   },
   {
     "id": "n3-zich-schuldig-maken-aan",
@@ -959,7 +1019,8 @@
     ],
     "primaryEn": "to be guilty of",
     "source": "generated",
-    "reflexive": true
+    "reflexive": true,
+    "freqTier": "bold"
   },
   {
     "id": "n3-spijt-hebben-van",
@@ -971,7 +1032,8 @@
       "to regret"
     ],
     "primaryEn": "to regret",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "other"
   },
   {
     "id": "n3-toekomen-aan",
@@ -985,7 +1047,8 @@
     ],
     "primaryEn": "to get around to",
     "source": "generated",
-    "separable": true
+    "separable": true,
+    "freqTier": "other"
   },
   {
     "id": "n3-zich-verantwoordelijk-voelen-voor",
@@ -998,7 +1061,8 @@
     ],
     "primaryEn": "to feel responsible for",
     "source": "generated",
-    "reflexive": true
+    "reflexive": true,
+    "freqTier": "bold"
   },
   {
     "id": "n3-voorzichtig-zijn-met",
@@ -1010,7 +1074,8 @@
       "to be careful with"
     ],
     "primaryEn": "to be careful with",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n3-wandelen-met",
@@ -1023,7 +1088,8 @@
       "to go for a walk with"
     ],
     "primaryEn": "to walk with",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n3-zorgen-voor",
@@ -1037,6 +1103,149 @@
       "to ensure"
     ],
     "primaryEn": "to take care of",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
+  },
+  {
+    "id": "n3-bewegen",
+    "chapter": 3,
+    "nl": "bewegen",
+    "lemma": "bewegen",
+    "pos": "verb",
+    "en": [
+      "to move",
+      "to stir"
+    ],
+    "primaryEn": "to move",
+    "source": "generated",
+    "irregular": {
+      "past": "bewoog",
+      "perfect": "bewogen"
+    },
+    "freqTier": "bold"
+  },
+  {
+    "id": "n3-bewijzen",
+    "chapter": 3,
+    "nl": "bewijzen",
+    "lemma": "bewijzen",
+    "pos": "verb",
+    "en": [
+      "to prove",
+      "to demonstrate"
+    ],
+    "primaryEn": "to prove",
+    "source": "generated",
+    "irregular": {
+      "past": "bewees",
+      "perfect": "bewezen"
+    },
+    "freqTier": "bold"
+  },
+  {
+    "id": "n3-blazen",
+    "chapter": 3,
+    "nl": "blazen",
+    "lemma": "blazen",
+    "pos": "verb",
+    "en": [
+      "to blow"
+    ],
+    "primaryEn": "to blow",
+    "source": "generated",
+    "irregular": {
+      "past": "blies",
+      "perfect": "geblazen"
+    },
+    "freqTier": "bold"
+  },
+  {
+    "id": "n3-knijpen",
+    "chapter": 3,
+    "nl": "knijpen",
+    "lemma": "knijpen",
+    "pos": "verb",
+    "en": [
+      "to pinch",
+      "to squeeze"
+    ],
+    "primaryEn": "to pinch",
+    "source": "generated",
+    "irregular": {
+      "past": "kneep",
+      "perfect": "geknepen"
+    },
+    "freqTier": "other"
+  },
+  {
+    "id": "n3-spijten",
+    "chapter": 3,
+    "nl": "spijten",
+    "lemma": "spijten",
+    "pos": "verb",
+    "en": [
+      "to regret"
+    ],
+    "primaryEn": "to regret",
+    "source": "generated",
+    "irregular": {
+      "past": "speet",
+      "perfect": "gespeten"
+    },
+    "hint": "impersonal: het spijt me",
+    "freqTier": "other"
+  },
+  {
+    "id": "n3-verstaan",
+    "chapter": 3,
+    "nl": "verstaan",
+    "lemma": "verstaan",
+    "pos": "verb",
+    "en": [
+      "to understand",
+      "to catch (what someone says)"
+    ],
+    "primaryEn": "to understand",
+    "source": "generated",
+    "irregular": {
+      "past": "verstond",
+      "perfect": "verstaan"
+    },
+    "freqTier": "bold"
+  },
+  {
+    "id": "n3-verwerpen",
+    "chapter": 3,
+    "nl": "verwerpen",
+    "lemma": "verwerpen",
+    "pos": "verb",
+    "en": [
+      "to reject",
+      "to dismiss"
+    ],
+    "primaryEn": "to reject",
+    "source": "generated",
+    "irregular": {
+      "past": "verwierp",
+      "perfect": "verworpen"
+    },
+    "freqTier": "other"
+  },
+  {
+    "id": "n3-wrijven",
+    "chapter": 3,
+    "nl": "wrijven",
+    "lemma": "wrijven",
+    "pos": "verb",
+    "en": [
+      "to rub"
+    ],
+    "primaryEn": "to rub",
+    "source": "generated",
+    "irregular": {
+      "past": "wreef",
+      "perfect": "gewreven"
+    },
+    "freqTier": "bold"
   }
 ]

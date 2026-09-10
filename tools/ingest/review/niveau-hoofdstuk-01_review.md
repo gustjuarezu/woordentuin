@@ -1,65 +1,65 @@
 # Niveau hoofdstuk 1 — Positief: review
 
-120 words. ALL glosses are generated (the book prints none) — audit below.
+120 words, of which 75 are bold (0-2000 most frequent) and drilled by the app. ALL glosses are generated (the book prints none) — audit below.
 
 ## gloss audit list
-- **iets niet uitvlakken** → not to underestimate something; not to be dismissed
-- **ergens van opkijken** → to be surprised by something; to be amazed at something
-- **het positiefste wat ervan af kan** → the highest praise possible; as positive as it gets
-- **beledigen** → to insult; to offend
-- **de belediging** → insult; offence
+- iets niet uitvlakken → not to underestimate something; not to be dismissed _(not drilled)_
+- ergens van opkijken → to be surprised by something; to be amazed at something _(not drilled)_
+- het positiefste wat ervan af kan → the highest praise possible; as positive as it gets _(not drilled)_
+- beledigen → to insult; to offend _(not drilled)_
+- de belediging → insult; offence _(not drilled)_
 - **beweren** → to claim; to assert; to maintain
-- **de bewering** → claim; assertion
-- **gaaf** → cool; great; flawless
-- **keurig** → neat; tidy; proper
-- **van nature** → by nature; naturally
-- **neigen** → to tend (to); to incline
+- de bewering → claim; assertion _(not drilled)_
+- gaaf → cool; great; flawless _(not drilled)_
+- keurig → neat; tidy; proper _(not drilled)_
+- van nature → by nature; naturally _(not drilled)_
+- neigen → to tend (to); to incline _(not drilled)_
 - **de neiging** → tendency; inclination
-- **ondergeschikt** → subordinate; inferior
+- ondergeschikt → subordinate; inferior _(not drilled)_
 - **redelijk** → reasonable; fair; quite
-- **suggereren** → to suggest; to imply
-- **de suggestie** → suggestion
+- suggereren → to suggest; to imply _(not drilled)_
+- de suggestie → suggestion _(not drilled)_
 - **toegeven aan** → to give in to; to yield to; to admit
-- **het aandachtspunt** → point of attention; point of concern
+- het aandachtspunt → point of attention; point of concern _(not drilled)_
 - **aarzelen** → to hesitate
-- **de aarzeling** → hesitation
+- de aarzeling → hesitation _(not drilled)_
 - **de adem** → breath
-- **begeleiden** → to accompany; to guide; to supervise
-- **de begeleiding** → guidance; support; accompaniment
+- begeleiden → to accompany; to guide; to supervise _(not drilled)_
+- de begeleiding → guidance; support; accompaniment _(not drilled)_
 - **bewaren** → to keep; to store; to save
 - **de gebeurtenis** → event; occurrence
 - **de geest** → mind; spirit; ghost
 - **zich iets voor de geest halen** → to call something to mind; to picture something
-- **geloofwaardig** → credible; believable
-- **gespannen** → tense; nervous
-- **gevoelig** → sensitive
-- **inademen** → to breathe in; to inhale
-- **de inademing** → inhalation; breathing in
-- **nagenieten van** → to relish the memory of; to keep enjoying (something) afterwards
-- **ondertussen** → meanwhile; in the meantime
-- **overbelast** → overloaded; overburdened
+- geloofwaardig → credible; believable _(not drilled)_
+- gespannen → tense; nervous _(not drilled)_
+- gevoelig → sensitive _(not drilled)_
+- inademen → to breathe in; to inhale _(not drilled)_
+- de inademing → inhalation; breathing in _(not drilled)_
+- nagenieten van → to relish the memory of; to keep enjoying (something) afterwards _(not drilled)_
+- ondertussen → meanwhile; in the meantime _(not drilled)_
+- overbelast → overloaded; overburdened _(not drilled)_
 - **de schoonheid** → beauty
-- **de toegang** → access; entrance; admission
+- de toegang → access; entrance; admission _(not drilled)_
 - **toevoegen** → to add
-- **de toevoeging** → addition
-- **trouw** → faithful; loyal
-- **uitademen** → to breathe out; to exhale
-- **de uitademing** → exhalation; breathing out
-- **uitvinden** → to invent
-- **de uitvinding** → invention
+- de toevoeging → addition _(not drilled)_
+- trouw → faithful; loyal _(not drilled)_
+- uitademen → to breathe out; to exhale _(not drilled)_
+- de uitademing → exhalation; breathing out _(not drilled)_
+- uitvinden → to invent _(not drilled)_
+- de uitvinding → invention _(not drilled)_
 - **verminderen** → to decrease; to reduce; to diminish
-- **de vermindering** → reduction; decrease
-- **verrassen** → to surprise
-- **de verrassing** → surprise
+- de vermindering → reduction; decrease _(not drilled)_
+- verrassen → to surprise _(not drilled)_
+- de verrassing → surprise _(not drilled)_
 - **waarnemen** → to observe; to perceive; to stand in (for someone) _(irr: nam waar / waargenomen)_
-- **de waarneming** → observation; perception
+- de waarneming → observation; perception _(not drilled)_
 - **aangezien** → since; as; seeing that
-- **daardoor** → because of that; as a result
+- daardoor → because of that; as a result _(not drilled)_
 - **daarna** → after that; afterwards
 - **daarom** → therefore; that is why
-- **daarvoor** → before that; for that (purpose)
+- daarvoor → before that; for that (purpose) _(not drilled)_
 - **indien** → if; in case
-- **mits** → provided that
+- mits → provided that _(not drilled)_
 - **naarmate** → as; in proportion as
 - **ofschoon** → although; though
 - **opdat** → so that; in order that
@@ -114,15 +114,15 @@
 - **zeggen tegen / (aan)** → to say to
 - **zich voorbereiden op** → to prepare for
 - **zoeken naar** → to search for; to look for
-- **fluiten** → to whistle _(irr: floot / gefloten)_
-- **ondernemen** → to undertake _(irr: ondernam / ondernomen)_
-- **ontbijten** → to have breakfast _(irr: ontbeet / ontbeten)_
+- fluiten → to whistle _(irr: floot / gefloten)_ _(not drilled)_
+- ondernemen → to undertake _(irr: ondernam / ondernomen)_ _(not drilled)_
+- ontbijten → to have breakfast _(irr: ontbeet / ontbeten)_ _(not drilled)_
 - **ontbreken** → to be missing; to be lacking _(irr: ontbrak / ontbroken)_
-- **strijken** → to iron _(irr: streek / gestreken)_
-- **verheffen** → to raise (one's voice); to elevate _(irr: verhief / verheven)_
+- strijken → to iron _(irr: streek / gestreken)_ _(not drilled)_
+- verheffen → to raise (one's voice); to elevate _(irr: verhief / verheven)_ _(not drilled)_
 - **vermijden** → to avoid _(irr: vermeed / vermeden)_
 - **verwerven** → to acquire; to gain _(irr: verwierf / verworven)_
-- **wegen** → to weigh _(irr: woog / gewogen)_
+- wegen → to weigh _(irr: woog / gewogen)_ _(not drilled)_
 
 ## warnings
 - The chapter's own 'Onregelmatige werkwoorden' material (Opdracht 34 on p. 51 and the lijst section on p. 53) prints infinitives only; past/perfect forms in irregularRaw and in the irregular fields were taken from bijlage 2b 'Onregelmatige werkwoorden — alfabetisch' (pp. 278-282). Past forms are given as printed there, singular + plural (e.g. 'floot, floten').

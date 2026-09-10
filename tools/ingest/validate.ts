@@ -7,6 +7,7 @@ import type { Word } from "../../src/data/types";
 
 const POS = ["noun", "verb", "adjective", "adverb", "phrase", "other"];
 const SOURCES = ["vocabulaire-list", "index", "struikelwoorden", "generated"];
+const TIERS = ["bold", "other"];
 
 export function validateWords(words: unknown, expectedChapter?: number): string[] {
   const problems: string[] = [];
@@ -37,6 +38,7 @@ export function validateWords(words: unknown, expectedChapter?: number): string[
     if (w.examples !== undefined && (!Array.isArray(w.examples) || w.examples.some((e) => typeof e !== "string")))
       at("bad examples");
     if (w.irregular !== undefined && typeof w.irregular !== "object") at("bad irregular");
+    if (w.freqTier !== undefined && !TIERS.includes(w.freqTier)) at(`bad freqTier ${w.freqTier}`);
   });
   return problems;
 }

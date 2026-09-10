@@ -20,13 +20,38 @@ const files = import.meta.glob<{ default: Word[] }>("./levels/*/hoofdstuk-*.json
 const fileFor = (level: Level, n: number) =>
   `./levels/${level}/hoofdstuk-${String(n).padStart(2, "0")}.json`;
 
-type ManifestEntry = { number: number; title: string; theme: string; wordCount: number };
+type ManifestEntry = {
+  number: number;
+  title: string;
+  theme: string;
+  wordCount: number;
+  drillCount?: number;
+};
+
+/**
+ * The words a chapter actually drills.
+ *
+ * Nederlands op niveau prints its 0-2000 most frequent words in bold teal, and
+ * those are the ones worth learning first, so for every chapter we have tiered
+ * (see tools/ingest/niveau/freq-tiers/) the app serves only those. The chapter
+ * files keep every printed entry — the participle engine's regression corpus
+ * reads them straight off disk, and dropping them would silently shrink its
+ * coverage — so the restriction lives here instead, at the one point every
+ * screen loads through.
+ *
+ * To drill a tiered chapter's full list again, return `words` unchanged.
+ */
+export function drillable(words: Word[]): Word[] {
+  const tiered = words.some((w) => w.freqTier);
+  return tiered ? words.filter((w) => w.freqTier === "bold") : words;
+}
 
 function buildChapters(level: Level, manifest: ManifestEntry[]): ChapterMeta[] {
   return manifest.map((m) => ({
     ...m,
+    drillCount: m.drillCount ?? m.wordCount,
     level,
-    load: () => files[fileFor(level, m.number)]().then((mod) => mod.default),
+    load: () => files[fileFor(level, m.number)]().then((mod) => drillable(mod.default)),
   }));
 }
 

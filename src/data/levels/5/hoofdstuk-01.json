@@ -11,7 +11,8 @@
     ],
     "primaryEn": "not to underestimate something",
     "source": "generated",
-    "separable": true
+    "separable": true,
+    "freqTier": "other"
   },
   {
     "id": "n1-ergens-van-opkijken",
@@ -25,7 +26,8 @@
     ],
     "primaryEn": "to be surprised by something",
     "source": "generated",
-    "separable": true
+    "separable": true,
+    "freqTier": "other"
   },
   {
     "id": "n1-het-positiefste-wat-ervan-af-kan",
@@ -38,7 +40,8 @@
       "as positive as it gets"
     ],
     "primaryEn": "the highest praise possible",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "other"
   },
   {
     "id": "n1-beledigen",
@@ -54,7 +57,8 @@
     "source": "generated",
     "examples": [
       "Onze buurvrouw voelde zich beledigd toen ik vroeg of ze hulp nodig had bij het schoonmaken van haar ramen. Ze zei dat ze dat heel goed zelf kon doen, maar dat ze het de laatste tijd te druk had gehad."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-de-belediging",
@@ -71,7 +75,8 @@
     "article": "de",
     "examples": [
       "Onze buurvrouw voelde zich beledigd toen ik vroeg of ze hulp nodig had bij het schoonmaken van haar ramen. Ze zei dat ze dat heel goed zelf kon doen, maar dat ze het de laatste tijd te druk had gehad."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-beweren",
@@ -88,7 +93,8 @@
     "source": "generated",
     "examples": [
       "Johan beweert dat hij alle romans van Dostojevski heeft gelezen, maar dat geloof ik niet. Hij zegt wel vaker dingen die je niet zo serieus moet nemen."
-    ]
+    ],
+    "freqTier": "bold"
   },
   {
     "id": "n1-de-bewering",
@@ -105,7 +111,8 @@
     "article": "de",
     "examples": [
       "Johan beweert dat hij alle romans van Dostojevski heeft gelezen, maar dat geloof ik niet. Hij zegt wel vaker dingen die je niet zo serieus moet nemen."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-gaaf",
@@ -123,7 +130,8 @@
     "examples": [
       "Gaaf dat je een prijs hebt gewonnen en dat je nu naar het concert mag gaan.",
       "Mijn buurvrouw is 75 jaar, maar ze ziet er nog goed uit. Ze heeft een heel gave huid, helemaal glad zonder vlekken."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-keurig",
@@ -141,7 +149,8 @@
     "examples": [
       "Heb je opgeruimd? Je kamer ziet er echt weer keurig uit!",
       "Hij ziet er altijd keurig uit met zijn gestreken overhemden."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-van-nature",
@@ -157,7 +166,8 @@
     "source": "generated",
     "examples": [
       "Mensen zijn van nature optimistisch. Ondanks negatieve gebeurtenissen houden ze een positieve kijk op de wereld."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-neigen",
@@ -173,7 +183,8 @@
     "source": "generated",
     "examples": [
       "Mensen die van rust en stilte houden, zijn niet geneigd om naar grote dance-evenementen te gaan. Ze vermijden de drukte en hebben de neiging om thuis te blijven."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-de-neiging",
@@ -190,7 +201,8 @@
     "article": "de",
     "examples": [
       "Mensen die van rust en stilte houden, zijn niet geneigd om naar grote dance-evenementen te gaan. Ze vermijden de drukte en hebben de neiging om thuis te blijven."
-    ]
+    ],
+    "freqTier": "bold"
   },
   {
     "id": "n1-ondergeschikt",
@@ -206,7 +218,8 @@
     "source": "generated",
     "examples": [
       "In de negentiende eeuw beschouwde men in Nederland de vrouw als ondergeschikt aan de man. Daarom hadden vrouwen bijvoorbeeld geen stemrecht."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-redelijk",
@@ -224,7 +237,8 @@
     "examples": [
       "Ik vond het examen moeilijk, maar het resultaat was redelijk. Ik ben tevreden met de 7 die ik heb gekregen.",
       "Het is niet koud, maar het waait redelijk hard. Dat maakt het minder aangenaam."
-    ]
+    ],
+    "freqTier": "bold"
   },
   {
     "id": "n1-suggereren",
@@ -240,7 +254,8 @@
     "source": "generated",
     "examples": [
       "Reclames suggereren vaak dat je heel gelukkig zult worden als je een bepaald product koopt. Iedereen weet wel dat dat onzin is, maar toch blijven ze zulke reclames maken."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-de-suggestie",
@@ -256,7 +271,8 @@
     "article": "de",
     "examples": [
       "Reclames suggereren vaak dat je heel gelukkig zult worden als je een bepaald product koopt. Iedereen weet wel dat dat onzin is, maar toch blijven ze zulke reclames maken."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-toegeven-aan",
@@ -275,7 +291,8 @@
     "examples": [
       "Geef nou maar toe dat je ook weleens iets onaardigs tegen je ouders hebt gezegd. Niemand is perfect.",
       "Als ik drop zie, dan moet ik een dropje eten. Ik moet daar gewoon aan toegeven."
-    ]
+    ],
+    "freqTier": "bold"
   },
   {
     "id": "n1-het-aandachtspunt",
@@ -292,7 +309,8 @@
     "article": "het",
     "examples": [
       "In een checklist met twaalf aandachtspunten was weergegeven waar we naar moesten kijken. We mochten beslist geen aandachtspunt overslaan."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-aarzelen",
@@ -307,7 +325,8 @@
     "source": "generated",
     "examples": [
       "De moedige politieagent sprong zonder aarzeling in het kanaal om het kind uit het water te halen. Hij aarzelde geen moment."
-    ]
+    ],
+    "freqTier": "bold"
   },
   {
     "id": "n1-de-aarzeling",
@@ -323,7 +342,8 @@
     "article": "de",
     "examples": [
       "De moedige politieagent sprong zonder aarzeling in het kanaal om het kind uit het water te halen. Hij aarzelde geen moment."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-de-adem",
@@ -339,7 +359,8 @@
     "article": "de",
     "examples": [
       "Bij deze oefening moet je door je neus inademen en door je mond uitademen."
-    ]
+    ],
+    "freqTier": "bold"
   },
   {
     "id": "n1-begeleiden",
@@ -356,7 +377,8 @@
     "source": "generated",
     "examples": [
       "Tijdens onze reis door Zuid-Amerika werden we begeleid door een Friese dame die in 1989 naar Brazilië was verhuisd. Ze wist ons erg veel over het land te vertellen. We waren heel tevreden over de begeleiding."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-de-begeleiding",
@@ -374,7 +396,8 @@
     "article": "de",
     "examples": [
       "Tijdens onze reis door Zuid-Amerika werden we begeleid door een Friese dame die in 1989 naar Brazilië was verhuisd. Ze wist ons erg veel over het land te vertellen. We waren heel tevreden over de begeleiding."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-bewaren",
@@ -391,7 +414,8 @@
     "source": "generated",
     "examples": [
       "Ik heb de neiging om alles te bewaren. Ik kan echt niets weggooien. Daarom staan er zo veel spullen in de garage."
-    ]
+    ],
+    "freqTier": "bold"
   },
   {
     "id": "n1-de-gebeurtenis",
@@ -408,7 +432,8 @@
     "article": "de",
     "examples": [
       "Een huwelijk is een van de belangrijkste gebeurtenissen in het leven van veel mensen. Niet voor niets wordt de trouwdag vaak de mooiste dag van je leven genoemd."
-    ]
+    ],
+    "freqTier": "bold"
   },
   {
     "id": "n1-de-geest",
@@ -427,7 +452,8 @@
     "examples": [
       "Geloof jij dat er een geest in een wonderlamp kan zitten?",
       "Het is in de geest van deze tijd om vooral te genieten van het leven."
-    ]
+    ],
+    "freqTier": "bold"
   },
   {
     "id": "n1-zich-iets-voor-de-geest-halen",
@@ -444,7 +470,8 @@
     "reflexive": true,
     "examples": [
       "Hij probeerde zich te herinneren wat er precies gebeurd was, maar hij kon zich de situatie niet meer voor de geest halen."
-    ]
+    ],
+    "freqTier": "bold"
   },
   {
     "id": "n1-geloofwaardig",
@@ -460,7 +487,8 @@
     "source": "generated",
     "examples": [
       "De politicus heeft ons van alles beloofd, maar hij heeft niets bereikt. Hij is totaal niet meer geloofwaardig."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-gespannen",
@@ -476,7 +504,8 @@
     "source": "generated",
     "examples": [
       "Sommige cursisten zijn erg gespannen als ze een toets moeten doen. Het is jammer dat ze zo nerveus zijn, want de meeste mensen presteren beter als ze ontspannen zijn."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-gevoelig",
@@ -491,7 +520,8 @@
     "source": "generated",
     "examples": [
       "Artiesten zijn vaak erg gevoelige mensen. Kleine dingen kunnen bij hen grote emoties veroorzaken."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-inademen",
@@ -508,7 +538,8 @@
     "separable": true,
     "examples": [
       "Bij deze oefening moet je door je neus inademen en door je mond uitademen."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-de-inademing",
@@ -525,7 +556,8 @@
     "article": "de",
     "examples": [
       "Bij deze oefening moet je door je neus inademen en door je mond uitademen."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-nagenieten-van",
@@ -542,7 +574,8 @@
     "separable": true,
     "examples": [
       "Theo zat na afloop van de film nog een hele poos na te genieten. Hij vond de film prachtig."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-ondertussen",
@@ -558,7 +591,8 @@
     "source": "generated",
     "examples": [
       "De cursisten maakten de toets en ondertussen bekeek de docent de schrijfopdrachten."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-overbelast",
@@ -574,7 +608,8 @@
     "source": "generated",
     "examples": [
       "Het netwerk van de server was overbelast, doordat iedereen naar de website met de gratis concerttickets ging. Daardoor konden we geen tickets meer bestellen."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-de-schoonheid",
@@ -590,7 +625,8 @@
     "article": "de",
     "examples": [
       "Schoonheid is zo relatief; wat de een mooi vindt, vindt de ander superlelijk."
-    ]
+    ],
+    "freqTier": "bold"
   },
   {
     "id": "n1-de-toegang",
@@ -608,7 +644,8 @@
     "article": "de",
     "examples": [
       "Als je een blauw bord ziet met witte letters 'Verboden toegang art. 461' betekent dat dat je niet op het terrein mag komen. Vaak is dat dan privéterrein."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-toevoegen",
@@ -625,7 +662,8 @@
     "hint": "toevoegen (aan)",
     "examples": [
       "Er ontbreekt iets in de cake. Hij is niet zoet genoeg. Heb je wel suiker toegevoegd?"
-    ]
+    ],
+    "freqTier": "bold"
   },
   {
     "id": "n1-de-toevoeging",
@@ -641,7 +679,8 @@
     "article": "de",
     "examples": [
       "Er ontbreekt iets in de cake. Hij is niet zoet genoeg. Heb je wel suiker toegevoegd?"
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-trouw",
@@ -657,7 +696,8 @@
     "source": "generated",
     "examples": [
       "De pianist zet elke avond trouw de wekker zodat hij de volgende dag vroeg kan beginnen met studeren."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-uitademen",
@@ -674,7 +714,8 @@
     "separable": true,
     "examples": [
       "Bij deze oefening moet je door je neus inademen en door je mond uitademen."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-de-uitademing",
@@ -691,7 +732,8 @@
     "article": "de",
     "examples": [
       "Bij deze oefening moet je door je neus inademen en door je mond uitademen."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-uitvinden",
@@ -707,7 +749,8 @@
     "separable": true,
     "examples": [
       "De telefoon is een uitvinding van Alexander Graham Bell. Hij was professioneel uitvinder en heeft ook een soort metaaldetector uitgevonden."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-de-uitvinding",
@@ -723,7 +766,8 @@
     "article": "de",
     "examples": [
       "De telefoon is een uitvinding van Alexander Graham Bell. Hij was professioneel uitvinder en heeft ook een soort metaaldetector uitgevonden."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-verminderen",
@@ -740,7 +784,8 @@
     "source": "generated",
     "examples": [
       "Het aantal boekwinkels is verminderd, omdat mensen steeds vaker boeken via internet bestellen."
-    ]
+    ],
+    "freqTier": "bold"
   },
   {
     "id": "n1-de-vermindering",
@@ -757,7 +802,8 @@
     "article": "de",
     "examples": [
       "Het aantal boekwinkels is verminderd, omdat mensen steeds vaker boeken via internet bestellen."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-verrassen",
@@ -772,7 +818,8 @@
     "source": "generated",
     "examples": [
       "Sommige mannen verrassen hun vrouw zo nu en dan met een bos bloemen. Je moet niet elk weekend bloemen meebrengen, want dan is het al snel geen verrassing meer."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-de-verrassing",
@@ -788,7 +835,8 @@
     "article": "de",
     "examples": [
       "Sommige mannen verrassen hun vrouw zo nu en dan met een bos bloemen. Je moet niet elk weekend bloemen meebrengen, want dan is het al snel geen verrassing meer."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-waarnemen",
@@ -811,7 +859,8 @@
     "examples": [
       "Klimatologen hebben in de afgelopen decennia een stijging van de gemiddelde temperatuur waargenomen. Door metingen hebben ze dat kunnen zien.",
       "Als de dokter afwezig is, dan neemt een collega zijn taken waar."
-    ]
+    ],
+    "freqTier": "bold"
   },
   {
     "id": "n1-de-waarneming",
@@ -829,7 +878,8 @@
     "examples": [
       "Klimatologen hebben in de afgelopen decennia een stijging van de gemiddelde temperatuur waargenomen. Door metingen hebben ze dat kunnen zien.",
       "Als de dokter afwezig is, dan neemt een collega zijn taken waar."
-    ]
+    ],
+    "freqTier": "other"
   },
   {
     "id": "n1-aangezien",
@@ -843,7 +893,8 @@
       "seeing that"
     ],
     "primaryEn": "since",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-daardoor",
@@ -856,7 +907,8 @@
       "as a result"
     ],
     "primaryEn": "because of that",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "other"
   },
   {
     "id": "n1-daarna",
@@ -869,7 +921,8 @@
       "afterwards"
     ],
     "primaryEn": "after that",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-daarom",
@@ -882,7 +935,8 @@
       "that is why"
     ],
     "primaryEn": "therefore",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-daarvoor",
@@ -895,7 +949,8 @@
       "for that (purpose)"
     ],
     "primaryEn": "before that",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "other"
   },
   {
     "id": "n1-indien",
@@ -908,7 +963,8 @@
       "in case"
     ],
     "primaryEn": "if",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-mits",
@@ -920,7 +976,8 @@
       "provided that"
     ],
     "primaryEn": "provided that",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "other"
   },
   {
     "id": "n1-naarmate",
@@ -933,7 +990,8 @@
       "in proportion as"
     ],
     "primaryEn": "as",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-ofschoon",
@@ -946,7 +1004,8 @@
       "though"
     ],
     "primaryEn": "although",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-opdat",
@@ -959,7 +1018,8 @@
       "in order that"
     ],
     "primaryEn": "so that",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-sinds",
@@ -971,7 +1031,8 @@
       "since"
     ],
     "primaryEn": "since",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-tenzij",
@@ -983,7 +1044,8 @@
       "unless"
     ],
     "primaryEn": "unless",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-zolang",
@@ -995,7 +1057,8 @@
       "as long as"
     ],
     "primaryEn": "as long as",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-beginnen-met-aan",
@@ -1008,7 +1071,8 @@
       "to start on"
     ],
     "primaryEn": "to begin with",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-behoren-tot",
@@ -1020,7 +1084,8 @@
       "to belong to"
     ],
     "primaryEn": "to belong to",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-beperken-tot",
@@ -1033,7 +1098,8 @@
       "to restrict to"
     ],
     "primaryEn": "to limit to",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-beslissen-over",
@@ -1046,7 +1112,8 @@
       "to decide about"
     ],
     "primaryEn": "to decide on",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-bestaan-uit",
@@ -1058,7 +1125,8 @@
       "to consist of"
     ],
     "primaryEn": "to consist of",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-blijken-uit",
@@ -1071,7 +1139,8 @@
       "to appear from"
     ],
     "primaryEn": "to be evident from",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-brengen-naar",
@@ -1084,7 +1153,8 @@
       "to bring to"
     ],
     "primaryEn": "to take to",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-controleren-op",
@@ -1096,7 +1166,8 @@
       "to check for"
     ],
     "primaryEn": "to check for",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-delen-met",
@@ -1108,7 +1179,8 @@
       "to share with"
     ],
     "primaryEn": "to share with",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-denken-aan",
@@ -1121,7 +1193,8 @@
       "to think about"
     ],
     "primaryEn": "to think of",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-doorgaan-met",
@@ -1135,7 +1208,8 @@
     ],
     "primaryEn": "to continue with",
     "source": "generated",
-    "separable": true
+    "separable": true,
+    "freqTier": "bold"
   },
   {
     "id": "n1-dromen-over-van",
@@ -1148,7 +1222,8 @@
       "to dream of"
     ],
     "primaryEn": "to dream about",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-gaan-naar",
@@ -1160,7 +1235,8 @@
       "to go to"
     ],
     "primaryEn": "to go to",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-geloven-in",
@@ -1172,7 +1248,8 @@
       "to believe in"
     ],
     "primaryEn": "to believe in",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-genieten-van",
@@ -1184,7 +1261,8 @@
       "to enjoy"
     ],
     "primaryEn": "to enjoy",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-geven-aan",
@@ -1196,7 +1274,8 @@
       "to give to"
     ],
     "primaryEn": "to give to",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-helpen-met",
@@ -1208,7 +1287,8 @@
       "to help with"
     ],
     "primaryEn": "to help with",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-herinneren-aan",
@@ -1220,7 +1300,8 @@
       "to remind of"
     ],
     "primaryEn": "to remind of",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-hopen-op",
@@ -1232,7 +1313,8 @@
       "to hope for"
     ],
     "primaryEn": "to hope for",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-houden-van",
@@ -1245,7 +1327,8 @@
       "to like"
     ],
     "primaryEn": "to love",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-ingaan-op",
@@ -1259,7 +1342,8 @@
     ],
     "primaryEn": "to go into",
     "source": "generated",
-    "separable": true
+    "separable": true,
+    "freqTier": "bold"
   },
   {
     "id": "n1-kijken-naar",
@@ -1272,7 +1356,8 @@
       "to watch"
     ],
     "primaryEn": "to look at",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-lachen-om",
@@ -1285,7 +1370,8 @@
       "to laugh about"
     ],
     "primaryEn": "to laugh at",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-leiden-tot",
@@ -1297,7 +1383,8 @@
       "to lead to"
     ],
     "primaryEn": "to lead to",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-leveren-aan",
@@ -1310,7 +1397,8 @@
       "to deliver to"
     ],
     "primaryEn": "to supply to",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-lijken-op",
@@ -1323,7 +1411,8 @@
       "to resemble"
     ],
     "primaryEn": "to look like",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-luisteren-naar",
@@ -1335,7 +1424,8 @@
       "to listen to"
     ],
     "primaryEn": "to listen to",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-oefenen-met",
@@ -1347,7 +1437,8 @@
       "to practise with"
     ],
     "primaryEn": "to practise with",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-passen-op",
@@ -1360,7 +1451,8 @@
       "to mind"
     ],
     "primaryEn": "to watch out for",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-reageren-op",
@@ -1373,7 +1465,8 @@
       "to respond to"
     ],
     "primaryEn": "to react to",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-rekenen-op",
@@ -1385,7 +1478,8 @@
       "to count on"
     ],
     "primaryEn": "to count on",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-schrijven-aan-naar",
@@ -1397,7 +1491,8 @@
       "to write to"
     ],
     "primaryEn": "to write to",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-schrikken-van",
@@ -1410,7 +1505,8 @@
       "to get a fright from"
     ],
     "primaryEn": "to be startled by",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-spreken-over-iets-met-iemand",
@@ -1422,7 +1518,8 @@
       "to talk about something with someone"
     ],
     "primaryEn": "to talk about something with someone",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-stemmen-op",
@@ -1434,7 +1531,8 @@
       "to vote for"
     ],
     "primaryEn": "to vote for",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-stoppen-met",
@@ -1447,7 +1545,8 @@
       "to quit"
     ],
     "primaryEn": "to stop (doing)",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-trekken-aan",
@@ -1460,7 +1559,8 @@
       "to pull at"
     ],
     "primaryEn": "to pull on",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-trouwen-met",
@@ -1472,7 +1572,8 @@
       "to marry"
     ],
     "primaryEn": "to marry",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-vergelijken-met",
@@ -1485,7 +1586,8 @@
       "to compare to"
     ],
     "primaryEn": "to compare with",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-vertellen-aan",
@@ -1497,7 +1599,8 @@
       "to tell (to)"
     ],
     "primaryEn": "to tell (to)",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-voorstellen-aan",
@@ -1510,7 +1613,8 @@
     ],
     "primaryEn": "to introduce to",
     "source": "generated",
-    "separable": true
+    "separable": true,
+    "freqTier": "bold"
   },
   {
     "id": "n1-vragen-aan",
@@ -1522,7 +1626,8 @@
       "to ask (someone)"
     ],
     "primaryEn": "to ask (someone)",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-wachten-op",
@@ -1534,7 +1639,8 @@
       "to wait for"
     ],
     "primaryEn": "to wait for",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-wennen-aan",
@@ -1546,7 +1652,8 @@
       "to get used to"
     ],
     "primaryEn": "to get used to",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-wijzen-naar",
@@ -1559,7 +1666,8 @@
       "to point to"
     ],
     "primaryEn": "to point at",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-zeggen-tegen-aan",
@@ -1571,7 +1679,8 @@
       "to say to"
     ],
     "primaryEn": "to say to",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-zich-voorbereiden-op",
@@ -1585,7 +1694,8 @@
     "primaryEn": "to prepare for",
     "source": "generated",
     "reflexive": true,
-    "separable": true
+    "separable": true,
+    "freqTier": "bold"
   },
   {
     "id": "n1-zoeken-naar",
@@ -1598,7 +1708,8 @@
       "to look for"
     ],
     "primaryEn": "to search for",
-    "source": "generated"
+    "source": "generated",
+    "freqTier": "bold"
   },
   {
     "id": "n1-fluiten",
@@ -1614,7 +1725,8 @@
     "irregular": {
       "past": "floot",
       "perfect": "gefloten"
-    }
+    },
+    "freqTier": "other"
   },
   {
     "id": "n1-ondernemen",
@@ -1630,7 +1742,8 @@
     "irregular": {
       "past": "ondernam",
       "perfect": "ondernomen"
-    }
+    },
+    "freqTier": "other"
   },
   {
     "id": "n1-ontbijten",
@@ -1646,7 +1759,8 @@
     "irregular": {
       "past": "ontbeet",
       "perfect": "ontbeten"
-    }
+    },
+    "freqTier": "other"
   },
   {
     "id": "n1-ontbreken",
@@ -1663,7 +1777,8 @@
     "irregular": {
       "past": "ontbrak",
       "perfect": "ontbroken"
-    }
+    },
+    "freqTier": "bold"
   },
   {
     "id": "n1-strijken",
@@ -1679,7 +1794,8 @@
     "irregular": {
       "past": "streek",
       "perfect": "gestreken"
-    }
+    },
+    "freqTier": "other"
   },
   {
     "id": "n1-verheffen",
@@ -1696,7 +1812,8 @@
     "irregular": {
       "past": "verhief",
       "perfect": "verheven"
-    }
+    },
+    "freqTier": "other"
   },
   {
     "id": "n1-vermijden",
@@ -1712,7 +1829,8 @@
     "irregular": {
       "past": "vermeed",
       "perfect": "vermeden"
-    }
+    },
+    "freqTier": "bold"
   },
   {
     "id": "n1-verwerven",
@@ -1729,7 +1847,8 @@
     "irregular": {
       "past": "verwierf",
       "perfect": "verworven"
-    }
+    },
+    "freqTier": "bold"
   },
   {
     "id": "n1-wegen",
@@ -1745,6 +1864,7 @@
     "irregular": {
       "past": "woog",
       "perfect": "gewogen"
-    }
+    },
+    "freqTier": "other"
   }
 ]

@@ -1,103 +1,103 @@
 # Niveau hoofdstuk 2 — Sociaal: review
 
-97 words. ALL glosses are generated (the book prints none) — audit below.
+97 words, of which 34 are bold (0-2000 most frequent) and drilled by the app. ALL glosses are generated (the book prints none) — audit below.
 
 ## gloss audit list
-- **afkopen** → to buy off; to buy out
-- **coulant** → lenient; accommodating; flexible
-- **de ervaringsdeskundige** → expert by experience; someone with first-hand experience
-- **excessief** → excessive
-- **fulmineren** → to fulminate; to rail (against)
-- **het keurslijf** → straitjacket (figurative); corset
-- **leuteren** → to waffle; to blather; to drivel on
-- **schromelijk** → grossly; terribly
-- **het sneeuwbaleffect** → snowball effect
-- **zich verheven voelen** → to feel superior; to feel above others
-- **het verenigingsleven** → club life; association life
-- **het vliegwieleffect** → flywheel effect
-- **de vrijbuiter** → free spirit; maverick; freebooter
-- **waarden en normen** → values and norms; norms and values
-- **het weerwoord** → rebuttal; retort; reply
-- **koste wat (het) kost** → at all costs; whatever it takes
-- **aan de grond raken** → to hit rock bottom; to run out of money
-- **de handen uit de mouwen steken** → to roll up one's sleeves; to get to work
-- **iets in de markt zetten** → to market something; to launch something on the market
-- **iemand met de neus op de feiten drukken** → to confront someone with the facts; to rub someone's nose in the facts
-- **er is iets niet in orde** → something is wrong; something is not right
-- **aan de slag gaan** → to get to work; to get started
-- **iets waar je u tegen zegt** → something that commands respect; really something; something to be reckoned with
-- **dan wordt het een ander verhaal** → then it's a different story; that changes things
-- **afleiden uit** → to deduce from; to infer from
-- **afwijken** → to deviate; to differ _(irr: week af / is afgeweken)_
-- **de afwijking** → deviation; anomaly; abnormality
-- **zich ergeren aan** → to be annoyed by; to get irritated at
-- **de ergernis** → annoyance; irritation
+- afkopen → to buy off; to buy out _(not drilled)_
+- coulant → lenient; accommodating; flexible _(not drilled)_
+- de ervaringsdeskundige → expert by experience; someone with first-hand experience _(not drilled)_
+- excessief → excessive _(not drilled)_
+- fulmineren → to fulminate; to rail (against) _(not drilled)_
+- het keurslijf → straitjacket (figurative); corset _(not drilled)_
+- leuteren → to waffle; to blather; to drivel on _(not drilled)_
+- schromelijk → grossly; terribly _(not drilled)_
+- het sneeuwbaleffect → snowball effect _(not drilled)_
+- zich verheven voelen → to feel superior; to feel above others _(not drilled)_
+- het verenigingsleven → club life; association life _(not drilled)_
+- het vliegwieleffect → flywheel effect _(not drilled)_
+- de vrijbuiter → free spirit; maverick; freebooter _(not drilled)_
+- waarden en normen → values and norms; norms and values _(not drilled)_
+- het weerwoord → rebuttal; retort; reply _(not drilled)_
+- koste wat (het) kost → at all costs; whatever it takes _(not drilled)_
+- aan de grond raken → to hit rock bottom; to run out of money _(not drilled)_
+- de handen uit de mouwen steken → to roll up one's sleeves; to get to work _(not drilled)_
+- iets in de markt zetten → to market something; to launch something on the market _(not drilled)_
+- iemand met de neus op de feiten drukken → to confront someone with the facts; to rub someone's nose in the facts _(not drilled)_
+- er is iets niet in orde → something is wrong; something is not right _(not drilled)_
+- aan de slag gaan → to get to work; to get started _(not drilled)_
+- iets waar je u tegen zegt → something that commands respect; really something; something to be reckoned with _(not drilled)_
+- dan wordt het een ander verhaal → then it's a different story; that changes things _(not drilled)_
+- afleiden uit → to deduce from; to infer from _(not drilled)_
+- afwijken → to deviate; to differ _(irr: week af / is afgeweken)_ _(not drilled)_
+- de afwijking → deviation; anomaly; abnormality _(not drilled)_
+- zich ergeren aan → to be annoyed by; to get irritated at _(not drilled)_
+- de ergernis → annoyance; irritation _(not drilled)_
 - **gevaarlijk** → dangerous
 - **gooien** → to throw (at)
-- **de haast** → hurry; haste
-- **zich haasten** → to hurry; to rush
-- **haastig** → hasty; hurried
-- **onvoorstelbaar** → unimaginable; inconceivable
-- **de overkant** → the other side; the opposite side
-- **schandelijk** → disgraceful; shameful
-- **de schande** → disgrace; shame
-- **toeteren** → to honk; to sound the horn
+- de haast → hurry; haste _(not drilled)_
+- zich haasten → to hurry; to rush _(not drilled)_
+- haastig → hasty; hurried _(not drilled)_
+- onvoorstelbaar → unimaginable; inconceivable _(not drilled)_
+- de overkant → the other side; the opposite side _(not drilled)_
+- schandelijk → disgraceful; shameful _(not drilled)_
+- de schande → disgrace; shame _(not drilled)_
+- toeteren → to honk; to sound the horn _(not drilled)_
 - **de troep** → mess; junk; rubbish
 - **de uiting** → expression; utterance
 - **het verstand** → mind; common sense; reason
 - **verstandig** → sensible; wise
-- **verwarrend** → confusing
-- **de verwarring** → confusion
-- **in de war raken / zijn** → to get confused; to be confused
+- verwarrend → confusing _(not drilled)_
+- de verwarring → confusion _(not drilled)_
+- in de war raken / zijn → to get confused; to be confused _(not drilled)_
 - **de voorrang** → right of way; priority
-- **aanmaken** → to create (e.g. an account); to make
+- aanmaken → to create (e.g. an account); to make _(not drilled)_
 - **beheersen** → to control (oneself); to master
-- **de beheersing** → control; self-control; command
-- **beslist** → definitely; certainly
-- **boeien** → to captivate; to fascinate; to handcuff
-- **boeiend** → fascinating; captivating
+- de beheersing → control; self-control; command _(not drilled)_
+- beslist → definitely; certainly _(not drilled)_
+- boeien → to captivate; to fascinate; to handcuff _(not drilled)_
+- boeiend → fascinating; captivating _(not drilled)_
 - **doordringen tot** → to get through to; to penetrate _(irr: drong door / is doorgedrongen)_
 - **elders** → elsewhere
 - **fel** → fierce; bright (of light or colour); intense
 - **knikken** → to nod
-- **overdrijven** → to exaggerate _(irr: overdreef / overdreven)_
-- **overmatig** → excessive
-- **stapelen** → to stack; to pile up
+- overdrijven → to exaggerate _(irr: overdreef / overdreven)_ _(not drilled)_
+- overmatig → excessive _(not drilled)_
+- stapelen → to stack; to pile up _(not drilled)_
 - **staren** → to stare
-- **tekortkomen** → to lack; to be short of _(irr: kwam tekort / is tekortgekomen)_
+- tekortkomen → to lack; to be short of _(irr: kwam tekort / is tekortgekomen)_ _(not drilled)_
 - **telkens** → each time; again and again
 - **ter sprake komen / sprake (zijn) van** → to come up (in conversation); to be a matter of / there being talk of
-- **verslaafd zijn** → to be addicted (to)
-- **de verslaving** → addiction
-- **zowat** → almost; just about; nearly
+- verslaafd zijn → to be addicted (to) _(not drilled)_
+- de verslaving → addiction _(not drilled)_
+- zowat → almost; just about; nearly _(not drilled)_
 - **afhankelijk zijn van** → to be dependent on; to depend on
 - **afstand nemen van** → to distance oneself from; to step back from
 - **besteden aan** → to spend on; to devote to
-- **doorbrengen met** → to spend (time) with
+- doorbrengen met → to spend (time) with _(not drilled)_
 - **een effect hebben op** → to have an effect on
-- **enthousiast zijn over** → to be enthusiastic about
-- **gericht zijn op** → to be focused on; to be aimed at
+- enthousiast zijn over → to be enthusiastic about _(not drilled)_
+- gericht zijn op → to be focused on; to be aimed at _(not drilled)_
 - **geven om** → to care about
-- **een hekel hebben aan** → to hate; to strongly dislike
+- een hekel hebben aan → to hate; to strongly dislike _(not drilled)_
 - **horen bij** → to belong to; to go with
 - **leren van** → to learn from
 - **letten op** → to pay attention to; to keep an eye on
-- **meedoen aan** → to take part in; to participate in
+- meedoen aan → to take part in; to participate in _(not drilled)_
 - **nadenken over** → to think about
 - **de nadruk leggen op** → to emphasize; to put emphasis on
 - **onderzoek doen naar** → to do research into; to investigate
-- **opkijken van** → to be surprised by; to be amazed at
+- opkijken van → to be surprised by; to be amazed at _(not drilled)_
 - **rekening houden met** → to take into account; to consider
 - **zich richten op** → to focus on; to aim at
 - **staren naar** → to stare at
 - **toevoegen aan** → to add to
-- **verslaafd zijn aan** → to be addicted to
+- verslaafd zijn aan → to be addicted to _(not drilled)_
 - **zin hebben in** → to feel like; to be in the mood for
 - **gedragen** → to behave; to conduct oneself _(irr: gedroeg / gedragen)_
-- **onthouden** → to remember; to memorize _(irr: onthield / onthouden)_
-- **ontslaan** → to fire; to dismiss _(irr: ontsloeg / ontslagen)_
-- **opbergen** → to put away; to store _(irr: borg op / opgeborgen)_
-- **toestaan** → to allow; to permit _(irr: stond toe / toegestaan)_
+- onthouden → to remember; to memorize _(irr: onthield / onthouden)_ _(not drilled)_
+- ontslaan → to fire; to dismiss _(irr: ontsloeg / ontslagen)_ _(not drilled)_
+- opbergen → to put away; to store _(irr: borg op / opgeborgen)_ _(not drilled)_
+- toestaan → to allow; to permit _(irr: stond toe / toegestaan)_ _(not drilled)_
 - **verkopen** → to sell _(irr: verkocht / verkocht)_
 - **vervangen** → to replace _(irr: verving / vervangen)_
 

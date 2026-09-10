@@ -113,7 +113,7 @@ export function Home() {
               <div>
                 <h2>{chapterLabel(ch)}</h2>
                 <p className="ch-meta">
-                  {ch.wordCount} words · {bloomed} bloomed
+                  {ch.drillCount} words · {bloomed} bloomed
                   {crown > 0 && (
                     <>
                       {" "}

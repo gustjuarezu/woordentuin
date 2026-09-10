@@ -61,6 +61,10 @@
 
 ## Not built yet (fast-follows from the brief)
 
+- [ ] Tier level-5 hoofdstukken 4–6 (photograph their Vocabulairelijst pages, run
+      `tools/ingest/niveau/freq_tier_from_photo.py`, write `freq-tiers/hoofdstuk-NN.json`).
+      Until then those chapters drill their full printed list while 1–3 drill only the
+      bold 0–2000 band — see README "Level 5 frequency tiers".
 - [ ] Type-the-English exercise (§4.3 #6)
 - [ ] Word-bank sentence build / cloze from struikelwoorden examples (§4.3 #7)
 - [ ] Speaking exercise via SpeechRecognition (stretch, §4.3 #8)

@@ -1,3 +1,5 @@
+import { readFileSync, readdirSync } from "node:fs";
+import { join } from "node:path";
 import { describe, expect, it } from "vitest";
 import type { Word } from "../data/types";
 import { gradeCard, newCardState, type CardState } from "./srs";
@@ -9,6 +11,8 @@ import {
   buildTasks,
   chunkLessons,
   countDue,
+  DEFAULT_LESSON_SIZE,
+  PAIRS_SIZE,
   countDuePP,
   outcomeToGrade,
   pickDistractors,
@@ -171,5 +175,35 @@ describe("outcomeToGrade", () => {
     expect(outcomeToGrade(true, true, 1000)).toBe("hard");   // hint ⇒ hard even when fast
     expect(outcomeToGrade(true, false, 1000)).toBe("easy");
     expect(outcomeToGrade(true, false, 20000)).toBe("good");
+  });
+});
+
+// Chapters 1-3 of level 5 serve only their bold tier (see drillable() in
+// src/data), which shrinks hoofdstuk 3 to ~20 words. A multiple-choice card
+// needs three distractors with distinct nl AND primaryEn, so a small pool with
+// near-duplicate glosses could quietly render a card with too few options.
+describe("real chapter pools survive the bold-tier restriction", () => {
+  const levelsDir = join(__dirname, "..", "data", "levels", "5");
+  const chapters = readdirSync(levelsDir)
+    .filter((f) => /^hoofdstuk-\d+\.json$/.test(f))
+    .map((f) => {
+      const words = JSON.parse(readFileSync(join(levelsDir, f), "utf8")) as Word[];
+      const bold = words.filter((w) => w.freqTier === "bold");
+      return [Number(f.match(/\d+/)![0]), bold.length ? bold : words] as const;
+    });
+
+  it.each(chapters)("hoofdstuk %d gives every card 3 distractors", (_n, pool) => {
+    for (const word of pool) {
+      expect(pickDistractors(word, pool, 3, seeded(7))).toHaveLength(3);
+    }
+  });
+
+  it.each(chapters)("hoofdstuk %d still chunks into lessons and pairs", (_n, pool) => {
+    const lessons = chunkLessons(pool);
+    expect(lessons.length).toBeGreaterThan(0);
+    expect(lessons.flat()).toHaveLength(pool.length);
+    expect(Math.max(...lessons.map((l) => l.length))).toBeLessThanOrEqual(DEFAULT_LESSON_SIZE + 2);
+    // pairs blocks need PAIRS_SIZE words in a round
+    expect(pool.length).toBeGreaterThanOrEqual(PAIRS_SIZE);
   });
 });

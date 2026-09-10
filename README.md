@@ -71,5 +71,40 @@ trail in `tools/ingest/review/niveau-hoofdstuk-NN_review.md`). Word ids are
 collides. After re-ingesting, refresh the participle corpus with
 `UPDATE_PP_EXPECTED=1 npx vitest run participle.update` and audit the diff.
 
+### Level 5 frequency tiers — what the app actually drills
+
+*Nederlands op niveau* marks each Vocabulairelijst entry with a type style for its
+frequency band: **vet** (bold, and set in the teal accent colour) = the 0–2000 most
+frequent Dutch words, *cursief* = 2000–5000, plain = above 5000. Only the bold band is
+coloured, which makes it readable straight off a photo of the page:
+`tools/ingest/niveau/freq_tier_from_photo.py` classifies each line by ink colour
+(blue-minus-red, thresholded per column with Otsu, averaged over the darkest half of
+each line's pixels so print show-through can't skew it). The verified result per
+chapter lives in `tools/ingest/niveau/freq-tiers/hoofdstuk-NN.json`.
+
+For every chapter with a tier file, **the app serves only the bold words** — lessons,
+review, stats, the garden and the participle drill all narrow, because every screen
+loads through `loadChapterWords`/`loadAllWords` in `src/data/index.ts`, which applies
+`drillable()`:
+
+| Hoofdstuk | printed | drilled (bold) |
+|---|---|---|
+| 1 Positief | 120 | 75 |
+| 2 Sociaal | 97 | 34 |
+| 3 Progressief | 75 | 22 |
+| 4–6 | 85 / 79 / 51 | all (not tiered yet) |
+
+The chapter JSONs keep **every** printed entry, tagged `freqTier: "bold" | "other"`;
+the filter is applied at load time, not at ingest. Two reasons: the participle corpus
+test reads the chapter files straight off disk, so dropping entries would silently
+shrink its coverage, and re-widening a chapter stays a one-line change. To drill a
+tiered chapter's full list again, make `drillable()` return `words` unchanged.
+
+To tier a new chapter: photograph the Vocabulairelijst pages, run the script
+(`--overview`, then one `--region` per column, then `--crop` wherever it flags a merged
+line or an edge collision), confirm the colours against the crops, write the bold list
+to `freq-tiers/hoofdstuk-NN.json`, and re-run the ingest. The ingest warns if a tier
+key matches no entry, and `src/data/data.test.ts` fails if the two drift apart.
+
 **Copyright**: the app stores vocabulary lists and short example sentences only, for
 personal study. The book PDF itself is gitignored — keep it out of the repo.

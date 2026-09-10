@@ -18,6 +18,7 @@ import { fileURLToPath } from "node:url";
 
 const here = dirname(fileURLToPath(import.meta.url));
 const srcDir = join(here, "niveau");
+const tierDir = join(srcDir, "freq-tiers");
 const outDir = join(here, "..", "..", "src", "data", "levels", "5");
 const reviewDir = join(here, "review");
 
@@ -40,6 +41,16 @@ for (let n = 1; n <= 6; n++) {
   }
   const src = JSON.parse(readFileSync(file, "utf8"));
   const warnings = [...(src.warnings ?? [])];
+
+  // Frequency tier, where we've read it off a photo of the Vocabulairelijst
+  // (tools/ingest/niveau/freq_tier_from_photo.py). The book prints its 0-2000
+  // most frequent words in bold teal; those are the ones the app drills, so
+  // this stamps freqTier and the app filters on it. Chapters with no tier file
+  // keep every entry — see loadChapterWords in src/data/index.ts.
+  const tierFile = join(tierDir, `hoofdstuk-${String(n).padStart(2, "0")}.json`);
+  const tiers = existsSync(tierFile) ? JSON.parse(readFileSync(tierFile, "utf8")) : null;
+  const boldKeys = new Set((tiers?.bold ?? []).map(norm));
+  const boldHit = new Set();
 
   const words = [];
   const seen = new Map();
@@ -81,30 +92,61 @@ for (let n = 1; n <= 6; n++) {
       continue;
     }
     if (!w.en.includes(w.primaryEn)) w.primaryEn = w.en[0];
+    if (tiers) {
+      const isBold = boldKeys.has(norm(nl));
+      w.freqTier = isBold ? "bold" : "other";
+      if (isBold) boldHit.add(norm(nl));
+    }
     seen.set(norm(nl), w);
     words.push(w);
   }
+
+  // A tier key that matches nothing means the photo and the transcription
+  // disagree — a typo on one side, or an entry the transcription missed.
+  for (const key of boldKeys) {
+    if (!boldHit.has(key)) warnings.push(`freq-tier key matches no entry: ${key}`);
+  }
+  const drillCount = tiers ? words.filter((w) => w.freqTier === "bold").length : words.length;
 
   writeFileSync(
     join(outDir, `hoofdstuk-${String(n).padStart(2, "0")}.json`),
     JSON.stringify(words, null, 2) + "\n",
   );
-  manifest.push({ number: n, title: `Hoofdstuk ${n}`, theme: src.theme, wordCount: words.length });
+  // wordCount = entries in the file (what the schema test checks); drillCount =
+  // what the app actually serves, i.e. the bold tier where we know it.
+  manifest.push({
+    number: n,
+    title: `Hoofdstuk ${n}`,
+    theme: src.theme,
+    wordCount: words.length,
+    drillCount,
+  });
 
   const md = [
     `# Niveau hoofdstuk ${n} — ${src.theme}: review`,
     "",
-    `${words.length} words. ALL glosses are generated (the book prints none) — audit below.`,
+    `${words.length} words${tiers ? `, of which ${drillCount} are bold (0-2000 most frequent) and drilled by the app` : ""}. ALL glosses are generated (the book prints none) — audit below.`,
     "",
     "## gloss audit list",
-    ...words.map((w) => `- **${w.nl}** → ${w.en.join("; ")}${w.irregular ? ` _(irr: ${w.irregular.past} / ${w.irregular.perfect})_` : ""}`),
+    // Un-drilled entries lose the bold and are called out; untiered chapters
+    // (every entry drilled) keep the plain bold list they've always had.
+    ...words.map((w) => {
+      const em = w.freqTier === "other" ? "" : "**";
+      const irr = w.irregular ? ` _(irr: ${w.irregular.past} / ${w.irregular.perfect})_` : "";
+      const skip = w.freqTier === "other" ? " _(not drilled)_" : "";
+      return `- ${em}${w.nl}${em} → ${w.en.join("; ")}${irr}${skip}`;
+    }),
     "",
     "## warnings",
     ...warnings.map((w) => `- ${w}`),
     "",
   ].join("\n");
   writeFileSync(join(reviewDir, `niveau-hoofdstuk-${String(n).padStart(2, "0")}_review.md`), md);
-  console.log(`n${n} ${src.theme}: ${words.length} words, ${warnings.length} warnings`);
+  console.log(
+    `n${n} ${src.theme}: ${words.length} words` +
+      `${tiers ? `, ${drillCount} bold (drilled)` : " (no tier file — all drilled)"}` +
+      `, ${warnings.length} warnings`,
+  );
 }
 
 writeFileSync(join(outDir, "manifest.json"), JSON.stringify(manifest, null, 2) + "\n");

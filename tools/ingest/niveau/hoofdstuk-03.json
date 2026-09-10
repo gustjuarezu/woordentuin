@@ -1,7 +1,7 @@
 {
   "chapter": 3,
   "theme": "Progressief",
-  "wordCount": 68,
+  "wordCount": 76,
   "irregularRaw": [
     "bewegen ‒ bewoog ‒ bewogen",
     "bewijzen ‒ bewees ‒ bewezen",
@@ -15,7 +15,7 @@
   ],
   "warnings": [
     "Chapter 3 prints its 'Onregelmatige werkwoorden' (p. 133 exercise and the lijst section on p. 135) as infinitives only, without past/perfect forms; irregularRaw triplets were completed from the book's own bijlage 2 (pp. 275-277) and match the forms printed inline in the chapter's Vocabulaire boxes (e.g. 'zwerven (zwierf, gezworven)').",
-    "The nine infinitives under the lijst section 'Onregelmatige werkwoorden' were NOT added as word entries: they are the irregular-verb study list (captured in irregularRaw), and one of them (zwerven) already appears as a regular lijst entry under 'Als Rihanna een Dali-snor wil'.",
+    "The lijst section 'Onregelmatige werkwoorden' (p. 135) was originally left out of the word entries and kept only in irregularRaw. Added 2026-09-10 for consistency with hoofdstukken 1 and 2, whose identical sections ARE entries: bewegen, bewijzen, blazen, knijpen, spijten, verstaan, verwerpen, wrijven (zwerven was already an entry under 'Als Rihanna een Dali-snor wil'). Past/perfect forms are the irregularRaw triplets from the book's bijlage 2; English glosses are ours.",
     "OCR of p. 134 truncated one entry to 'overt'; the page image clearly reads 'overtuigen' (between 'overigens' and 'overtuiging, de') and the image was followed.",
     "Three words are printed twice in the lijst (once in a text section, once under 'Preposities') and were kept as separate entries as printed: 'uitgaan van' / 'uitgaan van', 'ontkomen (aan)' / 'ontkomen aan', 'opmaken (uit), (zich)' / 'opmaken uit'.",
     "Inverted entries reordered: 'name, met' -> 'met name'; 'danken hebben aan, te' -> 'te danken hebben aan'; 'schuld geven aan, de' -> 'de schuld geven aan'; ', zich' entries -> leading 'zich'.",
@@ -1283,6 +1283,163 @@
       "reflexive": false,
       "separable": false,
       "irregular": null,
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "bewegen",
+      "lemma": "bewegen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to move",
+        "to stir"
+      ],
+      "primaryEn": "to move",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "bewoog",
+        "perfect": "bewogen"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "bewijzen",
+      "lemma": "bewijzen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to prove",
+        "to demonstrate"
+      ],
+      "primaryEn": "to prove",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "bewees",
+        "perfect": "bewezen"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "blazen",
+      "lemma": "blazen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to blow"
+      ],
+      "primaryEn": "to blow",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "blies",
+        "perfect": "geblazen"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "knijpen",
+      "lemma": "knijpen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to pinch",
+        "to squeeze"
+      ],
+      "primaryEn": "to pinch",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "kneep",
+        "perfect": "geknepen"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "spijten",
+      "lemma": "spijten",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to regret"
+      ],
+      "primaryEn": "to regret",
+      "hint": "impersonal: het spijt me",
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "speet",
+        "perfect": "gespeten"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "verstaan",
+      "lemma": "verstaan",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to understand",
+        "to catch (what someone says)"
+      ],
+      "primaryEn": "to understand",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "verstond",
+        "perfect": "verstaan"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "verwerpen",
+      "lemma": "verwerpen",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to reject",
+        "to dismiss"
+      ],
+      "primaryEn": "to reject",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "verwierp",
+        "perfect": "verworpen"
+      },
+      "examples": [],
+      "note": null
+    },
+    {
+      "nl": "wrijven",
+      "lemma": "wrijven",
+      "article": null,
+      "pos": "verb",
+      "en": [
+        "to rub"
+      ],
+      "primaryEn": "to rub",
+      "hint": null,
+      "reflexive": false,
+      "separable": false,
+      "irregular": {
+        "past": "wreef",
+        "perfect": "gewreven"
+      },
       "examples": [],
       "note": null
     }
